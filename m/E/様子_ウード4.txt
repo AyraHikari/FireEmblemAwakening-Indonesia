@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_ウード4
+
+
+Message Name: Message
+
+
+MID_様子_ウード_前: My sword hand! I cannot control it!\nI...I need your help!
+MID_様子_ウード_前_無言: NOT USED
+MID_様子_ウード_前_敬さん: My sword hand! I cannot control it!\nI...I need your help!
+MID_様子_ウード_後: I understand. You seek the power of\nthe heroic bloodline. ...Very well!
+MID_様子_ウード_後_敬さん: I understand. You seek the power of\nthe heroic bloodline. ...Very well!
+MID_様子_ウード_後_無言: NOT USED
+MID_様子_ウード_前_親子_子: Say, what was I like in the future?\nDo you remember anything?
+MID_様子_ウード_後_親子_子: Well, I very rarely talk about myself,\nbut all right. You are my son, after all.$k$pBefore arriving in this era, I battled in a\nparallel timeline to save the world.$k$pMy crusade became known as the...\nHey! Are you listening?!
+MID_様子_ウード_前_親子_母: Mother, you always ask me about the future,\nbut I want to know about your life so far.
+MID_様子_ウード_後_親子_母: In the future, I fought Risen and added to\nmy vast library of weapon names.$k$pLet me show you my finest weapon of all!\n...It's actually just a piece of a staff.$k$pBut I named it "Lissa." You were holding it\nwhen you... Well, it's my greatest treasure.
+MID_様子_ウード_前_親子_父: Father, tell me about your life before we\nmet. I've always wanted to know.
+MID_様子_ウード_後_親子_父: I have few memories of you, Father, but I\nremember you taking me to the armory.$k$pI used to get uncomfortable when you\ninscribed "I Love Lissa" on your purchases.$k$pYou haven't already started doing that,\nhave you? Oh boy...
+MID_様子_ウード_前_恋人: $Np, stay close to me in battle.\nNo foe shall snuff out the light of my life!
+MID_様子_ウード_後_恋人: Fear not. I swear I shall not be vanquished,\nno matter the foes aligned against me!

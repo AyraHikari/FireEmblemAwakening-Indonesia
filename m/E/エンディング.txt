@@ -1,0 +1,565 @@
+MESS_ARCHIVE_エンディング
+
+
+Message Name: Message
+
+
+MEID_その後_クロム: After Grima's defeat, Chrom was\nofficially welcomed as Ylisse's new\nexalt. His unflinching perseverance\nthrough countless hardships made\nhim a beacon of hope for his\npeople.
+MEID_その後_クロム_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Chrom, above all else.
+MEID_その後_クロム_ソワレ: After Grima's defeat, Chrom was\nofficially welcomed as Ylisse's new\nexalt. Queen Sully rode far and\nwide on his behalf, her gallant and\nradiant figure the envy of women\neverywhere.
+MEID_その後_クロム_スミア: After Grima's defeat, Chrom was\nofficially welcomed as Ylisse's new\nexalt. Queen Sumia lived and\nbreathed for him, and her flower-\npetal readings were said to bring\ngood luck to all who received them.
+MEID_その後_クロム_マリアベル: After Grima's defeat, Chrom was\nofficially welcomed as Ylisse's new\nexalt. Queen Maribelle kept him\nalways on his toes while she strove\ntirelessly to become a magistrate\nand reform the halidom's laws.
+MEID_その後_クロム_オリヴィエ: After Grima's defeat, Chrom was\nofficially welcomed as Ylisse's new\nexalt. Queen Olivia gave him a\nmuch-needed shoulder to lean on\nas she traveled the land, dancing\nand mending the scars of war.
+MEID_その後_プレイヤー男: The legendary exploits of\n$Nu filled many a saga\nand delighted children hungry for\na dashing tale of heroism.\nBut what was the man really like?\n...Few yet live who remember.
+MEID_その後_プレイヤー男_リズ: Many wrote of $Nu's\nlegendary exploits, but accounts of\nhis origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―he loved his\nwife, Lissa, above all else.
+MEID_その後_プレイヤー男_ソワレ: Many wrote of $Nu's\nlegendary exploits, but accounts of\nhis origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―he loved his\nwife, Sully, above all else.
+MEID_その後_プレイヤー男_ミリエル: Many wrote of $Nu's\nlegendary exploits, but accounts of\nhis origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―he loved his\nwife, Miriel, above all else.
+MEID_その後_プレイヤー男_スミア: Many wrote of $Nu's\nlegendary exploits, but accounts of\nhis origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―he loved his\nwife, Sumia, above all else.
+MEID_その後_プレイヤー男_マリアベル: Many wrote of $Nu's\nlegendary exploits, but accounts of\nhis origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―he loved his\nwife, Maribelle, above all else.
+MEID_その後_プレイヤー男_ベルベット: Many wrote of $Nu's\nlegendary exploits, but accounts of\nhis origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―he loved his\nwife, Panne, above all else.
+MEID_その後_プレイヤー男_ティアモ: Many wrote of $Nu's\nlegendary exploits, but accounts of\nhis origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―he loved his\nwife, Cordelia, above all else.
+MEID_その後_プレイヤー男_ノノ: Many wrote of $Nu's\nlegendary exploits, but accounts of\nhis origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―he loved his\nwife, Nowi, above all else.
+MEID_その後_プレイヤー男_サーリャ: Many wrote of $Nu's\nlegendary exploits, but accounts of\nhis origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―he loved his\nwife, Tharja, above all else.
+MEID_その後_プレイヤー男_オリヴィエ: Many wrote of $Nu's\nlegendary exploits, but accounts of\nhis origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―he loved his\nwife, Olivia, above all else.
+MEID_その後_プレイヤー男_セルジュ: Many wrote of $Nu's\nlegendary exploits, but accounts of\nhis origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―he loved his\nwife, Cherche, above all else.
+MEID_その後_プレイヤー男_マルス: Many wrote of $Nu's\nlegendary exploits, but accounts of\nhis origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―he loved his\nwife, Lucina, above all else.
+MEID_その後_プレイヤー男_サイリ: Many wrote of $Nu's\nlegendary exploits, but accounts of\nhis origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―he loved his\nwife, Say'ri, above all else.
+MEID_その後_プレイヤー男_フラヴィア: Many wrote of $Nu's\nlegendary exploits, but accounts of\nhis origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―he loved his\nwife, Flavia, above all else.
+MEID_その後_プレイヤー男_アンナ: Many wrote of $Nu's\nlegendary exploits, but accounts of\nhis origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―he loved his\nwife, Anna, above all else.
+MEID_その後_プレイヤー男_デジェル: Many wrote of $Nu's\nlegendary exploits, but accounts of\nhis origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―he loved his\nwife, Kjelle, above all else.
+MEID_その後_プレイヤー男_シンシア: Many wrote of $Nu's\nlegendary exploits, but accounts of\nhis origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―he loved his\nwife, Cynthia, above all else.
+MEID_その後_プレイヤー男_セレナ: Many wrote of $Nu's\nlegendary exploits, but accounts of\nhis origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―he loved his\nwife, Severa, above all else.
+MEID_その後_プレイヤー男_ノワール: Many wrote of $Nu's\nlegendary exploits, but accounts of\nhis origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―he loved his\nwife, Noire, above all else.
+MEID_その後_プレイヤー男_ンン: Many wrote of $Nu's\nlegendary exploits, but accounts of\nhis origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―he loved his\nwife, Nah, above all else.
+MEID_その後_プレイヤー男_チキ: Many wrote of $Nu's\nlegendary exploits, but accounts of\nhis origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―he loved his\nwife, Tiki, above all else.
+MEID_その後_プレイヤー男_エメリナ: Many wrote of $Nu's\nlegendary exploits, but accounts of\nhis origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―he loved his\nwife, Emmeryn, above all else.
+MEID_その後_プレイヤー男_インバース: Many wrote of $Nu's\nlegendary exploits, but accounts of\nhis origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―he loved his\nwife, Aversa, above all else.
+MEID_その後_プレイヤー女: The legendary exploits of\n$Nu filled many a saga\nand delighted children hungry for\na dashing tale of heroism.\nBut what was the woman really like?\n...Few yet live who remember.
+MEID_その後_リズ: Lissa's wild nature led her to travel\nthe world and relay its wisdoms to\nher brother. The princess's exploits\nlive on in many a droll tale told by\nthe crackling fire.
+MEID_その後_フレデリク: As Ylisse's new knight captain,\nFrederick took charge of keeping\nthe peace and training new recruits.\nFew ever forgot his glowing smile\nand idle quips, even as he doled out\ntasks that would break a wyvern.
+MEID_その後_フレデリク_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Frederick, above all else.
+MEID_その後_フレデリク_リズ: As Ylisse's new knight captain,\nFrederick took charge of keeping\nthe peace and training new recruits.\nLissa often visited his charges in\ntown to report concerns―and\ntransgressions―to her husband.
+MEID_その後_フレデリク_ソワレ: As Ylisse's new knight captain,\nFrederick took charge of keeping\nthe peace and training new recruits.\nHis wife, Sully, assisted him,\nbecoming an object of admiration\nfor strong women the world round.
+MEID_その後_フレデリク_ミリエル: As Ylisse's new knight captain,\nFrederick took charge of keeping\nthe peace and training new recruits.\nAlas, his wife, Miriel, would often\nvanish for weeks at a time as she\npursued her studies.
+MEID_その後_フレデリク_スミア: As Ylisse's new knight captain,\nFrederick took charge of keeping\nthe peace and training new recruits.\nHis wife, Sumia, traded her lance\nfor a peaceful stretch of pasture\nand raised a happy group of pegasi.
+MEID_その後_フレデリク_マリアベル: As Ylisse's new knight captain,\nFrederick took charge of keeping\nthe peace and training new recruits.\nHis wife, Maribelle, did her own\npart for Ylisse by studying hard and\nbecoming a respected magistrate.
+MEID_その後_フレデリク_ベルベット: As Ylisse's new knight captain,\nFrederick took charge of keeping\nthe peace and training new recruits.\nHis wife, Panne, showed no interest\nin his work but gradually learned\nto enjoy human life.
+MEID_その後_フレデリク_ティアモ: As Ylisse's new knight captain,\nFrederick took charge of keeping\nthe peace and training new recruits\nwith his wife. Teaching was hard for\nCordelia, however, as she was\nforced to neglect her own gifts.
+MEID_その後_フレデリク_ノノ: As Ylisse's new knight captain,\nFrederick took charge of keeping\nthe peace and training new recruits.\nHis wife, Nowi, frequently came to\nthe training yard to lend a hand or\ninstill terror in a new charge.
+MEID_その後_フレデリク_サーリャ: As Ylisse's new knight captain,\nFrederick took charge of keeping\nthe peace and training new recruits.\nTharja's rare appearances at the\ntraining yard sent terrified recruits\nscreaming into the night.
+MEID_その後_フレデリク_オリヴィエ: As Ylisse's new knight captain,\nFrederick took charge of keeping\nthe peace and training new recruits.\nHis wife Olivia's dances were said\nto keep his resolve strong and open\nthe minds of his charges.
+MEID_その後_フレデリク_セルジュ: As Ylisse's new knight captain,\nFrederick took charge of keeping\nthe peace and training new recruits\nwith his wife, Cherche. Students\nquickly learned to fear the couple's\nfamously disarming smiles.
+MEID_その後_ヴィオール: Virion returned home to Rosanne,\nwhere he was labeled a traitor and\na coward, or else ignored entirely.\nHe never battled these claims, but\nhistory shows he gave the rest of\nhis life to the people.
+MEID_その後_ヴィオール_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Virion, above all else.
+MEID_その後_ヴィオール_リズ: Virion returned home to Rosanne,\nwhere he was labeled a traitor and\na coward, or else ignored entirely.\nBut none of it fazed his wife, Lissa,\nwho won the populace over with\ngood old-fashioned charm.
+MEID_その後_ヴィオール_ソワレ: Virion returned home to Rosanne,\nwhere he was labeled a traitor and\na coward, or else ignored entirely.\nBut in time he was forgiven, largely\nthanks to the bold (and slightly\nterrifying) nature of his wife, Sully.
+MEID_その後_ヴィオール_ミリエル: Virion returned home to Rosanne,\nwhere he was labeled a traitor and\na coward, or else ignored entirely.\nBut Miriel's discoveries improved\ntheir quality of life, and they soon\ncame to love him once more.
+MEID_その後_ヴィオール_マリアベル: Virion returned home to Rosanne,\nwhere he was labeled a traitor and\na coward, or else ignored entirely.\nBut his wife, Maribelle, treated the\npeople fairly and equally, and in\ntime, they learned to forgive him.
+MEID_その後_ヴィオール_ベルベット: Virion returned home to Rosanne,\nwhere he was labeled a traitor and\na coward, or else ignored entirely.\nBut his wife Panne's dedication did\nmuch to bring him back into good\nstanding among his people.
+MEID_その後_ヴィオール_ティアモ: Virion returned home to Rosanne,\nwhere he was labeled a traitor and\na coward, or else ignored entirely.\nBut Cordelia defended her husband\nvehemently and ultimately won him\na second chance with his people.
+MEID_その後_ヴィオール_ノノ: Virion returned home to Rosanne,\nwhere he was labeled a traitor and\na coward, or else ignored entirely.\nThankfully, his wife Nowi's flair for\ndrama was entertaining enough to\nkeep the mob's pitchforks at bay.
+MEID_その後_ヴィオール_サーリャ: Virion returned home to Rosanne,\nwhere he was labeled a traitor and\na coward, or else ignored entirely.\nBut a few well-placed hexes from his\nwife, Tharja, eventually brought the\npopulace to their senses.
+MEID_その後_ヴィオール_オリヴィエ: Virion returned home to Rosanne,\nwhere he was labeled a traitor and\na coward, or else ignored entirely.\nOver time, however, Olivia's\ndancing managed to bring him\nback into the populace's favor.
+MEID_その後_ヴィオール_セルジュ: Virion returned home to Rosanne,\nwhere he was labeled a traitor and\na coward, or else ignored entirely.\nBut Cherche's smarts and kindness\neventually brought her husband\nback into good standing.
+MEID_その後_ソワレ: Sully continued her knightly duties\nand soon became a trusted leader\non the field and off. Her dashing\nfigure and significant skills made\nher a hero to women everywhere.
+MEID_その後_ヴェイク: Vaike returned to the streets that\nraised him and was welcomed as a\nhero. His unflinching self-assurance\nwas the perfect medicine for the\ntown's postwar squabbles, earning\nhim the nickname "Brother Vaike."
+MEID_その後_ヴェイク_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Vaike, above all else.
+MEID_その後_ヴェイク_リズ: Vaike returned to the streets that\nraised him and was welcomed as a\nhero and brother to all. Still, he was\nno match for Lissa, who fit in with\nthe people instantly despite her\nroyal upbringing.
+MEID_その後_ヴェイク_ソワレ: Vaike returned to the streets that\nraised him and was welcomed as a\nhero and brother to all. Still, he was\nno match for Sully, who dragged\nher poor husband on countless\nmissions in the name of Ylisse.
+MEID_その後_ヴェイク_ミリエル: Vaike returned to the streets that\nraised him and was welcomed as a\nhero and brother to all. He lived\nout his days with Miriel, whose\nsharp mind and tongue refused to\nbe dulled by any change of scenery.
+MEID_その後_ヴェイク_マリアベル: Vaike returned to the streets that\nraised him and was welcomed as a\nhero and brother to all. But people\nwere fonder still of Maribelle, who\nworked tirelessly to win them equal\nrights in the eyes of the law.
+MEID_その後_ヴェイク_ベルベット: Vaike returned to the streets that\nraised him and was welcomed as a\nhero and brother to all. Still, the\npeople were even fonder of Panne―\nand she, in turn, grew to love the\ntown's wild and woolly nature.
+MEID_その後_ヴェイク_ティアモ: Vaike returned to the streets that\nraised him and was welcomed as a\nhero and brother to all. Still, he was\nnever a match for Cordelia, whose\nshining talents and beauty tended\nto make her husband look dull.
+MEID_その後_ヴェイク_ノノ: Vaike returned to the streets that\nraised him and was welcomed as a\nhero and brother to all. Still, the\nchildren were even fonder of his\nwife, Nowi, who played with them\nevery day and never seemed to age.
+MEID_その後_ヴェイク_サーリャ: Vaike returned to the streets that\nraised him and was welcomed as a\nhero and brother to all. Still, he was\nno match for Tharja, whose frequent\ncurse slinging put her husband in\nan understandably foul mood.
+MEID_その後_ヴェイク_オリヴィエ: Vaike returned to the streets that\nraised him and was welcomed as a\nhero and brother to all. Still, he was\nno match for his wife, Olivia, whose\nmodest but mesmerizing dances\nmade her more popular by far.
+MEID_その後_ヴェイク_セルジュ: Vaike returned to the streets that\nraised him and was welcomed as a\nhero and brother to all. Still, the\nchildren were fonder of Cherche,\nwho spent her time feeding and\nclothing orphans everywhere.
+MEID_その後_ソール: Stahl continued his service as an\nYlissean knight and led crucial\nmissions across the realm. His\nplacid nature and scatterbrained\ncharm made him a favorite hero\nof the people.
+MEID_その後_ソール_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Stahl, above all else.
+MEID_その後_ソール_リズ: Stahl continued his service as an\nYlissean knight and led crucial\nmissions across the realm. His\nscattered nature blended well with\nhis wife Lissa's cheerful banter,\nmaking for a happy life indeed.
+MEID_その後_ソール_ソワレ: Sully and Stahl became the left and\nright arms of Ylisse and conducted\ncrucial missions across the realm.\nTheir red-and-green banners soon\nbecame known everywhere as a\nsymbol of justice and strength.
+MEID_その後_ソール_ミリエル: Stahl continued his service as an\nYlissean knight and led crucial\nmissions across the realm. His\nscatterbrained gaffes were met with\ncriticism from Miriel, but the two\nstill built a happy life together.
+MEID_その後_ソール_マリアベル: Stahl continued his service as an\nYlissean knight and led crucial\nmissions across the realm. Maribelle\nwas quick to whip his scatterbrained\nnature out of him, and the two lived\na long and happy life.
+MEID_その後_ソール_ベルベット: Stahl continued his service as an\nYlissean knight and led crucial\nmissions across the realm. His\nscatterbrained gaffes sometimes\ngot on Panne's nerves, but the two\nstill made a happy life together.
+MEID_その後_ソール_ティアモ: Stahl continued his service as an\nYlissean knight and led crucial\nmissions across the realm. Cordelia\naccepted her husband, scatter-\nbrained gaffes and all, and the two\nbuilt a happy life together.
+MEID_その後_ソール_ノノ: Stahl continued his service as an\nYlissean knight and led crucial\nmissions across the realm. His\nscatterbrained charm complimented\nhis wife Nowi's constant quips,\nmaking for a happy home indeed.
+MEID_その後_ソール_サーリャ: Stahl continued his service as an\nYlissean knight and led crucial\nmissions across the realm. His\nscatterbrained gaffes caused\nTharja's eyes to roll, but the pair\nstill made a happy life together.
+MEID_その後_ソール_オリヴィエ: Stahl continued his service as an\nYlissean knight and led crucial\nmissions across the realm. Olivia\nspent years trying to get her\nhusband to pay attention, but the\ntwo still built a fine life together.
+MEID_その後_ソール_セルジュ: Stahl continued his service as an\nYlissean knight and led crucial\nmissions across the realm. He\neventually grew fat on his wife\nCherche's tremendous cooking, and\nthe two had a long and happy life.
+MEID_その後_ミリエル: Miriel remained in Ylisse but would\nvanish for days at a time when her\ndiscoveries prompted further\ninquiry. In her final years, these\nexcursions culminated in a historic\ninvention of supreme import.
+MEID_その後_カラム: After the battle was over, Kellam\ndeparted Ylisse for a long journey.\nOf course, it took Chrom and the\nothers several years to notice his\nabsence.
+MEID_その後_カラム_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Kellam, above all else.
+MEID_その後_カラム_リズ: Lissa's wild nature led her to travel\nthe world and relay its wisdoms to\nher brother. These exploits live on\nin droll tales told by the campfire.\nHer husband's name has been lost\nto history.
+MEID_その後_カラム_ソワレ: Sully continued her knightly duties\nand led vital missions, soon\nbecoming a role model for women\neverywhere. Her husband's name\nhas been lost to history.
+MEID_その後_カラム_ミリエル: Miriel remained in Ylisse but would\nvanish for days at a time to pursue\nher studies. In her final years, this\nresearch led to a historic invention.\nHer husband's name has been\nlost to history.
+MEID_その後_カラム_マリアベル: After returning home to Themis,\nMaribelle became a magistrate who\ndemanded equal justice for nobles\nand plebeians alike. Her husband's\nname has been lost to history.
+MEID_その後_カラム_ベルベット: Once the fighting was done, Panne\nvanished. Some say she returned to\nher warren alone; others claim she\nfound fellow taguel survivors. Her\nhusband's name has been lost\nto history.
+MEID_その後_カラム_ティアモ: Not even peace could dull the\nlovely Cordelia's knightly edge,\nas she became a figurehead for\nall Ylissean warriors. Her husband's\nname has been lost to history.
+MEID_その後_カラム_ノノ: Nowi tried living away from\nhumankind but soon longed for\ntheir company and set off to find\nher old comrades around the world.\nHer husband's name has been lost\nto history.
+MEID_その後_カラム_サーリャ: Even after her return to Plegia,\nTharja kept an unhealthy obsession\nwith $Nu that led her to\nvanish for weeks or months at a\ntime. Her husband's name has been\nlost to history.
+MEID_その後_カラム_オリヴィエ: Though she never overcame her\nstage fright, Olivia danced across\nthe land, mending the scars of war.\nHer husband's name has been lost\nto history.
+MEID_その後_カラム_セルジュ: Cherche and her beloved Minerva\nreturned to Rosanne and struggled\nto reclaim the country Virion had\nmanaged to lose. Her husband's\nname has been lost to history.
+MEID_その後_スミア: With Chrom's permission, Sumia\ntraded her lance for a peaceful\nstretch of pasture on which to raise\npegasi. Her flower-petal readings\nwere said to bring good luck, and\nmany asked her to tell their fortunes.
+MEID_その後_ロンクー: Lon'qu returned to Regna Ferox and\nserved as Basilio's right-hand man.\nLater, he apparently challenged the\nWest-Khan to a duel, though no\nrecord remains of why it was fought\nor who emerged the victor.
+MEID_その後_ロンクー_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Lon'qu, above all else.
+MEID_その後_ロンクー_リズ: Lon'qu returned to Regna Ferox and\nserved as Basilio's right-hand man.\nLissa decided to leave Ylisstol and\njoin her husband, strengthening the\nbond between the realms even\nfurther.
+MEID_その後_ロンクー_ソワレ: Lon'qu returned to Regna Ferox and\nserved as Basilio's right-hand man.\nHe and Sully carried out countless\nmissions together, and the latter\nbecame close friends with another\noutspoken woman―Flavia.
+MEID_その後_ロンクー_ミリエル: Lon'qu returned to Regna Ferox and\nserved as Basilio's right-hand man.\nMiriel went with him and focused\nher studies on Ferox's unusual\nweather conditions.
+MEID_その後_ロンクー_マリアベル: Lon'qu returned to Regna Ferox and\nserved as Basilio's right-hand man.\nMaribelle, for her part, could not\nstand her new home's nonsensical\nlaws and eventually guided both\nkhans to an era of reform.
+MEID_その後_ロンクー_ベルベット: Lon'qu returned to Regna Ferox and\nserved as Basilio's right-hand man.\nPanne had no problems with the\ncold winters and would often\nforage for rare snow herbs used\nin steaming pots of tea.
+MEID_その後_ロンクー_ティアモ: Lon'qu returned to Regna Ferox and\nserved as Basilio's right-hand man.\nCordelia exhibited her usual\nresilience toward Ferox's cold\nwinters and enjoyed a peaceful,\nhappy life with her husband.
+MEID_その後_ロンクー_ノノ: Lon'qu returned to Regna Ferox and\nserved as Basilio's right-hand man.\nHis wife, Nowi, disliked the cold\nFeroxi winters and used her gift for\ntheatrics to secure everything from\nfur coats to long tropical holidays.
+MEID_その後_ロンクー_サーリャ: Lon'qu returned to Regna Ferox and\nserved as Basilio's right-hand man.\nThe cold Feroxi winters proved too\nmuch for Tharja, who left time\nand again in search of heat more\nin line with a Plegian desert.
+MEID_その後_ロンクー_オリヴィエ: Lon'qu returned to Regna Ferox and\nserved as Basilio's right-hand man.\nWhen the West-Khan sent Olivia on\nerrands across the globe, Lon'qu\naccompanied her without fail and\nensured her safety.
+MEID_その後_ロンクー_セルジュ: Lon'qu returned to Regna Ferox and\nserved as Basilio's right-hand man.\nCherche knit many wool caps to\nshield her husband from the bitter\nFeroxi winters―and, of course, a\ncap for her dear wyvern, Minerva.
+MEID_その後_リヒト: While continuing to study magic,\nRicken realized how childish some\nof his actions had been. The sting\nof that revelation caused him to\nredouble his efforts, and soon he\nwas a mage of the highest order.
+MEID_その後_リヒト_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Ricken, above all else.
+MEID_その後_リヒト_リズ: While continuing to study magic,\nRicken realized how childish some\nof his actions had been. He and\nLissa learned from these mistakes\nand grew old and wise together.
+MEID_その後_リヒト_ソワレ: While continuing to study magic,\nRicken realized how childish some\nof his actions had been. Sully made\nfor a strict, but fair, companion,\nand the couple thrived together.
+MEID_その後_リヒト_ミリエル: While continuing to study magic,\nRicken realized how childish some\nof his actions had been. Miriel's\nintellect inspired him greatly, and\ntogether they unlocked the secrets\nof the universe.
+MEID_その後_リヒト_マリアベル: While continuing to study magic,\nRicken realized how childish some\nof his actions had been. Maribelle\nwent on to be a magistrate, and the\ncouple leaned on each other for\nthe rest of their days.
+MEID_その後_リヒト_ベルベット: While continuing to study magic,\nRicken realized how childish some\nof his actions had been. Panne took\nhim to the wilds, reminding him he\nwas a small part of a greater plan.
+MEID_その後_リヒト_ティアモ: While continuing to study magic,\nRicken realized how childish some\nof his actions had been. Cordelia\nherself advanced as a knight, and\nthe couple lived for many long\nyears.
+MEID_その後_リヒト_ノノ: While continuing to study magic,\nRicken realized how childish some\nof his actions had been. Behind\nclosed doors, people whispered\nas to how he aged while his wife,\nNowi, never did.
+MEID_その後_リヒト_サーリャ: While continuing to study magic,\nRicken realized how childish some\nof his actions had been. Tharja\nstayed with him and perfected her\nhexes, and the couple's magical\ntalents soared.
+MEID_その後_リヒト_オリヴィエ: While continuing to study magic,\nRicken realized how childish some\nof his actions had been. Thanks to\nOlivia's dances, however, the years\nhence were full of joy and laughter.
+MEID_その後_リヒト_セルジュ: While continuing to study magic,\nRicken realized how childish some\nof his actions had been. But\nCherche's caring and patience\nsaw him through to the end.
+MEID_その後_マリアベル: After returning home to Themis,\nMaribelle became a magistrate who\ndemanded equal justice for nobles\nand commoners alike.
+MEID_その後_ベルベット: Once the fighting was done, Panne\nvanished. Some say she returned to\nlive in her warren alone; others\nclaim she eventually found fellow\ntaguel survivors.
+MEID_その後_ガイア: Gaius never lost his sweet tooth,\nthough he ultimately returned to\nless savory enterprises. Tales\nof Sticky-Fingers Gaius are still\ntold in taverns everywhere.
+MEID_その後_ガイア_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Gaius, above all else.
+MEID_その後_ガイア_リズ: Gaius never lost his sweet tooth,\nthough he ultimately returned to\nless savory enterprises. Lissa always\ninsisted on going along, and the\ntwo survived many a comically dire\npredicament together.
+MEID_その後_ガイア_ソワレ: Gaius never lost his sweet tooth,\nthough he ultimately returned to\nless savory enterprises. Sully\ndisapproved and was said to pester\nher husband to take the examination\nfor Ylissean knighthood instead.
+MEID_その後_ガイア_ミリエル: Gaius never lost his sweet tooth,\nthough he ultimately returned to\nless savory enterprises. Miriel soon\nbegan researching new and more-\npowerful sweeteners for her\nhusband to enjoy.
+MEID_その後_ガイア_スミア: Gaius never lost his sweet tooth,\nthough he ultimately returned to\nless savory enterprises. His wife,\nSumia, raised pegasi, and her\nflower-petal readings were said\nto bring good luck to all.
+MEID_その後_ガイア_マリアベル: Gaius never lost his sweet tooth,\nthough he ultimately returned to\nless savory enterprises. Having\nstudied to become a magistrate,\nMaribelle feared the day she would\nmeet her own husband in court.
+MEID_その後_ガイア_ベルベット: Gaius never lost his sweet tooth,\nthough he ultimately returned to\nless savory enterprises. Amazingly,\nPanne dirtied her hands right along\nwith her husband, using her keen\nnight vision to expedite jobs.
+MEID_その後_ガイア_ティアモ: Gaius never lost his sweet tooth,\nthough he ultimately returned to\nless savory enterprises. As his wife,\nCordelia, was in charge of keeping\nlaw and order, Gaius dreaded the\nthought of seeing her on the job.
+MEID_その後_ガイア_ノノ: Gaius never lost his sweet tooth,\nthough he ultimately returned to\nless savory enterprises. Nowi found\nher husband's work intriguing and\nwas said to often come along and\nhelp out.
+MEID_その後_ガイア_サーリャ: Gaius never lost his sweet tooth,\nthough he ultimately returned to\nless savory enterprises. Meanwhile,\nhis wife, Tharja, set up shop and\nhexed people for a living. The pair\nwere said to get many odd looks.
+MEID_その後_ガイア_オリヴィエ: Gaius never lost his sweet tooth,\nthough he ultimately returned to\nless savory enterprises. His wife,\nOlivia, wandered down more than\none dark alley just to make sure\nhe was safe and sound.
+MEID_その後_ガイア_セルジュ: Gaius never lost his sweet tooth,\nthough he ultimately returned to\nless savory enterprises. When her\nwork in Rosanne was done, Cherche\nwould return home and cook for\nher husband, much to his delight.
+MEID_その後_ティアモ: Not even peacetime could dull the\nlovely Cordelia's knightly edge, and\nshe became a figurehead for all\nYlissean warriors. It was unrequited\nlove that drove her, many said―\nthough she never stated for whom.
+MEID_その後_グレゴ: With his more epic battles behind\nhim, Gregor soon sank into a life of\nexcess. When his purse got light,\nhe was said to work as a bodyguard\nto make ends meet.
+MEID_その後_グレゴ_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Gregor, above all else.
+MEID_その後_グレゴ_リズ: After the war, Gregor briefly sank\ninto a life of excess, but when\nLissa decided to travel the world\nincognito, her worldly husband\ncame along to keep the roads safe\nand the conversation lively.
+MEID_その後_グレゴ_ソワレ: After the war, Gregor briefly sank\ninto a life of excess. Sully\npestered her husband to take the\nYlissean knighthood examination,\nbut he instead continued his\nmercenary work on the sly.
+MEID_その後_グレゴ_ミリエル: After the war, Gregor briefly sank\ninto a life of excess, but when\nhis wife began to treat him like part\nof the woodwork, he resumed work\nas a sellsword. Miriel helped out\nby researching Gregor's targets.
+MEID_その後_グレゴ_マリアベル: After the war, Gregor briefly sank\ninto a life of excess, but fear of\nhis wife's verbal abuse led him to\nresume work as a sellsword.\nMaribelle's family never approved\nof Gregor, and he never cared.
+MEID_その後_グレゴ_ベルベット: After the war, Gregor briefly sank\ninto a life of excess. It was his\nwife, Panne, who broke the cycle\nand invited him to see her warren,\nafter which the two traveled from\nland to land as mercenaries.
+MEID_その後_グレゴ_ティアモ: After the war, Gregor briefly sank\ninto a life of excess, but when\nhe saw Cordelia working diligently\nas a knight of Ylisse, he decided to\nclean up his own act and fight by\nhis wife's side.
+MEID_その後_グレゴ_ノノ: After the war, Gregor briefly sank\ninto a life of excess, but his\nwife, Nowi, pestered him into\ntraveling the world with her. Their\njourney was packed with more chaos\nthan the war that preceded it.
+MEID_その後_グレゴ_サーリャ: After the war, Gregor briefly sank\ninto a life of excess, but fear of\nhis wife's hexes led him to resume\nwork as a sellsword. Tharja secretly\ntagged along and used her talents\nto keep him safe.
+MEID_その後_グレゴ_オリヴィエ: After the war, Gregor briefly sank\ninto a life of excess, but when\nhe saw his wife dancing in the\nstreets at night to make ends meet,\nhe resumed work as a sellsword.\n...Olivia was most grateful.
+MEID_その後_グレゴ_セルジュ: After the war, Gregor briefly sank\ninto a life of excess, but at his\nwife Cherche's request, he found\nwork in Valm. After a successful\nstint there, offers flooded in from\naround the world.
+MEID_その後_ノノ: Nowi tried living away from human-\nkind, but she soon longed for their\ncompany and set off to find her old\ncomrades around the world.
+MEID_その後_リベラ: Many an unfortunate child found joy\nin the small orphanage Libra built\nafter the war. People believed the\nkind, beautiful priest to be an\nincarnation of Naga, and he was\ncourted by women and men alike.
+MEID_その後_リベラ_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Libra, above all else.
+MEID_その後_リベラ_リズ: Many an unfortunate child found joy\nin the small orphanage Libra and his\nwife built after the war. The children\nloved Libra like a mother and\ntreated Lissa as one of their own.
+MEID_その後_リベラ_ソワレ: Many an unfortunate child found\njoy in the small orphanage Libra\nand his wife built after the war.\nTo this day, the children call\nLibra "Mother" and Sully "Boss."
+MEID_その後_リベラ_ミリエル: Many an unfortunate child found\njoy in the small orphanage Libra\nand his wife built after the war.\nThe children were said to love\nLibra like a mother but flee in\nterror at the sight of Miriel.
+MEID_その後_リベラ_マリアベル: Many an unfortunate child found\njoy in the small orphanage Libra and\nhis wife built after the war. Sadly,\nMaribelle's sharp tongue and proud\nattitude rubbed off on the tykes,\nmaking them quite the handful.
+MEID_その後_リベラ_ベルベット: Many an unfortunate child found joy\nin the small orphanage Libra and his\nwife built after the war. The children\nloved Libra like a mother and often\npestered Panne to transform and\ngive them bunny rides.
+MEID_その後_リベラ_ティアモ: Many an unfortunate child found\njoy in the small orphanage Libra\nand his wife built after the war.\nThe children loved Libra like a\nmother and respected Cordelia\nlike an elder sister.
+MEID_その後_リベラ_ノノ: Many an unfortunate child found\njoy in the small orphanage Libra\nand his wife built after the war.\nNowi tried her best to take care\nof the children, but more often\nthan not, they took care of her.
+MEID_その後_リベラ_サーリャ: Many an unfortunate child found\njoy in the small orphanage Libra\nand his wife built after the war.\nThe younger tykes were very fond\nof Tharja―who feigned annoyance\nbut secretly enjoyed the attention.
+MEID_その後_リベラ_オリヴィエ: Many an unfortunate child found\njoy in the small orphanage Libra\nand his wife built after the war.\nThe children especially loved\nOlivia's vibrant dances, which\noften filled them with glee.
+MEID_その後_リベラ_セルジュ: Many an unfortunate child found\njoy in the small orphanage Libra\nand his wife built after the war.\nCherche was a natural mother to\nthe children, who were also quite\nfond of her wyvern, Minerva.
+MEID_その後_サーリャ: Tharja's jealous obsession with\n$Nu never subsided,\neven after her return to Plegia.\nAnecdotal evidence suggests she\ndevoted most of her effort to hexes\nand curses that might reunite them.
+MEID_その後_オリヴィエ: Though she never overcame her\nstage fright, Olivia danced across\nthe land, mending the scars of war.\nThe flush in her cheeks remained\na staple of her beauty.
+MEID_その後_セルジュ: Cherche and her beloved Minerva\nreturned to Rosanne and struggled\nto reclaim the country Virion had\nmanaged to lose. Rider and wyvern\nwere never seen apart.
+MEID_その後_ヘンリー: After Grima's demise, Henry made\na cold, clean break with history,\nnever to stain its pages again.
+MEID_その後_ヘンリー_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Henry, above all else.
+MEID_その後_ヘンリー_リズ: Henry settled down with Lissa and\nturned out to be a surprisingly\ngood father. Their newborn son,\nhowever, developed a notably\nbizarre personality―in no small part\nbecause of his colorful parents.
+MEID_その後_ヘンリー_ソワレ: Henry settled down with Sully and\nturned out to be a surprisingly\ngood father. Sully trained their\nnewborn daughter hard in the art\nof war, and the girl rose to every\nexpectation.
+MEID_その後_ヘンリー_ミリエル: Henry settled down with Miriel and\nturned out to be a surprisingly\ngood father. Their newborn son\ngrew up surrounded by his parents'\nvast library, dooming him to a\nfuture as a bookworm.
+MEID_その後_ヘンリー_スミア: Henry settled down with Sumia and\nturned out to be a surprisingly\ngood father. Their newborn\ndaughter was enthralled by her\nmother's pegasus and was soon\nbegging for a place in the saddle.
+MEID_その後_ヘンリー_マリアベル: Henry settled down with Maribelle\nand turned out to be a surprisingly\ngood father. Their newborn son\ninherited his mother's noble\nblood―but also her sharp tongue,\nas time would reveal.
+MEID_その後_ヘンリー_ベルベット: Henry settled down with Panne and\nturned out to be a surprisingly\ngood father. Their newborn son was\nfar more taguel than human and\nwould come to be known as his\ndying race's last hope.
+MEID_その後_ヘンリー_ティアモ: Henry settled down with Cordelia\nand turned out to be a surprisingly\ngood father. Their newborn\ndaughter grew up in a peaceful\nworld with two loving parents and\nwas said to be a likeable girl.
+MEID_その後_ヘンリー_ノノ: Henry settled down with Nowi and\nturned out to be a surprisingly\ngood father. However, their\ndaughter had to grow up faster\nthan most other girls since her\nparents showed no sign of doing it.
+MEID_その後_ヘンリー_サーリャ: Henry settled down with Tharja and\nturned out to be a surprisingly\ngood father. Their newborn\ndaughter's mood was said to shift\nviolently, perhaps a side effect of\nhaving two dark mages for parents.
+MEID_その後_ヘンリー_オリヴィエ: Henry settled down with Olivia\nand turned out to be a surprisingly\ngood father. Their newborn son\ninherited both his father's grin\nand his mother's undying love\nfor entertaining others.
+MEID_その後_ヘンリー_セルジュ: Henry settled down with Cherche\nand turned out to be a surprisingly\ngood father. Their newborn son was\nsaid to be quiet but also fond of\nwyverns, like his mother.
+MEID_その後_マルス: Lucina disappeared after whispering\nthese words to her infant self:\n"Yours will be a happy future."\nDid she journey to another land\nor back to her own time?\n...No one knows for certain.
+MEID_その後_サイリ: After returning to Chon'sin, Say'ri\nworked tirelessly with the other\ndynasts to secure a peaceful future\nfor the Valmese continent. She was\noccasionally seen visiting her\nbrother Yen'fay's grave.
+MEID_その後_バジーリオ: With Grima a done deed, Basilio\nreturned to Ferox and applied\nhimself to dethroning Flavia. If his\narmy of champions failed, he knew\nhe could always wait for little Lucina\nto grow up (and lend her a mask).
+MEID_その後_バジーリオ_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Basilio, above all else.
+MEID_その後_バジーリオ_フラヴィア: Basilio returned home and threw\nhimself into two new endeavors:\ndeposing his wife from the Feroxi\nthrone and rearing their newborn\nchild. This led to the liveliest―and\nloudest―royal household in memory.
+MEID_その後_フラヴィア: After Grima was vanquished, Flavia\nreturned home and did a marvelous\njob of whipping Regna Ferox back\ninto shape. They say that each time\na tournament drew close, she would\nask Chrom to lend his sword.
+MEID_その後_ドニ: Donnel returned to his tiny village\nand lived a quiet life with his\nmother. He never took up arms\nagain―a blessing for which he\nthanked the exalt daily.
+MEID_その後_ドニ_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Donnel, above all else.
+MEID_その後_ドニ_リズ: Donnel returned to his tiny village\nand built a happy life with his\nmother and Lissa. Still, the latter\ninsisted on breaking up the\nmonotony, and the couple often\ntraveled to far-flung markets.
+MEID_その後_ドニ_ソワレ: Donnel returned to his tiny village\nand built a happy life with his\nmother and his wife, Sully. The\nlatter established a militia much like\nthe Shepherds to arm the villagers\nagainst the threat of brigands.
+MEID_その後_ドニ_ミリエル: Donnel returned to his tiny village\nand built a happy life with his\nmother and his wife, Miriel. The\nlatter directed her studies on the\nlocal flora; Donny was shocked that\ntrees could have ten-syllable names.
+MEID_その後_ドニ_マリアベル: Donnel returned to his tiny village\nand built a happy life with his\nmother and Maribelle. Still, he was\ncareful not to pester his new bride\nabout working in the fields, lest she\nlift a scythe for other reasons.
+MEID_その後_ドニ_ベルベット: Donnel returned to his tiny village\nand built a happy life with his\nmother and his wife, Panne. This\nnew "warren" had more than enough\nnature to please any taguel, and her\nheart found a home at last.
+MEID_その後_ドニ_ティアモ: Donnel returned to his tiny village\nand built a happy life with his\nmother and his wife, Cordelia. The\nlatter, however, continued to train\nhard as a knight and often answered\nthe exalt's call.
+MEID_その後_ドニ_ノノ: Donnel returned to his tiny village\nand built a happy life with his\nmother and his wife, Nowi. She\nloved her new home and scampered\nthrough fields and mountains with\nthe fervor of a village cat.
+MEID_その後_ドニ_サーリャ: Donnel returned to his tiny village\nand built a happy life with his\nmother and his wife, Tharja. The\nlatter never warmed to the villagers,\nbut she was said to smile around\nher family.
+MEID_その後_ドニ_オリヴィエ: Donnel returned to his tiny village\nand built a happy life with his\nmother and his wife, Olivia. Their\nforgotten hamlet glowed during\nfestivals, when Olivia's dancing\nwarmed more than any fire.
+MEID_その後_ドニ_セルジュ: Donnel returned to his tiny village\nand built a happy life with his\nmother and his wife, Cherche. The\nlatter's easy laugh and many skills\nquickly earned the love and respect\nof her new family.
+MEID_その後_アンナ: With nary a word, Anna left the\nothers and returned to her free-\nspirited merchant life. She was later\nsighted across the continent,\nhaggling with suppliers and beating\ndown the cost of goods.
+MEID_その後_ウード: Owain tried settling down in Ylisse\nbut ultimately set off on a lengthy\nquest to "stay his sword hand."\nOddball heroes matching his\ndescription continue to crop up\nin local legends to this day.
+MEID_その後_ウード_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Owain, above all else.
+MEID_その後_ウード_マルス: Owain set off on a lengthy quest\nwith Lucina to "stay his sword\nhand." Did they simply journey to\nanother land, or did they return to\ntheir own time? None know for\ncertain.
+MEID_その後_ウード_デジェル: Owain set off on a lengthy quest\nwith Kjelle to "stay his sword hand."\n...The idea was actually Kjelle's, and\nhe was just along while she trained,\nbut she had the grace to let his\ndelusions continue.
+MEID_その後_ウード_シンシア: Owain set off on a lengthy quest\nwith Cynthia to "stay his sword\nhand." Their semidelusional\njourney was said to be one\nof much mayhem and mirth.
+MEID_その後_ウード_セレナ: Owain set off on a lengthy quest\nwith Severa to "stay his sword\nhand." Though Severa nagged her\nhusband mercilessly, she also\nprovided much love and support.
+MEID_その後_ウード_マーク女: Owain set off on a lengthy quest\nwith Morgan to "stay his sword\nhand." While Morgan's memory\nnever returned, she didn't seem\nto miss it, and the two lived out\ntheir days most happily.
+MEID_その後_ウード_ノワール: Owain set off on a lengthy quest\nwith Noire to "stay his sword hand."\nNoire worried endlessly about what\nterrors her husband's sword hand\nmight hold, but as it turned out,\nthere were none.
+MEID_その後_ウード_ンン: Owain set off on a lengthy quest\nwith Nah to "stay his sword hand."\nNah got much eye-rolling practice\nduring the tiresome journey, but\nshe stayed by her husband's side\nnonetheless.
+MEID_その後_アズール: Inigo traveled the world, ever ready\nwith a smile or a solution when\ntrouble started to brew. His\nservices and performances were\nrewarded with the best currency―\nthe joy and gratitude of others.
+MEID_その後_アズール_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Inigo, above all else.
+MEID_その後_アズール_マルス: Inigo traveled the world, ever ready\nwith a smile or a solution when\ntrouble started to brew. Lucina\njourneyed with him, and their home\nof the moment was always brimming\nwith joy and laughter.
+MEID_その後_アズール_デジェル: Inigo traveled the world, ever ready\nwith a smile or a solution when\ntrouble started to brew. He and\nKjelle continued to perfect their\nrespective skills as crowd pleaser\nand champion.
+MEID_その後_アズール_シンシア: Inigo traveled the world, ever ready\nwith a smile or a solution when\ntrouble started to brew. Cynthia\nmade for an enthusiastic partner,\nand before long the outrageous\nduo became a social sensation.
+MEID_その後_アズール_セレナ: Inigo traveled the world, ever ready\nwith a smile or a solution when\ntrouble started to brew. Severa was\na vocal opponent of working for\nfree, but she stayed with Inigo and\nhelped him realize his dream.
+MEID_その後_アズール_マーク女: Inigo traveled the world, ever ready\nwith a smile or a solution when\ntrouble started to brew. While\nMorgan's memory never returned,\nshe didn't really seem to miss it.
+MEID_その後_アズール_ノワール: Inigo traveled the world, ever ready\nwith a smile or a solution when\ntrouble started to brew. For better\nor worse, he and Noire were said to\nbe a good match, trading doses of\nglee for doses of glum.
+MEID_その後_アズール_ンン: Inigo traveled the world, ever ready\nwith a smile or a solution when\ntrouble started to brew. Nah, the\nresponsible one, ensured they were\nwell packed and always had multiple\nmaps at the ready.
+MEID_その後_ブレディ: Brady left the priesthood to become\nthe world's scariest violinist. His\nrondos were apocalyptic, and his\nrequiems so full of melancholy that\neveryone in the room―performer\nincluded―burst into tears.
+MEID_その後_ブレディ_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Brady, above all else.
+MEID_その後_ブレディ_マルス: Brady left the priesthood to become\nthe world's scariest violinist. Every\nnew rondo he composed passed\nfirst through the ears of his beloved\nwife and critic, Lucina.
+MEID_その後_ブレディ_デジェル: Brady left the priesthood to become\nthe world's scariest violinist. Never\none to pass up an opportunity for\nself-improvement, Kjelle took up\nmusic, too. Their tight duets were\nsaid to spring from a single muse.
+MEID_その後_ブレディ_シンシア: Brady left the priesthood to become\nthe world's scariest violinist. His\noriginal rondos caught the heart of\nCynthia, who insisted he play them\neverywhere he went as a sort of\ntheme song.
+MEID_その後_ブレディ_セレナ: Brady left the priesthood to become\nthe world's scariest violinist. Severa\nwould roll her eyes and gripe about\nthe noise, but the dew in her eyes\nafter a touching melody was\nperhaps the more honest critique.
+MEID_その後_ブレディ_マーク女: Brady left the priesthood to become\nthe world's scariest violinist. While\nMorgan's memory never returned,\nshe didn't seem to miss it much,\nand the two lived out their days\nmost happily.
+MEID_その後_ブレディ_ノワール: Brady left the priesthood to become\nthe world's scariest violinist. Noire\ntried to talk him out of it for fear\nhis divine talents as musician and\ncomposer would curse them both\nto an early grave.
+MEID_その後_ブレディ_ンン: Brady left the priesthood to become\nthe world's scariest violinist. Nah,\nwho considered herself quite the\nsinger, often accompanied him;\nthe sheer volume of her strains\nwas said to flatten audiences.
+MEID_その後_デジェル: Knowing her battle had not yet\nended, Kjelle set off on a new quest\nof self-discovery. Her sincerity led\nto much heartbreak along the way,\nbut each painful lesson further\nhardened her as a warrior.
+MEID_その後_シンシア: Cynthia never gave up on becoming\na hero and traveled the land in the\nname of justice. While she impacted\nthe world of comedy more than the\nworld of legend, people still loved\nher for trying.
+MEID_その後_セレナ: Eager to shrug off any kind of\nintimacy, Severa began a solitary\njourney―but once a year she was\nsaid to visit her family and yell at\nthem for old times' sake.
+MEID_その後_ジェローム: Gerome and Minerva set out for\nWyvern Valley. Many saw the rider\nand mount through the years,\nthough most described the man as\ndistant and contemplative.
+MEID_その後_ジェローム_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Gerome, above all else.
+MEID_その後_ジェローム_マルス: Gerome and Lucina were married\nand settled down near Wyvern\nValley. While her husband never\nminced the few words he had to\nsay, Lucina understood, and the\ntwo built a happy life.
+MEID_その後_ジェローム_デジェル: Gerome and Kjelle were married\nand settled near Wyvern Valley,\nwhich Kjelle soon refashioned into\nher ideal training ground. Many\nclaimed to see her running uphill in\nfull armor for days on end.
+MEID_その後_ジェローム_シンシア: Gerome and Cynthia were married\nand settled down near Wyvern\nValley. Astride her pegasus, Cynthia\nlabored endlessly to concoct more\ndashing ways for her husband to\nmake an entrance.
+MEID_その後_ジェローム_セレナ: Gerome and Severa were married\nand settled down near Wyvern\nValley. Severa had a knack for\nlanding mercenary work, and as a\nfighting duo, she and her husband\nbecame known throughout the land.
+MEID_その後_ジェローム_マーク女: Gerome and Morgan were married\nand settled down near Wyvern\nValley. While Morgan's memory\nnever returned, she didn't really\nseem to miss it, and the two lived\nout their days most happily.
+MEID_その後_ジェローム_ノワール: Gerome and Noire were married\nand settled down near Wyvern\nValley. Noire was said to be\nnervous around the wyverns and\nrarely left her husband's side.
+MEID_その後_ジェローム_ンン: Gerome and Nah were married and\nsettled down near Wyvern Valley.\nThe wyverns bowed to their new\ndragonkin mistress, and the couple\nbecame the first true lords of the\nvalley.
+MEID_その後_シャンブレー: Yarne traveled the world in search\nof a safer haven, a journey that was\nironically fraught with danger.\nNevertheless, he is said to have\nbeaten his fears and lived to a ripe\nold age.
+MEID_その後_シャンブレー_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Yarne, above all else.
+MEID_その後_シャンブレー_マルス: Yarne tried desperately to find a\nsafe haven after the battles were\ndone, but even that journey was\nfraught with danger―especially\nsince Lucina was quick to dash to\nthe rescue of every stranger.
+MEID_その後_シャンブレー_デジェル: Yarne tried desperately to find a\nsafe haven after the battles were\ndone, but even that journey was\nfraught with danger―especially as\nKjelle insisted on facing every\nfoe to better herself as a warrior.
+MEID_その後_シャンブレー_シンシア: Yarne tried desperately to find a\nsafe haven after the battles were\ndone, but even that journey was\nfraught with danger―especially as\nCynthia wouldn't stop challenging\nbrigands in the name of justice.
+MEID_その後_シャンブレー_セレナ: Yarne tried desperately to find a\nsafe haven after the battles were\ndone, but even that journey was\nfraught with danger―especially as\nSevera continued to take on\ndangerous jobs to make ends meet.
+MEID_その後_シャンブレー_マーク女: Yarne tried desperately to find a\nsafe haven after the battles were\ndone. While Morgan's memory\nnever returned, she didn't really\nseem to miss it, and the two\nlived out their days happily.
+MEID_その後_シャンブレー_ノワール: Yarne tried desperately to find a\nsafe haven after the battles were\ndone, but even that journey was\nfraught with danger...despite\nNoire's best attempts to steer\nthem out of trouble.
+MEID_その後_シャンブレー_ンン: Yarne tried desperately to find a\nsafe haven after the battles were\ndone. While Nah endeavored to\nsteer them clear of trouble, they\nsoon realized the best place was\nYlisse, where their journey began.
+MEID_その後_ロラン: Longing to meet his mother's\nintellectual standards, Laurent went\non an expedition around the world.\nHis curious nature led to many\nadventures, which he later put to\npaper in a rousing novel.
+MEID_その後_ロラン_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Laurent, above all else.
+MEID_その後_ロラン_マルス: Longing to meet his mother's\nintellectual standards, Laurent took\nhis wife on an expedition around the\nworld. Lucina was reunited with Tiki\nand Naga and thanked them for\nhelping to usher in peace.
+MEID_その後_ロラン_デジェル: Longing to meet his mother's\nintellectual standards, Laurent took\nhis wife on an expedition around the\nworld. As Kjelle, too, valued self-\ndiscovery, the pair were said to be\nnearly inseparable.
+MEID_その後_ロラン_シンシア: Longing to meet his mother's\nintellectual standards, Laurent took\nhis wife on an expedition around the\nworld. The hidden wonders they\nuncovered awed Cynthia, who had\nknown only a world of ruin.
+MEID_その後_ロラン_セレナ: Longing to meet his mother's\nintellectual standards, Laurent took\nhis wife on an expedition around the\nworld. Severa set out in search of\ntreasure but instead discovered\nsomething much, much greater.
+MEID_その後_ロラン_マーク女: Longing to meet his mother's\nintellectual standards, Laurent took\nhis wife on an expedition around the\nworld. While Morgan's memory\nnever returned, she didn't really\nseem to miss it much.
+MEID_その後_ロラン_ノワール: Longing to meet his mother's\nintellectual standards, Laurent took\nhis wife on an expedition around the\nworld. Noire seemed startled at\nfirst by many of their discoveries\nbut knew she was in good hands.
+MEID_その後_ロラン_ンン: Longing to meet his mother's\nintellectual standards, Laurent took\nNah on an expedition around the\nworld. Their curious nature led to\nmany adventures, which they later\nput to paper in a rousing novel.
+MEID_その後_ノワール: Noire stayed with her mother after\nthe war as her assistant. Was she\nsimply trying to protect her infant\nself from Tharja's curses? Or did\nNoire find solace with the woman\nwho brought her into the world?
+MEID_その後_ンン: The manakete Nah still had many\nhuman lifetimes ahead, and she\navailed herself of this time to\ncaution future generations away\nfrom the mistakes that led to the\nreturn of Grima.
+MEID_その後_チキ: Exhausted from the war, Tiki\nreturned to the Divine Dragon\nGrounds and slept for several days.\nAfterward, she was said to come\ndown and visit the people regularly.
+MEID_その後_ギャンレル: With the slaughter done, Gangrel\nretired to obscurity. While some\nclaim he found another kingdom to\nrule and ruin, others insist he ended\nin the gutter. All agree he was dead\nwithin a matter of years.
+MEID_その後_ギャンレル_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Gangrel, above all else.
+MEID_その後_ヴァルハルト: Walhart was said to leave this world\nin pursuit of new conquests. Some\nsurviving legends go so far as to\nplace him in the Outrealms, where\nhe reputedly found a new continent\nto subjugate and rule.
+MEID_その後_ヴァルハルト_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Walhart, above all else.
+MEID_その後_エメリナ: Sadly, Emmeryn's fractured memory\nnever fully mended. She took refuge\nin Ferox after the war and started\nanew as an ordinary woman―a life\nthat one can hope held fewer\npressures than her exalted one.
+MEID_その後_レンハ: Yen'fay vanished like the mist, never\nto be seen again. Some say he\nreturned to the Outrealm from\nwhence he came, but none were\nable to witness the great\nswordsman's departure.
+MEID_その後_レンハ_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Yen'fay, above all else.
+MEID_その後_インバース: Having reclaimed the truth, Aversa\nreturned to the town of her birth\nand started life anew as an ordinary\ngirl―as if making up for the time\nthat was stolen from her.
+MEID_その後_パリス: Priam vanished like a breath on the\nwind. Did his pursuit of true power\nlead him to a quiet corner of the\nmap? Or did he move to another\ncontinent―one where the Radiant\nHero's legend held more meaning?
+MEID_その後_パリス_プレイヤー女: Many wrote of $Nu's\nlegendary exploits, but accounts of\nher origins and character varied.\nScholars, poets, and bards agreed\non one thing alone―she loved her\nhusband, Priam, above all else.
+MEID_その後_マーク男: Morgan's memory never returned,\nbut he didn't seem to miss it much.\nLater, scholars would speculate\nthat he had come from a different\nfuture than the other children.
+MEID_その後_マーク男_マルス: Morgan's memory never returned,\nbut he didn't seem to miss it much\nand lived happily with Lucina. Later,\nscholars would speculate that he\nhad come from a different future\nthan the other children.
+MEID_その後_マーク男_デジェル: Morgan's memory never returned,\nbut he didn't seem to miss it much\nand lived happily with Kjelle. Later,\nscholars would speculate that he\nhad come from a different future\nthan the other children.
+MEID_その後_マーク男_シンシア: Morgan's memory never returned,\nbut he didn't seem to miss it much\nand lived happily with Cynthia.\nLater, scholars would speculate he\nhad come from a different future\nthan the other children.
+MEID_その後_マーク男_セレナ: Morgan's memory never returned,\nbut he didn't seem to miss it much\nand lived happily with Severa. Later,\nscholars would speculate that he\nhad come from a different future\nthan the other children.
+MEID_その後_マーク男_ノワール: Morgan's memory never returned,\nbut he didn't seem to miss it much\nand lived happily with Noire. Later,\nscholars would speculate that he\nhad come from a different future\nthan the other children.
+MEID_その後_マーク男_ンン: Morgan's memory never returned,\nbut he didn't seem to miss it much\nand lived happily with Nah. Later,\nscholars would speculate that he\nhad come from a different future\nthan the other children.
+MEID_その後_マーク女: Morgan's memory never returned,\nbut she didn't seem to miss it.\nLater, scholars would speculate\nshe had come from a different\nfuture than the other children.
+MEID_称号_クロム: Newly Exalted
+MEID_称号_プレイヤー男: High Deliverer
+MEID_称号_プレイヤー女: High Deliverer
+MEID_称号_リズ: Sprightly Cleric
+MEID_称号_フレデリク: Cold Lieutenant
+MEID_称号_ヴィオール: Archest Archer
+MEID_称号_ソワレ: Crimson Knight
+MEID_称号_ヴェイク: Zero to Hero
+MEID_称号_ソール: Viridian Knight
+MEID_称号_ミリエル: Rapier Intellect
+MEID_称号_カラム: Oft Forgotten
+MEID_称号_スミア: Maid of Flowers
+MEID_称号_ロンクー: Gynophobe
+MEID_称号_リヒト: Upcoming Mage
+MEID_称号_マリアベル: Dire Damsel
+MEID_称号_ベルベット: Proud Taguel
+MEID_称号_ガイア: Candy Stealer
+MEID_称号_ティアモ: Knight Paragon
+MEID_称号_グレゴ: Swell Sword
+MEID_称号_ノノ: Eternal Youth
+MEID_称号_リベラ: Fetching Friar
+MEID_称号_サーリャ: Grim Stalker
+MEID_称号_オリヴィエ: Shrinking Violet
+MEID_称号_セルジュ: Wyvern Friend
+MEID_称号_ヘンリー: Twisted Mind
+MEID_称号_マルス: Foreseer
+MEID_称号_サイリ: Blade Princess
+MEID_称号_バジーリオ: Intrepid Khan
+MEID_称号_フラヴィア: Khan Lioness
+MEID_称号_ドニ: Village Hero
+MEID_称号_アンナ: Secret Seller
+MEID_称号_ウード: Chosen One
+MEID_称号_アズール: Flower Picker
+MEID_称号_ブレディ: Daunting Priest
+MEID_称号_デジェル: Fair Fighter
+MEID_称号_シンシア: Hero Chaser
+MEID_称号_セレナ: Secret Dreamer
+MEID_称号_ジェローム: Masked Rider
+MEID_称号_シャンブレー: Timid Taguel
+MEID_称号_ロラン: The Elucidator
+MEID_称号_ノワール: Miss Personality
+MEID_称号_ンン: Little Miss
+MEID_称号_チキ: Divine Voice
+MEID_称号_ギャンレル: Mad King
+MEID_称号_ヴァルハルト: The Conqueror
+MEID_称号_エメリナ: Gentle Heart
+MEID_称号_レンハ: Blade Legend
+MEID_称号_インバース: Dark One
+MEID_称号_パリス: Radiant Hero
+MEID_称号_マーク男: Gift from Afar
+MEID_称号_マーク女: Gift from Afar
+MEID_OverallRecord_Total: $aBattles: $a0   Victories: $a1
+MEID_スタッフロール_001: Producer
+MEID_スタッフロール_002: Tohru Narihiro
+MEID_スタッフロール_003: Producer
+MEID_スタッフロール_004: Hitoshi Yamagami
+MEID_スタッフロール_005: Project Manager
+MEID_スタッフロール_006: Masahiro Higuchi
+MEID_スタッフロール_007: Director
+MEID_スタッフロール_008: Kouhei Maeda
+MEID_スタッフロール_009: Director
+MEID_スタッフロール_010: Genki Yokota
+MEID_スタッフロール_011: Codirector
+MEID_スタッフロール_012: Hideaki Araki
+MEID_スタッフロール_013: Technical Director
+MEID_スタッフロール_014: Takafumi Kaneko
+MEID_スタッフロール_015: Game-System Programming
+MEID_スタッフロール_016: Yuji Ohashi
+MEID_スタッフロール_017: UI Programming
+MEID_スタッフロール_018: Yuya Ishii
+MEID_スタッフロール_019: Battle Programming
+MEID_スタッフロール_020: Takafumi Kaneko
+MEID_スタッフロール_021: Battle-Map & World-Map Programming
+MEID_スタッフロール_022: Susumu Ishihara
+MEID_スタッフロール_023: Programming
+MEID_スタッフロール_024: Yusuke Murakami\nYusuke Shibata\nTaichi Ishioka
+MEID_スタッフロール_025: Tool Support
+MEID_スタッフロール_026: Junko Tanaka
+MEID_スタッフロール_027: Art Director
+MEID_スタッフロール_028: Toshiyuki Kusakihara
+MEID_スタッフロール_029: Design Supervisor
+MEID_スタッフロール_030: Takayasu Morisawa
+MEID_スタッフロール_031: Character Design & Illustration
+MEID_スタッフロール_032: Kozaki Yusuke
+MEID_スタッフロール_033: Map Unit Design
+MEID_スタッフロール_034: Mayuko Tsukamoto\nChie Yamamoto\nNaoko Tsukamoto\nSatoko Kurihara
+MEID_スタッフロール_035: Map Design
+MEID_スタッフロール_036: Shigeki Osaka\nHiromi Tanaka
+MEID_スタッフロール_196: Battle Unit Design
+MEID_スタッフロール_197: Toshiyuki Kusakihara\nMai Watanabe
+MEID_スタッフロール_037: Battle Unit Modeling
+MEID_スタッフロール_038: Mai Watanabe\nErina Mori (PROGE)\nAyaha Mochizuki (PROGE)\nHiroko Tamada (PROGE)
+MEID_スタッフロール_039: Battle Unit Motion
+MEID_スタッフロール_040: Yoshihisa Isa\nYuki Takenaka (PROGE)\nZizzo Ishiguro (PROGE)\nKanako Migaki (PROGE)
+MEID_スタッフロール_041: Battlefield Design
+MEID_スタッフロール_042: Isabel Ozawa\nTakuya Nishino
+MEID_スタッフロール_043: UI Design
+MEID_スタッフロール_044: Takako Sakai
+MEID_スタッフロール_045: Effects Design
+MEID_スタッフロール_046: Hiroyuki Tashiro
+MEID_スタッフロール_047: Graphic Support
+MEID_スタッフロール_048: Tsutomu Tei
+MEID_スタッフロール_049: Event Illustration
+MEID_スタッフロール_050: MADHOUSE
+MEID_スタッフロール_051: Event Illust. & Scenario Coordination
+MEID_スタッフロール_052: Yuu Ohshima\n(Red Entertainment Corporation)
+MEID_スタッフロール_053: Movie Producer
+MEID_スタッフロール_054: Takeshi Nagasawa
+MEID_スタッフロール_055: Movie Director
+MEID_スタッフロール_056: Toshihisa Yokoshima
+MEID_スタッフロール_057: Movie Technical Director
+MEID_スタッフロール_058: Shunsuke Tsuchiya
+MEID_スタッフロール_059: Movie Concept Art
+MEID_スタッフロール_060: Yoshiyuki Okada\nAyako Okubo
+MEID_スタッフロール_061: Movie Storyboard
+MEID_スタッフロール_062: Kiyoshi Okuyama\nAsami Ando
+MEID_スタッフロール_063: Movie Visual-Effects Coordinators
+MEID_スタッフロール_064: Kei Yonezuka\nKaori Satake\nShingo Sanada
+MEID_スタッフロール_065: Movie Character-Modeling Director
+MEID_スタッフロール_066: Tomohisa Ishikawa
+MEID_スタッフロール_067: Movie Character-Modeling Chief
+MEID_スタッフロール_068: Hiroto Shibata
+MEID_スタッフロール_069: Movie Character Modeling
+MEID_スタッフロール_070: Hiroyuki Tokudome\nKyohei Kurosaki\nKenichi Kimura\nToru Ehara\nIppei Suzuki\nAiri Ishikawa\nYoshimasa Okada\nRiku Kou\nSatomi Nakao\nTetsuya Sasaki\nTakuya Ueda\nTakanori Urakawa\nNozomi Ishii\nShinya Seno\nDaisuke Suzuki\nKatsuyoshi Miyajima\nAkira Nakamura\nMai Nakamura\nTakashi Yoshimura\nTao Yong\nZhao XinYuan\nFeng Han\nXia XiSheng\nYu Kun\nShan FengSong\nHou XuDong\nLin ChunTao
+MEID_スタッフロール_071: Movie BG-Modeling Director
+MEID_スタッフロール_072: Shinji Tsutsumi
+MEID_スタッフロール_073: Movie BG Modeling
+MEID_スタッフロール_074: Asuka Ogiwara\nNobunao Ono
+MEID_スタッフロール_075: Movie Art Design
+MEID_スタッフロール_076: Yutaka Terada\nWakako Hideshima\nAi Kishimoto\nMotohiro Sasaki
+MEID_スタッフロール_077: Movie Art Director
+MEID_スタッフロール_078: Hiroshi Kato
+MEID_スタッフロール_079: Movie Artwork
+MEID_スタッフロール_080: Rie Suzuki\nTomoe Nakano\nMimu Sato\nKana Hayashi\nAzusa Kakoi\nHirotsugu Kakoi\nNaoko Yanagita\nHirofumi Sakagami\nNaoya Watabe\nIzumi Hoki\nKumiko Watanabe\nWataru Chihara\nTatsuro Ogi\nIzumi Kondou
+MEID_スタッフロール_081: Movie Animation
+MEID_スタッフロール_082: Manabu Konno\nHousei Takakubo\nKentarou Narimatsu\nMitsugu Ohara\nTakahiro Miura\nMisaki Higuchi\nMasashi Matsumoto\nAya Yamaguchi\nMika Oba\nHiroaki Miura\nHidekazu Yamada\nTsuyoshi Nishikawa\nKazuki Eigen\nYukiko Fujioka\nTetsuya Takakuwa\nTemari Kondo\nYurie Kubo\nMayumi Makino\nHonoka Ogata\nKeniti Sakata
+MEID_スタッフロール_083: Movie Effects
+MEID_スタッフロール_084: Katsuyoshi Yoshizawa\nToru Okazawa\nTakayuki Shigekawa\nYasutake Hirata\nKazuo Mitsuyama\nHiroyuki Sagara
+MEID_スタッフロール_085: Movie Composition
+MEID_スタッフロール_086: Kaori Nishimoto\nYuki Oshima\nYuta Matsumoto\nNaoki Yoshibe\nKodai Tanaka
+MEID_スタッフロール_087: Movie Facial Supervisor
+MEID_スタッフロール_088: So Nagata
+MEID_スタッフロール_089: Opening-Movie Editing
+MEID_スタッフロール_090: Masaki Ishii
+MEID_スタッフロール_091: Movie Video-Continuity Editing
+MEID_スタッフロール_092: Ryousuke Omae
+MEID_スタッフロール_093: Movie Action Coordinator
+MEID_スタッフロール_094: Akira Sugihara
+MEID_スタッフロール_095: Movie Motion-Capture Acting
+MEID_スタッフロール_096: Wataru Koga\nTony Hosokawa\nYutaka Kambe
+MEID_スタッフロール_097: Parts Model (Eye)
+MEID_スタッフロール_098: Isabelle Weissenberger
+MEID_スタッフロール_099: Movie Motion-Capture Producer
+MEID_スタッフロール_100: Shigeki Yamamoto
+MEID_スタッフロール_101: Movie Motion-Capture Director
+MEID_スタッフロール_102: Ken Hatsuumi
+MEID_スタッフロール_103: Movie Motion Design
+MEID_スタッフロール_104: Masaki Sato\nAiko Suzuki\nMitsutaka Nakamura\nShogo Ikejima
+MEID_スタッフロール_105: Movie Staff Coordinator
+MEID_スタッフロール_106: Nao Takahashi
+MEID_スタッフロール_107: Movie Stereoscopic Supervising Producer
+MEID_スタッフロール_108: Masahiro Yamaura
+MEID_スタッフロール_109: Movie Lead Digital Artist/Stereoscopic Lead
+MEID_スタッフロール_110: Ryosuke Takeuchi
+MEID_スタッフロール_111: Movie Digital Artist
+MEID_スタッフロール_112: Kenji Goto
+MEID_スタッフロール_113: Movie Stereoscopic Digital Artists
+MEID_スタッフロール_114: Yosuke Inoue\nKoichi Hirata
+MEID_スタッフロール_115: Movie Production Coordinators
+MEID_スタッフロール_116: Daisuke Shirasawa\nYin Ping
+MEID_スタッフロール_117: Movie Stereoscopic Producer
+MEID_スタッフロール_118: Teppei Wakabayashi
+MEID_スタッフロール_119: Movie Stereoscopic Assistant Producer
+MEID_スタッフロール_120: Masaki Takaoka
+MEID_スタッフロール_121: Movie Stereoscopic Director
+MEID_スタッフロール_122: Takaomi Seki
+MEID_スタッフロール_123: Movie Stereoscopic Quality Checker
+MEID_スタッフロール_124: Xiang Ren
+MEID_スタッフロール_171: Movie Stereoscopic Operators
+MEID_スタッフロール_172: Yujiao Kang\nBo Jiang\nHong Kang\nYing Fu
+MEID_スタッフロール_125: Level-Design Director
+MEID_スタッフロール_126: Yuji Ohashi
+MEID_スタッフロール_127: Level-Design Planning
+MEID_スタッフロール_128: Ryuichiro Kouguchi
+MEID_スタッフロール_191: Character Planning
+MEID_スタッフロール_192: Nami Komuro
+MEID_スタッフロール_129: Scenario
+MEID_スタッフロール_130: Kouhei Maeda\nNami Komuro\nMasayuki Horikawa\nYuichiro Kitaoka (Lepton)\nSou Mayumi (Lepton)\nShuntaro Ashida\n(Red Entertainment Corporation)
+MEID_スタッフロール_131: Scenario Supervisor
+MEID_スタッフロール_132: Yurie Hattori
+MEID_スタッフロール_133: Scenario Support
+MEID_スタッフロール_134: EdgeWORKS Inc.
+MEID_スタッフロール_135: Event Director
+MEID_スタッフロール_136: Masahiro Higuchi
+MEID_スタッフロール_137: Event Script
+MEID_スタッフロール_138: Ryuichiro Kouguchi\nNami Komuro\nMasayuki Horikawa\nHiroki Morishita\nSatoko Kurihara\nMayuko Tsukamoto
+MEID_スタッフロール_139: Sound Supervisor\n& Extramap Music Composition
+MEID_スタッフロール_140: Yuka Tsujiyoko
+MEID_スタッフロール_141: Sound Director & Sound Effects
+MEID_スタッフロール_142: Yasuhisa Baba
+MEID_スタッフロール_143: Music Director\n& Main Music Composition
+MEID_スタッフロール_144: Hiroki Morishita
+MEID_スタッフロール_145: Music Composition
+MEID_スタッフロール_146: Rei Kondoh (T's MUSIC)
+MEID_スタッフロール_147: Voice Cast (Japanese)
+MEID_スタッフロール_148_1: Chrom\nLucina\nLissa\nEmmeryn\nFrederick\nFlavia\nBasilio\nSay'ri\nSully\nVirion\nStahl\nVaike\nMiriel\nSumia\nKellam\nLon'qu\nMaribelle\nRicken\nGaius\nPanne\nCordelia\nNowi\nGregor\nLibra\nTharja\nOlivia\nCherche\nHenry\nDonnel\nAnna\nOwain\nInigo\nBrady\nKjelle\nCynthia\nSevera\nGerome\nMorgan (M)\nMorgan (F)\nYarne\nLaurent\nNoire\nNah\nTiki\nPriam\nNaga\nGangrel\nAversa\nWalhart\nYen'fay\nValidar\nOthers
+MEID_スタッフロール_148_2:  Tomokazu Sugita\n Yu Kobayashi\n Kana Asumi\n Akemi Okamura\n Daisuke Ono\n Atsuko Tanaka\n Masaki Terasoma\n Seiko Yoshida\n Momoko Ohara\n Hiromichi Kogami\n Tarusuke Shingaki\n Daisuke Endou\n Yurika Aizawa\n Ayano Yamamoto\n Manabu Sakamaki\n Takehito Koyasu\n Hiromi Igarashi\n Yuki Masuda\n Shinobu Matsumoto\n Yuki Masuda\n Eimi Okada\n Kumi Tanaka\n Kenji Hamada\n Megumi Yamato\n Kana Akutsu\n Rei Matsuzaki\n Kana Akutsu\n Akemi Okamura\n Mitsuhiro Ichiki\n Saori Seto\n Hidenori Takahashi\n Ryuuiti Kijima\n Daisuke Egawa\n Megumi Yamato\n Ayano Yamamoto\n Saori Seto\n Tarusuke Shingaki\n Yoshimasa Hosoya\n Miyuki Sawashiro\n Daisuke Endou\n Makoto Ishii\n Seiko Yoshida\n Rei Matsuzaki\n Ikue Otani\n Daisuke Ono\n Momoko Ohara\n Manabu Sakamaki\n Kumi Tanaka\n Naomi Kusumi\n Kenji Hamada\n Takehito Koyasu\n Shinya Fukumatsu\n Shinobu Matsumoto\n Kenji Hamada\n Mika Kanda\n Seiko Yoshida\n Yurika Aizawa\n Tarusuke Shingaki\n Daisuke Endou\n Daisuke Egawa\n Manabu Sakamaki\n Hidenori Takahashi\n Ryuuiti Kijima\n Makoto Ishii\n Eimi Okada\n Toru Okawa
+MEID_スタッフロール_148_3: Avatars
+MEID_スタッフロール_148_4: Miyuki Sawashiro\nYoshimasa Hosoya\nToru Okawa
+MEID_スタッフロール_149: Video Sound
+MEID_スタッフロール_150: Yoshito Sekigawa
+MEID_スタッフロール_151: Music Support
+MEID_スタッフロール_152: Hiroyuki Hamada (T's MUSIC)
+MEID_スタッフロール_153: Violin (Solo)
+MEID_スタッフロール_154: Hanako Uesato
+MEID_スタッフロール_155: Violin
+MEID_スタッフロール_156: Syoko Miki\nNatsu Kuriyama\nTairiku Sada
+MEID_スタッフロール_157: Music Coordination
+MEID_スタッフロール_158: Kazuki Chiba\nChiharu Chiba (e-smart inc.)
+MEID_スタッフロール_159: Recording Engineer
+MEID_スタッフロール_160: Hiroyuki Akita
+MEID_スタッフロール_161: Voice-Casting Support
+MEID_スタッフロール_162: Bungo Fujiwara (TWOFIVE)
+MEID_スタッフロール_163: Voice-Recording Director
+MEID_スタッフロール_164: Hitomi Matsuki (TWOFIVE)
+MEID_スタッフロール_165: Voice-Edit Support
+MEID_スタッフロール_166: Junpei Ikawa (TWOFIVE)\nShuhei Okada (TWOFIVE)
+MEID_スタッフロール_167: Recording Studio
+MEID_スタッフロール_168: Memory-Tech Audio Studio\n　　　　　　　　　　　　WONDERSTATION\nTWOFIVE STUDIO\nMIT STUDIO\nThe Tokyo Television Center Co.,Ltd.
+MEID_スタッフロール_169: Project Assistance
+MEID_スタッフロール_170: Tsutomu Kitanishi\nMasayuki Horikawa
+MEID_スタッフロール_173: Publicity
+MEID_スタッフロール_174: Yusuke Kitanishi
+MEID_スタッフロール_175: Artwork
+MEID_スタッフロール_176: Kazuya Yoshioka\nShintaro Ishii
+MEID_スタッフロール_177: Technical Support
+MEID_スタッフロール_178: Kenta Nakanishi\nNorihito Ito\nShuhei Furukawa\nTomohiro Umeda\nToru Inage
+MEID_スタッフロール_179: Debug
+MEID_スタッフロール_180: Ryosuke Yamada\nKentaro Nishimura\nRyuji Hamaguchi\nYuichiro Ushijima\nNobuaki Maeda\nTakeshi Nishizawa\nAkie Sogo\nAkihito Fujiki\nHirokatsu Nishimura
+MEID_スタッフロール_181: Mario Club Co., Ltd.
+MEID_スタッフロール_182: Daisuke Kiuchi\nKenta Aoki\nTetsuro Yamagishi\nKouichi Maruyama
+MEID_スタッフロール_183: DIGITAL Hearts Co.,Ltd.
+MEID_スタッフロール_184: Special Thanks
+MEID_スタッフロール_185: Kenji Imai\nTakashi Akiyama\nYasuharu Narao\nAshura Benimaru Itoh
+MEID_スタッフロール_193: Yoshiharu Ohashi\nKenji Kobayashi\nMitsuo Ueda\nSyuji Kawaguchi\nFukuji Kohama\nYoshihiro Yamazaki\nKenji Kaji\nKazuo Shinoda\nMika Sekiguchi\nKentaro Takeda\nTokio Hattori\nKoujiro Shinya
+MEID_スタッフロール_194: General Producer
+MEID_スタッフロール_195: Shinya Takahashi
+MEID_スタッフロール_186: Executive Producer
+MEID_スタッフロール_187: Toshiyuki Nakamura
+MEID_スタッフロール_188: Executive Producer
+MEID_スタッフロール_189: Satoru Iwata
+MEID_スタッフロール_190: Nintendo and INTELLIGENT SYSTEMS are\nthe authors of this software for the\npurpose of copyright. All rights reserved.\n©2012-2013\nNintendo / INTELLIGENT SYSTEMS
+MEID_スタッフロール_NOA_001: North American Localization
+MEID_スタッフロール_NOA_002: NOA Localization Management
+MEID_スタッフロール_NOA_003: Jeff Miller\nLeslie Swan\nNate Bihldorff\nReiko Ninomiya\nTim O'Leary\nDan Owsen\nRich Amtower
+MEID_スタッフロール_NOA_004: Localization Producer
+MEID_スタッフロール_NOA_005: Rich Amtower
+MEID_スタッフロール_NOA_006: Translation Support
+MEID_スタッフロール_NOA_007: Alexandre Higashi
+MEID_スタッフロール_NOA_008: Localization
+MEID_スタッフロール_NOA_009: 8-4 Ltd.
+MEID_スタッフロール_NOA_010: Producers
+MEID_スタッフロール_NOA_011: John Ricciardi\nMark MacDonald
+MEID_スタッフロール_NOA_012: Coordinators
+MEID_スタッフロール_NOA_013: Hiroko Minamoto\nJustin "JJ" Epperson
+MEID_スタッフロール_NOA_014: Editing
+MEID_スタッフロール_NOA_015: Alan Averill\nMark MacDonald
+MEID_スタッフロール_NOA_016: Translation
+MEID_スタッフロール_NOA_017: Phil Gibbon\nBrian Gray\nJustin Morris\nBrendon Pritchard
+MEID_スタッフロール_NOA_018: Voiceover Supervision
+MEID_スタッフロール_NOA_019: John Ricciardi
+MEID_スタッフロール_NOA_020: Casting and Voice Recording
+MEID_スタッフロール_NOA_021: Cup of Tea Productions Inc.
+MEID_スタッフロール_NOA_022: Voice Direction
+MEID_スタッフロール_NOA_023: Patrick Seitz
+MEID_スタッフロール_NOA_024: Sound Editing
+MEID_スタッフロール_NOA_025: Danni Hunt\nJen Luc Dub
+MEID_スタッフロール_NOA_026: Project Manager
+MEID_スタッフロール_NOA_027: Lainie Bushey
+MEID_スタッフロール_NOA_028: Cast (English)
+MEID_スタッフロール_NOA_029_1: Chrom\nAvatars
+MEID_スタッフロール_NOA_029_1_2: Lissa\nEmmeryn\nFrederick\nFlavia\nBasilio\nSay'ri\nSully\nStahl\nVaike\nMiriel\nKellam\nRicken\nGaius\nPanne\nCordelia\nNowi\nGregor\nLibra\nTharja\nOlivia\nCherche\nHenry\nDonnel\nAnna\nOwain\nInigo\nKjelle\nCynthia\nSevera\nGerome\nMorgan (M)\nMorgan (F)\nYarne\nLaurent\nNoire\nGangrel\nAversa\nWalhart\nYen'fay\nValidar\nExcellus
+MEID_スタッフロール_NOA_029_2: Matthew Mercer\nDave Vincent\nBrandon Karrer\nChris Smith\nMichelle Ruff\nWendee Lee\nKate Higgins\nErin Fitzgerald\nKyle Hebert\nTara Platt\nPatrick Seitz\nStacy Okada\nAmanda C. Miller\nSam Regal\nMichael Sorich\nTara Platt\nOrion Acaba\nYuri Lowenthal\nGideon Emery\nJessica Gee\nJulie Ann Taylor\nHunter Mackenzie Austin\nGeorge C. Cole\nCindy Robinson\nStephanie Sheh\nKaren Strassman\nAmanda C. Miller\nBryce Papenbrook\nSam Regal\nKaren Strassman\nKaiji Tang\nLiam O'Brien\nStephanie Sheh\nStacy Okada\nJulie Ann Taylor\nOrion Acaba\nTodd Stone\nNicole Karrer\nChris Smith\nGeorge C. Cole\nMichelle Ruff\nAnthony Jenkins\nCindy Robinson\nRichard Epcar\nKirk Thornton\nKyle Hebert\nSpike Spencer
+MEID_スタッフロール_NOA_030: NOA Product Testing
+MEID_スタッフロール_NOA_031: Masayasu Nakata\nEric Bush\nSean Egan\nRobert Jahn\nPatrick Taylor\nMakiko Szolas\nTeresa Lillygren\nJoshua Newman\nKindra Timmerwilke

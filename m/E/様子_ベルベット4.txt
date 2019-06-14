@@ -1,0 +1,13 @@
+MESS_ARCHIVE_様子_ベルベット4
+
+
+Message Name: Message
+
+
+MID_様子_ベルベット_前: It seems taguel are not the only strong\nones. Shall we fight together more?
+MID_様子_ベルベット_後: If you desire it. I will keep you safe.\n...I have lucky rabbit feet, after all.
+MID_様子_ベルベット_後_無言: NOT USED
+MID_様子_ベルベット_前_親子_子: How did you spend your days\nin the future, my child?
+MID_様子_ベルベット_後_親子_子: I was alone for some time before joining\nthe Shepherds. All our kind were massacred.$k$pSo I know the pain you must have felt when\nI died in the future.$k$pPerhaps that is a lesson to fear death.\nNot for myself or our race...but for you.
+MID_様子_ベルベット_前_恋人: Swear to me you will stay alive, my mate.\nI have been left alone once already.
+MID_様子_ベルベット_後_恋人: I swear I will survive―both for\nthe taguel and for you.

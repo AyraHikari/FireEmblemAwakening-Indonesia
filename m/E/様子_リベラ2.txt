@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_リベラ2
+
+
+Message Name: Message
+
+
+MID_様子_リベラ_前_敬さん: Dreams are a powerful thing. What is it\nthat you seek for yourself?
+MID_様子_リベラ_前: Dreams are a powerful thing. What is it\nthat you seek for yourself?
+MID_様子_リベラ_前_敬様: Dreams are a powerful thing. What is it\nthat you seek for yourself?
+MID_様子_リベラ_後_敬さん: As trite as it sounds, I dream only of peace\nand happiness for all the gods' creatures.
+MID_様子_リベラ_後_敬様: As trite as it sounds, I dream only of peace\nand happiness for all the gods' creatures.
+MID_様子_リベラ_後_無言: NOT USED
+MID_様子_リベラ_前_親子_子: $Np, shall we practice a bit?\nShow me and the gods how you've grown.
+MID_様子_リベラ_後_親子_子: If you think me ample practice, then yes,\nof course. I will heal any wounds I inflict.
+MID_様子_リベラ_前_恋人: You are the gods' greatest blessing,\n$Np. I am truly, deeply happy.
+MID_様子_リベラ_後_恋人: I love you too. You are as much a\npart of my life as Naga herself.

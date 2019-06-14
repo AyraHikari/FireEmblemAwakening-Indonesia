@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_リヒト4
+
+
+Message Name: Message
+
+
+MID_様子_リヒト_前: We're about to face some tough enemies.\nDo you think we could team up? Please?
+MID_様子_リヒト_前_無言: NOT USED
+MID_様子_リヒト_前_通さん: We're about to face some tough enemies.\nDo you think we could team up? Please?
+MID_様子_リヒト_後: Of course. I'm so happy you asked! I guess\nI'll have to work twice as hard now!
+MID_様子_リヒト_後_通さん: Of course. I'm so happy you asked! I guess\nI'll have to work twice as hard now!
+MID_様子_リヒト_後_無言: NOT USED
+MID_様子_リヒト_前_親子_子: So, $Np, what do people do in\nthe future? What did you do?
+MID_様子_リヒト_後_親子_子: Well, I've sort of been the runt around here.\nEnemies mock me, Chrom coddles me...$k$pBut now I'm a father―well, father-to-be―\nso anyone who overlooks me is just stupid.$k$p...Thanks for showing up. I really needed\nthis confidence boost.
+MID_様子_リヒト_前_恋人: $Np, will we always be together?\nI worry some tragedy is going to part us.
+MID_様子_リヒト_後_恋人: Worried about me? Don't be. I already\nSWORE to myself I'd survive adolescence!

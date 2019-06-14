@@ -1,0 +1,22 @@
+MESS_ARCHIVE_様子_セレナ4
+
+
+Message Name: Message
+
+
+MID_様子_セレナ_前: With your talent, we ought to try taking on\nsome enemies together. I deserve as much!
+MID_様子_セレナ_前_無言: NOT USED
+MID_様子_セレナ_前_通さん: With your talent, we ought to try taking on\nsome enemies together. I deserve as much!
+MID_様子_セレナ_前_特殊: Chrom, we ought to try taking on some foes\ntogether. I deserve a strong partner!
+MID_様子_セレナ_後: Hmph, whatever. But just this once! I don't\nneed you to make me feel proud of myself.
+MID_様子_セレナ_後_通さん: Hmph, whatever. But just this once! I don't\nneed you to make me feel proud of myself.
+MID_様子_セレナ_後_特殊: Hmph, whatever. But just this once! I don't\nneed you to make me feel proud of myself.
+MID_様子_セレナ_後_無言: NOT USED
+MID_様子_セレナ_前_親子_子: You're as cute as your mother, Morgan! Do\nyou remember what I'm like in the future?
+MID_様子_セレナ_後_親子_子: I spent my days becoming a more desirable\nwoman, of course. In fact...$k$pI'm probably MORE desirable in your future,\nsince I'm getting an early start here.$k$pDon't you remember any of this,\nor do I really wind up that forgettable?$k$p...Why are you averting your eyes?\nANSWER ME!
+MID_様子_セレナ_前_親子_母: Mother, you must have been so lonely\nbefore I showed up. What was it like?
+MID_様子_セレナ_後_親子_母: You and I fought all the time in the future.\nYou always put your knightly duties first.$k$pI would say, "Who matters more to you,\nme or Chrom! Why don't you MARRY him?"$k$pI guess I didn't realize that would be my\nlast chance to talk to you.$k$p...What? I'm not crying! This is...sweat!\nI'm sweating! Ugh, it's so hot in here!
+MID_様子_セレナ_前_親子_父: Father, I hear you used to be attractive.\nGood! Tell me what life before me was like.
+MID_様子_セレナ_後_親子_父: The future? It was awful, obviously.$k$pThe men had these pouty doomsday\nfaces. And the accessory shops? Empty!$k$pWhat? Oh, well yes, the world was on the\nbrink of annihilation, but the MEN? Gods!
+MID_様子_セレナ_前_恋人: Look at that gash, $Np!\nCan't you take care of yourself for me?
+MID_様子_セレナ_後_恋人: I'm not going to die. You're not\ngoing to LET me die, remember?

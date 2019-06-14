@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_ノノ4
+
+
+Message Name: Message
+
+
+MID_様子_ノノ_前: Wanna fight together next time?\nI bet we'd make a dangerous duo.
+MID_様子_ノノ_前_特殊: Wanna fight together next time, Chrom?\nThat would make me feel extra safe.
+MID_様子_ノノ_後: Okay! I'll do my very bestest.
+MID_様子_ノノ_後_特殊: Okay! I'll do my very bestest.
+MID_様子_ノノ_後_無言: NOT USED
+MID_様子_ノノ_前_親子_子: Hey, $Np! Tell me about the\nfuture. What kind of things did you do?
+MID_様子_ノノ_後_親子_子: Well, okay. But my backstory is pretty epic.\nA thousand years is a long time!$k$pWhy don't I tell it in installments?\nLike a bedtime story each night.$k$pIf we're lucky, I'll finish the tale before\nthat untimely death you warned me about!
+MID_様子_ノノ_前_恋人: You're so warm, $Np. I don't\never want to lose you. ...Promise?
+MID_様子_ノノ_後_恋人: But I'm a dragon! I'm the one who should\nbe worried about losing YOU first!

@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_ロンクー2
+
+
+Message Name: Message
+
+
+MID_様子_ロンクー_前: Do you have dreams?
+MID_様子_ロンクー_前_特殊: Do you have...dreams?
+MID_様子_ロンクー_後: I dream of mastering the blade, no matter\nwhat other weapons I add to my arsenal.
+MID_様子_ロンクー_後_特殊: My dream? To master the sword.\n...Now leave me be!
+MID_様子_ロンクー_後_無言: NOT USED
+MID_様子_ロンクー_前_親子_子: $Np, let us spar for a bit.
+MID_様子_ロンクー_後_親子_子: You may regret it, but very well.
+MID_様子_ロンクー_前_恋人: I love you, $Np.\n...Don't make me say it twice.
+MID_様子_ロンクー_後_恋人: D-don't say that in so loud a voice!\n...Though I love you as well.

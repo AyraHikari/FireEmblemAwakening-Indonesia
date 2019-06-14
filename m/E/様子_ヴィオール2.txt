@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_ヴィオール2
+
+
+Message Name: Message
+
+
+MID_様子_ヴィオール_前_通くん: Come, friend. Tell me of your dreams.
+MID_様子_ヴィオール_前_無言: NOT USED
+MID_様子_ヴィオール_前_敬殿: Come, friend. Tell me of your dreams.
+MID_様子_ヴィオール_後_通くん: Why dream when you live the\nlegendary life OTHERS dream of?
+MID_様子_ヴィオール_後_敬殿: Why dream when you live the\nlegendary life OTHERS dream of?
+MID_様子_ヴィオール_後_無言: NOT USED
+MID_様子_ヴィオール_前_親子_子: You've grown nearly as skilled as I,\n$Np. Shall we train together?
+MID_様子_ヴィオール_後_親子_子: Anything for my own flesh and blood! But if\nyou best me, let's keep that a family secret.
+MID_様子_ヴィオール_前_恋人: Greetings, my beloved wife. You look\nmore radiant than ever.
+MID_様子_ヴィオール_後_恋人: You put the bards to shame with your\nwords. And that is why I love you so.

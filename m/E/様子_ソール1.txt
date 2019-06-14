@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_ソール1
+
+
+Message Name: Message
+
+
+MID_様子_ソール_前: Why so cheery? Did they serve\nyour favorite breakfast?
+MID_様子_ソール_前_敬さん: Why so cheery? Did they serve\nyour favorite breakfast?
+MID_様子_ソール_前_敬様: Why so cheery? Did they serve\nyour favorite breakfast?
+MID_様子_ソール_後: Oh, no, I just had a good meal, that's all.\nWant to eat together next time?
+MID_様子_ソール_後_敬さん: Oh, no, I just had a good meal, that's all.\nWant to eat together next time?
+MID_様子_ソール_後_敬様: Oh, no, I just had a good meal, that's all.\nWant to eat together next time?
+MID_様子_ソール_後_無言: NOT USED
+MID_様子_ソール_前_親子_子: Need anything, $Np? Maybe\nsomething you had to leave in the future?
+MID_様子_ソール_後_親子_子: I'd just like to spend some time together.\nWe're always so busy!
+MID_様子_ソール_前_恋人: Hey, $Np, what are you\nholding behind your back?
+MID_様子_ソール_後_恋人: This? Oh, it's a flower I picked.\nIt reminds me of you.

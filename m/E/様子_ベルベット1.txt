@@ -1,0 +1,13 @@
+MESS_ARCHIVE_様子_ベルベット1
+
+
+Message Name: Message
+
+
+MID_様子_ベルベット_前: I've never seen you so happy.\nDid they serve carrots for breakfast?
+MID_様子_ベルベット_後: No. But I have not had anyone to talk to\nfor some time. It feels...nice.
+MID_様子_ベルベット_後_無言: NOT USED
+MID_様子_ベルベット_前_親子_子: $Np, do you need anything?\nA taguel child deserves every comfort.
+MID_様子_ベルベット_後_親子_子: ...Just a carrot will do.
+MID_様子_ベルベット_前_恋人: What is that, $Np?\nSome tool of a man-spawn?
+MID_様子_ベルベット_後_恋人: This is a taguel talisman.\nHere, I made one for you.

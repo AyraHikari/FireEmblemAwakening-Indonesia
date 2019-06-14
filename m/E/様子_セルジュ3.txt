@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_セルジュ3
+
+
+Message Name: Message
+
+
+MID_様子_セルジュ_前: Oh! Where have you been?\nI haven't seen you for a while.
+MID_様子_セルジュ_前_通ちゃん: Oh! Where have you been?\nI haven't seen you for a while.
+MID_様子_セルジュ_前_敬さん: Oh! Where have you been?\nI haven't seen you for a while.
+MID_様子_セルジュ_後: I try to wash and mend our clothes.\nFashion like this is hard to come by!
+MID_様子_セルジュ_後_通ちゃん: I try to wash and mend our clothes.\nFashion like this is hard to come by!
+MID_様子_セルジュ_後_敬さん: I try to wash and mend our clothes.\nFashion like this is hard to come by!
+MID_様子_セルジュ_後_無言: NOT USED
+MID_様子_セルジュ_前_親子_子: How are you feeling, $Np?\nYou look a bit pale today.
+MID_様子_セルジュ_後_親子_子: Don't worry. I can deal with\nany problems that arise.
+MID_様子_セルジュ_前_恋人: Is it just me, or do you get more\nhandsome with each passing day?
+MID_様子_セルジュ_後_恋人: You know the right things to say to a lady.\nBut you're the nicer one to look at.

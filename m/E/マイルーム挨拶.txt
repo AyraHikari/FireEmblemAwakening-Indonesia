@@ -1,0 +1,511 @@
+MESS_ARCHIVE_マイルーム挨拶
+
+
+Message Name: Message
+
+
+MID_マイルーム挨拶_クロム_朝: Hello, $Nu.\nIt's a fine morning,\nisn't it?
+MID_マイルーム挨拶_クロム_昼: Hello, $Nu.\nWhere are we headed\ntoday?
+MID_マイルーム挨拶_クロム_夕: Hello, $Nu.\nIt's gotten late,\nhasn't it?
+MID_マイルーム挨拶_クロム_夜: Hello, $Nu.\nWe should turn in\nfor the night.
+MID_マイルーム挨拶_クロム_誕: Happy birthday,\n$Nu!
+MID_マイルーム挨拶_フレデリク_朝: Hello, $Nu.\nWhat a fine morning!
+MID_マイルーム挨拶_フレデリク_昼: Hello, $Nu.\nWhat are your plans\nfor the day?
+MID_マイルーム挨拶_フレデリク_夕: Hello, $Nu.\nThis day certainly\nflew by.
+MID_マイルーム挨拶_フレデリク_夜: Hello, $Nu.\nYou should get some\nsleep.
+MID_マイルーム挨拶_フレデリク_誕: Happy birthday,\n$Nu.
+MID_マイルーム挨拶_ソール_朝: Hello, $Nu.\nDid you have a good\nbreakfast?
+MID_マイルーム挨拶_ソール_昼: Hello, $Nu.\nDid you get lunch yet?
+MID_マイルーム挨拶_ソール_夕: Hello, $Nu.\nDid you have dinner?
+MID_マイルーム挨拶_ソール_夜: Hello, $Nu.\nDoesn't a late-night\nsnack sound good?
+MID_マイルーム挨拶_ソール_誕: Happy birthday,\n$Nu!
+MID_マイルーム挨拶_カラム_朝: Hello, $Nu.\nThe sunrise was lovely\ntoday.
+MID_マイルーム挨拶_カラム_昼: Hello, $Nu.\nWhere are we headed\ntoday?
+MID_マイルーム挨拶_カラム_夕: Hello, $Nu.\nWhat a long day it's\nbeen.
+MID_マイルーム挨拶_カラム_夜: Hello, $Nu.\nAre you really still up?
+MID_マイルーム挨拶_カラム_誕: Happy birthday,\n$Nu...
+MID_マイルーム挨拶_リヒト_朝: Hello, $Nu!\nUgh. I'm definitely not\na morning person.
+MID_マイルーム挨拶_リヒト_昼: Hello, $Nu!\nWhere to today?
+MID_マイルーム挨拶_リヒト_夕: Hello, $Nu!\nThe days just fly by,\ndon't they?
+MID_マイルーム挨拶_リヒト_夜: Hello, $Nu!\nI'm going to turn in\nfor the night!
+MID_マイルーム挨拶_リヒト_誕_通常: Happy birthday,\n$Nu!
+MID_マイルーム挨拶_リヒト_誕: Happy birthday,\n$Nu!
+MID_マイルーム挨拶_ヴェイク_朝: Hello, $Nu!\nThe Vaike is on fire\nthis morning!
+MID_マイルーム挨拶_ヴェイク_昼: Hello, $Nu!\nTeach is having a\nphenomenal day.
+MID_マイルーム挨拶_ヴェイク_夕: Hello, $Nu!\nThe Vaike reigns supreme\nafter sunset.
+MID_マイルーム挨拶_ヴェイク_夜: Hello, $Nu!\nTeach knows when it's\ntime to hit the hay.
+MID_マイルーム挨拶_ヴェイク_誕: Heard it's your birthday,\n$Nu! 'Grats!
+MID_マイルーム挨拶_リベラ_朝: Hello, $Nu.\nThe morning air feels\nwonderful.
+MID_マイルーム挨拶_リベラ_昼: Hello, $Nu.\nWhat plans do you\nhave for today?
+MID_マイルーム挨拶_リベラ_夕: Hello, $Nu.\nIt seems night has fallen.
+MID_マイルーム挨拶_リベラ_夜: Hello, $Nu.\nIt seems you've had\na long day.
+MID_マイルーム挨拶_リベラ_誕: Happy birthday,\n$Nu.
+MID_マイルーム挨拶_ロンクー_朝: Hello, $Nu.\nYou still look sleepy.
+MID_マイルーム挨拶_ロンクー_昼: Hello, $Nu.\nDon't you have better\nthings to do?
+MID_マイルーム挨拶_ロンクー_夕: Hello, $Nu.\nIt's getting late.
+MID_マイルーム挨拶_ロンクー_夜: Hello, $Nu.\nYou should sleep.
+MID_マイルーム挨拶_ロンクー_誕: Happy birthday,\n$Nu.
+MID_マイルーム挨拶_グレゴ_朝: Hello, $Nu!\nDid you pull all-nighter?
+MID_マイルーム挨拶_グレゴ_昼: Hello, $Nu!\nIs exciting day ahead,\nyes?
+MID_マイルーム挨拶_グレゴ_夕: Hello, $Nu!\nHow swiftly night falls!
+MID_マイルーム挨拶_グレゴ_夜: Hello, $Nu!\nIs past bedtime, no?
+MID_マイルーム挨拶_グレゴ_誕: Happy birthday,\n$Nu!
+MID_マイルーム挨拶_ガイア_朝: Hello, $Nu.\nHad your morning dose\nof sugar yet?
+MID_マイルーム挨拶_ガイア_昼: Hello, $Nu.\nWhen's snack time?\nIt's now, right?
+MID_マイルーム挨拶_ガイア_夕: Hello, $Nu.\nYou should see the sweet\ngoods I scored.
+MID_マイルーム挨拶_ガイア_夜: Hello, $Nu.\nDon't forget your\nbedtime snack.
+MID_マイルーム挨拶_ガイア_誕: Happy birthday,\n$Nu. ...Can I\nhave a piece of cake?
+MID_マイルーム挨拶_ヴィオール_朝: Nice of you to join us,\n$Nu. What a\ndivine morning this is!
+MID_マイルーム挨拶_ヴィオール_昼: Nice of you to join us,\n$Nu. This day\nreeks of glory.
+MID_マイルーム挨拶_ヴィオール_夕: Nice of you to join us,\n$Nu. The stars\nare a sight to behold.
+MID_マイルーム挨拶_ヴィオール_夜: Nice of you to join us,\n$Nu. But you\nshould rest.
+MID_マイルーム挨拶_ヴィオール_誕: Happy birthday,\n$Nu. May it\nbe truly epic.
+MID_マイルーム挨拶_ヘンリー_朝: Hello, $Nu.\nIsn't the blood-red\nsunrise great?
+MID_マイルーム挨拶_ヘンリー_昼: Hello, $Nu.\nHope you're having a\nsidesplitting day!
+MID_マイルーム挨拶_ヘンリー_夕: Hello, $Nu.\nI love when it gets dark.\nSpooky!
+MID_マイルーム挨拶_ヘンリー_夜: Hello, $Nu.\nYou're not going to sleep\nyet, are you?
+MID_マイルーム挨拶_ヘンリー_誕: Happy birthday,\n$Nu! Good\nthing you lived to see it!
+MID_マイルーム挨拶_ドニ_朝: Hello, $Nu.\nDid ya catch some Zs?
+MID_マイルーム挨拶_ドニ_昼: Hello, $Nu.\nWhat's on the docket?
+MID_マイルーム挨拶_ドニ_夕: Hello, $Nu.\nIt's dark as a possum's\nlair, ain't it?
+MID_マイルーム挨拶_ドニ_夜: Hello, $Nu.\nTime to hit the hay!
+MID_マイルーム挨拶_ドニ_誕: Happy birthday,\n$Nu.
+MID_マイルーム挨拶_スミア_朝: Hello, $Nu.\nIt's a beautiful morning.
+MID_マイルーム挨拶_スミア_昼: Hello, $Nu.\nWhat's in store for us\ntoday?
+MID_マイルーム挨拶_スミア_夕: Hello, $Nu.\nThe day just zooms by,\ndoesn't it?
+MID_マイルーム挨拶_スミア_夜: Hello, $Nu.\nWhy don't you get some\nsleep?
+MID_マイルーム挨拶_スミア_誕: Happy birthday,\n$Nu!
+MID_マイルーム挨拶_リズ_朝: Hello, $Nu!\nHere's to another\nlively day!
+MID_マイルーム挨拶_リズ_昼: Hello, $Nu!\nGot anything exciting\nplanned today?
+MID_マイルーム挨拶_リズ_夕: Hello, $Nu!\nIt got dark so fast.
+MID_マイルーム挨拶_リズ_夜: Hello, $Nu!\nI'm getting sleepy.\n*Yaaaaaawn*
+MID_マイルーム挨拶_リズ_誕: Happy birthday,\n$Nu!
+MID_マイルーム挨拶_ソワレ_朝: Hello, $Nu.\nWake up on the wrong\nside of the bed?
+MID_マイルーム挨拶_ソワレ_昼: Hello, $Nu.\nHope today's a damn\nfine one.
+MID_マイルーム挨拶_ソワレ_夕: Hello, $Nu.\nWhere the hell did the\nday go?
+MID_マイルーム挨拶_ソワレ_夜: Hello, $Nu.\nGet your ass to bed,\nya hear?
+MID_マイルーム挨拶_ソワレ_誕: Have a great damned\nbirthday, $Nu.\nI mean it.
+MID_マイルーム挨拶_マリアベル_朝: Hello, $Nu.\nA lovely morning\nwe're having.
+MID_マイルーム挨拶_マリアベル_昼: Hello, $Nu.\nHave you already planned\nout your day?
+MID_マイルーム挨拶_マリアベル_夕: Hello, $Nu.\nCan you believe how the\nday flew by?
+MID_マイルーム挨拶_マリアベル_夜: Hello, $Nu.\nWill you be retiring\nfor the night?
+MID_マイルーム挨拶_マリアベル_誕: Happy birthday,\n$Nu.
+MID_マイルーム挨拶_ティアモ_朝: Hello, $Nu.\nNice day we're having.
+MID_マイルーム挨拶_ティアモ_昼: Hello, $Nu.\nWhat's in store for you\ntoday?
+MID_マイルーム挨拶_ティアモ_夕: Hello, $Nu.\nThe days feel short,\ndon't they?
+MID_マイルーム挨拶_ティアモ_夜: Hello, $Nu.\nWhy don't we retire\nfor the night?
+MID_マイルーム挨拶_ティアモ_誕: Happy birthday,\n$Nu!
+MID_マイルーム挨拶_ベルベット_朝: Hello, $Nu.\nYou're up early today.
+MID_マイルーム挨拶_ベルベット_昼: Hello, $Nu.\nHow will you spend your\nday?
+MID_マイルーム挨拶_ベルベット_夕: Hello, $Nu.\nThe day is nearly over.\nSo fast!
+MID_マイルーム挨拶_ベルベット_夜: Hello, $Nu.\nYou should tuck in early\ntonight.
+MID_マイルーム挨拶_ベルベット_誕: Happy birthday,\n$Nu.
+MID_マイルーム挨拶_ノノ_朝: Hello, $Nu.\nYou're up early today!
+MID_マイルーム挨拶_ノノ_昼: Hello, $Nu.\nWhere will you take us\ntoday?
+MID_マイルーム挨拶_ノノ_夕: Hello, $Nu.\nIt's getting late!
+MID_マイルーム挨拶_ノノ_夜: Hello, $Nu.\nNowi wants to go\nbeddy-bye...
+MID_マイルーム挨拶_ノノ_誕: Happy birthday,\n$Nu!
+MID_マイルーム挨拶_オリヴィエ_朝: Hello, $Nu.\nSo, uh...nice morning\nwe're having.
+MID_マイルーム挨拶_オリヴィエ_昼: Hello, $Nu.\nDo you have any plans\nfor today?
+MID_マイルーム挨拶_オリヴィエ_夕: Hello, $Nu.\nIt sure is getting late.
+MID_マイルーム挨拶_オリヴィエ_夜: Hello, $Nu.\nSleep well tonight.
+MID_マイルーム挨拶_オリヴィエ_誕: Oh. Happy birthday,\n$Nu!
+MID_マイルーム挨拶_セルジュ_朝: Hello, $Nu.\nI do love the morning.
+MID_マイルーム挨拶_セルジュ_昼: Hello, $Nu.\nAnother day full of\nsurprises!
+MID_マイルーム挨拶_セルジュ_夕: Hello, $Nu.\nIs it nighttime already?
+MID_マイルーム挨拶_セルジュ_夜: Hello, $Nu.\nTime to go to sleep.
+MID_マイルーム挨拶_セルジュ_誕: Happy birthday,\n$Nu.
+MID_マイルーム挨拶_ミリエル_朝: Hey, $Nu. Why\nis dawn called "daybreak"\nanyway? Who broke it?
+MID_マイルーム挨拶_ミリエル_昼: Hey, $Nu. Why\ndo we have "high noon"?\nIs there a low noon?
+MID_マイルーム挨拶_ミリエル_夕: Hey, $Nu. Why\ndo we have "nightfall"?\nDoes night rise as well?
+MID_マイルーム挨拶_ミリエル_夜: Hey, $Nu. Why\ndo folks say "hit the\nhay"? I don't punch hay.
+MID_マイルーム挨拶_ミリエル_誕: A very happy birthday to\nyou, $Nu.
+MID_マイルーム挨拶_サーリャ_朝: Hello, $Nu.\nYou look ravishing today.
+MID_マイルーム挨拶_サーリャ_昼: Hello, $Nu.\nWhere can I stalk you\ntoday?
+MID_マイルーム挨拶_サーリャ_夕: Hello, $Nu.\nI do love the night...
+MID_マイルーム挨拶_サーリャ_夜: Hello, $Nu.\nYou can't go to sleep\nyet!
+MID_マイルーム挨拶_サーリャ_誕: Oh! Happy birthday,\n$Nu!
+MID_マイルーム挨拶_ジェローム_朝: Hello, $Nu.\nYou're quick to rise\ntoday.
+MID_マイルーム挨拶_ジェローム_昼: Hello, $Nu.\nWhere are you off to\ntoday?
+MID_マイルーム挨拶_ジェローム_夕: Hello, $Nu.\nIs it evening already?
+MID_マイルーム挨拶_ジェローム_夜: Hello, $Nu.\nYou ought to get some\nsleep.
+MID_マイルーム挨拶_ジェローム_誕_通常: Happy birthday,\n$Nu.
+MID_マイルーム挨拶_ジェローム_誕: Happy birthday,\n$Nu. Minerva\nwishes you the best.
+MID_マイルーム挨拶_ウード_朝: $Nu! You have\nreturned. ...The morning\nstirs my blood!
+MID_マイルーム挨拶_ウード_昼: $Nu! You have\nreturned. ...What is your\ncalling today?
+MID_マイルーム挨拶_ウード_夕: $Nu! You have\nreturned. ...The night\neases my burdened heart.
+MID_マイルーム挨拶_ウード_夜: $Nu! You have\nreturned. ...My eyelids\nweigh heavy as destiny.
+MID_マイルーム挨拶_ウード_誕_通常: Is it truly the day of your\nbirth, $Nu?\nWhat providence!
+MID_マイルーム挨拶_ウード_誕: On this day, the world\nwas given light. And by\n"light," I mean you!
+MID_マイルーム挨拶_ウード_誕_親子: Is today the day of your\nbirth, Father? What\nprovidence!
+MID_マイルーム挨拶_アズール_朝: Hello, $Nu.\nYou look sleepy.\n...It suits you.
+MID_マイルーム挨拶_アズール_昼: Hello, $Nu.\nHere to visit? It's nice\nto see your face.
+MID_マイルーム挨拶_アズール_夕: Hello, $Nu.\nIt's getting late, but how\nwas your day?
+MID_マイルーム挨拶_アズール_夜: Hello, $Nu.\nI was hoping to see you\nbefore tucking in.
+MID_マイルーム挨拶_アズール_誕_通常: Have a very happy\nbirthday, $Nu.
+MID_マイルーム挨拶_アズール_誕: Happy birthday,\n$Nu. Shall we\ncelebrate together later?
+MID_マイルーム挨拶_アズール_誕_親子: Happy birthday, Father.\nHow old are you today?
+MID_マイルーム挨拶_ブレディ_朝: Hello, $Nu.\n...Oof. I'm still sleepy.\nHow about you?
+MID_マイルーム挨拶_ブレディ_昼: Hello, $Nu.\nWhat are you up to\ntoday?
+MID_マイルーム挨拶_ブレディ_夕: Hello, $Nu.\nHeh, where did the day\ngo?
+MID_マイルーム挨拶_ブレディ_夜: Hello, $Nu.\nIt's late. You should\nsleep.
+MID_マイルーム挨拶_ブレディ_誕_通常: It's your birthday,\n$Nu?\nThat's wonderful.
+MID_マイルーム挨拶_ブレディ_誕: Happy birthday,\n$Nu. Let's\ncelebrate later.
+MID_マイルーム挨拶_ブレディ_誕_親子: Happy birthday, Father.\nI hope this marks another\ngood year.
+MID_マイルーム挨拶_シャンブレー_朝: Hello, $Nu.\nToday's goal is to not\ngo extinct.
+MID_マイルーム挨拶_シャンブレー_昼: Hello, $Nu.\nI'm glad we're alive,\nbut the day isn't over.
+MID_マイルーム挨拶_シャンブレー_夕: Hello, $Nu.\nI'm glad we both made it\nto nightfall.
+MID_マイルーム挨拶_シャンブレー_夜: Hello, $Nu.\nWe'd better sleep before\nsomething kills us.
+MID_マイルーム挨拶_シャンブレー_誕_通常: Happy birthday,\n$Nu!
+MID_マイルーム挨拶_シャンブレー_誕: Happy birthday,\n$Nu! We\nshould celebrate!
+MID_マイルーム挨拶_シャンブレー_誕_親子: Happy birthday, Father!\nDon't make it your last.
+MID_マイルーム挨拶_ロラン_朝: Hello, $Nu.\nAre you an early riser?
+MID_マイルーム挨拶_ロラン_昼: Hello, $Nu.\nTell me about our plans\nfor the day.
+MID_マイルーム挨拶_ロラン_夕: Hello, $Nu.\nAnother day nears its\nclose.
+MID_マイルーム挨拶_ロラン_夜: Hello, $Nu.\nMight I advise getting\nsome sleep?
+MID_マイルーム挨拶_ロラン_誕_通常: Happy birthday,\n$Nu.
+MID_マイルーム挨拶_ロラン_誕: Happy birthday,\n$Nu. May you\nenjoy it fully.
+MID_マイルーム挨拶_ロラン_誕_親子: Happy birthday, Father.\nHow old are you now?
+MID_マイルーム挨拶_マルス_朝: Hello, $Nu.\nThe morning air is\nbracing, isn't it?
+MID_マイルーム挨拶_マルス_昼: Hello, $Nu.\nBest of luck with today's\nendeavors.
+MID_マイルーム挨拶_マルス_夕: Hello, $Nu.\nThe days slip away so\nfast...
+MID_マイルーム挨拶_マルス_夜: Hello, $Nu.\nSleep well tonight.
+MID_マイルーム挨拶_マルス_誕_通常: Happy birthday,\n$Nu.
+MID_マイルーム挨拶_マルス_誕: I am so glad we can\ncelebrate your birthday\ntogether, $Nu.
+MID_マイルーム挨拶_マルス_誕_親子: Happy birthday, Mother.\nFather and I are both\nso excited.
+MID_マイルーム挨拶_デジェル_朝: Hello, $Nu.\nToday will be a fine\nmorning to train.
+MID_マイルーム挨拶_デジェル_昼: Hello, $Nu.\nIt's good to see you.\nShall we train later?
+MID_マイルーム挨拶_デジェル_夕: Hello, $Nu.\nThe day draws to a close.\nI hope it was a good one.
+MID_マイルーム挨拶_デジェル_夜: Hello, $Nu.\nIt's late. You should get\nsome rest.
+MID_マイルーム挨拶_デジェル_誕_通常: Happy birthday,\n$Nu.
+MID_マイルーム挨拶_デジェル_誕: Today is your birthday,\nisn't it, $Nu?\nLet's celebrate together.
+MID_マイルーム挨拶_デジェル_誕_親子: Happy birthday, Father!\nHow old are you today?
+MID_マイルーム挨拶_シンシア_朝: Hello, $Nu!\nIsn't it a great morning?\nI'm ready for anything!
+MID_マイルーム挨拶_シンシア_昼: Hello, $Nu!\nIt's great to see you.\nGot plans for the day?
+MID_マイルーム挨拶_シンシア_夕: Hello, $Nu!\nTime sure flies,\ndoesn't it?
+MID_マイルーム挨拶_シンシア_夜: Hello, $Nu...\nZzzz... Aaah! I was\ndrifting off there.
+MID_マイルーム挨拶_シンシア_誕_通常: Happy birthday,\n$Nu!
+MID_マイルーム挨拶_シンシア_誕: Isn't today your birthday,\n$Nu? We have\nto celebrate!
+MID_マイルーム挨拶_シンシア_誕_親子: Happy birthday, Father!\nHow old are you again?
+MID_マイルーム挨拶_セレナ_朝: Hello, $Nu.\nYou look like you just\ncrawled out of bed.
+MID_マイルーム挨拶_セレナ_昼: Hello, $Nu.\nDon't you have anything\nbetter to do today?
+MID_マイルーム挨拶_セレナ_夕: Hello, $Nu.\nTook you long enough to\ndrop by, don't you think?
+MID_マイルーム挨拶_セレナ_夜: Hello, $Nu...\nI knew you'd crawl back\nat some ungodly hour.
+MID_マイルーム挨拶_セレナ_誕_通常: Today's your special day,\nright, $Nu?\nHappiest of birthdays.
+MID_マイルーム挨拶_セレナ_誕: I'm ready to mark your\nbirthday, $Nu.\nSo appreciate it!
+MID_マイルーム挨拶_セレナ_誕_親子: Happy birthday, Father.\nAren't you proud of me\nfor remembering?
+MID_マイルーム挨拶_ノワール_朝: Hello, $Nu.\n*Yawn* I'm still sleepy...
+MID_マイルーム挨拶_ノワール_昼: Hello, $Nu...\nAre we, um, going\nsomewhere?
+MID_マイルーム挨拶_ノワール_夕: Hello, $Nu...\nHow swiftly the night\ncomes.
+MID_マイルーム挨拶_ノワール_夜: BWA HA HA HA!\nYOU WERE A FOOL TO\nRETURN, $Nu!
+MID_マイルーム挨拶_ノワール_誕_通常: Oh! Happy birthday,\n$Nu.
+MID_マイルーム挨拶_ノワール_誕: Happy birthday,\n$Nu. I'm glad\nwe celebrated together.
+MID_マイルーム挨拶_ノワール_誕_親子: Today is your birthday,\nisn't it, Father?\nCongratulations.
+MID_マイルーム挨拶_ンン_朝: Hello, $Nu.\nYou're up earlier than\nusual.
+MID_マイルーム挨拶_ンン_昼: Hello, $Nu.\nIt's good to see you.
+MID_マイルーム挨拶_ンン_夕: Hello, $Nu.\nThe evening is upon us.
+MID_マイルーム挨拶_ンン_夜: Hello, $Nu.\nThese late hours are best\nspent with those we love.
+MID_マイルーム挨拶_ンン_誕_通常: A very happy birthday to\nyou, $Nu.
+MID_マイルーム挨拶_ンン_誕: Happy birthday,\n$Nu. Today\nwe celebrate you!
+MID_マイルーム挨拶_ンン_誕_親子: Happy birthday, Father.\nMay you outlive the\ndragonkin.
+MID_マイルーム挨拶_マーク男_誕_親子: Happy birthday, Mother!
+MID_マイルーム挨拶_マーク女_誕_親子: Happy birthday, Father!
+MID_マイルーム挨拶_パリス_朝: Hello, $Nu.\nI'll see you after my\nmorning training.
+MID_マイルーム挨拶_パリス_昼: Hello, $Nu.\nWhat's on the docket\ntoday?
+MID_マイルーム挨拶_パリス_夕: Hello, $Nu.\nDid you have a\nproductive day?
+MID_マイルーム挨拶_パリス_夜: Hello, $Nu.\nGet some sleep.\nYour body needs it.
+MID_マイルーム挨拶_パリス_誕: Is today your birthday,\n$Nu? ...Happy\nbirthday.
+MID_マイルーム挨拶_バジーリオ_朝: Hello, $Nu.\nFine morning we're\nhaving!
+MID_マイルーム挨拶_バジーリオ_昼: Hello, $Nu.\nWhat have you cooked up\nfor us today?
+MID_マイルーム挨拶_バジーリオ_夕: Hello, $Nu.\nIs it evening already?!
+MID_マイルーム挨拶_バジーリオ_夜: Hello, $Nu.\nDon't stay up too late.
+MID_マイルーム挨拶_バジーリオ_誕: Today's your special day,\nright, $Nu?\nHappy birthday!
+MID_マイルーム挨拶_レンハ_朝: Well met, $Nu.\n'Tis a fine morning.
+MID_マイルーム挨拶_レンハ_昼: Well met, $Nu.\nHave you made plans for\nthe day?
+MID_マイルーム挨拶_レンハ_夕: Well met, $Nu.\nThe night is upon us.
+MID_マイルーム挨拶_レンハ_夜: Well met, $Nu.\nMay your sleep be free\nof trouble.
+MID_マイルーム挨拶_レンハ_誕_通常: It's your birthday today,\n$Nu? May it\nbe a happy one.
+MID_マイルーム挨拶_レンハ_誕: A very happy birthday to\nyou, $Nu.
+MID_マイルーム挨拶_ヴァルハルト_朝: You've returned,\n$Nu. Did you\ndream of great things?
+MID_マイルーム挨拶_ヴァルハルト_昼: You've returned,\n$Nu. Will you\njoin me for training?
+MID_マイルーム挨拶_ヴァルハルト_夕: You've returned,\n$Nu. Was your\nday as fruitful as mine?
+MID_マイルーム挨拶_ヴァルハルト_夜: You've returned,\n$Nu. Get\nsome sleep. You need it.
+MID_マイルーム挨拶_ヴァルハルト_誕: I hear it's your birthday,\n$Nu. Happy\nbirthday.
+MID_マイルーム挨拶_ギャンレル_朝: Back already,\n$Nu? ...You're\nno morning person.
+MID_マイルーム挨拶_ギャンレル_昼: Back already,\n$Nu? Are you\nbored or just lonely?
+MID_マイルーム挨拶_ギャンレル_夕: Back already,\n$Nu? Well,\nnice work today.
+MID_マイルーム挨拶_ギャンレル_夜: Hello, $Nu.\nDon't be a fool and\nstay up all night.
+MID_マイルーム挨拶_ギャンレル_誕: So it's your birthday,\n$Nu. Big deal.
+MID_マイルーム挨拶_サイリ_朝: Well met, $Nu.\nThe morning air is\nbracing, is it not?
+MID_マイルーム挨拶_サイリ_昼: Well met, $Nu.\nWhat are your intentions\nfor the day?
+MID_マイルーム挨拶_サイリ_夕: Well met, $Nu.\nThe stars are so lovely\ntonight.
+MID_マイルーム挨拶_サイリ_夜: Well met, $Nu.\nSleep well tonight.
+MID_マイルーム挨拶_サイリ_誕_通常: I hear it is your birthday,\n$Nu. May it be\na splendid one.
+MID_マイルーム挨拶_サイリ_誕: I hear it's your birthday,\n$Nu. Shall we\ncelebrate together?
+MID_マイルーム挨拶_アンナ_朝: Hello, $Nu.\nHow did you sleep?
+MID_マイルーム挨拶_アンナ_昼: Hello, $Nu.\nHope you have a\nproductive day!
+MID_マイルーム挨拶_アンナ_夕: Hello, $Nu.\nYou should see my\nearnings today!
+MID_マイルーム挨拶_アンナ_夜: Hello, $Nu.\nDon't stay up too late,\nokay?
+MID_マイルーム挨拶_アンナ_誕: Happy birthday,\n$Nu!
+MID_マイルーム挨拶_チキ_朝: Hello, $Nu.\n*Yawn* It takes me so\nlong to wake up!
+MID_マイルーム挨拶_チキ_昼: Hello, $Nu.\nI'm finally starting to\nwake up.
+MID_マイルーム挨拶_チキ_夕: Hello, $Nu.\nI'm ready for a nap.\n...You?
+MID_マイルーム挨拶_チキ_夜: Hello, $Nu.\nShall we call it a night?
+MID_マイルーム挨拶_チキ_誕: Happy birthday,\n$Nu. Have you\nhit a century yet?
+MID_マイルーム挨拶_インバース_朝: Hello, $Nu.\nYou're an early riser.\nI love those.
+MID_マイルーム挨拶_インバース_昼: Hello, $Nu.\nBehave yourself with\nthose other women.
+MID_マイルーム挨拶_インバース_夕: Hello, $Nu.\nThe evening is already\nupon us.
+MID_マイルーム挨拶_インバース_夜: Hello, $Nu.\nShouldn't we both get\nto bed?
+MID_マイルーム挨拶_インバース_誕: Happy birthday, my dear\nsweet $Nu.\nHee hee!
+MID_マイルーム挨拶_フラヴィア_朝: Oh! $Nu,\nyou're back! You look like\nyou're still waking up.
+MID_マイルーム挨拶_フラヴィア_昼: Oh! $Nu,\nyou're back! Where are\nyou headed today?
+MID_マイルーム挨拶_フラヴィア_夕: Oh! $Nu,\nyou're back! The days fly\nright on by, don't they?
+MID_マイルーム挨拶_フラヴィア_夜: Oh! $Nu,\nyou're back! Get a\ngood night's sleep.
+MID_マイルーム挨拶_フラヴィア_誕: Happy birthday,\n$Nu! We'll\nhave to celebrate!
+MID_マイルーム挨拶_エメリナ_朝: Hello...$Nu...\nNice morning...isn't it?
+MID_マイルーム挨拶_エメリナ_昼: Hello...$Nu...\nDo you have...any plans?
+MID_マイルーム挨拶_エメリナ_夕: Hello...$Nu...\nIt's getting...late...
+MID_マイルーム挨拶_エメリナ_夜: Hello...$Nu...\nSleep well...
+MID_マイルーム挨拶_エメリナ_誕: Happy birthday...\n$Nu...
+MID_マイルーム挨拶_誕生日1: Today is\n%ls's birthday.
+MID_マイルーム挨拶_誕生日2: Today is\n%ls and %ls's\nbirthday.
+MID_マイルーム挨拶_クロム_朝_通常: Hello, $Nu.\nDoing your morning\nrounds?
+MID_マイルーム挨拶_フレデリク_朝_通常: Good morning,\n$Nu. Taking\nan early break?
+MID_マイルーム挨拶_ソール_朝_通常: Good morning,\n$Nu. I'm\nstarving. How about you?
+MID_マイルーム挨拶_カラム_朝_通常: Good morning,\n$Nu. ...Um,\nhello? Can you see me?
+MID_マイルーム挨拶_リヒト_朝_通常: Good morning,\n$Nu! Here to\ntake a breather?
+MID_マイルーム挨拶_ヴェイク_朝_通常: Good morning,\n$Nu! Come\nkick back with Teach.
+MID_マイルーム挨拶_リベラ_朝_通常: Good morning,\n$Nu. May the\ngods keep you safe.
+MID_マイルーム挨拶_ロンクー_朝_通常: Good morning,\n$Nu. Up\nearly?
+MID_マイルーム挨拶_グレゴ_朝_通常: Good morning,\n$Nu. Little\nearly for breaking, no?
+MID_マイルーム挨拶_ガイア_朝_通常: Good morning,\n$Nu. You here\nfor snack time?
+MID_マイルーム挨拶_ヴィオール_朝_通常: Hello, $Nu.\nCare to join me for\nmorning tea?
+MID_マイルーム挨拶_ヘンリー_朝_通常: Hello, $Nu.\nTaking a break to kick off\na day of bloodshed?
+MID_マイルーム挨拶_ドニ_朝_通常: Mornin', $Nu.\nHere to take a load off?
+MID_マイルーム挨拶_スミア_朝_通常: Hello, $Nu.\nYou're up early this\nmorning.
+MID_マイルーム挨拶_リズ_朝_通常: Oh! Good morning,\n$Nu. Taking a\nbreak already?
+MID_マイルーム挨拶_ソワレ_朝_通常: Good morning,\n$Nu. Didn't\nexpect to run into you!
+MID_マイルーム挨拶_マリアベル_朝_通常: Good morning,\n$Nu. Resting\nup early, I see.
+MID_マイルーム挨拶_ティアモ_朝_通常: Good morning,\n$Nu. Here to\nsneak in one last nap?
+MID_マイルーム挨拶_ベルベット_朝_通常: Good morning,\n$Nu. Resting\nalready?
+MID_マイルーム挨拶_ノノ_朝_通常: Good morning,\n$Nu. I woke\nup early today!
+MID_マイルーム挨拶_オリヴィエ_朝_通常: Good morning,\n$Nu. Need a\nlittle break?
+MID_マイルーム挨拶_セルジュ_朝_通常: Good morning,\n$Nu. Come\ntake a load off.
+MID_マイルーム挨拶_ミリエル_朝_通常: Good morning,\n$Nu. Here to\ndo some reading?
+MID_マイルーム挨拶_サーリャ_朝_通常: $Nu! My hex\nworked! Uh, I mean...\nFancy meeting you here.
+MID_マイルーム挨拶_ジェローム_朝_通常: Good morning,\n$Nu. Taking a\nmorning breather?
+MID_マイルーム挨拶_ウード_朝_親子: Stay back, Father! My\nsword hand growls with a\nfierce morning hunger!
+MID_マイルーム挨拶_ウード_朝_通常: Back, $Nu! My\nsword hand growls with a\nfierce morning hunger!
+MID_マイルーム挨拶_アズール_朝_通常: $Nu! Good\nmorning! I was just\ntaking a break myself.
+MID_マイルーム挨拶_アズール_朝_親子: Good morning, Father.\nTaking a little break?
+MID_マイルーム挨拶_ブレディ_朝_通常: Oh, $Nu.\nA little early for a break,\nisn't it?
+MID_マイルーム挨拶_ブレディ_朝_親子: Hmm? Oh, Father.\nA little early for a break,\nisn't it?
+MID_マイルーム挨拶_シャンブレー_朝_通常: Aaah! $Nu!\nDon't startle me first\nthing in the morning.
+MID_マイルーム挨拶_シャンブレー_朝_親子: Aaah! Sheesh, Father.\nDon't startle me first\nthing in the morning.
+MID_マイルーム挨拶_ロラン_朝_通常: Good morning,\n$Nu. Here to\nrest your bones a spell?
+MID_マイルーム挨拶_ロラン_朝_親子: Good morning, Father.\nHere to rest your bones\na spell?
+MID_マイルーム挨拶_マーク男_朝_親子: Good morning, Mother.\nWant to rest for a bit?
+MID_マイルーム挨拶_マルス_朝_通常: Good morning,\n$Nu. Ready\nfor another day?
+MID_マイルーム挨拶_マルス_朝_親子: Good morning, Mother.\nReady for another day?
+MID_マイルーム挨拶_デジェル_朝_通常: Good morning,\n$Nu!\nI challenge you!
+MID_マイルーム挨拶_デジェル_朝_親子: Well met, Father. How\nabout a quick match to\nstart the morning?
+MID_マイルーム挨拶_シンシア_朝_通常: Good morning,\n$Nu! Is it\nbreak time already?
+MID_マイルーム挨拶_シンシア_朝_親子: Good morning, Father!\nIs it break time already?
+MID_マイルーム挨拶_セレナ_朝_通常: $Nu? Why is\nour tactician on break\nfirst thing in the morn?
+MID_マイルーム挨拶_セレナ_朝_親子: Father? Why is our\ntactician taking a break\nfirst thing in the morn?
+MID_マイルーム挨拶_ノワール_朝_通常: AAAH! ...Oh. I mean,\num... Good morning,\n$Nu.
+MID_マイルーム挨拶_ノワール_朝_親子: AAAH! ...Oh. I mean,\num... Good morning,\nFather.
+MID_マイルーム挨拶_ンン_朝_通常: Morning, $Nu.\nHere to rest for a bit?
+MID_マイルーム挨拶_ンン_朝_親子: Good morning, Father.\nHere to rest for a bit?
+MID_マイルーム挨拶_マーク女_朝_親子: Good morning, Father.\nWant to rest for a bit?
+MID_マイルーム挨拶_パリス_朝_通常: Oh, $Nu.\nBack from an early-\nmorning training session?
+MID_マイルーム挨拶_バジーリオ_朝_通常: Hey, $Nu!\nHow about that fresh\nmorning air?
+MID_マイルーム挨拶_レンハ_朝_通常: Good morrow,\n$Nu. Back\nfrom your rounds?
+MID_マイルーム挨拶_ヴァルハルト_朝_通常: $Nu. Have you\nfinished your morning\ntraining already?
+MID_マイルーム挨拶_ギャンレル_朝_通常: $Nu. It must\nbe nice, taking breaks\nbefore the day begins!
+MID_マイルーム挨拶_サイリ_朝_通常: Good morrow,\n$Nu. See\nanything on your rounds?
+MID_マイルーム挨拶_アンナ_朝_通常: Morning, $Nu!\nI smell a big day ahead\nfor business!
+MID_マイルーム挨拶_チキ_朝_通常: Hello, $Nu.\nIt's been a while since I\nfelt this awake!
+MID_マイルーム挨拶_インバース_朝_通常: Hello, $Nu.\nHere to rest, or just on\nyour morning rounds?
+MID_マイルーム挨拶_フラヴィア_朝_通常: Hey, $Nu! All\ndone with your morning\nrounds?
+MID_マイルーム挨拶_エメリナ_朝_通常: Good...morning...
+MID_マイルーム挨拶_クロム_昼_通常: Hello, $Nu.\nOn a break?
+MID_マイルーム挨拶_フレデリク_昼_通常: Hello, $Nu.\nResting for a change?
+MID_マイルーム挨拶_ソール_昼_通常: Hello, $Nu.\nI sure am hungry.
+MID_マイルーム挨拶_カラム_昼_通常: Oh! $Nu.\n...You can see me?
+MID_マイルーム挨拶_リヒト_昼_通常: Oh, $Nu!\nHere to relax for a bit?
+MID_マイルーム挨拶_ヴェイク_昼_通常: Hey, $Nu!\nHere to break with the\nVaike?
+MID_マイルーム挨拶_リベラ_昼_通常: Hello, $Nu.\nMay Naga watch over\nyou today.
+MID_マイルーム挨拶_ロンクー_昼_通常: Oh, $Nu.\nHere to relax?
+MID_マイルーム挨拶_グレゴ_昼_通常: Hello, $Nu!\nGood place to kick the\nback, yes?
+MID_マイルーム挨拶_ガイア_昼_通常: Hello, $Nu.\nYou, uh...know where\nthe snacks are?
+MID_マイルーム挨拶_ヴィオール_昼_通常: Hello, $Nu.\nCare to join me for\nlunch?
+MID_マイルーム挨拶_ヘンリー_昼_通常: Hello, $Nu.\nI sure do love lunchtime\nand ripping thumbs off!
+MID_マイルーム挨拶_ドニ_昼_通常: Hey, $Nu.\nHere to take a load off?
+MID_マイルーム挨拶_スミア_昼_通常: Hello, $Nu.\nIs it time for a break?
+MID_マイルーム挨拶_リズ_昼_通常: Hello, $Nu.\nNeed a break, huh?
+MID_マイルーム挨拶_ソワレ_昼_通常: Hey, $Nu.\nDamned if I thought I'd\nsee you here!
+MID_マイルーム挨拶_マリアベル_昼_通常: $Nu, the day's\nonly half over. A little\nearly for a break, isn't it?
+MID_マイルーム挨拶_ティアモ_昼_通常: $Nu! Here for\na break? I get sleepy as\nthe day drags on.
+MID_マイルーム挨拶_ベルベット_昼_通常: Oh, $Nu.\nTime for a midday break?
+MID_マイルーム挨拶_ノノ_昼_通常: It's you, $Nu!\nWant to go out and play?
+MID_マイルーム挨拶_オリヴィエ_昼_通常: Hello, $Nu.\nTaking a break?
+MID_マイルーム挨拶_セルジュ_昼_通常: Hello, $Nu.\nHere for a break, I see.
+MID_マイルーム挨拶_ミリエル_昼_通常: Hello, $Nu.\nResting your mind for a\nbit?
+MID_マイルーム挨拶_サーリャ_昼_通常: $Nu! The hex\nworked! Um, I mean...\nHow nice to see you!
+MID_マイルーム挨拶_ジェローム_昼_通常: $Nu?\nTaking a break now?
+MID_マイルーム挨拶_ウード_昼_通常: Back, $Nu!\nThe midday sun draws\nout my inner monster!
+MID_マイルーム挨拶_ウード_昼_親子: Stay back, Father! The\nmidday sun draws out my\ninner monster!
+MID_マイルーム挨拶_アズール_昼_通常: Oh! $Nu. If\nyou're free, care to go\nfor a walk?
+MID_マイルーム挨拶_アズール_昼_親子: Father, if you're free,\nwould you care to go for\na walk?
+MID_マイルーム挨拶_ブレディ_昼_通常: Ah, $Nu.\nLooks like we're both\ntaking a break.
+MID_マイルーム挨拶_ブレディ_昼_親子: Taking a break in the\nmiddle of the day,\nFather? Are you bored?
+MID_マイルーム挨拶_シャンブレー_昼_通常: Aaah! $Nu!\nYou almost made me\njump out of my pelt.
+MID_マイルーム挨拶_シャンブレー_昼_親子: Aaah! ...Sheesh, Father.\nYou almost made me\njump out of my pelt.
+MID_マイルーム挨拶_ロラン_昼_通常: Hello, $Nu.\nResting for a spell?
+MID_マイルーム挨拶_ロラン_昼_親子: Hello, Father.\nResting for a spell?
+MID_マイルーム挨拶_マーク男_昼_親子: Oh! Hello, Mother! Why\ndon't we study tactics\ntogether?
+MID_マイルーム挨拶_マルス_昼_通常: Hello, $Nu.\nI'm just on my way out.
+MID_マイルーム挨拶_マルス_昼_親子: Hello, Mother. Here to\nrest? I'm just on my way\nout.
+MID_マイルーム挨拶_デジェル_昼_通常: $Nu! Come,\nlet us have a match once\nyour break is over!
+MID_マイルーム挨拶_デジェル_昼_親子: Oh! Father! Come, let us\nhave a match once your\nbreak is over!
+MID_マイルーム挨拶_シンシア_昼_通常: $Nu! You\nbored? It's kind of early\nin the day for a break.
+MID_マイルーム挨拶_シンシア_昼_親子: Father! Are you bored?\nIt's kind of early in the\nday to be taking a break.
+MID_マイルーム挨拶_セレナ_昼_通常: $Nu? Why is\nour tactician resting in\nthe middle of the day?
+MID_マイルーム挨拶_セレナ_昼_親子: Father? Why is our\ntactician resting in the\nmiddle of the day?
+MID_マイルーム挨拶_ノワール_昼_通常: AAAH! ...Oh. Taking a\nbreak there,\n$Nu?
+MID_マイルーム挨拶_ノワール_昼_親子: AAAH! ...Oh.\nTaking a break, Father?
+MID_マイルーム挨拶_ンン_昼_通常: Here to rest for a bit,\n$Nu? Me too.
+MID_マイルーム挨拶_ンン_昼_親子: Here to rest for a bit,\nFather? Me too.
+MID_マイルーム挨拶_マーク女_昼_親子: Oh! Hello, Father! Why\ndon't we study tactics\ntogether?
+MID_マイルーム挨拶_パリス_昼_通常: It's good you're resting,\n$Nu. We have\nsome hard battles ahead.
+MID_マイルーム挨拶_バジーリオ_昼_通常: Hey, $Nu!\nHere to read a book or\nsomething?
+MID_マイルーム挨拶_レンハ_昼_通常: Doing your rounds,\n$Nu?
+MID_マイルーム挨拶_ヴァルハルト_昼_通常: All finished with your\nmidday training,\n$Nu?
+MID_マイルーム挨拶_ギャンレル_昼_通常: $Nu. Must be\nnice, taking breaks in the\nmiddle of the day!
+MID_マイルーム挨拶_サイリ_昼_通常: Hello, $Nu.\nHow rare to find you\nhere.
+MID_マイルーム挨拶_アンナ_昼_通常: Heya, $Nu!\nIf you've got time, can I\ninterest you in my wares?
+MID_マイルーム挨拶_チキ_昼_通常: Hello, $Nu.\nChecking in on everyone?\nI approve.
+MID_マイルーム挨拶_インバース_昼_通常: Hello, $Nu.\nAre you here to rest,\nor just doing the rounds?
+MID_マイルーム挨拶_フラヴィア_昼_通常: Hey, $Nu!\nHere to take a break with\nthe rest of us?
+MID_マイルーム挨拶_エメリナ_昼_通常: Good...day...
+MID_マイルーム挨拶_クロム_夕_通常: Are you as tired as me,\n$Nu? The days\nfly by so fast...
+MID_マイルーム挨拶_フレデリク_夕_通常: Good evening,\n$Nu. Calling\nit a night?
+MID_マイルーム挨拶_ソール_夕_通常: Evening, $Nu.\nI'm so hungry, I could\neat a pegasus!
+MID_マイルーム挨拶_カラム_夕_通常: Good evening,\n$Nu. ...Hello?\n...Anyone?
+MID_マイルーム挨拶_リヒト_夕_通常: Good evening,\n$Nu! Will you\nbe resting up tonight?
+MID_マイルーム挨拶_ヴェイク_夕_通常: Evenin', $Nu!\nTeach knows when to\ntake a break.
+MID_マイルーム挨拶_リベラ_夕_通常: Good evening,\n$Nu. The gods\nwere good to us today.
+MID_マイルーム挨拶_ロンクー_夕_通常: Good evening,\n$Nu. Long\nday, wasn't it?
+MID_マイルーム挨拶_グレゴ_夕_通常: Good evening,\n$Nu. You here\nto take break?
+MID_マイルーム挨拶_ガイア_夕_通常: Evening, $Nu.\nYou think the five-second\nrule applies to sweets?
+MID_マイルーム挨拶_ヴィオール_夕_通常: Ah, $Nu.\nA fine evening for the\nfinest of gentlemen!
+MID_マイルーム挨拶_ヘンリー_夕_通常: Hey, $Nu. You\nthink I'll melt my eyeballs\nif I stare at the sunset?
+MID_マイルーム挨拶_ドニ_夕_通常: Evenin', $Nu.\nHere to take a load off?
+MID_マイルーム挨拶_スミア_夕_通常: Hello, $Nu.\nWe had a hard day today.
+MID_マイルーム挨拶_リズ_夕_通常: Oh! Good evening,\n$Nu. You\ndeserve a break.
+MID_マイルーム挨拶_ソワレ_夕_通常: Hey, $Nu.\nHell of a day we dragged\nourselves through, eh?
+MID_マイルーム挨拶_マリアベル_夕_通常: Evening, $Nu.\nYou've been taking a lot\nof breaks lately.
+MID_マイルーム挨拶_ティアモ_夕_通常: Evening, $Nu.\nTaking a break? We all\nneed to.
+MID_マイルーム挨拶_ベルベット_夕_通常: Evening, $Nu.\nIt was a tiring day.
+MID_マイルーム挨拶_ノノ_夕_通常: Hello, $Nu.\nI am SO ready to call it a\nnight. How about you?
+MID_マイルーム挨拶_オリヴィエ_夕_通常: Hello, $Nu.\nAre you on your\nevening rounds?
+MID_マイルーム挨拶_セルジュ_夕_通常: Evening, $Nu.\nOh! Don't move! A cute\nlittle bug is on you!
+MID_マイルーム挨拶_ミリエル_夕_通常: Evening, $Nu.\nPlease return books to\ntheir place on the shelf.
+MID_マイルーム挨拶_サーリャ_夕_通常: $Nu! The hex\nworked! Uh, I mean...\nWhat a coincidence!
+MID_マイルーム挨拶_ジェローム_夕_通常: Evening, $Nu.\nI'm only here to get\nMinerva's wyvern feed.
+MID_マイルーム挨拶_ウード_夕_通常: Back, $Nu!\nMy sword hand comes\nalive with the moonlight!
+MID_マイルーム挨拶_ウード_夕_親子: Stay back, Father! My\nsword hand comes alive\nwith the moonlight!
+MID_マイルーム挨拶_アズール_夕_通常: Oh! Good evening,\n$Nu. I was just\nabout to relax.
+MID_マイルーム挨拶_アズール_夕_親子: Good evening, Father.\nCare to join me? I was\njust about to relax.
+MID_マイルーム挨拶_ブレディ_夕_通常: Oh, $Nu...\nLooks like we're both\ntaking a break.
+MID_マイルーム挨拶_ブレディ_夕_親子: Hm? Oh, Father...\nLooks like we're both\ntaking a break.
+MID_マイルーム挨拶_シャンブレー_夕_通常: Aaah! Go easy,\n$Nu. I thought\nextinction was upon me.
+MID_マイルーム挨拶_シャンブレー_夕_親子: Aaah! Go easy, Father.\nI thought my extinction\nwas upon me.
+MID_マイルーム挨拶_ロラン_夕_通常: Evening, $Nu.\nHere to relax for the\nnight?
+MID_マイルーム挨拶_ロラン_夕_親子: Good evening, Father.\nHere to relax for the\nnight?
+MID_マイルーム挨拶_マーク男_夕_親子: Good evening, Mother!\nI sure am tired.\nHow about you?
+MID_マイルーム挨拶_マルス_夕_通常: Evening, $Nu.\nThis room always relaxes\nme so.
+MID_マイルーム挨拶_マルス_夕_親子: Good evening, Mother.\nThis room always relaxes\nme so.
+MID_マイルーム挨拶_デジェル_夕_通常: Evening, $Nu!\nI challenge you to one\nlast fight for the day!
+MID_マイルーム挨拶_デジェル_夕_親子: Well met, Father.\nHow about a quick match\nto end the day?
+MID_マイルーム挨拶_シンシア_夕_通常: Evening, $Nu!\nAbout time you took a\nbreather!
+MID_マイルーム挨拶_シンシア_夕_親子: Good evening, Father!\nAbout time you took a\nbreather!
+MID_マイルーム挨拶_セレナ_夕_通常: Evening, $Nu.\nSorry I was hard on you.\nYou earned a break.
+MID_マイルーム挨拶_セレナ_夕_親子: Good evening, Father.\nSorry I was hard on you.\nYou earned a break.
+MID_マイルーム挨拶_ノワール_夕_通常: AAAH! ...Oh. I mean,\nevening, $Nu.
+MID_マイルーム挨拶_ノワール_夕_親子: AAAH! ...Oh. I mean,\ngood evening, Father.
+MID_マイルーム挨拶_ンン_夕_通常: Evening, $Nu.\nIt certainly was a trying\nday.
+MID_マイルーム挨拶_ンン_夕_親子: Good evening, Father.\nIt certainly was a trying\nday.
+MID_マイルーム挨拶_マーク女_夕_親子: Good evening, Father!\nI sure am tired.\nHow about you?
+MID_マイルーム挨拶_パリス_夕_通常: Oh, $Nu.\nI'm going to get some\ntraining in before bed.
+MID_マイルーム挨拶_バジーリオ_夕_通常: Hey, $Nu!\nToday sure did a number\non me. Whew!
+MID_マイルーム挨拶_レンハ_夕_通常: Evening, $Nu.\nFinishing up your rounds?
+MID_マイルーム挨拶_ヴァルハルト_夕_通常: $Nu. Have you\nfinished your evening\ntraining?
+MID_マイルーム挨拶_ギャンレル_夕_通常: Ah, $Nu. And\nI thought I'd be stuck\nhere alone tonight.
+MID_マイルーム挨拶_サイリ_夕_通常: Good even to you,\n$Nu. Will you\nbe retiring for the night?
+MID_マイルーム挨拶_アンナ_夕_通常: Evening, $Nu!\nReady to call it a day?
+MID_マイルーム挨拶_チキ_夕_通常: Hello, $Nu.\nDoing your evening\nrounds? I approve.
+MID_マイルーム挨拶_インバース_夕_通常: Hello, $Nu.\nMy whole body aches\ntonight!
+MID_マイルーム挨拶_フラヴィア_夕_通常: Hey, $Nu!\nNice of you to check in\non us so late.
+MID_マイルーム挨拶_エメリナ_夕_通常: Good...evening...
+MID_マイルーム挨拶_クロム_夜_通常: $Nu, I'm glad\nyou're on patrol, but go\nahead and rest.
+MID_マイルーム挨拶_フレデリク_夜_通常: $Nu, it's\ngetting late. Are you\npatrolling the camp?
+MID_マイルーム挨拶_ソール_夜_通常: It's getting late,\n$Nu. And yet,\nI'm still hungry...
+MID_マイルーム挨拶_カラム_夜_通常: $Nu, it's\ngetting late. ...Not that\nyou can see me.
+MID_マイルーム挨拶_リヒト_夜_通常: $Nu, it's\ngetting late! Are you\nstaying up all night?
+MID_マイルーム挨拶_ヴェイク_夜_通常: $Nu, it's\ngetting late. But the\nVaike NEVER sleeps.
+MID_マイルーム挨拶_リベラ_夜_通常: It's late, $Nu.\nMay the gods grant you\na good night's sleep.
+MID_マイルーム挨拶_ロンクー_夜_通常: What are you still doing\nup, $Nu?
+MID_マイルーム挨拶_グレゴ_夜_通常: Hello, $Nu!\nWhy you not punch\nthe sack yet?
+MID_マイルーム挨拶_ガイア_夜_通常: $Nu, it's late.\nNo more snacking until\ntomorrow.
+MID_マイルーム挨拶_ヴィオール_夜_通常: Well met, $Nu.\nI was just preparing for a\ngraceful night's sleep.
+MID_マイルーム挨拶_ヘンリー_夜_通常: Wow, $Nu.\nDo you ever sleep?\n...Wait, are you undead?
+MID_マイルーム挨拶_ドニ_夜_通常: Ready to hit the hay,\n$Nu? Me too.
+MID_マイルーム挨拶_スミア_夜_通常: Hello, $Nu.\nIt's getting late.
+MID_マイルーム挨拶_リズ_夜_通常: Hello, $Nu.\nI was just getting ready\nto tuck in.
+MID_マイルーム挨拶_ソワレ_夜_通常: Doing the rounds again,\n$Nu? Damn,\nyou're diligent.
+MID_マイルーム挨拶_マリアベル_夜_通常: Shouldn't you get to bed\nsoon, $Nu?
+MID_マイルーム挨拶_ティアモ_夜_通常: What's wrong,\n$Nu? Can't\nyou sleep?
+MID_マイルーム挨拶_ベルベット_夜_通常: Oh! $Nu.\nI thought you would be\nin bed.
+MID_マイルーム挨拶_ノノ_夜_通常: Help...$Nu...\nI'm sooo sleeepyyy...
+MID_マイルーム挨拶_オリヴィエ_夜_通常: It's getting late,\n$Nu. Please\nget some sleep.
+MID_マイルーム挨拶_セルジュ_夜_通常: Don't stay up too late,\n$Nu. You'll\nbe sorry tomorrow.
+MID_マイルーム挨拶_ミリエル_夜_通常: Do you always stay up\nthis late, $Nu?
+MID_マイルーム挨拶_サーリャ_夜_通常: $Nu! The hex\nworked! Um, I mean...\nWhat are the odds?
+MID_マイルーム挨拶_ジェローム_夜_通常: Go to bed,\n$Nu.
+MID_マイルーム挨拶_ウード_夜_通常: Back, damn you! The\ndarkness is upon us!\nMy sword hand howls!
+MID_マイルーム挨拶_ウード_夜_親子: Stay back, Father! The\ndarkness is upon us!\nMy sword hand howls!
+MID_マイルーム挨拶_アズール_夜_通常: $Nu, it's not\nsafe to wander about\nafter dark.
+MID_マイルーム挨拶_アズール_夜_親子: Father, it's not safe to\nwander about after dark.
+MID_マイルーム挨拶_ブレディ_夜_通常: $Nu, why are\nyou here and not in your\ntent? It's late!
+MID_マイルーム挨拶_ブレディ_夜_親子: Father, why are you here\nand not in your tent?\nIt's late!
+MID_マイルーム挨拶_シャンブレー_夜_通常: Aaargh! $Nu!\nStay in your tent instead\nof scaring me!
+MID_マイルーム挨拶_シャンブレー_夜_親子: Aaargh! Father! Can't\nyou stay in your tent\ninstead of scaring me?
+MID_マイルーム挨拶_ロラン_夜_通常: $Nu, instead\nof resting here, why not\njust go to sleep?
+MID_マイルーム挨拶_ロラン_夜_親子: Father, instead of resting\nhere, why not just go to\nsleep?
+MID_マイルーム挨拶_マーク男_夜_親子: Oh! Are you on patrol,\nMother? You never let\nup.
+MID_マイルーム挨拶_マルス_夜_通常: Oh, $Nu.\nSomething woke me up.\nHow about you?
+MID_マイルーム挨拶_マルス_夜_親子: Oh, Mother. Something\nwoke me up. How about\nyou?
+MID_マイルーム挨拶_デジェル_夜_通常: You've had a long day,\n$Nu. Rest up.
+MID_マイルーム挨拶_デジェル_夜_親子: You've had a long day,\nFather. Rest up.
+MID_マイルーム挨拶_シンシア_夜_通常: It's the middle of the\nnight, $Nu!\nPlease go to bed soon.
+MID_マイルーム挨拶_シンシア_夜_親子: It's the middle of the\nnight, Father! I hope\nyou'll be in bed soon.
+MID_マイルーム挨拶_セレナ_夜_通常: You still awake,\n$Nu? Go to\nbed!
+MID_マイルーム挨拶_セレナ_夜_親子: You're still awake,\nFather? Go to bed!
+MID_マイルーム挨拶_ノワール_夜_通常: $Nu... YOU\nTHOUGHT YOU WERE\nTHE ONLY ONE HERE?
+MID_マイルーム挨拶_ノワール_夜_親子: FATHER! FOOL! YOU\nTHOUGHT YOU WERE\nTHE ONLY ONE HERE?
+MID_マイルーム挨拶_ンン_夜_通常: $Nu, staying\nup all night is bad for\nyou and the rest of us.
+MID_マイルーム挨拶_ンン_夜_親子: Father, staying up all\nnight is bad for you and\nthe rest of us.
+MID_マイルーム挨拶_マーク女_夜_親子: Oh! Are you on patrol,\nFather? You never let up.
+MID_マイルーム挨拶_パリス_夜_通常: I didn't know you were\na night owl,\n$Nu.
+MID_マイルーム挨拶_バジーリオ_夜_通常: Hey, $Nu! Get\nto sleep. We've got a big\nday tomorrow.
+MID_マイルーム挨拶_レンハ_夜_通常: Well met, $Nu.\nIt comforts me to know\nyou are looking after us.
+MID_マイルーム挨拶_ヴァルハルト_夜_通常: $Nu, are you\nstill patrolling the camp\nat this hour?
+MID_マイルーム挨拶_ギャンレル_夜_通常: $Nu! Go to\nbed! What good will a\nbefuddled tactician be?
+MID_マイルーム挨拶_サイリ_夜_通常: Hello, $Nu.\nYour diligence at all\nhours is truly humbling.
+MID_マイルーム挨拶_アンナ_夜_通常: *Yawn* How do you\nmanage to stay up so\nlate, $Nu?
+MID_マイルーム挨拶_チキ_夜_通常: Zzzz... H-huh? Oh,\n$Nu. Did I\ndrift off?
+MID_マイルーム挨拶_インバース_夜_通常: Sleep, $Nu.\nA wild night is followed\nby a day of regrets.
+MID_マイルーム挨拶_フラヴィア_夜_通常: Hey, $Nu.\nHere to read a book?\nDon't stay up too late.
+MID_マイルーム挨拶_エメリナ_夜_通常: You're up...very late\ntonight.

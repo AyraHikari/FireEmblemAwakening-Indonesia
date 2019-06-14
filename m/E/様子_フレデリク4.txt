@@ -1,0 +1,18 @@
+MESS_ARCHIVE_様子_フレデリク4
+
+
+Message Name: Message
+
+
+MID_様子_フレデリク_前_敬さん: How would you feel about fighting\ntogether in the next battle?
+MID_様子_フレデリク_前: How would you feel about fighting\ntogether in the next battle?
+MID_様子_フレデリク_前_敬様: How would you feel about fighting\ntogether in the next battle?
+MID_様子_フレデリク_前_敬殿: How would you feel about fighting\ntogether in the next battle?
+MID_様子_フレデリク_後_敬さん: I would be honored to keep you safe. Let\nour enemies break themselves against us!
+MID_様子_フレデリク_後_敬様: I would be honored to keep you safe. Let\nour enemies break themselves against us!
+MID_様子_フレデリク_後_敬殿: I would be honored to keep you safe. Let\nour enemies break themselves against us!
+MID_様子_フレデリク_後_無言: NOT USED
+MID_様子_フレデリク_前_親子_子: $Np, what was life like in the\nfuture? ...If you don't mind me asking.
+MID_様子_フレデリク_後_親子_子: Until you arrived, I fought and worked only\non the Shepherds' behalf.$k$pThe usual knightly things―digging wells,\nknitting warm clothes...$k$pShall I make you a jacket? I could stitch\n"Papa's Pride and Joy" on the back.
+MID_様子_フレデリク_前_恋人: $Np, please stay close to me\nwhen we fight. I'll protect you with my life.
+MID_様子_フレデリク_後_恋人: I will stay close. I would never\ndo anything to make you sad.

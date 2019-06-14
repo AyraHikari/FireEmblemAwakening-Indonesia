@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_ソール3
+
+
+Message Name: Message
+
+
+MID_様子_ソール_前: Sometimes it helps to just unwind, huh?\nWhat do you like to do in your spare time?
+MID_様子_ソール_前_敬さん: Sometimes it helps to just unwind, huh?\nWhat do you like to do in your spare time?
+MID_様子_ソール_前_敬様: Sometimes it helps to just unwind, huh?\nWhat do you like to do in your spare time?
+MID_様子_ソール_後: I make sure my weapons are in tip-top\nshape, and then I find out about food!
+MID_様子_ソール_後_敬さん: I make sure my weapons are in tip-top\nshape, and then I find out about food!
+MID_様子_ソール_後_敬様: I make sure my weapons are in tip-top\nshape, and then I find out about food!
+MID_様子_ソール_後_無言: NOT USED
+MID_様子_ソール_前_親子_子: Hey, $Np, are you all right?\nI know it's been a long, hard march.
+MID_様子_ソール_後_親子_子: Yeah, I'm all right. ...You sure like\nto worry about me, don't you?
+MID_様子_ソール_前_恋人: When the gods made you, they broke the\nmold. You're just amazing, $Np.
+MID_様子_ソール_後_恋人: Me? You're the real find! I've never\nmet anyone so smart and beautiful.

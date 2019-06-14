@@ -1,0 +1,30 @@
+MESS_ARCHIVE_様子_プレイヤー女4
+
+
+Message Name: Message
+
+
+MID_様子_プレイヤー女_前_PCF1: Would you be interested in fighting\nby my side in the coming battle?
+MID_様子_プレイヤー女_前_敬さん_PCF1: Would you be interested in fighting\nby my side in the coming battle?
+MID_様子_プレイヤー女_前_敬様_PCF1: Would you be interested in fighting\nby my side in the coming battle?
+MID_様子_プレイヤー女_後_PCF1: Certainly! I'll devise some strategies\nand drop by later.
+MID_様子_プレイヤー女_後_敬さん_PCF1: Certainly! I'll devise some strategies\nand drop by later.
+MID_様子_プレイヤー女_後_敬様_PCF1: Certainly! I'll devise some strategies\nand drop by later.
+MID_様子_プレイヤー女_前_親子_子_PCF1: $Np, are you comfortable talking\nabout the future? I'd like to know more.
+MID_様子_プレイヤー女_後_親子_子_PCF1: I've lived a checkered life, it seems.\nAnd that's just the part of it I remember.$k$pI'm not entirely sure what sort of person I\nwas before meeting Chrom.$k$pBut what I do know, I'd like to share with\nyou. Let's sit down tonight and talk more.
+MID_様子_プレイヤー女_前_恋人_PCF1: $Np, promise you won't leave\nme. Promise you'll stay safe.
+MID_様子_プレイヤー女_後_恋人_PCF1: I'll stay safe if you promise to do the same.\nI want to grow old together.
+MID_様子_プレイヤー女_前_敬さん_PCF2: 
+MID_様子_プレイヤー女_前_敬様_PCF2: 
+MID_様子_プレイヤー女_後_敬さん_PCF2: 
+MID_様子_プレイヤー女_後_敬様_PCF2: 
+MID_様子_プレイヤー女_前_親子_子_PCF2: 
+MID_様子_プレイヤー女_後_親子_子_PCF2: 
+MID_様子_プレイヤー女_前_恋人_PCF2: 
+MID_様子_プレイヤー女_後_恋人_PCF2: 
+MID_様子_プレイヤー女_前_PCF3: 
+MID_様子_プレイヤー女_後_PCF3: 
+MID_様子_プレイヤー女_前_親子_子_PCF3: 
+MID_様子_プレイヤー女_後_親子_子_PCF3: 
+MID_様子_プレイヤー女_前_恋人_PCF3: 
+MID_様子_プレイヤー女_後_恋人_PCF3: 

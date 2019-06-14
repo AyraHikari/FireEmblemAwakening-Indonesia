@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_ソワレ3
+
+
+Message Name: Message
+
+
+MID_様子_ソワレ_前: Hey, how come I never see\nyou in camp after battles?
+MID_様子_ソワレ_前_敬殿: Hey, how come I never see\nyou in camp after battles?
+MID_様子_ソワレ_前_敬様: Hey, how come I never see\nyou in camp after battles?
+MID_様子_ソワレ_後: Usually I'm maintaining my weapons or\ntraining. But I go on walks, too.
+MID_様子_ソワレ_後_敬殿: Usually I'm maintaining my weapons or\ntraining. But I go on walks, too.
+MID_様子_ソワレ_後_敬様: Usually I'm maintaining my weapons or\ntraining. But I go on walks, too.
+MID_様子_ソワレ_後_無言: NOT USED
+MID_様子_ソワレ_前_親子_子: You okay, $Np? It's hell\nout there, and I get worried.
+MID_様子_ソワレ_後_親子_子: Ha! I'm not allowed to have an off day?\nDon't worry, I'll pull through.
+MID_様子_ソワレ_前_恋人: You look dashing today. How many damn\ntimes do you plan to make me fall for you?
+MID_様子_ソワレ_後_恋人: Hey, easy on the mushy stuff.\nI'm not the blushing-bride type.

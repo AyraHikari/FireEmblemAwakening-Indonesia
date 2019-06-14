@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_カラム4
+
+
+Message Name: Message
+
+
+MID_様子_カラム_前: I don't think the enemy even sees me.\nCan I fight with you next time?
+MID_様子_カラム_前_敬さん: I don't think the enemy even sees me.\nCan I fight with you next time?
+MID_様子_カラム_前_敬様: I don't think the enemy even sees me.\nCan I fight with you next time?
+MID_様子_カラム_後: Of course! I'll be your invisible shield.
+MID_様子_カラム_後_敬さん: Of course! I'll be your invisible shield.
+MID_様子_カラム_後_敬様: Of course! I'll be your invisible shield.
+MID_様子_カラム_後_無言: NOT USED
+MID_様子_カラム_前_親子_子: $Np, how did you pass\nyour time in the future?
+MID_様子_カラム_後_親子_子: Well, until you showed up, I made an art\nform of being ignored.$k$pIt's a wonder you stand out so much.\nYou must take after your mother.$k$p...Gods, can't I even count on heredity\nto leave a mark on the world?
+MID_様子_カラム_前_恋人: For a moment there, I thought I'd lost you.\nPromise you'll never leave, $Np.
+MID_様子_カラム_後_恋人: Don't worry. I may be hard to spot,\nbut I'm even harder to kill.

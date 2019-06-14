@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_ヘンリー1
+
+
+Message Name: Message
+
+
+MID_様子_ヘンリー_前: You look happy as a hog! Were you out\nthere playing with the crows, too?
+MID_様子_ヘンリー_前_敬さん: You look happy as a hog! Were you out\nthere playing with the crows, too?
+MID_様子_ヘンリー_後: Oh, no. I was just playing hide-and-seek\nwith the nicest black cat. It's my lucky day!
+MID_様子_ヘンリー_後_敬さん: Oh, no. I was just playing hide-and-seek\nwith the nicest black cat. It's my lucky day!
+MID_様子_ヘンリー_後_無言: NOT USED
+MID_様子_ヘンリー_前_親子_子: $Np, can I get you anything using\nthe horrible power of dark magic?
+MID_様子_ヘンリー_後_親子_子: Really? How about a sick weapon I can use\nto maim people and protect you?
+MID_様子_ヘンリー_前_恋人: What have you got there, $Np?\nAnd why are you trying to hide it?
+MID_様子_ヘンリー_後_恋人: Oh, I made this trinket out of dead animal\nparts. You want it? It'd look good on you.

@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_オリヴィエ4
+
+
+Message Name: Message
+
+
+MID_様子_オリヴィエ_前_敬さん: I feel very safe around you, you know that?\nCan I fight with you in the next battle?
+MID_様子_オリヴィエ_前: I feel very safe around you, you know that?\nCan I fight with you in the next battle?
+MID_様子_オリヴィエ_前_敬様: I feel very safe around you, you know that?\nCan I fight with you in the next battle?
+MID_様子_オリヴィエ_後_敬さん: I can't do much besides dance,\nbut that would be wonderful!
+MID_様子_オリヴィエ_後_敬様: I can't do much besides dance,\nbut that would be wonderful!
+MID_様子_オリヴィエ_後_無言: NOT USED
+MID_様子_オリヴィエ_前_親子_子: $Np, you came from the future,\nright? How did you spend your days?
+MID_様子_オリヴィエ_後_親子_子: My life so far has been mostly practice,\npractice, practice.$k$pI have terrible stage fright, but it's worth\nit to see other people smiling back.$k$pBut you're the one I want to make happy\nmost of all.$k$pSometimes I see a hint of sadness in your\neyes and I...worry.
+MID_様子_オリヴィエ_前_恋人: $Np, PROMISE me you won't get\nyourself hurt. I couldn't bear to lose you.
+MID_様子_オリヴィエ_後_恋人: I know. I'm sorry if I worry you.\nI'll just have to get stronger, okay?

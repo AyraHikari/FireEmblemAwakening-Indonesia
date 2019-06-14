@@ -1,0 +1,13 @@
+MESS_ARCHIVE_様子_ヴァルハルト1
+
+
+Message Name: Message
+
+
+MID_様子_ヴァルハルト_前: You look happy enough to conquer\ncontinents. What is the occasion?
+MID_様子_ヴァルハルト_後: Is that so? I would sooner leave my current\ndisposition to your feeble imagination.
+MID_様子_ヴァルハルト_後_無言: NOT USED
+MID_様子_ヴァルハルト_前_親子_子: Speak, and you shall have all you desire.\nWhat may your father win for you?
+MID_様子_ヴァルハルト_後_親子_子: I need neither gifts nor sentiment. The\nfierce blood in your veins is tribute enough.
+MID_様子_ヴァルハルト_前_恋人: What have you there, my star?\nA secret, perhaps?
+MID_様子_ヴァルハルト_後_恋人: This? Just a trinket I plucked from among\nthe rabble. I hope it pleases you.

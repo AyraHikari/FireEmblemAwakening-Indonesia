@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_シャンブレー4
+
+
+Message Name: Message
+
+
+MID_様子_シャンブレー_前: Please, you have to fight alongside me!\nThe taguel will die out without you!
+MID_様子_シャンブレー_前_無言: NOT USED
+MID_様子_シャンブレー_前_敬さん: Please, you have to fight alongside me!\nThe taguel will die out without you!
+MID_様子_シャンブレー_後: All right. But you take the lead. I'll do my\nbunny thing from the back lines.
+MID_様子_シャンブレー_後_敬さん: All right. But you take the lead. I'll do my\nbunny thing from the back lines.
+MID_様子_シャンブレー_後_無言: NOT USED
+MID_様子_シャンブレー_前_親子_子: What was your future like, Morgan?\nWere there other bunn... I mean, taguel?
+MID_様子_シャンブレー_後_親子_子: Oh, I just lived in fear of annihilation. The\nusual stuff. ...But you have taguel blood!$k$pNo bunny ears, but you're still one of us!\nThat is such a relief.$k$p...Wait, no it's not! Now I have to worry\nabout two people! Aaaugh!
+MID_様子_シャンブレー_前_親子_母: Whew, what a relief to have another taguel\naround. What was life like before we met?
+MID_様子_シャンブレー_後_親子_母: The future was terrifying! Every day I held\nmy breath and waited for the end.$k$pIf I died, the world would forget about the\ntaguel―about you. I couldn't bear that!$k$pSo I decided to survive, no matter how\ncraven it made me look.
+MID_様子_シャンブレー_前_親子_父: Hey, Father! What was life like for you\nbefore I turned up?
+MID_様子_シャンブレー_後_親子_父: The future was the same as now, as far as\nI'm concerned―death around every corner!$k$pAnd I would climb trees or dig holes to\nget away from it.$k$pWhen you think about it, I've gotten a lot\nbraver. Now, I actually stand and fight!
+MID_様子_シャンブレー_前_恋人: Don't get hurt out there, $Np.\nI'd die from grief, and thus ends the taguel!
+MID_様子_シャンブレー_後_恋人: Don't worry, I'm a lot hardier than I let on.\nI've got a whole race to keep alive.

@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_シャンブレー3
+
+
+Message Name: Message
+
+
+MID_様子_シャンブレー_前: Nothing feels better than surviving a battle.\nWhat do you do to celebrate?
+MID_様子_シャンブレー_前_無言: NOT USED
+MID_様子_シャンブレー_前_敬さん: Nothing feels better than surviving a battle.\nWhat do you do to celebrate?
+MID_様子_シャンブレー_後: I do self-preservation exercises in the\nwoods. Gotta be ready for anything!
+MID_様子_シャンブレー_後_敬さん: I do self-preservation exercises in the\nwoods. Gotta be ready for anything!
+MID_様子_シャンブレー_後_無言: NOT USED
+MID_様子_シャンブレー_前_親子_子: Morgan, you look sleepy.\nAre you all right?
+MID_様子_シャンブレー_後_親子_子: Oh my gods! It's happening! I'm going\nextinct! Think of something, Morgan!
+MID_様子_シャンブレー_前_親子_母: Mother, you cut your ear! Will you make it?\n'Cause if you're doomed, I'm doomed!
+MID_様子_シャンブレー_後_親子_母: Nope, no jolt. If I'd heard anything,\nI'd have fled the premises in a second!
+MID_様子_シャンブレー_前_親子_父: Father, you sneeze a lot around me.\nAre you allergic to taguel?
+MID_様子_シャンブレー_後_親子_父: Worried I'll go extinct, huh?\nWell, at least I have you to protect me.
+MID_様子_シャンブレー_前_恋人: You know, you would look stunning in rabbit\nears. ...Not that you're not stunning now!
+MID_様子_シャンブレー_後_恋人: You think? Then I'd better be extra\ncareful not to kick the bucket!

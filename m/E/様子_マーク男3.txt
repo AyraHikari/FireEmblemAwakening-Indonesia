@@ -1,0 +1,14 @@
+MESS_ARCHIVE_様子_マーク男3
+
+
+Message Name: Message
+
+
+MID_様子_マーク男_前_敬さん: What do you do when you finish fighting?
+MID_様子_マーク男_後_敬さん: I try to stay up late and study strategy\nlike my mother. ...But I usually conk out.
+MID_様子_マーク男_前_親子_母: Mother, are you all right? We need your\nmind, but not at the expense of your health.
+MID_様子_マーク男_後_親子_母: You're the one always working hard! If I\ncan't handle this, how will I live up to you?
+MID_様子_マーク男_前_親子_父: Father, are you all right? You look pale.\nI had better think of a solution!
+MID_様子_マーク男_後_親子_父: Thank you, Father, but it's all right.\nNothing will get me down that easily.
+MID_様子_マーク男_前_恋人: You are so attractive, $Np.\nI can hardly focus on my studies!
+MID_様子_マーク男_後_恋人: Trying to score points with me? Well...\nit's working. And you're amazing, too!

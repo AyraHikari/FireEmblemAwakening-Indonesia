@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_ブレディ2
+
+
+Message Name: Message
+
+
+MID_様子_ブレディ_前: What are your dreams? People always\nlaugh at me what when I talk about mine.
+MID_様子_ブレディ_後: I wanna be a violinist. I'm actually pretty\ngood, I think. ...All right, go on. Laugh.
+MID_様子_ブレディ_後_無言: NOT USED
+MID_様子_ブレディ_前_親子_子: Morgan, any son of mine must have a gift\nfor the violin. Wanna see who's better?
+MID_様子_ブレディ_後_親子_子: My fightin' style's nothing to look at―\nbut if ya still wanna see it, you're on.
+MID_様子_ブレディ_前_親子_母: I remember you bein' good at the violin,\nMa. Wanna see who's better?
+MID_様子_ブレディ_後_親子_母: A challenge? I dunno―especially if it's\none'a your tea-drinkin' contests again.
+MID_様子_ブレディ_前_親子_父: We should have a duel sometime, Pop.\nI needs to build up my fightin' muscles!
+MID_様子_ブレディ_後_親子_父: You wanna fight your own son? You're on!\nGrab a staff and let's see who hits harder.
+MID_様子_ブレディ_前_恋人: I love ya, $Np. I swear\nI'll keep ya safe, no matter what.
+MID_様子_ブレディ_後_恋人: I love ya, too. ...Dammit! I'm so moved,\nI can't even say nothin' clever.

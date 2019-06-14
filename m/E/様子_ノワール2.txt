@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_ノワール2
+
+
+Message Name: Message
+
+
+MID_様子_ノワール_前: Do you have any dreams you could share?\nI could use some inspiration.
+MID_様子_ノワール_前_無言: NOT USED
+MID_様子_ノワール_前_敬さん: Do you have any dreams you could share?\nI could use some inspiration.
+MID_様子_ノワール_後: I dream of having the guts to stand up to\npeople. ...Oh gods! I've said too much!
+MID_様子_ノワール_後_敬さん: I dream of having the guts to stand up to\npeople. ...Oh gods! I've said too much!
+MID_様子_ノワール_後_無言: NOT USED
+MID_様子_ノワール_前_親子_子: Morgan, you're great at attacking from a\nsafe distance. Care to have a little contest?
+MID_様子_ノワール_後_親子_子: Okay. But if you hit me, my mother's curse\nwill activate and you'll get the same injury.
+MID_様子_ノワール_前_親子_母: I've learned a few hexes of my own, Mother.\nWant to take me on?
+MID_様子_ノワール_後_親子_母: As if saying no would stop you! Just spare\nme the runny-nose curse. It was horrible...
+MID_様子_ノワール_前_親子_父: Father, I want to be stronger.\nWill you have a match to help me train?
+MID_様子_ノワール_後_親子_父: A fight? If you hit me, Mother's curse will\nactivate and you'll get the same injury...
+MID_様子_ノワール_前_恋人: Please don't push yourself, $Np.\nI worry about you because...I love you.
+MID_様子_ノワール_後_恋人: I love you, too. I feel safe from\nany danger when I'm with you.

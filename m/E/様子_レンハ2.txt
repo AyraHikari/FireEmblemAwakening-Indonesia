@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_レンハ2
+
+
+Message Name: Message
+
+
+MID_様子_レンハ_前_通殿: Dreams give us purpose and the power\nto do the impossible. What are yours?
+MID_様子_レンハ_前: Dreams give us purpose and the power\nto do the impossible. What are yours?
+MID_様子_レンハ_前_特殊: Dreams give us purpose and the power\nto do the impossible. What are yours?
+MID_様子_レンハ_後_通殿: I dream of rebuilding Chon'sin in whatever\nrole I can. This time she shall know no war.
+MID_様子_レンハ_後_特殊: I dream of rebuilding Chon'sin in whatever\nrole I can. As do you, no doubt.
+MID_様子_レンハ_後_無言: NOT USED
+MID_様子_レンハ_前_親子_子: Morgan, prithee practice with your father.\nDo you have the makings of a swordsman?
+MID_様子_レンハ_後_親子_子: Aye, a sound suggestion. I was\nbeginning to get a bit rusty.
+MID_様子_レンハ_前_恋人: I love you, $Np. I must say it,\nfor fear this be my final chance.
+MID_様子_レンハ_後_恋人: I love you as well. I will protect you\nwhatever the cost.

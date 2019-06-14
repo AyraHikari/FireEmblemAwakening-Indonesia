@@ -1,0 +1,13 @@
+MESS_ARCHIVE_様子_パリス4
+
+
+Message Name: Message
+
+
+MID_様子_パリス_前: I wish to fight alongside you in\nour next battle. Do you accept?
+MID_様子_パリス_後: A wise choice, as I will let no\nfoe touch you. But stay close...
+MID_様子_パリス_後_無言: NOT USED
+MID_様子_パリス_前_親子_子: Morgan, I was hoping you would share some\ntales from the future. Anything at all.
+MID_様子_パリス_後_親子_子: Until recently, I lived in a secluded village\nand trained to be the world's strongest.$k$pBut leaving that village changed my life,\nbecause it gave me you.$k$pIt will be fun to return one day and tell my\nold friends of these happy developments.
+MID_様子_パリス_前_恋人: Stay close to me in battle, $Np.\nI will not lose you.
+MID_様子_パリス_後_恋人: Me? Die? I rush to victory, not defeat.

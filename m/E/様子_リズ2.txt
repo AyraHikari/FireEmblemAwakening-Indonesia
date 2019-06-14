@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_リズ2
+
+
+Message Name: Message
+
+
+MID_様子_リズ_前: Hey, what are your dreams for the future?\nSometimes I feel like life has no direction...
+MID_様子_リズ_前_無言: NOT USED
+MID_様子_リズ_前_通さん: Hey, what are your dreams for the future?\nSometimes I feel like life has no direction...
+MID_様子_リズ_前_特殊: You have any dreams for the future, Chrom?\nSometimes I feel like life has no direction...
+MID_様子_リズ_前_特殊E: What do you dream about, Emm? You\nshould be thinking about your future.
+MID_様子_リズ_後: I want to be a proper lady like my sister.\n...But don't tell anyone I said that.
+MID_様子_リズ_後_通さん: I want to be a proper lady like my sister.\n...But don't tell anyone I said that.
+MID_様子_リズ_後_特殊: I want to be a proper lady like my sister.\n...But don't tell anyone I said that.
+MID_様子_リズ_後_特殊E: I want to be a proper lady like you.\nYou're my dream, Emm!
+MID_様子_リズ_後_無言: NOT USED
+MID_様子_リズ_前_親子_子: Let's train for a bit, $Np.\nI can hold my own as a Shepherd!
+MID_様子_リズ_後_親子_子: You're on! ...Oh, look at the time.\nCan we take a rain check?
+MID_様子_リズ_前_恋人: I love you, $Np. I just know\nwe're going to be together forever!
+MID_様子_リズ_後_恋人: Thanks, $Np. I never get\ntired of hearing that. I love you, too!

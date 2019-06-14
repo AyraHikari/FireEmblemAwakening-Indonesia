@@ -1,0 +1,13 @@
+MESS_ARCHIVE_様子_ヴァルハルト4
+
+
+Message Name: Message
+
+
+MID_様子_ヴァルハルト_前: You know, you've grown very skilled. I could\nuse one with your talents on the battlefield.
+MID_様子_ヴァルハルト_後: Me, help you? Very well! Just see you\ndon't squander the advantage.
+MID_様子_ヴァルハルト_後_無言: NOT USED
+MID_様子_ヴァルハルト_前_親子_子: Morgan, spin me a tale from the future.\nHow did you spend your days?
+MID_様子_ヴァルハルト_後_親子_子: I simply...conquered. Power was my justice,\nmy everything.$k$pI brought the world to new depths of\nterror. I let it...intoxicate me.$k$pYou will need strength like mine in these\ntrying times. Try to wield it wisely.
+MID_様子_ヴァルハルト_前_恋人: $Np, stay close to me when we\nfight. None shall harm you, I swear it.
+MID_様子_ヴァルハルト_後_恋人: I will be with you there and always,\nas I have vowed to do.

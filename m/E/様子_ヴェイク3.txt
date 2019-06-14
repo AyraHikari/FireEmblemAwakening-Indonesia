@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_ヴェイク3
+
+
+Message Name: Message
+
+
+MID_様子_ヴェイク_前: So whaddya do to kill time?\nYou're hardly ever around camp.
+MID_様子_ヴェイク_前_敬さん: So whaddya do to kill time?\nYou're hardly ever around camp.
+MID_様子_ヴェイク_前_敬様: So whaddya do to kill time?\nYou're hardly ever around camp.
+MID_様子_ヴェイク_後: The Vaike strives for greater perfection,\nof course. All role models should!
+MID_様子_ヴェイク_後_敬さん: The Vaike strives for greater perfection,\nof course. All role models should!
+MID_様子_ヴェイク_後_敬様: The Vaike strives for greater perfection,\nof course. All role models should!
+MID_様子_ヴェイク_後_無言: NOT USED
+MID_様子_ヴェイク_前_親子_子: You okay, $Np? Your old man's\nseen Risen with more spark in their eyes.
+MID_様子_ヴェイク_後_親子_子: Pfft, don't worry about your old man.\n...Wait, are you checkin' up on me?
+MID_様子_ヴェイク_前_恋人: You're a knockout, $Np, ya\nknow that? Ain't no luckier man alive!
+MID_様子_ヴェイク_後_恋人: For serious?! I...I mean, of course\nTeach is aware of his manly charms!

@@ -1,0 +1,13 @@
+MESS_ARCHIVE_様子_パリス2
+
+
+Message Name: Message
+
+
+MID_様子_パリス_前: Have any dreams, friend?
+MID_様子_パリス_後: My dream is to do battle with the world's\ngreatest fighters, even if it costs me my life.
+MID_様子_パリス_後_無言: NOT USED
+MID_様子_パリス_前_親子_子: Fight me, Morgan. You are my son,\nand I expect great things.
+MID_様子_パリス_後_親子_子: All right. But I hold back for no one.\nSon or not, you will lose.
+MID_様子_パリス_前_恋人: I treasure you, $Np.\nStay with me always.
+MID_様子_パリス_後_恋人: I love you as well―more than any other.

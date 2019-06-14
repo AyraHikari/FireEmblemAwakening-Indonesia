@@ -1,0 +1,13 @@
+MESS_ARCHIVE_様子_インバース1
+
+
+Message Name: Message
+
+
+MID_様子_インバース_前: Oh my. What's that lascivious grin?\nAre you plotting to kill me, or...?
+MID_様子_インバース_後: No. Were you hoping to have some sort of\nscintillating conversation?
+MID_様子_インバース_後_無言: NOT USED
+MID_様子_インバース_前_親子_子: Do you need anything? I could perhaps\nteach you how to get what you want...
+MID_様子_インバース_後_親子_子: Well, some perfume would be nice.\nAny little fragrance you're fond of.
+MID_様子_インバース_前_恋人: What do you have there, my love? A bit\nunusual for you to be lugging about, mmm?
+MID_様子_インバース_後_恋人: Hee hee! You noticed. Well, it's a gift for\nyou, love. Shame on you for peeking.

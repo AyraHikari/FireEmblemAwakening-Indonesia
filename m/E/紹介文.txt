@@ -1,0 +1,102 @@
+MESS_ARCHIVE_紹介文
+
+
+Message Name: Message
+
+
+MID_名鑑_プレイヤー男: A traveler who remembers nothing\nprior to being found by the wayside.\nChrom realized his tactical genius\nand enlisted him in the Shepherds,\nwhere he is well liked.\nThe biggest mystery of the group.
+MID_名鑑_プレイヤー女: A traveler who remembers nothing\nprior to being found by the wayside.\nChrom realized her tactical genius\nand enlisted her in the Shepherds,\nwhere she is well liked.\nThe biggest mystery of the group.
+MID_名鑑_クロム: The prince of Ylisse and descendant\nof the Hero-King. While of noble\nblood, he also leads a militia known\nas the Shepherds. His strong\nconviction makes him a fine captain.\nThe most likely to break things.
+MID_名鑑_フレデリク: Chrom's lieutenant, an Ylissean\nknight who is sincere to a fault. He\ntends to demand tremendous effort\nfor seemingly trivial things, and\nprefaces such exercises with a grin.\nThe fondest of starting fires.
+MID_名鑑_ソール: A surprisingly normal Shepherd with\na big heart and perpetual cowlick.\nHe has a good head on his\nshoulders, but the rest of him\noften has trouble keeping up.\nThe most eager to clean a plate.
+MID_名鑑_カラム: A laconic, blank-faced Shepherd\nwhose infamous lack of presence\ncauses him to pass by the others\nas if invisible. Despite his protests,\nhe is actually quite proud of that.\nThe tallest while seated.
+MID_名鑑_リヒト: A novice Shepherd who looks and\nacts like a child. While this endears\nhim to the others, he hates being\ntreated as anything less than an\nequal. He sees Chrom as a brother.\nThe most popular with cute animals.
+MID_名鑑_ヴェイク: A rough-hewn Shepherd with a loud\npersonality and far more confidence\nthan his ability warrants. He sees\nhimself as exemplary and reverently\nrefers to himself in the third person.\nThe best at misplacing things.
+MID_名鑑_リベラ: An Ylissean priest with a calming\nmien. So lovely are his features that\nstrangers often mistake him for a\nwoman. His one flaw is a tendency\nto get caught up in details.\nThe one with the scabbiest knees.
+MID_名鑑_ロンクー: A swordsman raised in Regna Ferox,\nwhere Khan Basilio has vouched for\nhis skill. While cool and curt around\nmost people, the very sight of a\nwoman turns him beet red.\nThe deftest potato peeler.
+MID_名鑑_グレゴ: A likeable merc whose feet have\ntouched the soil of many a land.\nYears of experience have hardened\nhim―mostly―but he still winces\nwhen people harp on about his age.\nThe first to get a crick in his back.
+MID_名鑑_ガイア: A cool and capable Ylissean thief\nwho will take any job for the right\nprice. He is absolutely obsessed\nwith sweets and hides 50 varieties\nof "emergency snacks" in his cloak.\nThe most frequent nosebleeder.
+MID_名鑑_ヴィオール: A secretive noble from some land or\nanother. While many would brand\nhim a buffoon or a braggart, his\nboasts are often founded. He is\nswift to propose to anything female.\nThe most prolonged primper.
+MID_名鑑_ヘンリー: A Plegian dark mage with a fetish\nfor bloodshed and an indelible grin.\nWhile disarmingly optimistic, he\nshows a gruesome lack of mercy\nwhile on the battlefield.\nThe one with the lowest heart rate.
+MID_名鑑_ドニ: A villager from a remote corner of\nYlisse who came to the fight with\nlittle more than farming experience.\nHowever, he is eager to learn and\nshows a great deal of promise.\nThe one with the curliest hair.
+MID_名鑑_スミア: An absentminded, klutzy Shepherd\nwith a shocking lack of self-worth.\nHowever, she exhibits one-of-a-kind\ntalent, particularly when it comes\nto working with animals.\nThe best at tripping over nothing.
+MID_名鑑_リズ: Chrom's tomboyish little sister, the\nprincess of Ylisse. With nary an\nounce of nobility in her personality,\nshe is among the most likeable and\napproachable of the Shepherds.\nThe girl most likely to snort.
+MID_名鑑_ソワレ: A no-nonsense, capable Shepherd\nwith a mouth that would make\nbrigands blush. Ylissean women\nadmire her strength and call her\n"The Woman to End All Men."\nThe last one you want cooking.
+MID_名鑑_マリアベル: Lissa's best friend. A proud and\nsharp-tongued noble from one of\nYlisse's most well-to-do houses. She\nis cold to strangers, particularly\ncommoners, but warms quickly.\nThe most likely to toss in her sleep.
+MID_名鑑_ティアモ: An Ylissean pegasus knight who has\nbeen friends with Sumia since child-\nhood. Her beauty, skill, and record\nare surpassed by few, but she\ncannot seem to win Chrom's heart.\nThe deepest, most frequent sigher.
+MID_名鑑_ベルベット: A nationless shape-shifter and the\nlast of the taguel. While cool and\nsensible by nature, she shows little\ninterest in finding a partner and\nremedying the fate of her race.\nThe fastest at wolfing down a meal.
+MID_名鑑_ノノ: A manakete from no land in\nparticular. While she looks young\nand likes to play outside with\nchildren, she is actually over\n1,000 years old and counting.\nThe biggest oversleeper.
+MID_名鑑_オリヴィエ: A shy, introverted caravan dancer\nwho goes above and beyond to help\nothers. Despite her stage fright,\nshe is unparalleled in her craft and\nhas admirers around the world.\nThe most mesmerizing singer.
+MID_名鑑_セルジュ: A wyvern rider in the service of\nHouse Virion. She was raised with\nsimple values and likes to cook and\nsew, but loves her "sweet, adorable"\nwyvern Minerva even more.\nThe most terrifying when angry.
+MID_名鑑_ミリエル: A grandiloquent but fastidious\nShepherd who grows irascible if so\nmuch as a single arrow sits ajar in\nits quiver. She adores research and\nobsesses over her object of study.\nThe most superfluous packer.
+MID_名鑑_サーリャ: A mopey Plegian dark mage with a\njealous streak. She usually keeps to\nherself and chants disturbing hexes\nbut openly stalks $Nu, in\nwhom she has an unhealthy interest.\nThe one with the darkest thoughts.
+MID_名鑑_ジェローム: Cherche's future son. He has\nconcerns about meddling with the\npast and wears a mask to minimize\ninteractions―but like the other\nchildren, he wants his parents back.\nThe last to fall asleep at night.
+MID_名鑑_ウード: Lissa's future son. His elaborate\ntheatrics suggest a need to stand\nout, as do the absurd names he\nbestows upon his weapons and his\n"special moves."\nThe most apt to shout "Level up!"
+MID_名鑑_アズール: Olivia's future son. A friendly young\nman with an insatiable love for\nwomen. However, the ladies see his\nflirting as shallow and seldom bite.\nHe secretly wants to be a dancer.\nThe biggest night owl.
+MID_名鑑_ブレディ: Maribelle's future son. While he\nlooks terrifying, he is more likely to\nburst into tears than bust out a\nweapon. The scar on his face is\nfrom a stray violin string.\nThe most likely to incur friendly fire.
+MID_名鑑_シャンブレー: Panne's future son. Terrified that\nhis race (i.e., himself) will go\nextinct, he has become a colossal\ncoward―but he might put himself\nout on a limb for a comrade's sake.\nThe loudest talker.
+MID_名鑑_ロラン: Miriel's future son. A sharp but\noverserious wunderkind. Folks take\nadvantage of his wisdom and\nempathy, but his attention to detail\nmakes him a natural problem solver.\nThe one with the worst lens glare.
+MID_名鑑_マルス: Chrom's future daughter, a kind and\njust princess who has made it her\nduty to save the world. She loves\nher father and would do anything to\nkeep him safe.\nThe least likely to get a joke.
+MID_名鑑_デジェル: Sully's future daughter, a model of\nchivalry. She believes the strong\nmust protect the weak and loves to\nbetter herself through sport, but is\nreckless about who she challenges.\nThe most attached to her armor.
+MID_名鑑_シンシア: Sumia's future daughter. A veritable\nforce of nature when it comes to\nenthusiasm. She longs to be a hero\n(the epic kind) but, like her mother,\nslips up more often than not.\nThe most baffling sleep talker.
+MID_名鑑_セレナ: Cordelia's future daughter. Growing\nup in the shadow of her mother has\ngiven her an inferiority complex\nand an attitude to match. She likes\nusing words to get her way.\nThe most wasteful shopper.
+MID_名鑑_ノワール: Tharja's future daughter. Repeated\ndoses of her mother's hexes turned\nher into an extreme coward and\npessimist―but beware her terrifying\nalter ego when pushed too far.\nThe first to flee when danger hits.
+MID_名鑑_ンン: Nowi's future daughter. Unlike her\nmother, she is remarkably grown up\nand keeps her feelings in check―\nespecially about her weird name.\nShe has a knack for reading people.\nThe one with the nicest teeth.
+MID_名鑑_マーク男: $Nu's future son. An\nupbeat boy who remembers little\nabout the future―not even which\nfuture he came from. He wants to\nbe a tactician like his mother.\nThe most shamelessly self-driven.
+MID_名鑑_マーク女: $Nu's future daughter.\nAn upbeat girl who remembers little\nabout the future―not even which\nfuture she came from. She wants to\nbe a tactician like her father.\nThe most shamelessly self-driven.
+MID_名鑑_パリス: The descendant of a certain radiant\nhero. He has scoured the world in\nsearch of worthy opponents. While\naffable enough outside of battle, he\nis clearly more brawn than brains.\nThe most insatiable meat eater.
+MID_名鑑_バジーリオ: The West-Khan of Regna Ferox.\nHis rival, Flavia, calls him "oaf" due\nto his attitude, but he is actually\nquite quick witted. He exhibits a\nfatherly side around Chrom's group.\nThe guy with the biggest reactions.
+MID_名鑑_レンハ: The former Chon'sin dynast, but not\nthe Yen'fay who died in the volcano;\nlike Lucina, he hails from the future.\nEarnest and meditative to a fault,\nhe longs to protect his sister Say'ri.\nThe best under high temperatures.
+MID_名鑑_ヴァルハルト: The unforgiving man who forged the\nValmese Empire. He loathes losers\nand cowards and sought to unite\nthe world through absolute power.\n(He's calmed down since. ...A bit.)\nThe most devout vegetarian.
+MID_名鑑_ギャンレル: The wild and ruthless former king of\nPlegia. He once took sick pleasure\nin hurting others, but his own life\nwas not easy, and he has shown\nsigns of reform since joining Chrom.\nThe most hopeless acrophobe.
+MID_名鑑_サイリ: The upright and dignified princess\nof the Chon'sin dynasty. Her old-\nfashioned speech and manners set\nher apart from the Ylisseans. She\nloves her brother Yen'fay fiercely.\nThe most talented skin diver.
+MID_名鑑_アンナ: An enigmatic merchant with a bevy\nof identical sisters―more than she\ncan count. Like most merchants,\nshe is a smooth talker who loves\nboth gold and rich customers.\nThe one with the fattest nest egg.
+MID_名鑑_チキ: The Voice of the divine dragon.\nWhile mature, she also has a child-\nlike side. Being a dragonkin, she has\nlived since days of yore and was\nfriends with the Hero-King, Marth.\nThe most likely to sleep in.
+MID_名鑑_インバース: A cunning vixen who once served\nValidar faithfully and leveraged her\n"assets" to lead men to their ruin.\nShe has sought to atone since\nlearning Validar manipulated her.\nThe fondest of taking long swims.
+MID_名鑑_フラヴィア: The East-Khan and current ruler of\nRegna Ferox. She has a swagger\nabout her and dislikes formalities,\nbut nonetheless looks after her own.\nBasilio is her rival and best friend.\nThe first to push for push-ups.
+MID_名鑑_エメリナ: Chrom's elder sister, the former\nexalt of Ylisse. A fall in Plegia took\nmost of her memory and impaired\nher speech, but the love in her\nheart could not be diminished.\nThe hardest to kill.
+MID_名鑑_おじいさん: An old man who just sort of showed\nup. Mostly useless, though he can\nassess relationships. Oh, and he's a\nfew millennia old or something.\nThe one with the wildest love life.\nBorn on February 29th.
+MID_誕生_文字列: $aBorn on $a0 $a1.
+MID_誕生月_01: January
+MID_誕生月_02: February
+MID_誕生月_03: March
+MID_誕生月_04: April
+MID_誕生月_05: May
+MID_誕生月_06: June
+MID_誕生月_07: July
+MID_誕生月_08: August
+MID_誕生月_09: September
+MID_誕生月_10: October
+MID_誕生月_11: November
+MID_誕生月_12: December
+MID_誕生日_01: 1st
+MID_誕生日_02: 2nd
+MID_誕生日_03: 3rd
+MID_誕生日_04: 4th
+MID_誕生日_05: 5th
+MID_誕生日_06: 6th
+MID_誕生日_07: 7th
+MID_誕生日_08: 8th
+MID_誕生日_09: 9th
+MID_誕生日_10: 10th
+MID_誕生日_11: 11th
+MID_誕生日_12: 12th
+MID_誕生日_13: 13th
+MID_誕生日_14: 14th
+MID_誕生日_15: 15th
+MID_誕生日_16: 16th
+MID_誕生日_17: 17th
+MID_誕生日_18: 18th
+MID_誕生日_19: 19th
+MID_誕生日_20: 20th
+MID_誕生日_21: 21st
+MID_誕生日_22: 22nd
+MID_誕生日_23: 23rd
+MID_誕生日_24: 24th
+MID_誕生日_25: 25th
+MID_誕生日_26: 26th
+MID_誕生日_27: 27th
+MID_誕生日_28: 28th
+MID_誕生日_29: 29th
+MID_誕生日_30: 30th
+MID_誕生日_31: 31st

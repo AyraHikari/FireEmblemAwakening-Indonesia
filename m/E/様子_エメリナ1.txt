@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_エメリナ1
+
+
+Message Name: Message
+
+
+MID_様子_エメリナ_前: Why are you...grinning?\nIs my face dirty?
+MID_様子_エメリナ_前_特殊: Why are you...grinning?\nIs my face dirty?
+MID_様子_エメリナ_後: No... You're just...fun to...\nbe around...
+MID_様子_エメリナ_後_特殊: No... I can't...remember a thing...\nI'm sorry...
+MID_様子_エメリナ_後_無言: NOT USED
+MID_様子_エメリナ_前_親子_子: Is there anything...you need?
+MID_様子_エメリナ_後_親子_子: Just my...memories back...
+MID_様子_エメリナ_前_恋人: What do you...have...\nCan I...see?
+MID_様子_エメリナ_後_恋人: It's...a flower.\n...For you!

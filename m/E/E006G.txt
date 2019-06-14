@@ -1,0 +1,8 @@
+MESS_ARCHIVE_E006G
+
+
+Message Name: Message
+
+
+MIID_予約０５: Silver Card
+MIID_H_予約０５: Allows you to buy weapons\nand items at half price.

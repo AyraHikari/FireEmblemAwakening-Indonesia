@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_ギャンレル3
+
+
+Message Name: Message
+
+
+MID_様子_ギャンレル_前: Hard to enjoy the more bawdy diversions\nin wartime. How do you fend off boredom?
+MID_様子_ギャンレル_前_特殊: Why do you wander off like that after\nbattles, fool? You'll get hurt.
+MID_様子_ギャンレル_後: I do whatever I please, and it's none of\nyour damn business.
+MID_様子_ギャンレル_後_特殊: I usually just let my mind wander. I'd lend\nyou a hand, if you had the sense to ask.
+MID_様子_ギャンレル_後_無言: NOT USED
+MID_様子_ギャンレル_前_親子_子: Why are you so quiet today?\nIt's eerie when you don't talk.
+MID_様子_ギャンレル_後_親子_子: Haven't you noticed? I'm always a little\ngray in the face. Stop worrying.
+MID_様子_ギャンレル_前_恋人: You know, $Np, in the right light,\nyou are truly ravishing.
+MID_様子_ギャンレル_後_恋人: I know. You set a high standard, so of\ncourse I have to keep up appearances.

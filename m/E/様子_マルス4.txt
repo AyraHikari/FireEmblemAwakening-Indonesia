@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_マルス4
+
+
+Message Name: Message
+
+
+MID_様子_マルス_前: I feel so empowered around you. Have I\nmentioned that? Why don't we team up?
+MID_様子_マルス_前_無言: NOT USED
+MID_様子_マルス_前_敬さん: I feel so empowered around you. Have I\nmentioned that? Why don't we team up?
+MID_様子_マルス_後: Of course. I will protect you with my life,\nthe same as all my comrades.
+MID_様子_マルス_後_敬さん: Of course. I will protect you with my life,\nthe same as all my comrades.
+MID_様子_マルス_後_無言: NOT USED
+MID_様子_マルス_前_親子_子: Morgan, was your future more peaceful\nthan mine? I wish you could remember.
+MID_様子_マルス_後_親子_子: I came from the future, like you. Mine was\na dark one, though, and full of despair.$k$pI wonder if you returned here for the same\nreason―to right some terrible wrong.$k$pIf so, then let us set things right together.\nWe will save all possible futures!
+MID_様子_マルス_前_親子_母: Mother, what was your life like\nbefore you met me?
+MID_様子_マルス_後_親子_母: You want to know about the future?\nI have told you most of what I know.$k$pWhy don't we talk about the few\nmemories I have of you?$k$pWe could sit down over dinner.\nI would like that very much.
+MID_様子_マルス_前_親子_父: I'm so glad we can be together again,\nFather. Tell me more about your life.
+MID_様子_マルス_後_親子_父: I remember a little of a more peaceful time\nwhen I was very small.$k$pI pretended I was captain of my very own\nJunior Shepherds!$k$pBe kind to baby Lucina if she does such\nsilly things. They...may be all she has.
+MID_様子_マルス_前_恋人: Please take care of yourself out there. I do\nnot want to see another loved one slain.
+MID_様子_マルス_後_恋人: Don't worry. I promise to remain by\nyour side as long as you need me.

@@ -1,0 +1,13 @@
+MESS_ARCHIVE_様子_チキ3
+
+
+Message Name: Message
+
+
+MID_様子_チキ_前: Say, how do you pass\nyour time in camp?
+MID_様子_チキ_後: I do as much as I can. Walks, cooking...\nI never know when my next sleep will come.
+MID_様子_チキ_後_無言: NOT USED
+MID_様子_チキ_前_親子_子: Morgan, you look sleepy. Need a dose\nof dragonbreath to wake you up?
+MID_様子_チキ_後_親子_子: Really? How odd. I feel just fine.\nWell, whatever it is, I'm sure it will pass.
+MID_様子_チキ_前_恋人: Every day makes you a finer man, my love.\nI wish I could grow old like you.
+MID_様子_チキ_後_恋人: Really? I'm fairly certain I'm the same as\nalways, but it's still nice of you to say.

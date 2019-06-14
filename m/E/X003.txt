@@ -1,0 +1,16 @@
+MESS_ARCHIVE_X003
+
+
+Message Name: Message
+
+
+MID_X003_OP1: $t1$Wmフレデリク|3$Wmクロム|7$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_5|$E怒,|Milord, look! Risen!$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_34|$E苦,汗|Ugh, and there's a village just ahead.\nCome on!$k
+MID_X003_OP2: $t1$Wm村人|3$w0|$SspSE_EVT_HARDKNOCK1|$Ws村人|$Wa$SvpSE_VOICE_VIRREGER2_EVT_10|$E苦,汗|Help! Heeelp! Open the gates!$k$pThe dead walk the earth! If you've any\nkindness in you, open the gates!$k$pWe're from Woodham, up the road!\nYou KNOW us! Please, open the―$k$pGods, no. ...No! They're here!\nAaaiiieeeeee!$k
+MID_X003_OP3: $t1$Wmフレデリク|3$Wmクロム|7$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|$E通常,|Hmm... The townsfolk of this village are\nrenowned for their hospitality.$k$p$E怒,|How could they turn away refugees\nfearing for their lives?$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_35|$E怒,|Let's worry about saving those lives first.\nWe can ask questions later.$k
+MID_X003_VIL1: $t1$Wm村長|3$Wmクロム|7$w0|$Ws村長|$Wa$SvpSE_VOICE_VIRREGER4_EVT_3|$E笑,|Shepherds are always welcome here.\nPlease, take this with you.$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_25|$E通常,|Listen. There were refugees here\nand you turned them away. Why?$k\n$Ws村長|$Wa$SvpSE_VOICE_VIRREGER4_EVT_4|$E通常,|We're a peaceful town, sir. We have no\nweapons, nor any want for them.$k$pWe survive by barring our gates to those\nwho might bring us harm―friend or foe.$k$p$E怒,|Harsh as it may be, I can't have my people\ndying on account of other folks' problems...$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_34|$E怒,|......$k
+MID_X003_VIL2: $t1$Wm村長|3$Wm自分|7$w0|$Ws村長|$Wa$SvpSE_VOICE_VIRREGER4_EVT_3|$E笑,|Shepherds are always welcome here.\nPlease, take this with you.$k
+MID_X003_TK1: $t1$Wm村人|3$Wmクロム|7$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_24|$E通常,|Are you all right?!$k\n$Ws村人|$Wa$SvpSE_VOICE_VIRREGER2_EVT_8|$E苦,汗|Oh, thank goodness you've come!\nAre you here to help us?$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_9|$E怒,|We'll hold them off! Run!$k\n$Ws村人|$Wa$SvpSE_VOICE_VIRREGER2_EVT_10|$E通常,|U-understood! If we make it out alive,\nI'll repay you! I swear!$k
+MID_X003_ED1: $t1$Wm村人|7$Wmクロム|3$w0|$Ws村人|$Wa$SvpSE_VOICE_VIRREGER2_EVT_9|I've not the words to thank you, nor the\ntreasure to pay you, but...here. Take this.$k$p$E笑,|I didn't think people like you still existed.\nI'll...I'll never forget this.$k\n$Ws村人|$Wd$w0|$Wmフレデリク|7$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_25|$E通常,|Do you suppose the village will continue\nto bar its gates to refugees?$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_6|As long as they view the Risen as someone\nelse's problem, then yes.$k\n$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|They claim to love peace...$k$pYet the uneasy peace found behind a\nbarricade is nothing I'd want.$k$pPeace begins when the fighting is over\nand the barricades come down.$k$p$E怒,|I pray they can see the truth of that\nbefore it's too late...$k
+MID_X003_ED2: $t1$Wmフレデリク|3$Wmクロム|7$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_35|$E怒,|...I failed them. I let them die.$k\n$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_8|$E怒,|No, milord. You gave all that you had.\nThat is no failure.$k$pAnd we can still give them peace.\nThey deserve a proper burial.$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_20|$E苦,汗|They deserved to LIVE, Frederick!\n...Ah, damn it all.$k
+MID_X003_BT1: $t0$WmX003_ボス|0$w0|$WsX003_ボス|$WaRhaaagh!$k
+MID_X003_BOSS_DIE1: $t0$WmX003_ボス|0$w0|$WsX003_ボス|$WaHrnnh...aaargh...$k

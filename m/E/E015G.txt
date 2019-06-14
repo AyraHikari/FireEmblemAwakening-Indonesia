@@ -1,0 +1,10 @@
+MESS_ARCHIVE_E015G
+
+
+Message Name: Message
+
+
+MIID_予約０４: Limit Breaker
+MIID_H_予約０４: Teaches a skill that extends\nall stat caps of a unit by 10.
+MRSID_予約０４: Limit Breaker
+MRSID_H_予約０４: Extends all stat caps by 10.

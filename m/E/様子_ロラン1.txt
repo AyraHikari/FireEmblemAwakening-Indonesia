@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_ロラン1
+
+
+Message Name: Message
+
+
+MID_様子_ロラン_前: You seem to be in excellent spirits. Did you\ndiscover a book to your liking?
+MID_様子_ロラン_前_無言: NOT USED
+MID_様子_ロラン_前_敬さん: You seem to be in excellent spirits. Did you\ndiscover a book to your liking?
+MID_様子_ロラン_後: No. For once our shelves are all organized!\nI am most grateful.
+MID_様子_ロラン_後_敬さん: No. For once our shelves are all organized!\nI am most grateful.
+MID_様子_ロラン_後_無言: NOT USED
+MID_様子_ロラン_前_親子_子: Morgan, do you lack for anything? Any son\nof mine should be aware of his provisions.
+MID_様子_ロラン_後_親子_子: Might I inquire about your budget first? My\nneeds tend to run into the quintuple digits.
+MID_様子_ロラン_前_親子_母: Mother, you've been burning through your\npossessions. Can I help pay for a restock?
+MID_様子_ロラン_後_親子_母: Thank you. Perhaps you could start by\nreimbursing me for my time-travel expenses.
+MID_様子_ロラン_前_親子_父: Is there anything you need, Father? I know\nof no other way to be a good son to you.
+MID_様子_ロラン_後_親子_父: You're offering to buy me something?\n...How much gold is in your possession?
+MID_様子_ロラン_前_恋人: $Np, your satchel is stuffed to\nthe brim. What have you got in there?
+MID_様子_ロラン_後_恋人: It's a hair ornament. Just walking into the\nshop took courage, but...I hope you like it.

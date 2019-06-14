@@ -1,0 +1,19 @@
+MESS_ARCHIVE_様子_ティアモ4
+
+
+Message Name: Message
+
+
+MID_様子_ティアモ_前: Why don't we fight together next time?\nYou don't have to do everything alone.
+MID_様子_ティアモ_前_敬さん: Why don't we fight together next time?\nYou don't have to do everything alone.
+MID_様子_ティアモ_前_敬様: Why don't we fight together next time?\nYou don't have to do everything alone.
+MID_様子_ティアモ_前_特殊: Er, Chrom, I was wondering if...\nWell, it would honor me to fight together.
+MID_様子_ティアモ_後: Of course. I would welcome\nthe change of pace.
+MID_様子_ティアモ_後_敬さん: Of course. I would welcome\nthe change of pace.
+MID_様子_ティアモ_後_敬様: Of course. I would welcome\nthe change of pace.
+MID_様子_ティアモ_後_特殊: YES! That would be...\nI would be honored! Truly!
+MID_様子_ティアモ_後_無言: NOT USED
+MID_様子_ティアモ_前_親子_子: How did you spend your time\nin the future, $Np?
+MID_様子_ティアモ_後_親子_子: Well, I used to be painfully lonely\nand in love with a man I could not have.$k$pI even dreamt of death...$k$pBut I found another man who sustains me\nand a daughter I can be proud of.$k$pSo trust me―no matter how dark things\nseem, you will always pull through it.
+MID_様子_ティアモ_前_恋人: $Np, look me in the eye and\npromise you'll stay safe for me.
+MID_様子_ティアモ_後_恋人: Peace. You know I'm not an easy\nwoman to kill. I won't leave you.

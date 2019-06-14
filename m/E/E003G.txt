@@ -1,0 +1,10 @@
+MESS_ARCHIVE_E003G
+
+
+Message Name: Message
+
+
+MIID_予約０１: All Stats +2
+MIID_H_予約０１: Teaches a skill that grants\n+2 to all stats of a unit.
+MRSID_予約０１: All Stats +2
+MRSID_H_予約０１: Grants +2 to all stats.

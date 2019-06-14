@@ -1,0 +1,21 @@
+MESS_ARCHIVE_様子_ンン4
+
+
+Message Name: Message
+
+
+MID_様子_ンン_前: I feel stronger with you by my side. Why\ndon't we join forces in the coming battle?
+MID_様子_ンン_前_無言: NOT USED
+MID_様子_ンン_前_敬さん: I feel stronger with you by my side. Why\ndon't we join forces in the coming battle?
+MID_様子_ンン_前_特殊: I feel stronger with you by my side, Chrom.\nWhy don't we join forces in the next battle?
+MID_様子_ンン_後: Of course! I would feel better off with a\nbattle partner, too! I'll do my best.
+MID_様子_ンン_後_敬さん: Of course! I would feel better off with a\nbattle partner, too! I'll do my best.
+MID_様子_ンン_後_無言: NOT USED
+MID_様子_ンン_前_親子_子: Can't you recall anything about your future,\nMorgan? What about me? Was I there?
+MID_様子_ンン_後_親子_子: I was in my own future until recently...\nShall I tell you about that?$k$pI would rather forget those dark times\nand focus on what's to come.$k$pA little forward thinking goes a long way!
+MID_様子_ンン_前_親子_母: Mother, are you busy? I was wondering\nwhat your life was like before we met.
+MID_様子_ンン_後_親子_母: My future was filled with battles, so I\nsuppose not much has changed there...$k$pYou were already gone, so I had no one to\nteach me how dragonkin fight. It was hard!$k$pAnyway, I'm glad I have you back. I feel like\nI could talk with you for days!
+MID_様子_ンン_前_親子_父: Father, what was your life like before we\nmet? I want to know all about you.
+MID_様子_ンン_後_親子_父: The future? Well...my last memory was of\nwhat to pack for my journey through time.$k$pI settled on a few sensible outfits\nand a comfortable pillow.$k$p...But alas, they vanished during the trip.$k$pI suppose someone in SOME dimension is\ngetting an excellent night's sleep.
+MID_様子_ンン_前_恋人: Promise me you won't leave\nme behind, $Np.
+MID_様子_ンン_後_恋人: I'm stronger than I look. Don't worry―\nI'll keep us both safe. Just you watch.

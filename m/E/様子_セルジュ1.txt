@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_セルジュ1
+
+
+Message Name: Message
+
+
+MID_様子_セルジュ_前: Why so cheerful? Did you stumble\nupon a cute little caterpillar?
+MID_様子_セルジュ_前_通ちゃん: Why so cheerful? Did you stumble\nupon a cute little caterpillar?
+MID_様子_セルジュ_前_敬さん: Why so cheerful? Did you stumble\nupon a cute little caterpillar?
+MID_様子_セルジュ_後: No, I just got to watch my dear Minerva\nshed her skin. It was incredible!
+MID_様子_セルジュ_後_通ちゃん: No, I just got to watch my dear Minerva\nshed her skin. It was incredible!
+MID_様子_セルジュ_後_敬さん: No, I just got to watch my dear Minerva\nshed her skin. It was incredible!
+MID_様子_セルジュ_後_無言: NOT USED
+MID_様子_セルジュ_前_親子_子: Do you need anything, $Np?\nYour journey here must have been difficult.
+MID_様子_セルジュ_後_親子_子: Thank you, but just the thought is\nmore than enough, my dear.
+MID_様子_セルジュ_前_恋人: What do you have there, my love? Hardly\nsomething you would need in battle, no?
+MID_様子_セルジュ_後_恋人: It's a cookbook. I take pride in broiling\nmore than my foes, I'll have you know.

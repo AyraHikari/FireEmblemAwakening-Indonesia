@@ -1,0 +1,18 @@
+MESS_ARCHIVE_様子_マリアベル4
+
+
+Message Name: Message
+
+
+MID_様子_マリアベル_前: I must say, you're a reliable fighter.\nWhy don't we join forces out there?
+MID_様子_マリアベル_前_無言: NOT USED
+MID_様子_マリアベル_前_敬さん: I must say, you're a reliable fighter.\nWhy don't we join forces out there?
+MID_様子_マリアベル_前_敬様: I must say, you're a reliable fighter.\nWhy don't we join forces out there?
+MID_様子_マリアベル_後: Certainly. You won't regret your choice.
+MID_様子_マリアベル_後_敬さん: Certainly. You won't regret your choice.
+MID_様子_マリアベル_後_敬様: Certainly. You won't regret your choice.
+MID_様子_マリアベル_後_無言: NOT USED
+MID_様子_マリアベル_前_親子_子: How did you spend your days\nin the future, $Np?
+MID_様子_マリアベル_後_親子_子: Before you arrived, I was kidnapped by\nGangrel and faced all manner of evils.$k$pBut none of that compares to what you\nmust have seen...$k$pWell, be at peace. You're safe with me.\nTogether we shall set the future right.
+MID_様子_マリアベル_前_恋人: Don't even ENTERTAIN the thought of\ndying out there, my love. I swear...
+MID_様子_マリアベル_後_恋人: I'll be all right. I'm too worried\nabout you to keel over just yet.

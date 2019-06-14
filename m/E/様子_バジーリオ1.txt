@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_バジーリオ1
+
+
+Message Name: Message
+
+
+MID_様子_バジーリオ_前: Look at you, grinning like a fool! Slipping\nback home from a naughty night in town?
+MID_様子_バジーリオ_前_特殊: Emmeryn, you look happy. Did you sneak\nout and have some fun for a change?
+MID_様子_バジーリオ_後: Ha! Aren't you reading into it a little\ntoo much? ...Not that I'm not amused.
+MID_様子_バジーリオ_後_特殊: Ha! Aren't you reading into it a little\ntoo much? ...Not that I'm not amused.
+MID_様子_バジーリオ_後_無言: NOT USED
+MID_様子_バジーリオ_前_親子_子: Anything you need, Morgan? Just name it!\nYou can ask your father for whatever.
+MID_様子_バジーリオ_後_親子_子: I'd like my throne back, but I guess\nthat's a tall order. Bwa ha ha!
+MID_様子_バジーリオ_前_恋人: What have you got there, $Np?\nWhy not just store it with the convoy?
+MID_様子_バジーリオ_後_恋人: Oh, this is from the Feroxi treasure vault.\nI thought it would look good on you! Here.

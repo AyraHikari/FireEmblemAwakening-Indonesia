@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_デジェル3
+
+
+Message Name: Message
+
+
+MID_様子_デジェル_前: How do you spend your leisure time?\nWe all need to rest our minds and bodies.
+MID_様子_デジェル_前_無言: NOT USED
+MID_様子_デジェル_前_敬殿: How do you spend your leisure time?\nWe all need to rest our minds and bodies.
+MID_様子_デジェル_後: I train, and then I train some more. Skill is\nmy currency, and I seek to line my pockets.
+MID_様子_デジェル_後_敬殿: I train, and then I train some more. Skill is\nmy currency, and I seek to line my pockets.
+MID_様子_デジェル_後_無言: NOT USED
+MID_様子_デジェル_前_親子_子: Morgan, you look tired. Have I pushed\nyou too hard with the training?
+MID_様子_デジェル_後_親子_子: It's fine. I feel as right as rain,\nso don't you worry.
+MID_様子_デジェル_前_親子_母: Mother, you look faint today. Did you eat\nany strange plants while hunting?
+MID_様子_デジェル_後_親子_母: It's all right, Mother. This is nothing\ncompared to what I saw in the future.
+MID_様子_デジェル_前_親子_父: Feeling better, Father? You chopped more\nfingers than onions while cooking last night!
+MID_様子_デジェル_後_親子_父: It's kind of you to worry, but I can shake\noff a little training fatigue. Thank you.
+MID_様子_デジェル_前_恋人: $Np, you look absolutely\ndashing. I cannot take my eyes off you.
+MID_様子_デジェル_後_恋人: Wh-where did that come from? Please,\nsuch compliments catch me off guard...

@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_ジェローム1
+
+
+Message Name: Message
+
+
+MID_様子_ジェローム_前: You look thrilled. Did Minerva like\nyou when you petted her?
+MID_様子_ジェローム_後: No, it's simply...heartening to have\nsomeone's ear from time to time.
+MID_様子_ジェローム_後_無言: NOT USED
+MID_様子_ジェローム_前_親子_子: Morgan, tell me if you need anything.\nYou are my child―I would know you better.
+MID_様子_ジェローム_後_親子_子: A partner for Minerva? I doubt you'll\nhave much luck catching a male wyvern.
+MID_様子_ジェローム_前_親子_母: Cherche, I often see you at the town shops.\nIs there something I might buy for you?
+MID_様子_ジェローム_後_親子_母: Just money for Minerva's food will do. She\neats five times as much as other wyverns.
+MID_様子_ジェローム_前_親子_父: $Np, I realize I should treat you\nmore like a father. Can I buy you a gift?
+MID_様子_ジェローム_後_親子_父: How about a male partner for Minerva?\n...What do you mean, "impossible"?
+MID_様子_ジェローム_前_恋人: What is that you've got there,\n$Np? It's very unusual.
+MID_様子_ジェローム_後_恋人: This is a jewel Minerva had. Would you\nlike it? I think it would suit you.

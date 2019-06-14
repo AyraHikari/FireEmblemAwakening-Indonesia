@@ -1,0 +1,102 @@
+MESS_ARCHIVE_ユニット作成
+
+
+Message Name: Message
+
+
+MID_EDIT_マイユニット作成: Create an Avatar
+MID_EDIT_性別の選択: Gender
+MID_H_EDIT_性別の選択: Select a gender for your avatar.
+MID_EDIT_容姿の選択: Appearance
+MID_H_EDIT_容姿の選択: Decide the appearance of your avatar.
+MID_EDIT_プロフィール: Profile
+MID_H_EDIT_プロフィール: Fill in your avatar's profile.
+MID_EDIT_決定: OK
+MID_EDIT_決定！: OK
+MID_H_EDIT_決定: Select Yes to accept these settings.
+MID_H_EDIT_名前入力: Choose a name for your avatar.
+MID_EDIT_戻る: Back
+MID_EDIT_進む: Next
+MID_EDIT_回転: Turn
+MID_EDIT_名前変更: Edit
+MID_EDIT_名前変更推奨: Choose a name for your avatar.
+MID_EDIT_確認メッセージ: Use this avatar?
+MID_EDIT_能力重複警告: Your asset and flaw cannot be the same.
+MID_EDIT_性別_男: Male
+MID_EDIT_性別_女: Female
+MID_EDIT_容姿_ベース_男_01: 01
+MID_EDIT_容姿_ベース_男_02: 02
+MID_EDIT_容姿_ベース_男_03: 03
+MID_EDIT_容姿_ベース_女_01: 01
+MID_EDIT_容姿_ベース_女_02: 02
+MID_EDIT_容姿_ベース_女_03: 03
+MID_EDIT_容姿_顔_男_01: 01
+MID_EDIT_容姿_顔_男_02: 02
+MID_EDIT_容姿_顔_男_03: 03
+MID_EDIT_容姿_顔_男_04: 04
+MID_EDIT_容姿_顔_男_05: 05
+MID_EDIT_容姿_顔_女_01: 01
+MID_EDIT_容姿_顔_女_02: 02
+MID_EDIT_容姿_顔_女_03: 03
+MID_EDIT_容姿_顔_女_04: 04
+MID_EDIT_容姿_顔_女_05: 05
+MID_EDIT_容姿_髪型_男_01: 01
+MID_EDIT_容姿_髪型_男_02: 02
+MID_EDIT_容姿_髪型_男_03: 03
+MID_EDIT_容姿_髪型_男_04: 04
+MID_EDIT_容姿_髪型_男_05: 05
+MID_EDIT_容姿_髪型_女_01: 01
+MID_EDIT_容姿_髪型_女_02: 02
+MID_EDIT_容姿_髪型_女_03: 03
+MID_EDIT_容姿_髪型_女_04: 04
+MID_EDIT_容姿_髪型_女_05: 05
+MID_EDIT_容姿_髪色_男_01: 01
+MID_EDIT_容姿_髪色_男_02: 02
+MID_EDIT_容姿_髪色_男_03: 03
+MID_EDIT_容姿_髪色_男_04: 04
+MID_EDIT_容姿_髪色_男_05: 05
+MID_EDIT_容姿_髪色_男_06: 06
+MID_EDIT_容姿_髪色_男_07: 07
+MID_EDIT_容姿_髪色_男_08: 08
+MID_EDIT_容姿_髪色_男_09: 09
+MID_EDIT_容姿_髪色_男_10: 10
+MID_EDIT_容姿_髪色_男_11: 11
+MID_EDIT_容姿_髪色_男_12: 12
+MID_EDIT_容姿_髪色_男_13: 13
+MID_EDIT_容姿_髪色_男_14: 14
+MID_EDIT_容姿_髪色_男_15: 15
+MID_EDIT_容姿_髪色_男_16: 16
+MID_EDIT_容姿_髪色_男_17: 17
+MID_EDIT_容姿_髪色_男_18: 18
+MID_EDIT_容姿_髪色_男_19: 19
+MID_EDIT_容姿_髪色_男_20: 20
+MID_EDIT_容姿_髪色_女_01: 01
+MID_EDIT_容姿_髪色_女_02: 02
+MID_EDIT_容姿_髪色_女_03: 03
+MID_EDIT_容姿_髪色_女_04: 04
+MID_EDIT_容姿_髪色_女_05: 05
+MID_EDIT_容姿_髪色_女_06: 06
+MID_EDIT_容姿_髪色_女_07: 07
+MID_EDIT_容姿_髪色_女_08: 08
+MID_EDIT_容姿_髪色_女_09: 09
+MID_EDIT_容姿_髪色_女_10: 10
+MID_EDIT_容姿_髪色_女_11: 11
+MID_EDIT_容姿_髪色_女_12: 12
+MID_EDIT_容姿_髪色_女_13: 13
+MID_EDIT_容姿_髪色_女_14: 14
+MID_EDIT_容姿_髪色_女_15: 15
+MID_EDIT_容姿_髪色_女_16: 16
+MID_EDIT_容姿_髪色_女_17: 17
+MID_EDIT_容姿_髪色_女_18: 18
+MID_EDIT_容姿_髪色_女_19: 19
+MID_EDIT_容姿_髪色_女_20: 20
+MID_EDIT_口調_男_01: Male 1
+MID_EDIT_口調_男_02: Male 2
+MID_EDIT_口調_男_03: Male 3
+MID_EDIT_口調_男_04: Male 4
+MID_EDIT_口調_男_05: DUMMY
+MID_EDIT_口調_女_01: Female 1
+MID_EDIT_口調_女_02: Female 2
+MID_EDIT_口調_女_03: Female 3
+MID_EDIT_口調_女_04: Female 4
+MID_EDIT_口調_女_05: DUMMY

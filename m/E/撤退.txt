@@ -1,0 +1,68 @@
+MESS_ARCHIVE_撤退
+
+
+Message Name: Message
+
+
+MID_DIE_プレイヤー男_PCM1: $t1$Wmusername|3$w0|$Wsusername|$Wa$E苦,汗|Chrom...everyone... F-forgive me...$k\n$Wsusername|$Wd$w0|$Wmクロム|3$w0|$Wsクロム|$Wa$E苦,汗|No! Not you, $Nu!\nOpen your eyes! OPEN YOUR EYES!$k
+MID_DIE_プレイヤー男_PCM2: $t1$Wmusername|3$w0|$Wsusername|$Wa$E苦,汗|…クロム…みんな…\nごめん……$k\n$Wsusername|$Wd$w0|$Wmクロム|3$w0|$Wsクロム|$Wa$E苦,汗|$Nu！？　おい、しっかりしろ！\n目を開けろ！　$Nuっ…！！$k
+MID_DIE_プレイヤー男_PCM3: $t1$Wmusername|3$w0|$Wsusername|$Wa$E苦,汗|………$k\n$Wsusername|$Wd$w0|$Wmクロム|3$w0|$Wsクロム|$Wa$E苦,汗|$Nu！？　おい、しっかりしろ！\n目を開けろ！　$Nuっ…！！$k
+MID_DIE_プレイヤー女_PCF1: $t1$Wmusername|3$w0|$Wsusername|$Wa$E苦,汗|Chrom...everyone... Forgive me...$k\n$Wsusername|$Wd$w0|$Wmクロム|3$w0|$Wsクロム|$Wa$E苦,汗|No! Not you, $Nu!\nOpen your eyes! OPEN YOUR EYES!$k
+MID_DIE_プレイヤー女_PCF2: $t1$Wmusername|3$w0|$Wsusername|$Wa$E苦,汗|…クロムさん…みなさん…\nごめん…なさ……$k\n$Wsusername|$Wd$w0|$Wmクロム|3$w0|$Wsクロム|$Wa$E苦,汗|$Nu！？　おい、しっかりしろ！\n目を開けろ！　$Nuっ…！！$k
+MID_DIE_プレイヤー女_PCF3: $t1$Wmusername|3$w0|$Wsusername|$Wa$E苦,汗|………$k\n$Wsusername|$Wd$w0|$Wmクロム|3$w0|$Wsクロム|$Wa$E苦,汗|$Nu！？　おい、しっかりしろ！\n目を開けろ！　$Nuっ…！！$k
+MID_DIE_プレイヤー援軍: $t1$Wm自分|3$w0|$Ws自分|$Wa$E苦,汗|......$k
+MID_DIE_旧マルス: $t1$Wm自分|3$w0|$Ws自分|$Wa......$k
+MID_DIE_クロム_PCM1: $t1$Wmクロム|3$w0|$Wsクロム|$Wa$E苦,汗|I'm...sorry, everyone... Leave me...\nSave yourselves...if you can...$k\n$Wsクロム|$Wd$w0|$Wmusername|3$w0|$Wsusername|$Wa$E苦,汗|Chrom, NO! You can't die!\nNot now!$k
+MID_DIE_クロム_PCM2: $t1$Wmクロム|3$w0|$Wsクロム|$Wa$E苦,汗|すまん…みんな…\n…もう…誰も……死ぬ…な…$k\n$Wsクロム|$Wd$w0|$Wmusername|3$w0|$Wsusername|$Wa$E苦,汗|…クロム！？　嘘だろう！？\nこんなところで死んでしまうなんて…！$k
+MID_DIE_クロム_PCM3: $t1$Wmクロム|3$w0|$Wsクロム|$Wa$E苦,汗|すまん…みんな…\n…もう…誰も……死ぬ…な…$k\n$Wsクロム|$Wd$w0|$Wmusername|3$w0|$Wsusername|$Wa$E苦,汗|…！　……！！$k
+MID_DIE_クロム_PCF1: $t1$Wmクロム|3$w0|$Wsクロム|$Wa$E苦,汗|I'm...sorry, everyone... Leave me...\nSave yourselves...if you can...$k\n$Wsクロム|$Wd$w0|$Wmusername|3$w0|$Wsusername|$Wa$E苦,汗|Chrom, NO! You can't die!\nNot now!$k
+MID_DIE_クロム_PCF2: $t1$Wmクロム|3$w0|$Wsクロム|$Wa$E苦,汗|すまん…みんな…\n…もう…誰も……死ぬ…な…$k\n$Wsクロム|$Wd$w0|$Wmusername|3$w0|$Wsusername|$Wa$E苦,汗|…クロムさん！？　嘘ですよね！？\nこんなところで死んでしまうなんて…！$k
+MID_DIE_クロム_PCF3: $t1$Wmクロム|3$w0|$Wsクロム|$Wa$E苦,汗|すまん…みんな…\n…もう…誰も……死ぬ…な…$k\n$Wsクロム|$Wd$w0|$Wmusername|3$w0|$Wsusername|$Wa$E苦,汗|…！　……！！$k
+MID_DIE_フレデリク: $t1$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E苦,汗|I cannot fight with such a grievous wound.\nI'm sorry, but I must withdraw...$k
+MID_DIE_ソール: $t1$Wmソール|3$w0|$Wsソール|$Wa$E苦,汗|Ungh... End of the road for me...\nI have to...withdraw...$k
+MID_DIE_カラム: $t1$Wmカラム|3$w0|$Wsカラム|$Wa$E苦,汗|G-gotta retreat...or I'm done for...\nNot that...anyone will notice...$k
+MID_DIE_リヒト: $t1$Wmリヒト|3$w0|$Wsリヒト|$Wa$E苦,汗|Can't fight...in this state...\nNo choice but...to pull back...$k
+MID_DIE_ヴェイク: $t1$Wmヴェイク|3$w0|$Wsヴェイク|$Wa$E苦,汗|Ogre's teeth! Not even ol' Teach can\nkeep fightin' in this state... Oww...$k
+MID_DIE_リベラ: $t1$Wmリベラ|3$w0|$Wsリベラ|$Wa$E苦,汗|W-with these wounds, I'll only be a burden.\nI must withdraw...gracefully...$k
+MID_DIE_ロンクー: $t1$Wmロンクー|3$w0|$Wsロンクー|$Wa$E苦,汗|S-sorry... Have to retreat...\nFor now, at least...$k
+MID_DIE_グレゴ: $t1$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E苦,汗|Gregor's finely honed instinct become dull\nwith age! He make with the leaving now...$k
+MID_DIE_ガイア: $t1$Wmガイア|3$w0|$Wsガイア|$Wa$E苦,汗|Crivens. Got careless and paid the price.\nTime to beat feet outta here...$k
+MID_DIE_ヴィオール: $t1$Wmヴィオール|3$w0|$Wsヴィオール|$Wa$E苦,汗|It would be tawdry to fight on like this.\nInstead, I shall make a dignified exit...$k
+MID_DIE_ヘンリー: $t1$Wmヘンリー|3$w0|$Wsヘンリー|$Wa$E苦,汗|Nya ha! They got me good. Can't see with\nthe blood in my eyes... I'd better go...$k
+MID_DIE_ドニ: $t1$Wmドニ|3$w0|$Wsドニ|$Wa$E苦,汗|YEOWCH! I ain't never been hit so hard!\nBetter get outta here and heal up.$k
+MID_DIE_スミア: $t1$Wmスミア|3$w0|$Wsスミア|$Wa$E苦,汗|Ugh, it's always ME who goofs up...\nSorry, guys, gotta go...$k
+MID_DIE_リズ: $t1$Wmリズ|3$w0|$Wsリズ|$Wa$E苦,汗|S-sorry, but I can't risk...more wounds...\nIt's up to you, Chrom...$k
+MID_DIE_ソワレ: $t1$Wmソワレ|3$w0|$Wsソワレ|$Wa$E苦,汗|Gods damn their eyes!\nSorry, Chrom, but I'm out...$k
+MID_DIE_マリアベル: $t1$Wmマリアベル|3$w0|$Wsマリアベル|$Wa$E苦,汗|What a horrible mess I've made of this...\nTime to go powder my nose...$k
+MID_DIE_ティアモ: $t1$Wmティアモ|3$w0|$Wsティアモ|$Wa$E苦,汗|I did my best, but that wasn't good\nenough. I'm leaving now...$k
+MID_DIE_ベルベット: $t1$Wmベルベット|3$w0|$Wsベルベット|$Wa$E苦,汗|This foe is too strong, even for me.\nI have no choice...but to retreat.$k
+MID_DIE_ノノ: $t1$Wmノノ|3$w0|$Wsノノ|$Wa$E苦,汗|Owowow! This is hurting WAY too much!\nI'm going home...$k
+MID_DIE_オリヴィエ: $t1$Wmオリヴィエ|3$w0|$Wsオリヴィエ|$Wa$E苦,汗|I can't help anyone, limping like this...\nTime to exit...stage left...$k
+MID_DIE_セルジュ: $t1$Wmセルジュ|3$w0|$Wsセルジュ|$Wa$E苦,汗|Ungh... Can't fight...with this wound...\nMust retreat... Live to fight...another day...$k
+MID_DIE_ミリエル: $t1$Wmミリエル|3$w0|$Wsミリエル|$Wa$E苦,汗|In such a wounded state, I will only hinder\nmy comrades. Logic dictates I withdraw...$k
+MID_DIE_サーリャ: $t1$Wmサーリャ|3$w0|$Wsサーリャ|$Wa$E苦,汗|Ow, that HURTS! I've gotta pull back...\nbut I won't forget this insult!$k
+MID_DIE_ジェローム: $t1$Wmジェローム|3$w0|$Wsジェローム|$Wa$E苦,汗|Damn, they aren't fooling around...\nTime for me to get out of here...$k
+MID_DIE_ウード: $t1$Wmウード|3$w0|$Wsウード|$Wa$E苦,汗|Though it goes against every instinct\nin my body, I fear I must retreat...$k
+MID_DIE_アズール: $t1$Wmアズール|3$w0|$Wsアズール|$Wa$E苦,汗|This is more than...a flesh wound...\nBetter get back...to med tent...$k
+MID_DIE_ブレディ: $t1$Wmブレディ|3$w0|$Wsブレディ|$Wa$E苦,汗|Aw, crap, I'm just slowin' ya down...\nGotta go...try and heal up...$k
+MID_DIE_シャンブレー: $t1$Wmシャンブレー|3$w0|$Wsシャンブレー|$Wa$E苦,汗|C-can't let my race...go extinct...\nMust retreat...while I still can!$k
+MID_DIE_ロラン: $t1$Wmロラン|3$w0|$Wsロラン|$Wa$E苦,汗|I was careless...and paid the price...\nNow I must retreat. Forgive me...$k
+MID_DIE_マーク男: $t1$Wmマーク男|3$w0|$Wsマーク男|$Wa$E苦,汗|Can't fight like this... No point...\nSorry, but I'd better pull back...$k
+MID_DIE_マルス: $t1$Wmルキナ|3$w0|$Wsルキナ|$Wa$E苦,汗|Dammit... I had better pull back...\nCan't afford to...die l-like this...$k
+MID_DIE_デジェル: $t1$Wmデジェル|3$w0|$Wsデジェル|$Wa$E苦,汗|Too...strong for me... Have no choice...\nNeed to get back...to safety...$k
+MID_DIE_シンシア: $t1$Wmシンシア|3$w0|$Wsシンシア|$Wa$E苦,汗|Oh, crackers... I hate to do this,\nbut I'm done for the day. Good luck!$k
+MID_DIE_セレナ: $t1$Wmセレナ|3$w0|$Wsセレナ|$Wa$E苦,汗|Ungh... Sorry... Can't stay here... Don't\nwant to go the way...of my mother...$k
+MID_DIE_ノワール: $t1$Wmノワール|3$w0|$Wsノワール|$Wa$E苦,汗|YEEEOW! I-I'm done for...\nSorry, everyone...$k
+MID_DIE_ンン: $t1$Wmンン|3$w0|$Wsンン|$Wa$E苦,汗|Ow. Th-think I overdid it...\nSorry, everyone, but I gotta go...$k
+MID_DIE_マーク女: $t1$Wmマーク女|3$w0|$Wsマーク女|$Wa$E苦,汗|Can't fight like this... No point...\nSorry, but I'd better pull back...$k
+MID_DIE_パリス: $t1$Wmパリス|3$w0|$Wsパリス|$Wa$E苦,汗|Looks like...this is all I'm good for...\nForgive me, my friends, but I'm leaving...$k
+MID_DIE_バジーリオ: $t1$Wmバジーリオ|3$w0|$Wsバジーリオ|$Wa$E苦,汗|Damn... Pushed my luck too far...\nSorry, all, but this oaf must withdraw...$k
+MID_DIE_レンハ: $t1$Wmレンハ|3$w0|$Wsレンハ|$Wa$E苦,汗|Ungh... C-can't shrug this wound off...\nHave to retreat...heal up...$k
+MID_DIE_ヴァルハルト: $t1$Wmヴァルハルト|3$w0|$Wsヴァルハルト|$Wa$E苦,汗|It is a formidable foe indeed who\ndefeats the mighty Walhart...$k
+MID_DIE_ギャンレル: $t1$Wmギャンレル|3$w0|$Wsギャンレル|$Wa$E苦,汗|ARRRGH, HOW ANNOYING!\nHow DARE they defeat me!$k
+MID_DIE_サイリ: $t1$Wmサイリ|3$w0|$Wsサイリ|$Wa$E苦,汗|I cannot die yet. My country needs me...\nI shall retreat, and fight another day.$k
+MID_DIE_アンナ: $t1$Wmアンナ|3$w0|$Wsアンナ|$Wa$E苦,汗|Another wound like that, and the shop's\nclosed for good. I'd better fall back...$k
+MID_DIE_チキ: $t1$Wmチキ|3$w0|$Wsチキ|$Wa$E苦,汗|I'm s-sorry. Chrom...\nI can't fight... Not like this...$k
+MID_DIE_インバース: $t1$Wmインバース|3$w0|$Wsインバース|$Wa$E苦,汗|Hmph. A worthy foe, for a change.\nSadly, the battle is over for me...$k
+MID_DIE_フラヴィア: $t1$Wmフラヴィア|3$w0|$Wsフラヴィア|$Wa$E苦,汗|Hmph. A powerful foe, this one...\nApologies, but I must withdraw...$k
+MID_DIE_エメリナ: $t1$Wmエメリナ|3$w0|$Wsエメリナ|$Wa$E苦,汗|Ow... H-hurts...too much...\nI need to...leave you...alone...$k

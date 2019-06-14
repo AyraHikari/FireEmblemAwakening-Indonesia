@@ -1,0 +1,18 @@
+MESS_ARCHIVE_様子_スミア4
+
+
+Message Name: Message
+
+
+MID_様子_スミア_前: I know I have a ways to go, but why don't\nwe try fighting together in the next battle?
+MID_様子_スミア_前_無言: NOT USED
+MID_様子_スミア_前_敬さん: I know I have a ways to go, but why don't\nwe try fighting together in the next battle?
+MID_様子_スミア_前_敬様: I know I have a ways to go, but why don't\nwe try fighting together in the next battle?
+MID_様子_スミア_後: I'd love to. I just hope I don't\ntrip or get in the way.
+MID_様子_スミア_後_敬さん: I'd love to. I just hope I don't\ntrip or get in the way.
+MID_様子_スミア_後_敬様: I'd love to. I just hope I don't\ntrip or get in the way.
+MID_様子_スミア_後_無言: NOT USED
+MID_様子_スミア_前_親子_子: What kind of things did you do\nin the future, $Np?
+MID_様子_スミア_後_親子_子: I struggled for a long time to keep up with\nthe rest of the Shepherds.$k$pI must have picked every last flower in court\ntrying to divine my place in the world.$k$pBut eventually, things clicked and I fit in.\nYou'll find a home here, too. I know it.
+MID_様子_スミア_前_恋人: Your hands are so warm, my love.\nPromise I'll never lose you.
+MID_様子_スミア_後_恋人: No foe could ever drive us apart.\nAnd anyway, I'm tougher than I look.

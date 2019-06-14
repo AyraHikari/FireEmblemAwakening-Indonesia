@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_ブレディ4
+
+
+Message Name: Message
+
+
+MID_様子_ブレディ_前: Let's try takin' on the enemy as a team.\nI can put up a fight, too!
+MID_様子_ブレディ_後: Sure thing. I ain't no brawler,\nbut I can strike fear into any foe.
+MID_様子_ブレディ_後_無言: NOT USED
+MID_様子_ブレディ_前_親子_子: Morgan, what were things like in your\nfuture? Do ya remember if I was alive?
+MID_様子_ブレディ_後_親子_子: I mostly just practiced with weapons―to\nhilarious effect, of course.$k$pGimme a bow, and I'll fire IT instead of the\narrow. I don't know an axe from an anchovy!$k$pI couldn't have added up to much in the\nfuture, but at least I didn't kill ya.
+MID_様子_ブレディ_前_親子_母: Ma, what was life like for\nya before I turned up?
+MID_様子_ブレディ_後_親子_母: The you from the future smothered me,\nto be perfectly honest.$k$pYou'd pack lunches for me, hold my hand\nwhile walkin' up stairs...$k$pYou were so busy doing the heavy lifting for\nme that I turned into a total wimp!$k$pYa wouldn't even let me fend for myself in\nthe end. So next time, lemme protect YOU!
+MID_様子_ブレディ_前_親子_父: Tell me about life before I\ncame along, Pop.
+MID_様子_ブレディ_後_親子_父: I mostly practiced fightin' in the future.\nI never had your knack for warfare, see?$k$pHalf the time, I'd wind up with an axe buried\nin my face or worse. Nasty stuff.$k$pBut I wanted to learn how to hold my own\nand fight for the world ya tried to protect.
+MID_様子_ブレディ_前_恋人: Don't do anything crazy out there,\n$Np. I need ya, yeah?
+MID_様子_ブレディ_後_恋人: I ain't going nowheres. Think I'd leave\nya here to boo-hoo yourself silly?

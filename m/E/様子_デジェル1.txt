@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_デジェル1
+
+
+Message Name: Message
+
+
+MID_様子_デジェル_前: It's nice to see you in good spirits.\nDid you win your last training match?
+MID_様子_デジェル_前_無言: NOT USED
+MID_様子_デジェル_前_敬殿: It's nice to see you in good spirits.\nDid you win your last training match?
+MID_様子_デジェル_後: No. I was just thinking you would\nmake a worthy training partner.
+MID_様子_デジェル_後_敬殿: No. I was just thinking you would\nmake a worthy training partner.
+MID_様子_デジェル_後_無言: NOT USED
+MID_様子_デジェル_前_親子_子: Morgan, I can't pretend to be motherly,\nbut let me buy you something you need.
+MID_様子_デジェル_後_親子_子: You're no trouble to me at all.\nWhy don't you spar with me for a bit?
+MID_様子_デジェル_前_親子_母: Mother, do you need anything?\nI'd like to be of help.
+MID_様子_デジェル_後_親子_母: ...Could you stop all the women who look\nup to you from sending ME fan mail?
+MID_様子_デジェル_前_親子_父: Tell me, do you need anything? A good\ndaughter looks after her father.
+MID_様子_デジェル_後_親子_父: I would just like to go for a walk with you.\nMaybe we could shop for weapons together.
+MID_様子_デジェル_前_恋人: $Np, is something caught on\nyour weapon? You should be careful.
+MID_様子_デジェル_後_恋人: These? They're leather armlets. I made a\nmatching pair...if you want one.

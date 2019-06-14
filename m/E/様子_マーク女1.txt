@@ -1,0 +1,14 @@
+MESS_ARCHIVE_様子_マーク女1
+
+
+Message Name: Message
+
+
+MID_様子_マーク女_前_敬さん: It's so nice to see you in good spirits!\nDid you think up a good battle strategy?
+MID_様子_マーク女_後_敬さん: Oh, no! I just remembered your remarkable\nfighting while trying to hatch a strategy.
+MID_様子_マーク女_前_親子_母: Mother, tell me what I can get for you.\nAnything! It's the least I can do.
+MID_様子_マーク女_後_親子_母: I'd just like to spend more time with you!\nI want to get to know you a lot better.
+MID_様子_マーク女_前_親子_父: Father, is there anything you need?\nI'd like to get you presents now and then.
+MID_様子_マーク女_後_親子_父: How about that book you're always\nreading? It looks really educational.
+MID_様子_マーク女_前_恋人: Um, $Np, what do you\nhave sticking out of your satchel?
+MID_様子_マーク女_後_恋人: Oh no, you saw it? I was hoping\nto surprise you with a present.

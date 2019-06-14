@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_リズ1
+
+
+Message Name: Message
+
+
+MID_様子_リズ_前: Hey, how come you're in such\na great mood? ...New haircut?
+MID_様子_リズ_前_無言: NOT USED
+MID_様子_リズ_前_通さん: Hey, how come you're in such\na great mood? ...New haircut?
+MID_様子_リズ_前_特殊: Hey, Chrom, how come you're in such\na great mood? ...New haircut?
+MID_様子_リズ_前_特殊E: Hey, Emm, how come you're in such a\ngreat mood? Did you remember who I am?
+MID_様子_リズ_後: No, I'm just glad the two of us got to talk!\nThere's always too many people around.
+MID_様子_リズ_後_通さん: No, I'm just glad the two of us got to talk!\nThere's always too many people around.
+MID_様子_リズ_後_特殊: No, I'm just glad the two of us got to talk!\nThere's always too many people around.
+MID_様子_リズ_後_特殊E: No, but you'd be beautiful no matter how\ndirty your face got. I miss you, Emm.
+MID_様子_リズ_後_無言: NOT USED
+MID_様子_リズ_前_親子_子: Hey, $Np, why don't you let me\nbuy you something? I'm your mother, right?
+MID_様子_リズ_後_親子_子: Thanks! How about a nice dress?\nSomething regal.
+MID_様子_リズ_前_恋人: What have you got there, $Np?\nAnd don't try to hide it from me!
+MID_様子_リズ_後_恋人: Oh! This is my special health tonic. I was\ngonna save it for when you needed it.

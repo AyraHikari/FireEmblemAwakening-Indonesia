@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_ノワール3
+
+
+Message Name: Message
+
+
+MID_様子_ノワール_前: If you don't mind me asking, how do you\npass the time when you're not fighting?
+MID_様子_ノワール_前_無言: NOT USED
+MID_様子_ノワール_前_敬さん: If you don't mind me asking, how do you\npass the time when you're not fighting?
+MID_様子_ノワール_後: Battles take a toll on me, so I sleep. Then I\nfind that I CAN'T sleep, and I suffer all day.
+MID_様子_ノワール_後_敬さん: Battles take a toll on me, so I sleep. Then I\nfind that I CAN'T sleep, and I suffer all day.
+MID_様子_ノワール_後_無言: NOT USED
+MID_様子_ノワール_前_親子_子: Um, Morgan, are you all right?
+MID_様子_ノワール_後_親子_子: I always look sickly―it's in my blood.\nBut I'm more or less healthy. Honest.
+MID_様子_ノワール_前_親子_母: Mother, you were making weird gestures.\nIs that a hex? Or some kind of spasm?
+MID_様子_ノワール_後_親子_母: You know I always look pale, Mother. It's\nyour runny-nose hex that's got me down...
+MID_様子_ノワール_前_親子_父: Father, you were babbling in your sleep\nlast night. Are you all right?
+MID_様子_ノワール_後_親子_父: I'm fine, Father. Thank you for caring.
+MID_様子_ノワール_前_恋人: You look amazing in profile.\nI never want to leave your side!
+MID_様子_ノワール_後_恋人: F-flattery will get you nowhere.\nYou know full well YOU'RE the real catch!

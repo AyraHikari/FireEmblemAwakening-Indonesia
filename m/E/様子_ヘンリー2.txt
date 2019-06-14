@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_ヘンリー2
+
+
+Message Name: Message
+
+
+MID_様子_ヘンリー_前: We all need a dream worth dying for. Or a\ndeath worth dreaming about! What's yours?
+MID_様子_ヘンリー_前_敬さん: We all need a dream worth dying for. Or a\ndeath worth dreaming about! What's yours?
+MID_様子_ヘンリー_後: I want to die a horrible, bloody death that's\ncompletely painless. ...I don't like ouchies.
+MID_様子_ヘンリー_後_敬さん: I want to die a horrible, bloody death that's\ncompletely painless. ...I don't like ouchies.
+MID_様子_ヘンリー_後_無言: NOT USED
+MID_様子_ヘンリー_前_親子_子: $Np, why don't we have a little\nmock battle? I promise not to curse you!
+MID_様子_ヘンリー_後_親子_子: Okay, but my magic is kind of scary,\nso we should set up a safe word first.
+MID_様子_ヘンリー_前_恋人: $Np, I love you so much, my\nspleen hurts. ...I hope that's normal!
+MID_様子_ヘンリー_後_恋人: I love you too! Since that's settled, can I\nhex you so you can't look at other guys?

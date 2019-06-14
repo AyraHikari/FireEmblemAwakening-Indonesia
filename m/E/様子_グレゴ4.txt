@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_グレゴ4
+
+
+Message Name: Message
+
+
+MID_様子_グレゴ_前: Gregor very impressing with your skills.\nMaybe we should make with the teaming up.
+MID_様子_グレゴ_前_敬さん: Gregor very impressing with your skills.\nMaybe we should make with the teaming up.
+MID_様子_グレゴ_後: How much you pay Gregor?\n...That was joke. Gregor help for free.
+MID_様子_グレゴ_後_敬さん: How much you pay Gregor?\n...That was joke. Gregor help for free.
+MID_様子_グレゴ_後_無言: NOT USED
+MID_様子_グレゴ_前_親子_子: $Np, what was future like?\nCurious minds wishing to know, yes?
+MID_様子_グレゴ_後_親子_子: ...Gregor's past? What funny and adorable\nquestions you are asking!$k$pPerhaps $Np trying to charm\nGregor into lifetime of parenting? Oh ho!$k$p...Was jest, was jest! Of course Gregor\nkeep family safe through this mess.
+MID_様子_グレゴ_前_恋人: Be careful, $Np! Gregor is\nvery sad if wife bite dust, yes?
+MID_様子_グレゴ_後_恋人: Oh ho, you are worried! How very cute.\nBut Gregor not kick buckets so easily.

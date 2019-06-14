@@ -1,0 +1,14 @@
+MESS_ARCHIVE_E008G
+
+
+Message Name: Message
+
+
+MJID_予約０１: Dread Fighter
+MJID_H_予約０１: An enigma with superior resistance.\nWields swords, axes, and tomes.
+MIID_予約０６: Dread Scroll
+MIID_H_予約０６: Changes a base class at LV 10 (or any\nlevel adv. class) to the Dread Fighter class.
+MRSID_予約０５: Resistance +10
+MRSID_H_予約０５: Grants Res +10.
+MRSID_予約０６: Aggressor
+MRSID_H_予約０６: Grants Atk +10 when the\nunit initiates an attack.

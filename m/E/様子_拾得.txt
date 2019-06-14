@@ -1,0 +1,63 @@
+MESS_ARCHIVE_様子_拾得
+
+
+Message Name: Message
+
+
+MID_様子_単独_プレイヤー男_PCM1: What's this?\nHmm... Perhaps we could use it...
+MID_様子_単独_プレイヤー男_PCM2: 
+MID_様子_単独_プレイヤー男_PCM3: 
+MID_様子_単独_プレイヤー女_PCF1: What's this?\nHmm... Don't mind if I do...
+MID_様子_単独_プレイヤー女_PCF2: 
+MID_様子_単独_プレイヤー女_PCF3: 
+MID_様子_単独_プレイヤー援軍: What's this...?
+MID_様子_単独_旧マルス: Wait―what's that?
+MID_様子_単独_クロム: Huh? Did someone drop this?
+MID_様子_単独_フレデリク: ...Hmm? I'd better pick this up\nlest someone stumble on it...
+MID_様子_単独_ソール: What's this? Is it edible?\nI haven't eaten in minutes...
+MID_様子_単独_カラム: ...Huh? Hidden in plain sight.\n...Just like someone I know...
+MID_様子_単独_リヒト: Huh? Did somebody lose this?\nThat is so irresponsible.
+MID_様子_単独_ヴェイク: Huh? A present from one of Ol'\nVaike's fans? How thoughtful!
+MID_様子_単独_リベラ: ...What's this?\nOh, Naga be praised!
+MID_様子_単独_ロンクー: ...Urgh. What did I just step on?
+MID_様子_単独_グレゴ: Oy! Why is junk lying around?
+MID_様子_単独_ガイア: What's this?\nCandy? Not candy?
+MID_様子_単独_ヴィオール: What is this filthy thing? Ah well, I suppose\nI may as well give it a noble home.
+MID_様子_単独_ヘンリー: Ooh... Mysterious object!
+MID_様子_単独_ドニ: What in tarnation? I ain't seen nothin'\nlike this back on the farm.
+MID_様子_単独_スミア: What's this? Ooh, I can't\nwait to show Chrom...
+MID_様子_単独_リズ: Whoa! Did I just step on something?\nI hope I didn't break it...
+MID_様子_単独_ソワレ: Hey! Who left this crap lying around?!
+MID_様子_単独_マリアベル: Hmm, what's this? ...Well, I see\nlittle point in just leaving it here.
+MID_様子_単独_ティアモ: Oh, did someone lose this?\nPerhaps I might deliver it...
+MID_様子_単独_ベルベット: Hmm? The man-spawn\nuse such strange tools.
+MID_様子_単独_ノノ: Ooh! What's this?\nFinders keepers!
+MID_様子_単独_オリヴィエ: What's that? It's just lying there...\nI suppose it'd be all right to take it...?
+MID_様子_単独_セルジュ: Did you find something, Minerva?\nHere, let me see it.
+MID_様子_単独_ミリエル: Did someone misplace this? People ought\nproperly secure their possessions...
+MID_様子_単独_サーリャ: What have we here? Maybe I can\nuse it for my hexes.
+MID_様子_単独_ジェローム: Minerva, must you pick up every little...\nWait―what do you have there? Let me see.
+MID_様子_単独_ウード: What is this? Have I found the\nlegendary item of...er...legend?
+MID_様子_単独_アズール: What's this on the ground?\n...Perhaps some lovely lass dropped it?
+MID_様子_単独_ブレディ: Some bloke must'a lost this, yah?\n...Suppose I'd better hang on to it.
+MID_様子_単独_シャンブレー: Ah! A rabbit trap! ...Oh, wait,\nit's just some human junk.
+MID_様子_単独_ロラン: My word―a misplaced item? Does no one\nadequately secure their belongings?
+MID_様子_単独_マーク男: What's this? I'd better hold on to it.
+MID_様子_単独_マルス: Hmm? What have we here?
+MID_様子_単独_デジェル: Huh? I had better pick this up\nbefore someone trips on it.
+MID_様子_単独_シンシア: Ooh, free stuff! I call dibs!
+MID_様子_単独_セレナ: Ugh! Who left this here?! Oh, now I guess\nI'm supposed to pick it up, is that it? *sigh*
+MID_様子_単独_ノワール: Ack! What is this? An enemy trap?\nA curse from my mother?!
+MID_様子_単独_ンン: What is this?\n...Well, if nobody else wants it...
+MID_様子_単独_マーク女: What's this? I'd better hold on to it.
+MID_様子_単独_パリス: What's this little thing?
+MID_様子_単独_バジーリオ: What in the world...\nDid Chrom drop this?
+MID_様子_単独_レンハ: ...An item?
+MID_様子_単独_ヴァルハルト: What is this? Ha ha, an item!\nKNEEL BEFORE YOUR NEW MASTER!
+MID_様子_単独_ギャンレル: What's this junk?!
+MID_様子_単独_サイリ: From whence did this come?
+MID_様子_単独_アンナ: What's this? Well, well,\nit'll look great in my shop.
+MID_様子_単独_チキ: ...What is this?
+MID_様子_単独_インバース: Well, now. Who's the naughty boy\ndropping his things all about...?
+MID_様子_単独_フラヴィア: Someone misplaced this, eh?\nI'll ask Chrom about it later.
+MID_様子_単独_エメリナ: What... Who...

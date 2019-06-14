@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_サイリ4
+
+
+Message Name: Message
+
+
+MID_様子_サイリ_前_通殿: Our foes have grown strong of late. Mayhap\nwe could join our might in the next battle.
+MID_様子_サイリ_前: Our foes have grown strong of late. Mayhap\nwe could join our might in the next battle.
+MID_様子_サイリ_前_特殊: Brother, let us join our blades in the\ncoming battle.
+MID_様子_サイリ_後_通殿: Very well. I am not too proud to accept\nthe help, nor offer mine in return.
+MID_様子_サイリ_後_特殊: Aye. I know your fighting style better than\nanyone. Our blades shall sing as one!
+MID_様子_サイリ_後_無言: NOT USED
+MID_様子_サイリ_前_親子_子: How strange it is to learn I have a daughter,\nMorgan. Can you tell me of the future?
+MID_様子_サイリ_後_親子_子: I would not know where to begin, but I\nagree―'tis a conversation to be had.$k$pLet me share one lesson I have learned:\ntrust your family, no matter what.$k$pI was forced to turn my blade upon my\nbrother; I do not wish the same for you.
+MID_様子_サイリ_前_恋人: Vow to me that you will stay alive, my love.\nI have lost too many companions already.
+MID_様子_サイリ_後_恋人: Aye, I swear it. I know too well\nthe pain of being left behind.

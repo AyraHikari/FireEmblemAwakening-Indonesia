@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_サイリ1
+
+
+Message Name: Message
+
+
+MID_様子_サイリ_前_通殿: Zounds! You look spirited. Did you steal\noff last night for a bit of secret training?
+MID_様子_サイリ_前: Zounds! You look spirited. Did you steal\noff last night for a bit of secret training?
+MID_様子_サイリ_前_特殊: Brother, I can see you are in high spirits.\nIt pleases me to see you at peace again.
+MID_様子_サイリ_後_通殿: Nay. I was simply remembering more\njoyful times in Chon'sin.
+MID_様子_サイリ_後_特殊: Aye, verily. Mayhap you are not the same\nYen'fay, but you are still flesh and blood.
+MID_様子_サイリ_後_無言: NOT USED
+MID_様子_サイリ_前_親子_子: Morgan, might I get you aught you need?\nMy daughter deserves the best.
+MID_様子_サイリ_後_親子_子: Then set aside time for us to talk. We spend\ntoo much time training and fighting.
+MID_様子_サイリ_前_恋人: What are you hiding there, $Np?\nMy sharp eye detects a prize.
+MID_様子_サイリ_後_恋人: I bought you some cakes. ...Oh, fie!\nJust eat them and stop glaring.

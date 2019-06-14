@@ -1,0 +1,10 @@
+MESS_ARCHIVE_E009G
+
+
+Message Name: Message
+
+
+MIID_予約０２: Paragon
+MIID_H_予約０２: Teaches a skill that doubles the\namount of EXP a unit receives.
+MRSID_予約０２: Paragon
+MRSID_H_予約０２: Doubles the amount of EXP\nthe unit receives.

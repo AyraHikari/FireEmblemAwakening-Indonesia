@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_カラム3
+
+
+Message Name: Message
+
+
+MID_様子_カラム_前: It's funny. Sometimes I can't find YOU\nafter a battle. What are you up to?
+MID_様子_カラム_前_敬さん: It's funny. Sometimes I can't find YOU\nafter a battle. What are you up to?
+MID_様子_カラム_前_敬様: It's funny. Sometimes I can't find YOU\nafter a battle. What are you up to?
+MID_様子_カラム_後: Oh, I'm usually standing in the middle of\ncamp, counting the people who ignore me.
+MID_様子_カラム_後_敬さん: Oh, I'm usually standing in the middle of\ncamp, counting the people who ignore me.
+MID_様子_カラム_後_敬様: Oh, I'm usually standing in the middle of\ncamp, counting the people who ignore me.
+MID_様子_カラム_後_無言: NOT USED
+MID_様子_カラム_前_親子_子: Are you all right, $Np?\nYou look ready to pass out...
+MID_様子_カラム_後_親子_子: Don't worry. I feel better just knowing\nsomeone is paying attention.
+MID_様子_カラム_前_恋人: I wish I knew your secret, $Np.\nYou're so lovely, I can spot you a mile away.
+MID_様子_カラム_後_恋人: Thank you. But I already know I'm the\nluckier one to have you.

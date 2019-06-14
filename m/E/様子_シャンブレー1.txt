@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_シャンブレー1
+
+
+Message Name: Message
+
+
+MID_様子_シャンブレー_前: Hey! What are you grinning about? Are you\nlaughing at the poor, doomed bunny?
+MID_様子_シャンブレー_前_無言: NOT USED
+MID_様子_シャンブレー_前_敬さん: Hey! What are you grinning about? Are you\nlaughing at the poor, doomed bunny?
+MID_様子_シャンブレー_後: Are you kidding? I'm happy because you\nlook strong enough to save me in a pinch.
+MID_様子_シャンブレー_後_敬さん: Are you kidding? I'm happy because you\nlook strong enough to save me in a pinch.
+MID_様子_シャンブレー_後_無言: NOT USED
+MID_様子_シャンブレー_前_親子_子: Morgan, should I buy you bunny ears so\nyou feel like you fit in? ...No? What, then?
+MID_様子_シャンブレー_後_親子_子: Anything I want? All right... Will you wear\nbunny ears, since you didn't inherit mine?
+MID_様子_シャンブレー_前_親子_母: Mother, what do you need?\nWe taguel need to stick by each other.
+MID_様子_シャンブレー_後_親子_母: Could you pop out some more taguel\nsiblings? ...Ack, what! Don't scowl at me!
+MID_様子_シャンブレー_前_親子_父: Father, do you need anything?\nI don't know what to get a human father.
+MID_様子_シャンブレー_後_親子_父: More brothers and sisters with taguel ears!\nAn entire RACE depends on it!
+MID_様子_シャンブレー_前_恋人: What have you got there, $Np?\nI hear something jingling.
+MID_様子_シャンブレー_後_恋人: This? It's a taguel good-luck charm.\nI got it to keep you safe.

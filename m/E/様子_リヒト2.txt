@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_リヒト2
+
+
+Message Name: Message
+
+
+MID_様子_リヒト_前: Hey, so what do you dream about\nmore than anything else?
+MID_様子_リヒト_前_無言: NOT USED
+MID_様子_リヒト_前_通さん: Hey, so what do you dream about\nmore than anything else?
+MID_様子_リヒト_後: I dream of being taller. Maybe a little\nmore muscular. ...Stuff like that.
+MID_様子_リヒト_後_通さん: I dream of being taller. Maybe a little\nmore muscular. ...Stuff like that.
+MID_様子_リヒト_後_無言: NOT USED
+MID_様子_リヒト_前_親子_子: Let's go practice together, $Np.\nI want to see who's more advanced!
+MID_様子_リヒト_後_親子_子: All right. I may be small, but don't you\ndare underestimate me!
+MID_様子_リヒト_前_恋人: I really care about you, $Np.\nI hope you never get tired of hearing that.
+MID_様子_リヒト_後_恋人: Hey, I love you, too!\nYou're so important to me.

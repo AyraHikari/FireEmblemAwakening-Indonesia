@@ -1,0 +1,13 @@
+MESS_ARCHIVE_遭遇戦
+
+
+Message Name: Message
+
+
+MID_緑商人生存: $t1$Wmクロム|3$Wmフレデリク|7$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_8|The traveling merchant we rescued has\ngiven us this token of thanks.$k$pPerhaps it will serve in the battles ahead.$k
+MID_緑商人死亡: $t1$Wmクロム|3$Wmフレデリク|7$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_8|I'm afraid the traveling merchant did not\nsurvive the skirmish.$k$pIt is a shame, but we need to press on.$k
+MID_緑リーダー生存: $t1$Wmクロム|3$Wmフレデリク|7$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_8|Good news! Our allies made it through\nunharmed.$k$pWhy don't we try parleying with them?$k
+MID_緑リーダー死亡: $t1$Wmクロム|3$Wmフレデリク|7$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_8|That's strange. Our allies seem to have\nleft without a trace...$k$pAh well, so be it. We need to keep moving.$k
+MID_緑リーダー撃破: $t1$Wmクロム|3$Wmフレデリク|7$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_8|Well done! The enemy has been\nsoundly defeated.$k$pTheir leader seems eager to join you.\nYou must have made an impression!$k
+MID_両赤軍全滅: $t1$Wmクロム|3$Wmフレデリク|7$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_8|The villagers gave us this reward for\ndispatching the Risen.$k$pLet's put it to use in the battles ahead.$k
+MID_赤軍全滅: $t1$Wmクロム|3$Wmフレデリク|7$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_8|That takes care of the Risen. This area\nought to be safe for a spell.$k

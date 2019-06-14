@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_ノノ2
+
+
+Message Name: Message
+
+
+MID_様子_ノノ_前: Hey, what do you dream about? I could\nalways use some new ideas to fill the years.
+MID_様子_ノノ_前_特殊: Chrom, what's your biggest dream? I need\nsome new ideas to fill the millennia.
+MID_様子_ノノ_後: I've always wanted to transform into new\nthings. Cat... Bird... Ooo, maybe a spider!
+MID_様子_ノノ_後_特殊: I've always wanted to transform into new\nthings. Cat... Bird... Ooo, maybe a spider!
+MID_様子_ノノ_後_無言: NOT USED
+MID_様子_ノノ_前_親子_子: Come on, $Np, let's train! I can't\npractice with humans or I'll hurt them.
+MID_様子_ノノ_後_親子_子: All right! But promise to take cover if I\nstart breathing doom and destruction.
+MID_様子_ノノ_前_恋人: $Np, you're my favorite bestest\nperson in the whole world. I love you silly!
+MID_様子_ノノ_後_恋人: Really? Well, I love you even more!

@@ -1,0 +1,13 @@
+MESS_ARCHIVE_様子_ヴァルハルト3
+
+
+Message Name: Message
+
+
+MID_様子_ヴァルハルト_前: Tell me. How is it you fill your time\nwhen you're not slaying foes?
+MID_様子_ヴァルハルト_後: When I'm not fighting, I'm training for\nthe next fight. It is all that I live for.
+MID_様子_ヴァルハルト_後_無言: NOT USED
+MID_様子_ヴァルハルト_前_親子_子: I admire your late-night bouts with studying,\nbut you must rest for battle.
+MID_様子_ヴァルハルト_後_親子_子: You needn't worry. My complexion is pale\nby nature.
+MID_様子_ヴァルハルト_前_恋人: My star, your beauty never ceases to\namaze. I am proud to be your husband.
+MID_様子_ヴァルハルト_後_恋人: Trying to make the Conqueror blush?\nHa! If any woman can do it, it's you.

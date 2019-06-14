@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_ロンクー1
+
+
+Message Name: Message
+
+
+MID_様子_ロンクー_前: Why the stupid grin? Did someone\ntell a funny joke?
+MID_様子_ロンクー_前_特殊: Wh-what are you grinning about?\nDid someone tell a funny joke?
+MID_様子_ロンクー_後: No. Am I not allowed to enjoy\na pleasant conversation?
+MID_様子_ロンクー_後_特殊: None of your business. I'm the\nsame as always. Now begone!
+MID_様子_ロンクー_後_無言: NOT USED
+MID_様子_ロンクー_前_親子_子: Do you need anything, $Np?\nI am your father, after all. Speak.
+MID_様子_ロンクー_後_親子_子: No. But it was kind of you to ask.\nThank you.
+MID_様子_ロンクー_前_恋人: You dropped something, $Np.
+MID_様子_ロンクー_後_恋人: It's an accessory I bought for you. Just\nentering a women's establishment was hell...

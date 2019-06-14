@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_アンナ1
+
+
+Message Name: Message
+
+
+MID_様子_アンナ_前: Hey, you look cheery!\nFind a nice weapon on sale?
+MID_様子_アンナ_前_通さん: Hey, you look cheery!\nFind a nice weapon on sale?
+MID_様子_アンナ_後: Actually, I just got some hot new items in.\nAre you in a spending mood?
+MID_様子_アンナ_後_通さん: Actually, I just got some hot new items in.\nAre you in a spending mood?
+MID_様子_アンナ_後_無言: NOT USED
+MID_様子_アンナ_前_親子_子: Is there anything you need? You know\nMom runs the best store around.
+MID_様子_アンナ_後_親子_子: Nah, my suppliers have got me covered.\nThat's nice of you to offer, though!
+MID_様子_アンナ_前_恋人: What have you got there, $Np?\nIs it rare? Is it marketable? Let me see!
+MID_様子_アンナ_後_恋人: Oh, this? I was about to put it on the sale\nrack. Want to buy it off me?

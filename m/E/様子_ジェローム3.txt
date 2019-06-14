@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_ジェローム3
+
+
+Message Name: Message
+
+
+MID_様子_ジェローム_前: I hate having time alone with my thoughts.\nHow do you distract yourself?
+MID_様子_ジェローム_後: I go where no one can find me. I do not\nwish to create ties to this world.
+MID_様子_ジェローム_後_無言: NOT USED
+MID_様子_ジェローム_前_親子_子: Morgan, are you feeling all right?
+MID_様子_ジェローム_後_親子_子: I am in good health. Never fear.\nYou needn't get so worked up.
+MID_様子_ジェローム_前_親子_母: Mother, I saw your Minerva attack someone.\nShould I be worried?
+MID_様子_ジェローム_後_親子_母: Thank you, but you should look\nafter yourself first.
+MID_様子_ジェローム_前_親子_父: $Np, is that a wyvern bite?\nDon't tell me Minerva nipped at you.
+MID_様子_ジェローム_後_親子_父: Trying to be fatherly? I am just fine.\nYou can worry about your own business.
+MID_様子_ジェローム_前_恋人: $Np, you look lovelier every\nmoment. How am I to focus in battle?
+MID_様子_ジェローム_後_恋人: It pleases me to hear that from\nthe only woman who matters.

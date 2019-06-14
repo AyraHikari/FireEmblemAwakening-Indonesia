@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_ノワール1
+
+
+Message Name: Message
+
+
+MID_様子_ノワール_前: Why the look of glee? Did someone\nhit you with a happiness curse?
+MID_様子_ノワール_前_無言: NOT USED
+MID_様子_ノワール_前_敬さん: Why the look of glee? Did someone\nhit you with a happiness curse?
+MID_様子_ノワール_後: Very funny. Oh, I see. You're trying\nto make me laugh. That's funny, too.
+MID_様子_ノワール_後_敬さん: Very funny. Oh, I see. You're trying\nto make me laugh. That's funny, too.
+MID_様子_ノワール_後_無言: NOT USED
+MID_様子_ノワール_前_親子_子: M-Morgan, can I get you anything you\nneed? ...If I don't scare you off?
+MID_様子_ノワール_後_親子_子: ...Just gold. Lots of gold.
+MID_様子_ノワール_前_親子_母: Mother, do you need anything? By which I\nmean something NOT related to curses.
+MID_様子_ノワール_後_親子_母: How about all your hexing paraphernalia?\nThe world will be a better place.
+MID_様子_ノワール_前_親子_父: Can I get you anything you need, Father?\nI have a little gold to spare...
+MID_様子_ノワール_後_親子_父: ...I can ask for anything? Hmm...\nHow about gold?
+MID_様子_ノワール_前_恋人: You dropped something, $Np.\n...Wait, what is this?
+MID_様子_ノワール_後_恋人: These are talismans I bought for you.\nTake any you like―I have loads of them.

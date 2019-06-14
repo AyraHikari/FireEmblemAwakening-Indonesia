@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_リヒト3
+
+
+Message Name: Message
+
+
+MID_様子_リヒト_前: So what do you do when the fighting's\ndone and you have a moment to yourself?
+MID_様子_リヒト_前_無言: NOT USED
+MID_様子_リヒト_前_通さん: So what do you do when the fighting's\ndone and you have a moment to yourself?
+MID_様子_リヒト_後: I study magic! Well, actually, I play with\nforest creatures. ...What? They like me.
+MID_様子_リヒト_後_通さん: I study magic! Well, actually, I play with\nforest creatures. ...What? They like me.
+MID_様子_リヒト_後_無言: NOT USED
+MID_様子_リヒト_前_親子_子: You look dreadful, $Np.\nShould I fetch a priest or a cleric?
+MID_様子_リヒト_後_親子_子: I guess there's no fooling you.\nBut don't worry. I'll be all right.
+MID_様子_リヒト_前_恋人: You're so pretty, $Np. My throat\ngets all dry whenever I look at you.
+MID_様子_リヒト_後_恋人: Really? Thanks! Just give me time, all right?\nI'll be twice the man I am now!

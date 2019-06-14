@@ -1,0 +1,32 @@
+MESS_ARCHIVE_様子_プレイヤー男3
+
+
+Message Name: Message
+
+
+MID_様子_プレイヤー男_前_PCM1: I was going to ask: How do you\npass time when we're not fighting?
+MID_様子_プレイヤー男_前_敬さん_PCM1: I was going to ask: How do you\npass time when we're not fighting?
+MID_様子_プレイヤー男_前_敬様_PCM1: I was going to ask: How do you\npass time when we're not fighting?
+MID_様子_プレイヤー男_後_PCM1: I retire to my tent and work out new\nstrategies. Or take walks when I'm down.
+MID_様子_プレイヤー男_後_敬さん_PCM1: I retire to my tent and work out new\nstrategies. Or take walks when I'm down.
+MID_様子_プレイヤー男_後_敬様_PCM1: I retire to my tent and work out new\nstrategies. Or take walks when I'm down.
+MID_様子_プレイヤー男_前_親子_子_PCM1: Are you all right, $Np? You've\nbeen working yourself silly recently.
+MID_様子_プレイヤー男_後_親子_子_PCM1: You can see right through your father,\n$Np. But don't worry, I'll be fine.
+MID_様子_プレイヤー男_前_恋人_PCM1: You seem...different, $Np.\nYou look even more lovely than ever.
+MID_様子_プレイヤー男_後_恋人_PCM1: Really? Well, thank you.\nYou look quite breathtaking yourself.
+MID_様子_プレイヤー男_前_PCM2: 
+MID_様子_プレイヤー男_前_敬さん_PCM2: 
+MID_様子_プレイヤー男_前_敬様_PCM2: 
+MID_様子_プレイヤー男_後_PCM2: 
+MID_様子_プレイヤー男_後_敬さん_PCM2: 
+MID_様子_プレイヤー男_後_敬様_PCM2: 
+MID_様子_プレイヤー男_前_親子_子_PCM2: 
+MID_様子_プレイヤー男_後_親子_子_PCM2: 
+MID_様子_プレイヤー男_前_恋人_PCM2: 
+MID_様子_プレイヤー男_後_恋人_PCM2: 
+MID_様子_プレイヤー男_前_PCM3: 
+MID_様子_プレイヤー男_後_PCM3: 
+MID_様子_プレイヤー男_前_親子_子_PCM3: 
+MID_様子_プレイヤー男_後_親子_子_PCM3: 
+MID_様子_プレイヤー男_前_恋人_PCM3: 
+MID_様子_プレイヤー男_後_恋人_PCM3: 

@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_ヘンリー3
+
+
+Message Name: Message
+
+
+MID_様子_ヘンリー_前: Hey, I'm bored! Got any ideas\nabout how to pass the time?
+MID_様子_ヘンリー_前_敬さん: Hey, I'm bored! Got any ideas\nabout how to pass the time?
+MID_様子_ヘンリー_後: I collect crow feathers. Maybe if I gather\nenough, I can fly. Fingers crossed!
+MID_様子_ヘンリー_後_敬さん: I collect crow feathers. Maybe if I gather\nenough, I can fly. Fingers crossed!
+MID_様子_ヘンリー_後_無言: NOT USED
+MID_様子_ヘンリー_前_親子_子: You look beat, $Np. Want me to\nwork out some knots? ...With a fork?
+MID_様子_ヘンリー_後_親子_子: Wow, you see right through me. ...Wait,\ndoes that mean I finally turned invisible?!
+MID_様子_ヘンリー_前_恋人: $Np, you're as cute as a dead\npuppy. I'm head over heels for you!
+MID_様子_ヘンリー_後_恋人: Woo-hoo! I've been told I grow on people.\nIt's my secret power.

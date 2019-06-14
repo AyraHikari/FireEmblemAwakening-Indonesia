@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_マルス3
+
+
+Message Name: Message
+
+
+MID_様子_マルス_前: I was wondering how you\npass your leisure time.
+MID_様子_マルス_前_無言: NOT USED
+MID_様子_マルス_前_敬さん: I was wondering how you\npass your leisure time.
+MID_様子_マルス_後: I often gaze at the stars. They seem\nbrighter now than they did in the future.
+MID_様子_マルス_後_敬さん: I often gaze at the stars. They seem\nbrighter now than they did in the future.
+MID_様子_マルス_後_無言: NOT USED
+MID_様子_マルス_前_親子_子: Morgan, you seem unwell.\nIs everything all right?
+MID_様子_マルス_後_親子_子: I'm fine, thank you.\nDon't get so excited.
+MID_様子_マルス_前_親子_母: Mother, you look pale. Should I get help?\nLie down for a bit!
+MID_様子_マルス_後_親子_母: I appreciate your concern, Mother. But you\nneed to take care of yourself, too.
+MID_様子_マルス_前_親子_父: Father, how are you feeling? Are you hurt?\nI could not bear to lose you...
+MID_様子_マルス_後_親子_父: That's kind of you to ask, Father.\nBut I worry about you, too.
+MID_様子_マルス_前_恋人: You look more dashing than ever! To me,\nyou are the finest man in the world.
+MID_様子_マルス_後_恋人: Oh, thank you! You look dashing as well.

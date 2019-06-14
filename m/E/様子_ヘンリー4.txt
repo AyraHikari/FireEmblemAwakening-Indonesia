@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_ヘンリー4
+
+
+Message Name: Message
+
+
+MID_様子_ヘンリー_前: You fight really funny. We should try\ntaking on the enemy together!
+MID_様子_ヘンリー_前_敬さん: You fight really funny. We should try\ntaking on the enemy together!
+MID_様子_ヘンリー_後: All right. We'll sweep up the enemy\nwith my curses and your skills!
+MID_様子_ヘンリー_後_敬さん: All right. We'll sweep up the enemy\nwith my curses and your skills!
+MID_様子_ヘンリー_後_無言: NOT USED
+MID_様子_ヘンリー_前_親子_子: What's the future like, $Np?\nDo pegasi evolve into aquatic creatures?
+MID_様子_ヘンリー_後_親子_子: I mostly just sling curses and hang out with\ncrows.$k$pBut I'm not about to add deadbeat dad to\nmy list of hobbies! I'll take care of you.$k$pEven if I die a horrible death, I'll protect\nyou from the... Hey, why the long face?
+MID_様子_ヘンリー_前_恋人: Can I hold your hand, $Np?\nI'm having morbid thoughts.
+MID_様子_ヘンリー_後_恋人: Don't worry, I won't die a gory death just\nyet. And no curse will ever part us!

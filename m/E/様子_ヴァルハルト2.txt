@@ -1,0 +1,13 @@
+MESS_ARCHIVE_様子_ヴァルハルト2
+
+
+Message Name: Message
+
+
+MID_様子_ヴァルハルト_前: Do you ever dream of great things? The\nroad to glory is paved with grand designs.
+MID_様子_ヴァルハルト_後: Dreams? ...Once I sought to rule the world.\nNow I dream only of greater strength.
+MID_様子_ヴァルハルト_後_無言: NOT USED
+MID_様子_ヴァルハルト_前_親子_子: Come, let us spar! We shall see how\nstrong the Conqueror's blood runs in you.
+MID_様子_ヴァルハルト_後_親子_子: Pah! You think to challenge me? Very well.\nShow your father how far you have come!
+MID_様子_ヴァルハルト_前_恋人: Perhaps I don't say it enough,\n$Np, but...I love you.
+MID_様子_ヴァルハルト_後_恋人: ...My heart is yours as well.

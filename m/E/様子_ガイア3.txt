@@ -1,0 +1,13 @@
+MESS_ARCHIVE_様子_ガイア3
+
+
+Message Name: Message
+
+
+MID_様子_ガイア_前: So, what do you do in your spare time?\nCould you go on a cookie run for me?
+MID_様子_ガイア_後: I gather honey in the forest.\nWanna see my bee stings?
+MID_様子_ガイア_後_無言: NOT USED
+MID_様子_ガイア_前_親子_子: Everything all right, $Np?\nIf you're tired, eat something sweet.
+MID_様子_ガイア_後_親子_子: Nah, you're imagining it. Anyway,\nnothing a freshly baked pie won't fix!
+MID_様子_ガイア_前_恋人: $Np, you're as cute as a\nbonbon. Even the fancy kind!
+MID_様子_ガイア_後_恋人: You're not the first to fall for me, but\nyou're the only one I've cared about back.

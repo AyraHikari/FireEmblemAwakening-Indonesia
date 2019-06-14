@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_シンシア2
+
+
+Message Name: Message
+
+
+MID_様子_シンシア_前: So, what do you dream\nof doing one day?
+MID_様子_シンシア_前_無言: NOT USED
+MID_様子_シンシア_前_通さん: So, what do you dream\nof doing one day?
+MID_様子_シンシア_後: I dream of becoming someone's hero!\nI want to protect the people who matter.
+MID_様子_シンシア_後_通さん: I dream of becoming someone's hero!\nI want to protect the people who matter.
+MID_様子_シンシア_後_無言: NOT USED
+MID_様子_シンシア_前_親子_子: You look like you've got hero potential,\nMorgan. But let's see if you can outdo me!
+MID_様子_シンシア_後_親子_子: A challenge? Trying to surpass your mom,\nis that it? Bring it on, kiddo!
+MID_様子_シンシア_前_親子_母: Mother, I challenge you to see whose\nflower-petal readings are more accurate!
+MID_様子_シンシア_後_親子_母: All right, but I won't pull any punches just\nbecause it's you. Heroes play for keeps!
+MID_様子_シンシア_前_親子_父: Father, you look so heroic today!\nLet's have a practice match.
+MID_様子_シンシア_後_親子_父: A fated battle between father and\ndaughter? How I've longed for this day!
+MID_様子_シンシア_前_恋人: You're my shining prince, $Np.\nI will always love you.
+MID_様子_シンシア_後_恋人: I love you, too. I want to just hug\nyou into tiny little pieces!

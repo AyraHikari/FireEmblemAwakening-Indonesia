@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_ロラン2
+
+
+Message Name: Message
+
+
+MID_様子_ロラン_前: I've heard a theory that verbalizing dreams\nmakes them come true. Care to test it?
+MID_様子_ロラン_前_無言: NOT USED
+MID_様子_ロラン_前_敬さん: I've heard a theory that verbalizing dreams\nmakes them come true. Care to test it?
+MID_様子_ロラン_後: I dream of becoming a true scholar―one\nwho can sort the truth from the legends.
+MID_様子_ロラン_後_敬さん: I dream of becoming a true scholar―one\nwho can sort the truth from the legends.
+MID_様子_ロラン_後_無言: NOT USED
+MID_様子_ロラン_前_親子_子: Morgan, you are exceptionally organized.\nShall we have a battle of tidiness?
+MID_様子_ロラン_後_親子_子: A splendid idea. If I use all these spare\ntomes on you, I won't have to sort them!
+MID_様子_ロラン_前_親子_母: Mother, would you mind training together?\nI could never beat you in the future.
+MID_様子_ロラン_後_親子_母: Planning to unload your extra tomes on\nyour only son? ...Very efficient! I approve.
+MID_様子_ロラン_前_親子_父: Father, fight me! I have lots of pent up\nfrustra... A lot of new spells to show you!
+MID_様子_ロラン_後_親子_父: Really? Very well. You'll need the training.\nMother ALWAYS won when you two fought.
+MID_様子_ロラン_前_恋人: I...I love you, $Np.\nI feel it important that you know.
+MID_様子_ロラン_後_恋人: Oh?! Well, I love you, too―if we're\nspelling out our feelings, that is.

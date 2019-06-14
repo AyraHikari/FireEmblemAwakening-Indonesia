@@ -1,0 +1,13 @@
+MESS_ARCHIVE_様子_チキ4
+
+
+Message Name: Message
+
+
+MID_様子_チキ_前: Can I count on you in the coming battle?\nI need a strong fighting partner like you.
+MID_様子_チキ_後: Of course. I'll do my best. And it's\nalways flattering to be asked for help!
+MID_様子_チキ_後_無言: NOT USED
+MID_様子_チキ_前_親子_子: Goodness, Morgan, I'm still amazed I even\nHAVE a child. ...Tell me about the future.
+MID_様子_チキ_後_親子_子: Well, it's a long story. VERY long, in fact.\nHow about one little anecdote?$k$pI used to be friends with Marth, the famous\nking. He was a kind man, but...$k$pBut he had a commanding gaze. I miss him\ngreatly, and I shall never forget him.
+MID_様子_チキ_前_恋人: My love, promise you'll stay with me as long\nas you can. I can't bear to lose you to war.
+MID_様子_チキ_後_恋人: I fear I will be the one left behind. But I'll\nstay with you until the day you pass me by.

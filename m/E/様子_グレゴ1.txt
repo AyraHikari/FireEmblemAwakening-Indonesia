@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_グレゴ1
+
+
+Message Name: Message
+
+
+MID_様子_グレゴ_前: You are looking happily today.\nPerhaps you find gold lying around, yes?
+MID_様子_グレゴ_前_敬さん: You are looking happily today.\nPerhaps you find gold lying around, yes?
+MID_様子_グレゴ_後: Oh ho ho! No no! Gregor just happy\nto be in pleasant company.
+MID_様子_グレゴ_後_敬さん: Oh ho ho! No no! Gregor just happy\nto be in pleasant company.
+MID_様子_グレゴ_後_無言: NOT USED
+MID_様子_グレゴ_前_親子_子: $Np, you need anything?\nGregor overbearing protective type.
+MID_様子_グレゴ_後_親子_子: Ah! Always thinking of your family,\nlike Gregor. But smile is gift enough.
+MID_様子_グレゴ_前_恋人: $Np, did you drop this?\nWhat is this thing?
+MID_様子_グレゴ_後_恋人: Is jewel Gregor receive for bashing heads.\nYou want? It look very nice on you, yes?

@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_エメリナ3
+
+
+Message Name: Message
+
+
+MID_様子_エメリナ_前: When the battle is over...why do you\ngo off...on your own?
+MID_様子_エメリナ_前_特殊: When the battle is over...why do you\ngo off...on your own?
+MID_様子_エメリナ_後: I go for walks...
+MID_様子_エメリナ_後_特殊: I'm just...going for walks.\nI'm sorry I...worried you.
+MID_様子_エメリナ_後_無言: NOT USED
+MID_様子_エメリナ_前_親子_子: Are you...all right?\nI'm...worried about you.
+MID_様子_エメリナ_後_親子_子: I'll be fine. Promise you...won't worry.
+MID_様子_エメリナ_前_恋人: You look so...handsome today...
+MID_様子_エメリナ_後_恋人: You...mean it? That's so...sweet.

@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_ギャンレル2
+
+
+Message Name: Message
+
+
+MID_様子_ギャンレル_前: You there. Don't you have any ambition?\nAny grand dreams?
+MID_様子_ギャンレル_前_特殊: This might sound strange coming from me,\nbut what will you do from here on out?
+MID_様子_ギャンレル_後: Bah! I dream of nothing. Dreams will only\ndrive their twisted dagger into your back.
+MID_様子_ギャンレル_後_特殊: Me? You should be thinking about yourself.\n...Not that it's any concern of mine.
+MID_様子_ギャンレル_後_無言: NOT USED
+MID_様子_ギャンレル_前_親子_子: Grab a weapon and let's have it out.\nShow me how dirty you can fight!
+MID_様子_ギャンレル_後_親子_子: You want to challenge me? Stupid brat.\nDidn't inherit your father's brains, did you?
+MID_様子_ギャンレル_前_恋人: You look fetching today. Trying to drag me\ndeeper into your web?
+MID_様子_ギャンレル_後_恋人: Ugh, I know how you feel without you\nspelling it out! Don't expect me to say it.

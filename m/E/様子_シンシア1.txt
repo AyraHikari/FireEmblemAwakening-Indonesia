@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_シンシア1
+
+
+Message Name: Message
+
+
+MID_様子_シンシア_前: You look happy. Did you cook up a slick\nnew catchphrase?
+MID_様子_シンシア_前_無言: NOT USED
+MID_様子_シンシア_前_通さん: You look happy. Did you cook up a slick\nnew catchphrase?
+MID_様子_シンシア_後: Nuh-uh! I came up with a new heroic\nbattle stance. You want to see it?
+MID_様子_シンシア_後_通さん: Nuh-uh! I came up with a new heroic\nbattle stance. You want to see it?
+MID_様子_シンシア_後_無言: NOT USED
+MID_様子_シンシア_前_親子_子: Morgan, do you need anything? I want to\ncome through for my daughter!
+MID_様子_シンシア_後_親子_子: I need someone to take up my mantle after\nI'm gone. Interested in a career in heroics?
+MID_様子_シンシア_前_親子_母: Mother, what do you want for your next\nbirthday? It was our tradition in the future!
+MID_様子_シンシア_後_親子_母: A new cape! Something that flutters in the\nwind and whispers the cause of justice.
+MID_様子_シンシア_前_親子_父: Can I get you anything, Father?\nI want to make you happy!
+MID_様子_シンシア_後_親子_父: How about a father-daughter special move?\nOne that will make a foe's knees knock!
+MID_様子_シンシア_前_恋人: What have you got there, $Np?\nYou shouldn't hide stuff from your lady.
+MID_様子_シンシア_後_恋人: This? It's a handmade brooch to hold a\ncape on! See? I made different colors.

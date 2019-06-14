@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_カラム2
+
+
+Message Name: Message
+
+
+MID_様子_カラム_前: I'm curious―what's the one thing\nyou want more than anything?
+MID_様子_カラム_前_敬さん: I'm curious―what's the one thing\nyou want more than anything?
+MID_様子_カラム_前_敬様: I'm curious―what's the one thing\nyou want more than anything?
+MID_様子_カラム_後: To stand out.
+MID_様子_カラム_後_敬さん: To stand out.
+MID_様子_カラム_後_敬様: To stand out.
+MID_様子_カラム_後_無言: NOT USED
+MID_様子_カラム_前_親子_子: $Np, could we practice together\nsometime? I want to turn heads.
+MID_様子_カラム_後_親子_子: Sure. I promise I'll be there―even if I\nmight be a little hard to spot.
+MID_様子_カラム_前_恋人: I love you, $Np.\nYou'll always be safe with me.
+MID_様子_カラム_後_恋人: I'm so glad we found each other.\nWell, mostly that you found me...

@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_サーリャ4
+
+
+Message Name: Message
+
+
+MID_様子_サーリャ_前: Our foes grow stronger. Why don't\nyou and I fight together next time?
+MID_様子_サーリャ_前_無言: NOT USED
+MID_様子_サーリャ_前_特殊: Have I told you that I admire your strength,\n$Np? We should team up.
+MID_様子_サーリャ_後: Oh, I see. You think I'm too weak and puny\nto fend for myself. Have it your way...
+MID_様子_サーリャ_後_特殊: Fight with you? YES! I mean... YES!\nI won't let those monsters touch you.
+MID_様子_サーリャ_後_無言: NOT USED
+MID_様子_サーリャ_前_親子_子: Tell me about the future, $Np.\n...What? I'm curious.
+MID_様子_サーリャ_後_親子_子: Oh, you know―hex this, hex that. I've\nalways been a girl with dark tendencies.$k$pAnd since you're my daughter and all,\nyou should probably learn the trade.$k$p...Or at least sacrifice to advance it.\nCare to help me test the teethgrinder hex?
+MID_様子_サーリャ_前_恋人: Still in one piece, $Np? If you die\nbefore me, you'd better run in the afterlife.
+MID_様子_サーリャ_後_恋人: Don't worry. I'll be with you always.\n...Even if it's as a vengeful ghost.

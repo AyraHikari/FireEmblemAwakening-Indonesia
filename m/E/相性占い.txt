@@ -1,0 +1,150 @@
+MESS_ARCHIVE_相性占い
+
+
+Message Name: Message
+
+
+MID_占_爺_人数不足: You need more units first!
+MID_占_爺_イントロ: So! Ready to get started?
+MID_占_爺_選択中: Mmm, this oughta be juicy...\nWhich two should I examine?
+MID_占_爺_選択確認: Aha! Are these the two?\n
+MID_占_爺_再度: Want to test another pair?\n
+MID_占_爺_さらば: So long!
+MID_占_愛_01: Fatal attraction
+MID_占_愛_02: Infatuated
+MID_占_愛_03: Smitten
+MID_占_愛_04: Wants to snuggle
+MID_占_愛_05: Puts on a pedestal
+MID_占_愛_06: Carries a torch for
+MID_占_愛_07: Uses pet names
+MID_占_愛_08: Heart aflutter
+MID_占_愛_09: One-track mind
+MID_占_愛_10: Lives and dies for
+MID_占_愛_11: Never wants to part
+MID_占_愛_12: Would give anything
+MID_占_愛_13: Devoted
+MID_占_愛_14: Head over heels
+MID_占_愛_15: Separation anxiety
+MID_占_愛_16: First love
+MID_占_愛_17: Always staring
+MID_占_愛_18: Desires attention
+MID_占_愛_19: Drawn by destiny
+MID_占_愛_20: True sacrificer
+MID_占_愛_21: True love
+MID_占_愛_22: Lovey dovey
+MID_占_愛_23: Possessive
+MID_占_愛_24: Would hold hands
+MID_占_愛_25: Lost in pheromones
+MID_占_愛_26: Loins afire
+MID_占_愛_27: Has a sweet spot
+MID_占_愛_28: About to swoon
+MID_占_愛_29: Way too attached
+MID_占_愛_30: Drools openly
+MID_占_好_01: Totally platonic
+MID_占_好_02: Confidant
+MID_占_好_03: Sees as dependable
+MID_占_好_04: Shopping buddy
+MID_占_好_05: Sees potential
+MID_占_好_06: Sparring partner
+MID_占_好_07: Best friend
+MID_占_好_08: Like minded
+MID_占_好_09: Ultimate duo
+MID_占_好_10: Finds agreeable
+MID_占_好_11: Into the same foods
+MID_占_好_12: Not a dull moment
+MID_占_好_13: Easy to joke with
+MID_占_好_14: Always entertained
+MID_占_好_15: Similar hobbies
+MID_占_好_16: On the same page
+MID_占_好_17: Budding friendship
+MID_占_好_18: Feels safe
+MID_占_好_19: Trusts implicitly
+MID_占_好_20: Same wavelength
+MID_占_好_21: Thinks highly of
+MID_占_好_22: Low maintenance
+MID_占_好_23: Comrade
+MID_占_好_24: Fun to train with
+MID_占_好_25: Total respect
+MID_占_好_26: Confessor
+MID_占_好_27: Relaxed around
+MID_占_好_28: Gets along well
+MID_占_好_29: Good friend
+MID_占_好_30: Admires lifestyle
+MID_占_嫌_01: Cold shoulder
+MID_占_嫌_02: Not interested
+MID_占_嫌_03: Awkward
+MID_占_嫌_04: Oil and water
+MID_占_嫌_05: No ear for music
+MID_占_嫌_06: Finds irritating
+MID_占_嫌_07: Nothing to say
+MID_占_嫌_08: Intimidated
+MID_占_嫌_09: Expects betrayal
+MID_占_嫌_10: Finds freaky
+MID_占_嫌_11: Weirded out
+MID_占_嫌_12: Fashion disaster
+MID_占_嫌_13: Feigns friendship
+MID_占_嫌_14: On eggshells
+MID_占_嫌_15: Keeping a distance
+MID_占_嫌_16: Not into the hair
+MID_占_嫌_17: Dislikes
+MID_占_嫌_18: Bad chemistry
+MID_占_嫌_19: Into different things
+MID_占_嫌_20: Feels ignored
+MID_占_嫌_21: Indifferent
+MID_占_嫌_22: Mocks openly
+MID_占_嫌_23: Friend zone
+MID_占_嫌_24: Utterly baffled
+MID_占_嫌_25: Avoids eye contact
+MID_占_嫌_26: Touch-and-go
+MID_占_嫌_27: Out of whack
+MID_占_嫌_28: Nothing in common
+MID_占_嫌_29: Bad teamwork
+MID_占_嫌_30: Dreads meeting
+MID_占_愛愛_女女: Hoo! It's hotter'n Elfire in here!
+MID_占_愛愛_男男: Whatever floats yer boat.
+MID_占_愛愛_男女A: Get a room, you two!
+MID_占_愛愛_男女B: Don't forget your vows!
+MID_占_愛愛_男女C: I sense an affair in the making...
+MID_占_愛愛_夫婦: As fiery as their first date!
+MID_占_愛愛_親子: What a heartwarming family!
+MID_占_愛愛_兄弟: Don't worry. It's wholesome.
+MID_占_愛好_女女: I'm not one to judge, ladies!
+MID_占_愛好_男男: I'm rootin' for you, brother.
+MID_占_愛好_男女A: Just spit it out, lovebird!
+MID_占_愛好_男女B: ...You do see the wedding ring?
+MID_占_愛好_男女C: Grass is always greener, eh?
+MID_占_愛好_夫婦: Here's one marriage that'll last.
+MID_占_愛好_親子: This family is inseparable.
+MID_占_愛好_兄弟: Their parents must be proud!
+MID_占_愛嫌_女女: Hello, ulterior motives!
+MID_占_愛嫌_男男: One of 'em is in for heartbreak.
+MID_占_愛嫌_男女A: Unrequited love? Boooring!
+MID_占_愛嫌_男女B: Sorry. Out of yer league!
+MID_占_愛嫌_男女C: This one will end chastely.
+MID_占_愛嫌_夫婦: This marriage is ready to crack!
+MID_占_愛嫌_親子: Check the closet for skeletons!
+MID_占_愛嫌_兄弟: Oh, the questions this raises...
+MID_占_好好_女女: It's the perfect friendship.
+MID_占_好好_男男: Like peas in a pod, these two!
+MID_占_好好_男女A: Seems on the level to me.
+MID_占_好好_男女B: My, they do get along nicely.
+MID_占_好好_男女C: They should just stay friends.
+MID_占_好好_夫婦: Did marriage cool things off?
+MID_占_好好_親子: No family issues here.
+MID_占_好好_兄弟: Wish all siblings got on so well!
+MID_占_好嫌_女女: One cares. ...The other glares.
+MID_占_好嫌_男男: Seems one's avoidin' the other.
+MID_占_好嫌_男女A: This might take some work.
+MID_占_好嫌_男女B: Oh dear. They just don't mix.
+MID_占_好嫌_男女C: All those smiles? Fake! Fake!
+MID_占_好嫌_夫婦: Can you say "seven-year itch"?
+MID_占_好嫌_親子: Who will move out first?!
+MID_占_好嫌_兄弟: Their parents should step in!
+MID_占_嫌嫌_女女: Catfight! Catfight!
+MID_占_嫌嫌_男男: Ouch! It's almost comical.
+MID_占_嫌嫌_男女A: Two rocks'd hit it off better.
+MID_占_嫌嫌_男女B: Yep. These two have baggage.
+MID_占_嫌嫌_男女C: I sense a messy history...
+MID_占_嫌嫌_夫婦: Nuh-uh. These two are doomed.
+MID_占_嫌嫌_親子: Get counseling! Now!
+MID_占_嫌嫌_兄弟: Get their parents earplugs!

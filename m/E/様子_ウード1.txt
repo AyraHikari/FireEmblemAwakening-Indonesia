@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_ウード1
+
+
+Message Name: Message
+
+
+MID_様子_ウード_前: Why the smile? Was my ultimate attack\ntruly that breathtaking?
+MID_様子_ウード_前_無言: NOT USED
+MID_様子_ウード_前_敬さん: Why the smile? Was my ultimate attack\ntruly that breathtaking?
+MID_様子_ウード_後: No, I'm just glad I've been able to keep my\nsword hand in check. Apocalypse averted!
+MID_様子_ウード_後_敬さん: No, I'm just glad I've been able to keep my\nsword hand in check. Apocalypse averted!
+MID_様子_ウード_後_無言: NOT USED
+MID_様子_ウード_前_親子_子: Tell me, my almighty offspring,\ndo you need anything?
+MID_様子_ウード_後_親子_子: I have you. What else could I possibly need?
+MID_様子_ウード_前_親子_母: Mother, do you need anything?\nI'm having a "dutiful son" moment.
+MID_様子_ウード_後_親子_母: How about a smoking weapon, then?\nAsk Uncle Chrom for something legendary!
+MID_様子_ウード_前_親子_父: Father, do you need anything?\nYour son shall deliver it forthwith.
+MID_様子_ウード_後_親子_父: How about a new eye color? Oh! What if I\nhad two DIFFERENTLY COLORED eyes?
+MID_様子_ウード_前_恋人: What do you have there, $Np?\n*gasp* It sparkles like...like the legendary...
+MID_様子_ウード_後_恋人: This is "Goddess." I named it for you, my\nlove, though it pales next to your beauty.

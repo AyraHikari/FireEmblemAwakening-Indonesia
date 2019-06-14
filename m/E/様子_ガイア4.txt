@@ -1,0 +1,13 @@
+MESS_ARCHIVE_様子_ガイア4
+
+
+Message Name: Message
+
+
+MID_様子_ガイア_前: If I give you a cookie, can we team up\nduring the coming battle?
+MID_様子_ガイア_後: Sure. Just promise you'll reward me in\ngold...or better yet, snacks!
+MID_様子_ガイア_後_無言: NOT USED
+MID_様子_ガイア_前_親子_子: $Np, what were the confection...\nEr, conditions like in the future?
+MID_様子_ガイア_後_親子_子: Wanna hear about my past? That'll cost ya\nsome... Oh, you brought cookies!$k$pYou take after your old man. Mmm...\n*crunch*$k$pWow. These are so good, I might just talk\nto you for free next time!
+MID_様子_ガイア_前_恋人: You're safe with me, $Np.\nI won't ever let anything happen to you.
+MID_様子_ガイア_後_恋人: Don't worry about me. I'll find a way to\nkeep breathing just as long as you need me.

@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_リベラ1
+
+
+Message Name: Message
+
+
+MID_様子_リベラ_前_敬さん: You look to be in fine spirits. Have the\ngods answered your prayers?
+MID_様子_リベラ_前: You look to be in fine spirits. Have the\ngods answered your prayers?
+MID_様子_リベラ_前_敬様: You look to be in fine spirits. Have the\ngods answered your prayers?
+MID_様子_リベラ_後_敬さん: Not exactly. A smile is simply my way of\nthanking Naga for my time with you.
+MID_様子_リベラ_後_敬様: Not exactly. A smile is simply my way of\nthanking Naga for my time with you.
+MID_様子_リベラ_後_無言: NOT USED
+MID_様子_リベラ_前_親子_子: $Np, is there nothing you need?\nYou can ask your father for anything.
+MID_様子_リベラ_後_親子_子: Thank you, but I desire only\na happy future for you.
+MID_様子_リベラ_前_恋人: You dropped something, $Np.\nIs it important?
+MID_様子_リベラ_後_恋人: This is a powerful amulet. ...I was\nhoping to surprise you with it.

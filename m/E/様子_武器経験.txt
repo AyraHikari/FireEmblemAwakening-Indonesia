@@ -1,0 +1,63 @@
+MESS_ARCHIVE_様子_武器経験
+
+
+Message Name: Message
+
+
+MID_様子_単独_プレイヤー男_PCM1: All right! I managed to sneak\nsome practice in.
+MID_様子_単独_プレイヤー男_PCM2: 
+MID_様子_単独_プレイヤー男_PCM3: 
+MID_様子_単独_プレイヤー女_PCF1: All right! I managed to sneak\nsome practice in.
+MID_様子_単独_プレイヤー女_PCF2: 
+MID_様子_単独_プレイヤー女_PCF3: 
+MID_様子_単独_プレイヤー援軍: ...!
+MID_様子_単独_旧マルス: ...!
+MID_様子_単独_クロム: I got some quick training in. A leader\nshould always be at the top of his game.
+MID_様子_単独_フレデリク: I managed some extra training. I must\nstay sharp to protect my comrades.
+MID_様子_単独_ソール: I got in a quick practice, but boy\ndid I ever work up an appetite...
+MID_様子_単独_カラム: I snuck in some training while no one was\nlooking...and no one's ever looking...
+MID_様子_単独_リヒト: I snuck in some practice.\nGotta prove that I can hold my own!
+MID_様子_単独_ヴェイク: Teach worked in a little practice.\n...Not that it's needed!
+MID_様子_単独_リベラ: I managed to sneak in some practice,\nbut I must admit I'm better with prayers.
+MID_様子_単独_ロンクー: I just cut down a couple brigands in the\nmeantime. Gotta keep my arms loose...
+MID_様子_単独_グレゴ: There! Is good to sneak in extra training.\nMakes Gregor ready for more fighting!
+MID_様子_単独_ガイア: I snuck in some practice, but I could use\na sugar boost in a big bad way.
+MID_様子_単独_ヴィオール: This extra training has left me exhausted,\nbut at least I have the grace to not look it.
+MID_様子_単独_ヘンリー: If practice makes perfect, then an extra\nbit of practice is perfectly fine by me.
+MID_様子_単独_ドニ: Whew! Bit'a extra practice is tougher'n\nplowin' the fields any which day!
+MID_様子_単独_スミア: I snuck in some practice.\nIf anyone needs it, it's me...
+MID_様子_単独_リズ: I snuck in some practice. Gotta keep\nup with the others, after all.
+MID_様子_単独_ソワレ: I snuck in a little extra training.\nFelt damn good, too.
+MID_様子_単独_マリアベル: I managed some additional practice.\nI'm not afraid of a little extra work.
+MID_様子_単独_ティアモ: I snuck in some training.\nEffort is the start of excellence.
+MID_様子_単独_ベルベット: I snuck in some extra training.\nI must represent my people proudly.
+MID_様子_単独_ノノ: I practiced my dragon RAWR! Hopefully\nit'll scare away more baddies now.
+MID_様子_単独_オリヴィエ: I snuck in some weapon practice. Can't\nrely on dancing all the time, after all.
+MID_様子_単独_セルジュ: I snuck in a bit of training, but I\nstill have much to learn...
+MID_様子_単独_ミリエル: I managed additional training. But then, I've\nalways been conscientious of such matters.
+MID_様子_単独_サーリャ: Me, weaving horrible, awful hexes? Oh,\nthose were just PRACTICE curses. Honest.
+MID_様子_単独_ジェローム: I snuck in some practice. You'd think\nI would be beyond that by now...
+MID_様子_単独_ウード: Secret Art...BINDING BLADE! Heeyaah!\nYes, I can feel the extra training working...
+MID_様子_単独_アズール: I snuck in some practice, if you know what\nI mean. ...What? No, FIGHTING practice.
+MID_様子_単独_ブレディ: I snuck in some practice. Now if I could just\nkeep my weapon from flyin' outta my hand...
+MID_様子_単独_シャンブレー: I snuck in some practice. HIDING practice!\n...What else is a bunny to do?
+MID_様子_単独_ロラン: I snuck in some practice. Thanks to my\nmother's guidance, it went perfectly.
+MID_様子_単独_マーク男: I snuck in some practice. Maybe there's\nhope for me as a tactician yet!
+MID_様子_単独_マルス: I snuck in some practice,\nbut will it be enough...
+MID_様子_単独_デジェル: I snuck in some good practice, but it's not\nthe same without a real body to beat on.
+MID_様子_単独_シンシア: See that? The practice session of\nchampions! I'm so strong now, it's scary.
+MID_様子_単独_セレナ: I snuck in some practice, but now I'm all\nsweaty. I HATE practice.
+MID_様子_単独_ノワール: I snuck in some practice...\nNOW WHO DARES FACE ME!
+MID_様子_単独_ンン: I circled the peak and shook the heavens\nwith my roar. Does that count as practice?
+MID_様子_単独_マーク女: I snuck in some practice. Maybe there's\nhope for me as a tactician yet!
+MID_様子_単独_パリス: I managed a quick training session.\nNone will ever surpass me now.
+MID_様子_単独_バジーリオ: I snuck in some training.\nWell, more like a warm-up...
+MID_様子_単独_レンハ: ...I have trained more, though\none can never train enough.
+MID_様子_単独_ヴァルハルト: I have trained more. Complacency is\nweakness―I will never stop training.
+MID_様子_単独_ギャンレル: I snuck in some practice to see how it felt,\nbut I admit, I prefer executions to exercise.
+MID_様子_単独_サイリ: I train with every free moment,\nyet still it does not suffice.
+MID_様子_単独_アンナ: I snuck in some practice. I need to be able\nto slash brigands AND prices!
+MID_様子_単独_チキ: It felt good to sneak in some practice.\nHow long has it been?
+MID_様子_単独_インバース: I just exercised some new muscles. Shall I\nshow you what I can do with them?
+MID_様子_単独_フラヴィア: I snuck in some practice. Even a khan\nneeds to stay on top of her game.
+MID_様子_単独_エメリナ: I...practiced...

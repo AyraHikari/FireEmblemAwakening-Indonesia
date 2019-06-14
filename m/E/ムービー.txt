@@ -1,0 +1,132 @@
+MESS_ARCHIVE_ムービー
+
+
+Message Name: Message
+
+
+MID_ムービー_Skip: Skip
+MID_ムービー_OPロゴ001: Nintendo
+MID_ムービー_OPロゴ007: INTELLIGENT SYSTEMS
+MID_ムービー_OPロゴ008: Present
+MID_ムービー_OPロゴ002: Movies
+MID_ムービー_OPロゴ003: ANIMA
+MID_ムービー_OPロゴ004: KAMIKAZE DOUGA
+MID_ムービー_OPロゴ005: Character Design & Illustration
+MID_ムービー_OPロゴ006: Kozaki Yusuke
+MID_ムービー_OPロゴ009: Sound Support
+MID_ムービー_OPロゴ010: Yuka Tsujiyoko
+MID_ムービー_OPロゴ011: T's MUSIC
+MID_ムービー_OPロゴ012: Event Illustration
+MID_ムービー_OPロゴ013: MADHOUSE
+MID_ムービー_OPロゴ014: Scenario Support
+MID_ムービー_OPロゴ015: Lepton
+MID_ムービー_OPロゴ016: Red Entertainment Corporation
+MID_ムービー_OPロゴ017: EdgeWORKS Inc.
+MID_ムービー_OPロゴ018: Voice Casting & Recording
+MID_ムービー_OPロゴ019: Japanese Voice: TWOFIVE\nEnglish Voice: Cup of Tea Productions Inc.
+MID_ムービー_OPロゴ020: Developed by
+MID_ムービー_OPロゴ021: Published by
+MID_ムービー_OPロゴ022: and
+MID_ムービー字幕_01運命の時・前_1_1: Up there!
+MID_ムービー字幕_01運命の時・前_2_1: You fool!
+MID_ムービー字幕_01運命の時・前_3_1: Die!
+MID_ムービー字幕_02運命の時・後_1_1: This isn't over...
+MID_ムービー字幕_02運命の時・後_1_2: Damn you BOTH!
+MID_ムービー字幕_02運命の時・後_2_1: Are you all right?
+MID_ムービー字幕_02運命の時・後_2_2: That's the end of him.
+MID_ムービー字幕_02運命の時・後_2_3: Thanks to you we carried the day.
+MID_ムービー字幕_02運命の時・後_2_4: We can rest easy now.
+MID_ムービー字幕_02運命の時・後_2_5: At long last...
+MID_ムービー字幕_02運命の時・後_2_6: ...What's wrong?
+MID_ムービー字幕_02運命の時・後_2_7: Hey, hang on―
+MID_ムービー字幕_02運命の時・後_3_1: This is not your―
+MID_ムービー字幕_02運命の時・後_3_2: your fault...
+MID_ムービー字幕_02運命の時・後_3_3: Promise me
+MID_ムービー字幕_02運命の時・後_3_4: you'll escape from this place...
+MID_ムービー字幕_02運命の時・後_3_5: Please, go...
+MID_ムービー字幕_03二度目の出会い_1_1: Chrom, we have to do SOMETHING.
+MID_ムービー字幕_03二度目の出会い_1_2: What do you propose we do?
+MID_ムービー字幕_03二度目の出会い_1_3: I... I dunno...
+MID_ムービー字幕_03二度目の出会い_1_4: I see you're awake now.
+MID_ムービー字幕_03二度目の出会い_1_5: Hey there!
+MID_ムービー字幕_03二度目の出会い_1_6: There're better places to take a nap\nthan on the ground, you know.
+MID_ムービー字幕_03二度目の出会い_1_7: Give me your hand.
+MID_ムービー字幕_04天変地異_1_1: Lissa, run.
+MID_ムービー字幕_04天変地異_1_2: Huh?
+MID_ムービー字幕_04天変地異_1_3: I mean it. Go!
+MID_ムービー字幕_04天変地異_2_1: 
+MID_ムービー字幕_04天変地異_3_1: Hey! This way!
+MID_ムービー字幕_04天変地異_4_1: Chrom, what IS that?!
+MID_ムービー字幕_04天変地異_5_1: Lissa. You'd better stand back.
+MID_ムービー字幕_04天変地異_6_1: 
+MID_ムービー字幕_04天変地異_7_1: Lissa!
+MID_ムービー字幕_04天変地異_8_1: 
+MID_ムービー字幕_04天変地異_9_1: Help!
+MID_ムービー字幕_04天変地異_9_2: ...Right.
+MID_ムービー字幕_04天変地異_10_1: 
+MID_ムービー字幕_04天変地異_11_1: Quite an entrance.
+MID_ムービー字幕_04天変地異_11_2: What's your name?
+MID_ムービー字幕_05比翼_1_1: Sumia...?
+MID_ムービー字幕_05比翼_1_2: Better hold on tight, Captain.
+MID_ムービー字幕_05比翼_1_3: Could get bumpy.
+MID_ムービー字幕_05比翼_1_4: Uh...right.
+MID_ムービー字幕_05比翼_1_5: You'll be fine.
+MID_ムービー字幕_05比翼_2_1: Sumia!
+MID_ムービー字幕_05比翼_2_2: Right!
+MID_ムービー字幕_06神剣闘技_1_1: Where did you get that?
+MID_ムービー字幕_06神剣闘技_1_2: There's no way...
+MID_ムービー字幕_06神剣闘技_2_1: Tell me―
+MID_ムービー字幕_06神剣闘技_2_2: Who taught you to fight like that?
+MID_ムービー字幕_06神剣闘技_3_1: My father!
+MID_ムービー字幕_07未来を知る者_1_1: I'm about to save your life.
+MID_ムービー字幕_07未来を知る者_1_2: ...From him.
+MID_ムービー字幕_07未来を知る者_2_1: I trust this proof will suffice?
+MID_ムービー字幕_07未来を知る者_2_2: ...Yeah.
+MID_ムービー字幕_07未来を知る者_3_1: Wait, you're―
+MID_ムービー字幕_07未来を知る者_3_2: You're a woman?
+MID_ムービー字幕_07未来を知る者_3_3: And quite the actress, too.
+MID_ムービー字幕_07未来を知る者_3_4: Honestly, I'm surprised you didn't\nfigure it out until just now.
+MID_ムービー字幕_08聖王エメリナ_1_1: No reaction...
+MID_ムービー字幕_08聖王エメリナ_1_2: Was I wrong, then?
+MID_ムービー字幕_08聖王エメリナ_1_3: Chrom...
+MID_ムービー字幕_08聖王エメリナ_1_4: This is some torch I'm passing you...
+MID_ムービー字幕_08聖王エメリナ_1_5: So be it.
+MID_ムービー字幕_08聖王エメリナ_2_1: Chrom...
+MID_ムービー字幕_08聖王エメリナ_3_1: Lissa...
+MID_ムービー字幕_08聖王エメリナ_3_2: And all my people...
+MID_ムービー字幕_08聖王エメリナ_3_3: ...Know that I loved you.
+MID_ムービー字幕_08聖王エメリナ_4_1: Emm...
+MID_ムービー字幕_09マルスの正体_1_1: That's the Brand of the Exalt...
+MID_ムービー字幕_09マルスの正体_2_1: Lucina...
+MID_ムービー字幕_09マルスの正体_2_2: You deserved better from me than\none sword and a world of troubles.
+MID_ムービー字幕_09マルスの正体_2_3: I'm sorry.
+MID_ムービー字幕_09マルスの正体_3_1: Oh, Father!
+MID_ムービー字幕_09マルスの正体_3_2: Father...
+MID_ムービー字幕_09マルスの正体_4_1: 
+MID_ムービー字幕_10絶望の未来・前_1_1: 
+MID_ムービー字幕_10絶望の未来・前_2_1: 
+MID_ムービー字幕_10絶望の未来・前_3_1: I believe the woman you want...
+MID_ムービー字幕_10絶望の未来・前_3_2: ...is ME!
+MID_ムービー字幕_10絶望の未来・前_3_3: We can't let these things win.
+MID_ムービー字幕_10絶望の未来・前_3_4: Now grab a sword...
+MID_ムービー字幕_10絶望の未来・前_3_5: ...and FIGHT!
+MID_ムービー字幕_11絶望の未来・後_1_1: 
+MID_ムービー字幕_11絶望の未来・後_2_1: 
+MID_ムービー字幕_11絶望の未来・後_3_1: So ends the human race.
+MID_ムービー字幕_11絶望の未来・後_3_2: The future is built upon the past...
+MID_ムービー字幕_11絶望の未来・後_3_3: But your kind shall never see it.
+MID_ムービー字幕_11絶望の未来・後_4_1: Your mother and father...
+MID_ムービー字幕_11絶望の未来・後_4_2: ...are dead, tiny one.
+MID_ムービー字幕_11絶望の未来・後_5_1: And now it is your turn...
+MID_ムービー字幕_11絶望の未来・後_5_2: ...to DIE!
+MID_ムービー字幕_12ギムレー復活_1_1: 
+MID_ムービー字幕_12ギムレー復活_2_1: All right. Now what?
+MID_ムービー字幕_12ギムレー復活_2_2: Grima. It's all over...
+MID_ムービー字幕_13エンディングムービー_1_1: Chrom, we have to do SOMETHING.
+MID_ムービー字幕_13エンディングムービー_1_2: What do you propose we do?
+MID_ムービー字幕_13エンディングムービー_1_3: I... I dunno...
+MID_ムービー字幕_13エンディングムービー_1_4: I see you're awake now.
+MID_ムービー字幕_13エンディングムービー_1_5: Hey there!
+MID_ムービー字幕_13エンディングムービー_1_6: There're better places to take a nap\nthan on the ground, you know.
+MID_ムービー字幕_13エンディングムービー_1_7: Give me your hand.
+MID_ムービー字幕_13エンディングムービー_1_8: Welcome back. It's over now.

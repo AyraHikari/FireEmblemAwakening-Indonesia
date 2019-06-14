@@ -1,0 +1,71 @@
+MESS_ARCHIVE_ec
+
+
+Message Name: Message
+
+
+MEC_OK: OK
+MEC_Yes: Yes
+MEC_No: No
+MEC_InputPINCode: Enter your PIN.
+MEC_Retry: Retry
+MEC_Err: An error occurred.
+MEC_Err_Connect: To try connecting to the\nnetwork again, touch Retry.
+MEC_Err_NoSD: No SD Card found.
+MEC_Err_NeedSD: You need an SD Card to store\ndownloadable content.
+MEC_Result: Error Code: %X
+MEC_Conn2AP: Connecting to access point...
+MEC_DeletingContent: Deleting content...
+MEC_InitSession: Initializing...
+MEC_GettingBalance: Checking funds...
+MEC_GettingContent: Loading map lineup...
+MEC_GettingItemList: Loading lineup...
+MEC_SDEjected: The SD Card has been removed.\nYou will be returned to the\nmain menu.
+MEC_Purchase: Buy
+MEC_Redeem: Redeem
+MEC_Filter: Filter
+MEC_Quit: Exit
+MEC_Delete: Delete
+MEC_ReDL: Download
+MEC_CantFindItem: No items found.
+MEC_SelectItem: Select a downloadable map.
+MEC_Input: Edit
+MEC_GettingCategoryList: Loading categories...
+MEC_CatNotFound: No categories available.
+MEC_SelectCategory: Select a category.
+MEC_NotSelected: Nothing selected.
+MEC_InputSearchWord: Enter your search terms.
+MEC_UseECard: Use Voucher
+MEC_SetECard: Enter Voucher
+MEC_AddBalance: Add Funds
+MEC_Pages: (Page %d/%d)
+MEC_ListContents: Lineup
+MEC_ManageContents: Buy and manage downloadable content.
+MEC_SelectItem_Price_Header: Price
+MEC_SelectItem_Price_Info: %ls%s%ls
+MEC_SelectItem_Price_Info_None: ----
+MEC_SelectItem_Block_Header: Blocks Required
+MEC_SelectItem_Block_Set_Header: Max Blocks Required
+MEC_SelectItem_Block_Info: %d blocks
+MEC_SelectItem_Release_Header: Release Date
+MEC_SelectItem_Release_Info: %04d/%d/%d
+MEC_SelectItem_Purchased: Purchased
+MEC_SelectItem_Purchased_ContentSet: Purchased
+MEC_SelectItem_Downloaded: Downloaded
+MEC_SelectItem_Balance: Funds: %ls%s%ls
+MEC_ParentalControl_Header: Parental Controls
+MEC_ParentalControl: The use of Nintendo 3DS\nShopping Services has been\nrestricted by Parental Controls.\n\nTo temporarily remove this\nrestriction, enter your PIN.
+MEC_ContentSet_Header: Purchase Confirmation
+MEC_ContentSet: You have already purchased\nsome of this content.\n\nContinue with the purchase?
+MEC_Delete_Confirm_Header: Delete
+MEC_Delete_Confirm: Delete this content?\nYou can download the content\nagain later.
+MEC_Delete_Exec: Do not turn off the power\nor remove the SD Card.
+MEC_Delete_Complete_Header: Deleted
+MEC_Delete_Complete: Content deleted.
+MEC_Guidance_Header: Notice
+MEC_Guidance: Please use touch controls to\nmake selections in these menus.
+MEC_InPreparation_Header: Notice
+MEC_InPreparation: Check back soon for downloadable maps.
+MEC_PurchaseEnd: Not available\nfor purchase.
+MEC_NewItem: New!
+MEC_Free: Free

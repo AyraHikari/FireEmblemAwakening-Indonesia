@@ -1,0 +1,18 @@
+MESS_ARCHIVE_様子_フレデリク3
+
+
+Message Name: Message
+
+
+MID_様子_フレデリク_前_敬さん: You never seem bored, do you?\nHow do you spend your rainy days?
+MID_様子_フレデリク_前: You never seem bored, do you?\nHow do you spend your rainy days?
+MID_様子_フレデリク_前_敬様: You never seem bored, do you?\nHow do you spend your rainy days?
+MID_様子_フレデリク_前_敬殿: You never seem bored, do you?\nHow do you spend your days in camp?
+MID_様子_フレデリク_後_敬さん: You mean when I'm not serving the\nShepherds? I gather rare mushrooms.
+MID_様子_フレデリク_後_敬様: You mean when I'm not serving the\nShepherds? I gather rare mushrooms.
+MID_様子_フレデリク_後_敬殿: You mean when I'm not serving the\nShepherds? I gather rare mushrooms.
+MID_様子_フレデリク_後_無言: NOT USED
+MID_様子_フレデリク_前_親子_子: You seem dreadfully tired, $Np.\nIs there anything I can do for you?
+MID_様子_フレデリク_後_親子_子: Oh, don't worry. I'm in as good\nof shape as I've ever been.
+MID_様子_フレデリク_前_恋人: You are so beautiful, $Np. I must\ntake care not to stare on the battlefield.
+MID_様子_フレデリク_後_恋人: Thank you. I hardly deserve them, but those\nwords shall carry me in the battles to come.

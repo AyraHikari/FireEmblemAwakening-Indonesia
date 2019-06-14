@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_リベラ3
+
+
+Message Name: Message
+
+
+MID_様子_リベラ_前_敬さん: What is the first thing you do\nafter returning to camp?
+MID_様子_リベラ_前: What is the first thing you do\nafter returning to camp?
+MID_様子_リベラ_前_敬様: What is the first thing you do\nafter returning to camp?
+MID_様子_リベラ_後_敬さん: If there is a place of worship nearby,\nI pray there and purify my heart.
+MID_様子_リベラ_後_敬様: If there is a place of worship nearby,\nI pray there and purify my heart.
+MID_様子_リベラ_後_無言: NOT USED
+MID_様子_リベラ_前_親子_子: Are you all right, $Np?\nI can heal you, if you like.
+MID_様子_リベラ_後_親子_子: It's...all right. I will entrust my\nrecovery to the gods.
+MID_様子_リベラ_前_恋人: My love, you look quite fetching, as usual.\nI must take care to focus during battle.
+MID_様子_リベラ_後_恋人: Well...it is a comfort to not be called\n"voluptuous" for a change. Thank you.

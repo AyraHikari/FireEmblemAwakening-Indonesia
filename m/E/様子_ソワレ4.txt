@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_ソワレ4
+
+
+Message Name: Message
+
+
+MID_様子_ソワレ_前: You're doing great out there. Why don't\nyou and me tag-team some Risen scum?
+MID_様子_ソワレ_前_敬殿: You're doing great out there. Why don't\nyou and me tag-team some Risen scum?
+MID_様子_ソワレ_前_敬様: You're doing great out there. Why don't\nyou and me tag-team some Risen scum?
+MID_様子_ソワレ_後: Of course! Damned if I'll let you down.
+MID_様子_ソワレ_後_敬殿: Of course! Damned if I'll let you down.
+MID_様子_ソワレ_後_敬様: Of course! Damned if I'll let you down.
+MID_様子_ソワレ_後_無言: NOT USED
+MID_様子_ソワレ_前_親子_子: So, $Np, what's a day\nin the future really like?
+MID_様子_ソワレ_後_親子_子: To be honest, I've spent most of my time\nin the Shepherds.$k$pPut most of the men to shame, at that!$k$pThat's why I know you can hold your own\nagainst any Tom, Dick, or Risen.$k$pYou're a tough girl, just like your mother.
+MID_様子_ソワレ_前_恋人: Why can't you be more damn careful,\n$Np? I don't want to lose you.
+MID_様子_ソワレ_後_恋人: You worry too much. Nobody's killing me\nas long as I've got you to take care of.

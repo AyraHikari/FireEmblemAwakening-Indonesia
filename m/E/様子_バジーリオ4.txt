@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_バジーリオ4
+
+
+Message Name: Message
+
+
+MID_様子_バジーリオ_前: What do you say you and I team up on\nthe battlefield? I think we're a good fit.
+MID_様子_バジーリオ_前_特殊: Emmeryn, nothing would make me happier\nthan to fight the next battle by your side.
+MID_様子_バジーリオ_後: You have excellent taste! All right, why not?\nLet's make the enemy weep!
+MID_様子_バジーリオ_後_特殊: You have excellent taste! All right, why not?\nLet's make the enemy weep!
+MID_様子_バジーリオ_後_無言: NOT USED
+MID_様子_バジーリオ_前_親子_子: What's new, Morgan? You manage to\nremember anything?
+MID_様子_バジーリオ_後_親子_子: I just live life as it pleases me. I started\nas a pirate, and now I'm a khan.$k$pYou've got to try everything while you're\nyoung and see what sticks.$k$pIf you can't get your old memories back,\npack your life with exciting new ones!
+MID_様子_バジーリオ_前_恋人: $Np, promise you won't do\nanything reckless. Especially not for me.
+MID_様子_バジーリオ_後_恋人: Ha! Don't worry. I already died once, and\nI'm not looking to repeat the experience.

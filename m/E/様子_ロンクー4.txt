@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_ロンクー4
+
+
+Message Name: Message
+
+
+MID_様子_ロンクー_前: You know, we should take\non more foes together.
+MID_様子_ロンクー_前_特殊: I'd be willing to, uh, take on more foes\ntogether. If it pleases you.
+MID_様子_ロンクー_後: As you wish. I offer no guarantees\nof success, though.
+MID_様子_ロンクー_後_特殊: Fight with you? A woman?! Nngh, fine!\nBut I demand ample space. ...AMPLE!
+MID_様子_ロンクー_後_無言: NOT USED
+MID_様子_ロンクー_前_親子_子: What were your days like before we met,\n$Np?
+MID_様子_ロンクー_後_親子_子: You should know I have few fatherly stories\nto share...$k$pI once did questionable things just to win\nmy next meal.$k$pBut I will strive to live more honorably to\navoid disgracing you.
+MID_様子_ロンクー_前_恋人: $Np, if you die out there...\nI'll kill you.
+MID_様子_ロンクー_後_恋人: Never you worry. I won't die when I\nknow you still need me.

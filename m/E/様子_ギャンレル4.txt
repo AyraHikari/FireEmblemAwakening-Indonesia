@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_ギャンレル4
+
+
+Message Name: Message
+
+
+MID_様子_ギャンレル_前: What do you say you and I team up and\ntake the next commander down personally?
+MID_様子_ギャンレル_前_特殊: You know, you should let me take the lead in\nthe next fight. It's dangerous out there.
+MID_様子_ギャンレル_後: You mean gang up on the enemy? Ha!\nThat sounds deliciously underhanded.
+MID_様子_ギャンレル_後_特殊: Well...all right. How am I supposed to say\nno to you?
+MID_様子_ギャンレル_後_無言: NOT USED
+MID_様子_ギャンレル_前_親子_子: Tell me about my future.\n...Do I even have one?
+MID_様子_ギャンレル_後_親子_子: Ha! You mean you haven't heard?\nYour father was a turd with a crown.$k$pYou should be ashamed to have been born\ninto such disgrace. Now go away.$k$pI'll tell you the moment I do anything\nfatherly enough to merit your pride.
+MID_様子_ギャンレル_前_恋人: Why did you put yourself in danger like\nthat? Trying to beat me to the grave?
+MID_様子_ギャンレル_後_恋人: Fine. I don't care if I live or die,\nso I may as well live and care for you.

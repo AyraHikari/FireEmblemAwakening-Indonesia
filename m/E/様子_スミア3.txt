@@ -1,0 +1,18 @@
+MESS_ARCHIVE_様子_スミア3
+
+
+Message Name: Message
+
+
+MID_様子_スミア_前: So, what's the first thing you\ndo after a long battle?
+MID_様子_スミア_前_無言: NOT USED
+MID_様子_スミア_前_敬さん: So, what's the first thing you\ndo after a long battle?
+MID_様子_スミア_前_敬様: So, what's the first thing you\ndo after a long battle?
+MID_様子_スミア_後: I make sure everyone else is safe and sound.\nNothing hurts like losing a comrade.
+MID_様子_スミア_後_敬さん: I make sure everyone else is safe and sound.\nNothing hurts like losing a comrade.
+MID_様子_スミア_後_敬様: I make sure everyone else is safe and sound.\nNothing hurts like losing a comrade.
+MID_様子_スミア_後_無言: NOT USED
+MID_様子_スミア_前_親子_子: Are you all right, $Np?\nYou must be more careful out there.
+MID_様子_スミア_後_親子_子: I'm doing just fine, I promise. Okay?
+MID_様子_スミア_前_恋人: You're so dashing, $Np.\nI'm lucky you don't find some prettier girl.
+MID_様子_スミア_後_恋人: Oh, you're just saying that! Hee hee!\n...Sorry, I'm not good with compliments.

@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_ブレディ3
+
+
+Message Name: Message
+
+
+MID_様子_ブレディ_前: Everyone gets so busy when we return\nto camp. How do ya pass the time?
+MID_様子_ブレディ_後: I'm usually practicin' with weapons. Don't\nget too close, though―my aim is rubbish.
+MID_様子_ブレディ_後_無言: NOT USED
+MID_様子_ブレディ_前_親子_子: Morgan, you seem awful quiet.\nYa feeling all right? Should I get my staff?
+MID_様子_ブレディ_後_親子_子: I've had people take jabs at how I dress,\nbut that's the first jab at my complexion!
+MID_様子_ブレディ_前_親子_母: That was quite a spill, Mother. You taking\nup slapstick? ...Sorry, lemme heal ya.
+MID_様子_ブレディ_後_親子_母: Me? I'm alive and kickin'. You're the one\nwhat's always out of breath, old-timer!
+MID_様子_ブレディ_前_親子_父: Let me look at that injury from before,\nPop. ...Yeesh, pretty nasty. You all right?
+MID_様子_ブレディ_後_親子_父: Aw, don't ya go worryin' about me, Pop.\nYou're the one with bags under your eyes!
+MID_様子_ブレディ_前_恋人: $Np, ya look lovelier than ever\nbefore. Other dames pale in comparison!
+MID_様子_ブレディ_後_恋人: That's nice of ya to say, considering most\npeople find me terrifyin'. I'm a lucky man!

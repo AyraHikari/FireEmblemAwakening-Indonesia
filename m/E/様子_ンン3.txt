@@ -1,0 +1,21 @@
+MESS_ARCHIVE_様子_ンン3
+
+
+Message Name: Message
+
+
+MID_様子_ンン_前: How do you spend your\nfree time between battles?
+MID_様子_ンン_前_無言: NOT USED
+MID_様子_ンン_前_敬さん: How do you spend your\nfree time between battles?
+MID_様子_ンン_前_特殊: Chrom, how do you spend your\nfree time between battles?
+MID_様子_ンン_後: I observe humans. They do such silly,\nfascinating things...
+MID_様子_ンン_後_敬さん: I observe humans. They do such silly,\nfascinating things...
+MID_様子_ンン_後_無言: NOT USED
+MID_様子_ンン_前_親子_子: Are you all right, Morgan?\nYou look fatigued.
+MID_様子_ンン_後_親子_子: Dragonkin always look pale in dragon form.\nYou needn't concern yourself.
+MID_様子_ンン_前_親子_母: Mother, did I see you walking off with a\nstranger? Are you trying to get abducted?
+MID_様子_ンン_後_親子_母: Thank you. Believe me,\nthe concern is mutual.
+MID_様子_ンン_前_親子_父: Father, you look deathly today. Tell me you\ndidn't accidentally drink dragon's blood!
+MID_様子_ンン_後_親子_父: Thank you, but I'm tough for my age.\nEverything is just fine.
+MID_様子_ンン_前_恋人: Why is it you are so pleasant to look at,\n$Np? So strong, and dashing!
+MID_様子_ンン_後_恋人: Thank you. You cut a dashing figure\nyourself, I'll have you know.

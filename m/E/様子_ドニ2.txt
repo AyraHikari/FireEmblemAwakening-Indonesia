@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_ドニ2
+
+
+Message Name: Message
+
+
+MID_様子_ドニ_前: Ya sure fight hard out there! I reckon\nyer fightin' for some big dreams, huh?
+MID_様子_ドニ_前_通さん: Ya sure fight hard out there! I reckon\nyer fightin' for some big dreams, huh?
+MID_様子_ドニ_前_通様: Ya sure fight hard out there! I reckon\nyer fightin' for some big dreams, huh?
+MID_様子_ドニ_後: Aw, I just dream of makin' a difference so I\ncan go home with my chest puffed out!
+MID_様子_ドニ_後_通さん: Aw, I just dream of makin' a difference so I\ncan go home with my chest puffed out!
+MID_様子_ドニ_後_通様: Aw, I just dream of makin' a difference so I\ncan go home with my chest puffed out!
+MID_様子_ドニ_後_無言: NOT USED
+MID_様子_ドニ_前_親子_子: $Np, you'n me should practice\ntogether. I gotta see what yer made of!
+MID_様子_ドニ_後_親子_子: Gosh, sure! But go easy on me now.\nI ain't the toughest bull in the pen.
+MID_様子_ドニ_前_恋人: When yer around, $Np, I feel like\nI'm a mile off the ground. It's true love!
+MID_様子_ドニ_後_恋人: Well, I love ya even more, and I'll guard\nya with every bone in my body!

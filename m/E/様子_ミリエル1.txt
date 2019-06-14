@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_ミリエル1
+
+
+Message Name: Message
+
+
+MID_様子_ミリエル_前_敬さん: You look jubilant today. Have you devised a\nnew algorithm for sorting your possessions?
+MID_様子_ミリエル_前: You look jubilant today. Have you devised a\nnew algorithm for sorting your possessions?
+MID_様子_ミリエル_前_敬様: You look jubilant today. Have you devised a\nnew algorithm for sorting your possessions?
+MID_様子_ミリエル_後_敬さん: No. ...I'm sorry, but could you straighten\nyour clothes? They're not even.
+MID_様子_ミリエル_後_敬様: No. ...I'm sorry, but could you straighten\nyour clothes? They're not even.
+MID_様子_ミリエル_後_無言: NOT USED
+MID_様子_ミリエル_前_親子_子: What may I secure for you, $Np?\nI must see to the well-being of my child.
+MID_様子_ミリエル_後_親子_子: Oh, did I project a sense of material need?\nI appreciate the thought, but I will get by.
+MID_様子_ミリエル_前_恋人: What do you have there, $Np?\nPerhaps you should lighten your load.
+MID_様子_ミリエル_後_恋人: This is a document of your every action.\nI find it comforting in these chaotic times.

@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_デジェル2
+
+
+Message Name: Message
+
+
+MID_様子_デジェル_前: Dreams and goals bring out the best in us.\nWhat are yours?
+MID_様子_デジェル_前_無言: NOT USED
+MID_様子_デジェル_前_敬殿: Dreams and goals bring out the best in us.\nWhat are yours?
+MID_様子_デジェル_後: I dream of becoming the ultimate warrior.\nAnd who says a woman can't do it?
+MID_様子_デジェル_後_敬殿: I dream of becoming the ultimate warrior.\nAnd who says a woman can't do it?
+MID_様子_デジェル_後_無言: NOT USED
+MID_様子_デジェル_前_親子_子: Morgan, I challenge you!\nLet's see which of us is stronger!
+MID_様子_デジェル_後_親子_子: All right. I can't wait to\nsee how you fight!
+MID_様子_デジェル_前_親子_母: Mother, we've trained with weapons. Why\ndon't we have a potato-peeling contest?
+MID_様子_デジェル_後_親子_母: You're on. I'm always eager\nto learn more from you!
+MID_様子_デジェル_前_親子_父: Father, if you find the time, I was\nwondering if we could train together.
+MID_様子_デジェル_後_親子_父: I would love that! But you'd better wear\nyour best armor. I hit back hard!
+MID_様子_デジェル_前_恋人: Let's be together always, $Np.\nI've never loved anyone like you.
+MID_様子_デジェル_後_恋人: Well...I love you, too. But don't make\nme say it again. It's embarrassing!

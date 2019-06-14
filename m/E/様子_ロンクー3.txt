@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_ロンクー3
+
+
+Message Name: Message
+
+
+MID_様子_ロンクー_前: What do you do when you need a\ndistraction?
+MID_様子_ロンクー_前_特殊: What do you do when you need a\ndistraction?
+MID_様子_ロンクー_後: I better my swordsmanship.\nNothing else.
+MID_様子_ロンクー_後_特殊: I practice! With my sword!\n...Now mind your own business.
+MID_様子_ロンクー_後_無言: NOT USED
+MID_様子_ロンクー_前_親子_子: $Np? You look ill.
+MID_様子_ロンクー_後_親子_子: I'm fine. Don't trouble yourself.
+MID_様子_ロンクー_前_恋人: You look...lovelier than ever,\n$Np.
+MID_様子_ロンクー_後_恋人: I...what? Nngh... Flattery will\nget you nowhere!

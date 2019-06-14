@@ -1,0 +1,18 @@
+MESS_ARCHIVE_様子_フレデリク2
+
+
+Message Name: Message
+
+
+MID_様子_フレデリク_前_敬さん: I've noticed you've been working hard.\nTrying to fulfill some lifelong dream?
+MID_様子_フレデリク_前: I've noticed you've been working hard.\nTrying to fulfill some lifelong dream?
+MID_様子_フレデリク_前_敬様: I've noticed you've been working hard.\nTrying to fulfill some lifelong dream?
+MID_様子_フレデリク_前_敬殿: I've noticed you've been working hard.\nTrying to fulfill some lifelong dream?
+MID_様子_フレデリク_後_敬さん: I dream only of helping us all\nattain what we seek.
+MID_様子_フレデリク_後_敬様: I dream only of helping us all\nattain what we seek.
+MID_様子_フレデリク_後_敬殿: I dream only of helping us all\nattain what we seek.
+MID_様子_フレデリク_後_無言: NOT USED
+MID_様子_フレデリク_前_親子_子: I enjoy fighting by your side, but why don't\nwe spar with each other now and then?
+MID_様子_フレデリク_後_親子_子: Of course. But a clash that epic will require\nan equally epic venue! I shall think on it.
+MID_様子_フレデリク_前_恋人: You look lovely as always, $Np.\nMy heart is utterly at your mercy.
+MID_様子_フレデリク_後_恋人: My heart soars to hear those words.\nI love you too, my sweet.

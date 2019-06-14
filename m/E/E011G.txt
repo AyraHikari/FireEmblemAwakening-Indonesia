@@ -1,0 +1,14 @@
+MESS_ARCHIVE_E011G
+
+
+Message Name: Message
+
+
+MJID_予約０２: Bride
+MJID_H_予約０２: A woman blessed by Lady Luck.\nWields lances, bows, and staves.
+MIID_予約０７: Wedding Bouquet
+MIID_H_予約０７: Changes a base class at LV 10 (or any\nlevel adv. class) to the Bride class.
+MRSID_予約０７: Rally Heart
+MRSID_H_予約０７: Use "Rally" to grant +2 all stats/Mov +1\nto units within three spaces for one turn.
+MRSID_予約０８: Bond
+MRSID_H_予約０８: Restores 10 HP to allies within three\nspaces at the start of each turn.

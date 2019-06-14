@@ -1,0 +1,10 @@
+MESS_ARCHIVE_E012G
+
+
+Message Name: Message
+
+
+MIID_予約０３: Iote's Shield
+MIID_H_予約０３: Teaches a skill that protects a unit\nfrom bonus damage against fliers.
+MRSID_予約０３: Iote's Shield
+MRSID_H_予約０３: Protects from bonus damage\nagainst fliers.

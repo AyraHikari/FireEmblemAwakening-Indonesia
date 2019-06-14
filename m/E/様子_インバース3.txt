@@ -1,0 +1,13 @@
+MESS_ARCHIVE_様子_インバース3
+
+
+Message Name: Message
+
+
+MID_様子_インバース_前: I've always wondered how you spend\nyour time off the battlefield.
+MID_様子_インバース_後: I usually go for a swim in the lake.\n...Sometimes even in proper attire.
+MID_様子_インバース_後_無言: NOT USED
+MID_様子_インバース_前_親子_子: You can't go hobbling around with sleep\nin your eyes. What will people think?
+MID_様子_インバース_後_親子_子: Oh dear. Does it show? Well, don't worry.\nI probably just need more sleep.
+MID_様子_インバース_前_恋人: Hello, my love. Why is it that with so many\nmen out there, I still find you alluring?
+MID_様子_インバース_後_恋人: You're just being a tease.\nAnd yet, I find it wildly attractive.

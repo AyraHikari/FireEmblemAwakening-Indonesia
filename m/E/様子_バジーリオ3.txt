@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_バジーリオ3
+
+
+Message Name: Message
+
+
+MID_様子_バジーリオ_前: So what do you do for kicks?
+MID_様子_バジーリオ_前_特殊: Emmeryn, don't you do anything for fun?\nLife isn't all battles. ...Unfortunately.
+MID_様子_バジーリオ_後: I chop firewood. People seem to think I'm\ngood at it. Doubles as axe practice, too!
+MID_様子_バジーリオ_後_特殊: I chop firewood. People seem to think I'm\ngood at it. Doubles as axe practice, too!
+MID_様子_バジーリオ_後_無言: NOT USED
+MID_様子_バジーリオ_前_親子_子: You look a little woozy today, kid.\nTrying to worry your old man?
+MID_様子_バジーリオ_後_親子_子: Don't worry. I'll get my color back in no\ntime. Save your ideas for when it matters.
+MID_様子_バジーリオ_前_恋人: Is it just me, $Np, or have\nyou gotten prettier overnight?
+MID_様子_バジーリオ_後_恋人: Aw, I'm the same lug as always, but have\nYOU gotten prettier overnight?

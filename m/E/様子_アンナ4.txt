@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_アンナ4
+
+
+Message Name: Message
+
+
+MID_様子_アンナ_前: Well, we've got a tough battle ahead.\nCan I count on you?
+MID_様子_アンナ_前_通さん: Well, we've got a tough battle ahead.\nCan I count on you?
+MID_様子_アンナ_後: Sure. But let's not do anything reckless.\nA dead shopkeeper earns no profits.
+MID_様子_アンナ_後_通さん: Sure. But let's not do anything reckless.\nA dead shopkeeper earns no profits.
+MID_様子_アンナ_後_無言: NOT USED
+MID_様子_アンナ_前_親子_子: Sooo, what's popular in the future?\nI need to stay ahead of the trends.
+MID_様子_アンナ_後_親子_子: I've been traveling and selling as long as I\ncan remember. Oh, the lands I've seen!$k$pWhich reminds me, I need to introduce\nyou to my sisters. You have a LOT of aunts!$k$p...You might say you were born into\ndiscounts.
+MID_様子_アンナ_前_恋人: Please be careful out there, $Np.\nWe're supposed to open a store together!
+MID_様子_アンナ_後_恋人: What? I would never leave my shop behi...\nEr, I mean, I'd never leave YOU behind.

@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_ミリエル4
+
+
+Message Name: Message
+
+
+MID_様子_ミリエル_前_敬さん: Would you pair up with me? Fighting in\nteams increases our probability of success.
+MID_様子_ミリエル_前: Would you pair up with me? Fighting in\nteams increases our probability of success.
+MID_様子_ミリエル_前_敬様: Would you pair up with me? Fighting in\nteams increases our probability of success.
+MID_様子_ミリエル_後_敬さん: Aptly put! Teaming up ameliorates our\nchances of success. ...Very well, I am yours.
+MID_様子_ミリエル_後_敬様: Aptly put! Teaming up ameliorates our\nchances of success. ...Very well, I am yours.
+MID_様子_ミリエル_後_無言: NOT USED
+MID_様子_ミリエル_前_親子_子: Tell me about the future, $Np.\nWhat strange phenomena does it hold?
+MID_様子_ミリエル_後_親子_子: I tend to be a bit obsessive, so I spent\nmost of my time cleaning and sorting.$k$pThe Shepherds excel at fighting, but their\norganization skills make me bilious.$k$pWhatever is left lying around must be\nburned. ...See? Fire does the trick.
+MID_様子_ミリエル_前_恋人: $Np, apply yourself in\nmoderation, or you shall leave me a widow.
+MID_様子_ミリエル_後_恋人: I make no strict guarantees, but I shall\nendeavor not to bring tears to your eyes.

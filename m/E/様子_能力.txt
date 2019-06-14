@@ -1,0 +1,63 @@
+MESS_ARCHIVE_様子_能力
+
+
+Message Name: Message
+
+
+MID_様子_単独_プレイヤー男_PCM1: I'm in top form today!
+MID_様子_単独_プレイヤー男_PCM2: 
+MID_様子_単独_プレイヤー男_PCM3: 
+MID_様子_単独_プレイヤー女_PCF1: I'm in top form today!
+MID_様子_単独_プレイヤー女_PCF2: 
+MID_様子_単独_プレイヤー女_PCF3: 
+MID_様子_単独_プレイヤー援軍: ...?!
+MID_様子_単独_旧マルス: ...?!
+MID_様子_単独_クロム: Where is all this strength coming from?\nI feel like I could topple a mountain!
+MID_様子_単独_フレデリク: What's gotten into me today? I feel as if\nI could protect the realm single-handed!
+MID_様子_単独_ソール: That extra helping at dinner kicked in.\nI feel great today!
+MID_様子_単独_カラム: Is it just me, or do I have\nmore presence today?
+MID_様子_単独_リヒト: I'm on fire today! I feel like I could run\nacross the world and back!
+MID_様子_単独_ヴェイク: The Vaike never has an off day, but today\nhe's definitely having an "onner" day.
+MID_様子_単独_リベラ: Gods be praised,\nI feel wonderful today!
+MID_様子_単独_ロンクー: ...I feel more nimble than usual.
+MID_様子_単独_グレゴ: Gregor is running the circle around\neveryone today! Is match for ANYONE!
+MID_様子_単独_ガイア: A little sugar has really got my brain\nspinning again, and I got energy to spare!
+MID_様子_単独_ヴィオール: What is this boost of excellence I sense\nwithin my noble self? Even I am amazed!
+MID_様子_単独_ヘンリー: Wow! My blood's pumping so hard today,\nI think my thumbs might explode!
+MID_様子_単独_ドニ: Dang if I ain't outdoin' m'self today! Might\nbe I can even keep up with the others.
+MID_様子_単独_スミア: I haven't tripped in at least an hour!\n...That's amazing. Was it something I ate?
+MID_様子_単独_リズ: I'm doing great today! I wonder why...?\nI guess I'll just go with it.
+MID_様子_単独_ソワレ: Hot damn! I am cooking with fire today!\nWatch me tear up the field!
+MID_様子_単独_マリアベル: I declare, I am in fine form! Perhaps only\nnatural for a woman of my breeding.
+MID_様子_単独_ティアモ: I'm really outdoing myself today.\nI wonder if he's noticed...
+MID_様子_単独_ベルベット: Ha, yes! I haven't felt this good\nsince the old days with the warren.
+MID_様子_単独_ノノ: I am just BURSTING with energy today!\nMaybe I'll transform into a bigger dragon!
+MID_様子_単独_オリヴィエ: This has been a fantastic day for me.\nI feel like I'm dancing on air!
+MID_様子_単独_セルジュ: Is there something in the air today?\nI feel so invigorated!
+MID_様子_単独_ミリエル: What a commendable day. Every item is\nprecisely where it's supposed to be.
+MID_様子_単独_サーリャ: I feel ickier than usual today... Splendid!\nOh, the curses I could hex up now...
+MID_様子_単独_ジェローム: Something about today makes me\nfeel that I will do great things.
+MID_様子_単独_ウード: The blood of heroes courses through me!\nToday I will mete out great justice!
+MID_様子_単独_アズール: Today is a fine day―I can smell it.\nWatch me sweep the ladies off their feet!
+MID_様子_単独_ブレディ: What a day! I've been scatterin' foes with\na single glance from my mean mug!
+MID_様子_単独_シャンブレー: Wow! What is it about today?\nI never felt this good in the future.
+MID_様子_単独_ロラン: What a remarkable day I'm having.\nIf only I always felt this formidable!
+MID_様子_単独_マーク男: I'm in fantastic form today! I just hope I\ncan put it to good use.
+MID_様子_単独_マルス: Something agrees with me today. I must\nhave at least twice my normal strength!
+MID_様子_単独_デジェル: I feel as though I could conquer anything\ntoday! Has my training finally paid off?
+MID_様子_単独_シンシア: What a killer day I'm having! The forces of\nevil will stay home if they're smart.
+MID_様子_単独_セレナ: I must have slept well or something. My skin\nfeels so supple. And my hair? Perfect!
+MID_様子_単独_ノワール: Today has been remarkable. I bet I could\nwithstand ANY of Mother's curses!
+MID_様子_単独_ンン: The way today's been going, I feel like I\ncould transform into a superdragon!
+MID_様子_単独_マーク女: I'm in fantastic form today! I just hope I\ncan put it to good use.
+MID_様子_単独_パリス: I feel on top of the world today. Let any\nenemy challenge me―they will fail!
+MID_様子_単独_バジーリオ: What a day I'm having.\nI could level an entire army!
+MID_様子_単独_レンハ: The day has proven to favor me.\nMy blade sings songs I feared forgotten.
+MID_様子_単独_ヴァルハルト: I am always in top form, but today I have\nshattered even my high expectations!
+MID_様子_単独_ギャンレル: Gya ha ha! What is in the water? I feel like I\ncould stamp out armies like anthills today!
+MID_様子_単独_サイリ: The fates favor me, it seems. Today I\nfeel ready to cut down the fiercest enemies.
+MID_様子_単独_アンナ: Holy smokes! Is this my lucky day?\nMy performance AND my profits are up!
+MID_様子_単独_チキ: Look at me go! I could not ask\nfor a better day.
+MID_様子_単独_インバース: Now this is my kind of day! It's like the\nwhole world dances in the palm of my hand.
+MID_様子_単独_フラヴィア: Whew! I feel as though the gods' very\nbreath is in me. I can do anything!
+MID_様子_単独_エメリナ: Today...I feel...strong...

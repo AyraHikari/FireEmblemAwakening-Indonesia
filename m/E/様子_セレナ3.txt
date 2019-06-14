@@ -1,0 +1,22 @@
+MESS_ARCHIVE_様子_セレナ3
+
+
+Message Name: Message
+
+
+MID_様子_セレナ_前: How do you while away your free time?\nNot that we ever get any...
+MID_様子_セレナ_前_無言: NOT USED
+MID_様子_セレナ_前_通さん: How do you while away your free time?\nNot that we ever get any...
+MID_様子_セレナ_前_特殊: How do you while away your free time?\nNot that we ever get any...
+MID_様子_セレナ_後: I have my routines. I comb my hair, primp...\nIt's the only way I feel good about myself.
+MID_様子_セレナ_後_通さん: I have my routines. I comb my hair, primp...\nIt's the only way I feel good about myself.
+MID_様子_セレナ_後_特殊: I have my routines. I comb my hair, primp...\nIt's the only way I feel good about myself.
+MID_様子_セレナ_後_無言: NOT USED
+MID_様子_セレナ_前_親子_子: Morgan, you look like a run-down revenant.\nThat's not like you at all! You're scaring me.
+MID_様子_セレナ_後_親子_子: What?! Did the skin cream not work?\nUgh, it's all over. My life is in ruins...
+MID_様子_セレナ_前_親子_母: Mother, I saw you staring at Chrom.\nAre you sure you're really over him?
+MID_様子_セレナ_後_親子_母: I'll TELL you if I'm not all right.\nJust worry about yourself, please.
+MID_様子_セレナ_前_親子_父: Father, look at your hair!\nYou have to take better care of it!
+MID_様子_セレナ_後_親子_父: I would have preferred a "you look lovely\ntoday." But thanks for worrying, Father.
+MID_様子_セレナ_前_恋人: You're still my favorite thing to look at,\n$Np―more now than ever!
+MID_様子_セレナ_後_恋人: Of course. I look after my appearance.\nYou should be proud of your lady.

@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_ブレディ1
+
+
+Message Name: Message
+
+
+MID_様子_ブレディ_前: Why the big grin? You look like ya just saw\nme catch an axe in the face or somethin'.
+MID_様子_ブレディ_後: Nope. I'm just glad to see ya\nain't got no serious injuries.
+MID_様子_ブレディ_後_無言: NOT USED
+MID_様子_ブレディ_前_親子_子: Need anything, kid? Can't have ya bein'\nrough around the edges like your pop.
+MID_様子_ブレディ_後_親子_子: How 'bout the vulneraries I dropped in the\nravine back there? ...No? Didn't think so.
+MID_様子_ブレディ_前_親子_母: Anything I can get for ya, Ma?\nI didn't do much for ya in the future...
+MID_様子_ブレディ_後_親子_母: A more hands-off ma would be nice.\nNo more addin' frills to my shirt, capisce?
+MID_様子_ブレディ_前_親子_父: Need anything, Pop? I feel like I needs\nto be a better son or somethin'.
+MID_様子_ブレディ_後_親子_父: Well, I dropped a staff in the ravine.\nMind climbin' down to... Of course ya do.
+MID_様子_ブレディ_前_恋人: $Np, your satchel's packed to\nthe brim today. Whatcha got in there?
+MID_様子_ブレディ_後_恋人: It's an armlet I bought for ya. Was gonna\nsurprise ya, but I guess the jig is up...

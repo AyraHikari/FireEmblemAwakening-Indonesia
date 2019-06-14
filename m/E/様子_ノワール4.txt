@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_ノワール4
+
+
+Message Name: Message
+
+
+MID_様子_ノワール_前: You give me courage during battle.\nWhy don't we fight together next time?
+MID_様子_ノワール_前_無言: NOT USED
+MID_様子_ノワール_前_敬さん: You give me courage during battle.\nWhy don't we fight together next time?
+MID_様子_ノワール_後: All right. Two is safer than one!
+MID_様子_ノワール_後_敬さん: All right. Two is safer than one!
+MID_様子_ノワール_後_無言: NOT USED
+MID_様子_ノワール_前_親子_子: In your future, Morgan,\nam I a good mother?
+MID_様子_ノワール_後_親子_子: What good will it do you to know about me?$k$pWait. Did the enemy hire you to spy on me?\nAre you planning to spring some curse?$k$pI know where this is going! You have my\nmother's wicked blood in you, too!$k$pThe greatest dangers are under one's own\nroof, clearly!
+MID_様子_ノワール_前_親子_母: Mother, what were things like\nbefore you met me?
+MID_様子_ノワール_後_親子_母: In the future, you used me as a guinea pig.$k$pYou subjected me to all kinds of nasty\ncurses on a day-to-day basis!$k$pBut when it mattered, you used your magic\nto sacrifice yourself and...save me.$k$pBut try to leave me again, and I'll hex\nyou back a hundredfold!
+MID_様子_ノワール_前_親子_父: Father, what was your typical day\nlike before we met?
+MID_様子_ノワール_後_親子_父: My future consisted of being subjected to\nMother's crazy hexes.$k$pBut I remember being happy every time you\nshowed up and saved me.$k$pRemember to look after me when I'm born\nin this time. ...I'll need it.
+MID_様子_ノワール_前_恋人: $Np, stay by my side. Don't\nleave me behind the way my parents did.
+MID_様子_ノワール_後_恋人: Do I look that close to my own demise?\n...Sorry, I'll try to put up a tougher front.

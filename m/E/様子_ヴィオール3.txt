@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_ヴィオール3
+
+
+Message Name: Message
+
+
+MID_様子_ヴィオール_前_通くん: I have always wondered how\npeople like you fill their days.
+MID_様子_ヴィオール_前_無言: NOT USED
+MID_様子_ヴィオール_前_敬殿: I have always wondered how\npeople like you fill their days.
+MID_様子_ヴィオール_後_通くん: I go around collecting herbs to make tea.\nA civilized thing to do, wouldn't you say?
+MID_様子_ヴィオール_後_敬殿: I go around collecting herbs to make tea.\nA civilized thing to do, wouldn't you say?
+MID_様子_ヴィオール_後_無言: NOT USED
+MID_様子_ヴィオール_前_親子_子: Are you all right, $Np? You seem\nto have lost a bit of your luster.
+MID_様子_ヴィオール_後_親子_子: I'm fine, I assure you. Perhaps you're\nstaring at me too much? It does happen.
+MID_様子_ヴィオール_前_恋人: You look more fetching than ever, my love.\nFlowers would wilt from jealousy.
+MID_様子_ヴィオール_後_恋人: You agree, then? That I am handsome?\nI thought you fell in love with my humility!

@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_サーリャ1
+
+
+Message Name: Message
+
+
+MID_様子_サーリャ_前: Well, lah-dee-dah. Don't you look happy.\nTrying to make the gloomy woman feel bad?
+MID_様子_サーリャ_前_無言: NOT USED
+MID_様子_サーリャ_前_特殊: You look happy today, $Np.\nFallen victim to a certain someone's curse?
+MID_様子_サーリャ_後: Go away. What do you care how I feel?
+MID_様子_サーリャ_後_特殊: Maybe I'm simply happy to be around you.\nDoes that thought...scare you?
+MID_様子_サーリャ_後_無言: NOT USED
+MID_様子_サーリャ_前_親子_子: Anything you need, $Np? You\ndeserve a reward for being my guinea pig.
+MID_様子_サーリャ_後_親子_子: How about some animal bones? ...And no,\nit's not for curses. I'm making a flute.
+MID_様子_サーリャ_前_恋人: What's that you have there, $Np?\nYou can't hide anything from me.
+MID_様子_サーリャ_後_恋人: It's an accessory. Why don't you put it on?\nLet everyone know you BELONG to me.

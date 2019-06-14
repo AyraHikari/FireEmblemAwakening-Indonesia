@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_ウード3
+
+
+Message Name: Message
+
+
+MID_様子_ウード_前: Even the Chosen One needs a day of rest.\nHow do you fill your spare time?
+MID_様子_ウード_前_無言: NOT USED
+MID_様子_ウード_前_敬さん: Even the Chosen One needs a day of rest.\nHow do you fill your spare time?
+MID_様子_ウード_後: Me? I secretly battle with evil. The forces\nof darkness fall upon me at every moment!
+MID_様子_ウード_後_敬さん: Me? I secretly battle with evil. The forces\nof darkness fall upon me at every moment!
+MID_様子_ウード_後_無言: NOT USED
+MID_様子_ウード_前_親子_子: You look down somehow. ...Gods! Has the\nunbridled power within you awakened?!
+MID_様子_ウード_後_親子_子: Don't worry, I'm my usual self. Though I\nmay have...pushed myself too hard today.
+MID_様子_ウード_前_親子_母: Mother, I've devised some new names for\nmy moves! Do you think they sound good?
+MID_様子_ウード_後_親子_母: Thank you, Mother, but I like my new scar.\nIt adds mystique to my persona.
+MID_様子_ウード_前_親子_父: Father, that scar is huge! It's amazing!\n...Er, I mean, are you all right?
+MID_様子_ウード_後_親子_父: Don't worry. I always look weak after\nunleashing the extent of my powers.
+MID_様子_ウード_前_恋人: You look lovely, $Np.\nYour eyes twinkle like earthly stars.
+MID_様子_ウード_後_恋人: Well, I must maintain a charming image for\nmy love. ...And the poets. But mostly you.

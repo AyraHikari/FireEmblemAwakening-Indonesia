@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_セルジュ4
+
+
+Message Name: Message
+
+
+MID_様子_セルジュ_前: How are you holding up? I was wondering\nif we could fight together for a change.
+MID_様子_セルジュ_前_通ちゃん: How are you holding up? I was wondering\nif we could fight together for a change.
+MID_様子_セルジュ_前_敬さん: How are you holding up? I was wondering\nif we could fight together for a change.
+MID_様子_セルジュ_後: If it pleases you. Together, we can\nface any opponent without fear.
+MID_様子_セルジュ_後_通ちゃん: If it pleases you. Together, we can\nface any opponent without fear.
+MID_様子_セルジュ_後_敬さん: If it pleases you. Together, we can\nface any opponent without fear.
+MID_様子_セルジュ_後_無言: NOT USED
+MID_様子_セルジュ_前_親子_子: Tell me, $Np. What was your\nday-to-day life in the future like?
+MID_様子_セルジュ_後_親子_子: You are the first to ask me that in a while.\nWell, why don't we talk over tea?$k$pAnd soon―before you go off on your own\nagain. Promise?$k$pOtherwise I will have to send Minerva to\nhunt you down.
+MID_様子_セルジュ_前_恋人: Please be careful, $Np.\nI am so scared I might lose you.
+MID_様子_セルジュ_後_恋人: I'm right here, and I'm not going anywhere.\nYou need someone to look after you.

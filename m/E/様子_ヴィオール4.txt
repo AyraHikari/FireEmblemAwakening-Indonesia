@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_ヴィオール4
+
+
+Message Name: Message
+
+
+MID_様子_ヴィオール_前_通くん: You have a grace about you when you fight.\nWhat do you say to battling by my side?
+MID_様子_ヴィオール_前_無言: NOT USED
+MID_様子_ヴィオール_前_敬殿: You have a grace about you when you fight.\nWhat do you say to battling by my side?
+MID_様子_ヴィオール_後_通くん: Of course. Our every move shall be a saga\nin the making! The bards will swoon.
+MID_様子_ヴィオール_後_敬殿: Of course. Our every move shall be a saga\nin the making! The bards will swoon.
+MID_様子_ヴィオール_後_無言: NOT USED
+MID_様子_ヴィオール_前_親子_子: Tell me, my valiant child, what was it like\nin the future? How did you pass the days?
+MID_様子_ヴィオール_後_親子_子: I am so glad you asked! My history is a\nstoried one, I assure you. *ahem*$k$pOnce upon a time, in the land of Rosanne,\nthe angels wept as a noble babe cried his...$k$pHuh? Wait, don't go!
+MID_様子_ヴィオール_前_恋人: My love, don't you think you've been a bit\nreckless on the battlefield of late? I worry.
+MID_様子_ヴィオール_後_恋人: Thank you, my love. But do not fear for me.\nEpic heroes are so hard to strike down!

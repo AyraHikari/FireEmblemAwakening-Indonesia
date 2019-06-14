@@ -1,0 +1,13 @@
+MESS_ARCHIVE_様子_チキ2
+
+
+Message Name: Message
+
+
+MID_様子_チキ_前: I've met so many people with just as many\ndreams. What is it that you strive for?
+MID_様子_チキ_後: I want lots of friends. I know I'll lose them\none day, but it beats never meeting at all.
+MID_様子_チキ_後_無言: NOT USED
+MID_様子_チキ_前_親子_子: You sleep even more than me, Morgan.\nMaybe we should compete to stay awake!
+MID_様子_チキ_後_親子_子: Well, all right, but I'll have to hold back.\nOtherwise I'll destroy you in seconds.
+MID_様子_チキ_前_恋人: I wish we could stay together always,\n$Np.
+MID_様子_チキ_後_恋人: I love you too―more with each passing day.

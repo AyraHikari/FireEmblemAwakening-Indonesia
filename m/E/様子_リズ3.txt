@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_リズ3
+
+
+Message Name: Message
+
+
+MID_様子_リズ_前: How come you vanish after each battle?\nDo you have a hobby or whatever?
+MID_様子_リズ_前_無言: NOT USED
+MID_様子_リズ_前_通さん: How come you vanish after each battle?\nDo you have a hobby or whatever?
+MID_様子_リズ_前_特殊: You seem busier than ever these days,\nChrom. Anything important?
+MID_様子_リズ_前_特殊E: Emm, where do you wander off to these\ndays? You need to stay where it's safe.
+MID_様子_リズ_後: I keep an eye on my brother. He's always\nbreaking stuff when he trains.
+MID_様子_リズ_後_通さん: I keep an eye on my brother. He's always\nbreaking stuff when he trains.
+MID_様子_リズ_後_特殊: I make sure you don't break stuff! Emm was\nfurious when you smashed up the palace.
+MID_様子_リズ_後_特殊E: I make sure Chrom doesn't break stuff! You\nwere mad when he smashed up the palace.
+MID_様子_リズ_後_無言: NOT USED
+MID_様子_リズ_前_親子_子: Are you hurt, $Np?\nLet me get my staff.
+MID_様子_リズ_後_親子_子: I, uh, wouldn't worry... You certainly are a\nbundle of energy, $Np.
+MID_様子_リズ_前_恋人: $Np, you look so handsome\ntoday. I feel like a slob in comparison!
+MID_様子_リズ_後_恋人: Stop it, you tease! I know I've got a long\nway to go before I act like a lady.

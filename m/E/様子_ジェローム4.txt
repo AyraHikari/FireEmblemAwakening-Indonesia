@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_ジェローム4
+
+
+Message Name: Message
+
+
+MID_様子_ジェローム_前: We should team up and fight the enemy\ntogether. Two are more powerful than one.
+MID_様子_ジェローム_後: As you wish. But it will be a temporary\nalliance. Do not get too cozy.
+MID_様子_ジェローム_後_無言: NOT USED
+MID_様子_ジェローム_前_親子_子: Morgan, what was I like in the\nfuture from whence you came?
+MID_様子_ジェローム_後_親子_子: I certainly can't believe I father you. I go\nthrough great pains not to leave a mark.$k$p...But until recently, I lived in my own\nfuture. Would you like to hear about it?$k$pIt may not jog your memory, but I am still\nwilling to make time.
+MID_様子_ジェローム_前_親子_母: Mother... I mean, Cherche. What was\nyour life like before I came here?
+MID_様子_ジェローム_後_親子_母: I mostly cared for Minerva in the future.$k$pShe took to me rather quickly―sooner than\nwyverns usually do. You were so shocked!$k$p...No. Not you―not some illusion.\nMy real mother. And she's dead now.$k$p...We shouldn't have brought this up.
+MID_様子_ジェローム_前_親子_父: $Np, tell me more about\nyour days before I arrived.
+MID_様子_ジェローム_後_親子_父: You've some nerve, trying to pry into my\nprivate life. Trying to know the future!$k$pHow about I ask you a favor instead?$k$pPromise you won't let Cherche fly\ntoo high after giving birth to me.$k$pShe will fall and have terrible headaches\nthe rest of her days.
+MID_様子_ジェローム_前_恋人: Stay by my side, $Np,\nwhere none can harm you.
+MID_様子_ジェローム_後_恋人: Very well. But if I do fall, promise you won't\ngo back in time to attempt to change it.

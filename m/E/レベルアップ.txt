@@ -1,0 +1,348 @@
+MESS_ARCHIVE_レベルアップ
+
+
+Message Name: Message
+
+
+MID_レベルアップ1_プレイヤー男_PCM1: Hmm, I don't feel very\ndifferent...
+MID_レベルアップ2_プレイヤー男_PCM1: I can tell I've gotten\nstronger.
+MID_レベルアップ3_プレイヤー男_PCM1: Now that's what I call\nprogress!
+MID_レベルアップ4_プレイヤー男_PCM1: Wow... Sometimes I\nsurprise even myself!
+MID_クラスチェンジ_プレイヤー男_PCM1: Time to start building\nup some experience.
+MID_カンスト_プレイヤー男_PCM1: Maybe I should learn\nsome new skills...
+MID_レベルアップ1_プレイヤー男_PCM2: …あんまり\n変わらなかったね。
+MID_レベルアップ2_プレイヤー男_PCM2: いい感じに\n成長したね。
+MID_レベルアップ3_プレイヤー男_PCM2: よーし！\nすごく成長できた！
+MID_レベルアップ4_プレイヤー男_PCM2: すごい…こんなに\n強くなれた…！
+MID_クラスチェンジ_プレイヤー男_PCM2: ここからまた、一歩ずつ\n経験を積んでいこう。
+MID_カンスト_プレイヤー男_PCM2: ここからは、新しい\nスキルを覚えてみるかな。
+MID_レベルアップ1_プレイヤー男_PCM3: ……。
+MID_レベルアップ2_プレイヤー男_PCM3: ！
+MID_レベルアップ3_プレイヤー男_PCM3: ！！
+MID_レベルアップ4_プレイヤー男_PCM3: ！！！
+MID_クラスチェンジ_プレイヤー男_PCM3: ！！！
+MID_カンスト_プレイヤー男_PCM3: ！
+MID_レベルアップ1_プレイヤー女_PCF1: Hmm, I don't feel very\ndifferent...
+MID_レベルアップ2_プレイヤー女_PCF1: I can tell I've gotten\nstronger.
+MID_レベルアップ3_プレイヤー女_PCF1: Now that's what I call\nprogress!
+MID_レベルアップ4_プレイヤー女_PCF1: Wow... Sometimes I\nsurprise even myself!
+MID_クラスチェンジ_プレイヤー女_PCF1: Time to start building\nup some experience.
+MID_カンスト_プレイヤー女_PCF1: Maybe I should learn\nsome new skills...
+MID_レベルアップ1_プレイヤー女_PCF2: …あんまり\n変わりませんでした。
+MID_レベルアップ2_プレイヤー女_PCF2: いい感じに\n成長しました。
+MID_レベルアップ3_プレイヤー女_PCF2: やりました！\n成長しました…！
+MID_レベルアップ4_プレイヤー女_PCF2: すごいです…こんなに\n強くなれました…！
+MID_クラスチェンジ_プレイヤー女_PCF2: ここからまた、一歩ずつ\n経験を積みます。
+MID_カンスト_プレイヤー女_PCF2: ここからは、新しい\nスキルを覚えてみましょう。
+MID_レベルアップ1_プレイヤー女_PCF3: ……。
+MID_レベルアップ2_プレイヤー女_PCF3: ！
+MID_レベルアップ3_プレイヤー女_PCF3: ！！
+MID_レベルアップ4_プレイヤー女_PCF3: ！！！
+MID_クラスチェンジ_プレイヤー女_PCF3: ！！！
+MID_カンスト_プレイヤー女_PCF3: ！
+MID_レベルアップ1_プレイヤー援軍: ......
+MID_レベルアップ2_プレイヤー援軍: ...!
+MID_レベルアップ3_プレイヤー援軍: ...!
+MID_レベルアップ4_プレイヤー援軍: ...!!!
+MID_クラスチェンジ_プレイヤー援軍: ...!!!
+MID_カンスト_プレイヤー援軍: ...!
+MID_レベルアップ1_旧マルス: ......
+MID_レベルアップ2_旧マルス: ...!
+MID_レベルアップ3_旧マルス: ...!
+MID_レベルアップ4_旧マルス: ...!!!
+MID_クラスチェンジ_旧マルス: ...!!!
+MID_カンスト_旧マルス: ...!
+MID_レベルアップ1_クロム: Well, that was\nunderwhelming...
+MID_レベルアップ2_クロム: My strength comes\nfrom diligence.
+MID_レベルアップ3_クロム: I can feel a huge\ndifference!
+MID_レベルアップ4_クロム: No one can stop\nme now!
+MID_クラスチェンジ_クロム: Let's see what I'm\ncapable of now.
+MID_カンスト_クロム: I think I've come about\nas far as any man can.
+MID_レベルアップ1_フレデリク: I suppose I need to\napply myself more.
+MID_レベルアップ2_フレデリク: No knight fears the\nslow-but-steady road.
+MID_レベルアップ3_フレデリク: I must admit, I've\noutdone myself!
+MID_レベルアップ4_フレデリク: I will use this power\nto protect us all!
+MID_クラスチェンジ_フレデリク: I shall always be a\nknight at heart.
+MID_カンスト_フレデリク: There's not much more\nto learn from this class.
+MID_レベルアップ1_ソール: Sorry. I'll try to\ndo better...
+MID_レベルアップ2_ソール: Yes! Progress!
+MID_レベルアップ3_ソール: Just look at me go!
+MID_レベルアップ4_ソール: Amazing! I can hardly\nbelieve I'm still me!
+MID_クラスチェンジ_ソール: All right. Back to\nsquare one.
+MID_カンスト_ソール: When did I get so...\nwell versed?
+MID_レベルアップ1_カラム: Well, that's no way to\nget noticed...
+MID_レベルアップ2_カラム: Hey, did you see how―\nOh, no one's looking.
+MID_レベルアップ3_カラム: Well...at least one of us\nis impressed!
+MID_レベルアップ4_カラム: People have to notice\nme now! ...Right?
+MID_クラスチェンジ_カラム: Does this class make\nme stand out more?
+MID_カンスト_カラム: For once, I've gotten\ntoo big for my britches.
+MID_レベルアップ1_リヒト: I've gotta try harder.
+MID_レベルアップ2_リヒト: Do I look any taller?\nI hope so.
+MID_レベルアップ3_リヒト: See? I can hold\nmy own!
+MID_レベルアップ4_リヒト: Nobody will talk down\nto me now!
+MID_クラスチェンジ_リヒト: This officially makes me\ngrown up!
+MID_カンスト_リヒト: Wait... When did I get\nso ridiculously strong?
+MID_レベルアップ1_ヴェイク: Hmph. Teach just didn't\nwant you all to feel bad.
+MID_レベルアップ2_ヴェイク: Anybody want to touch\nmy muscles?
+MID_レベルアップ3_ヴェイク: Heh! The Vaike just got\na lot Vaiker!
+MID_レベルアップ4_ヴェイク: I am invincible!
+MID_クラスチェンジ_ヴェイク: Watch Teach take you\nthrough the motions.
+MID_カンスト_ヴェイク: Hot damn! The Vaike\ncan get no stronger!
+MID_レベルアップ1_リベラ: Why, gods? Do I not\ndeserve your strength?
+MID_レベルアップ2_リベラ: Many thanks, O great\nones.
+MID_レベルアップ3_リベラ: My prayers have been\nanswered!
+MID_レベルアップ4_リベラ: I feel reborn!
+MID_クラスチェンジ_リベラ: May this new experience\nforge me.
+MID_カンスト_リベラ: I suppose I have walked\nthis path to its end.
+MID_レベルアップ1_ロンクー: ...Hmph.
+MID_レベルアップ2_ロンクー: ...Acceptable.
+MID_レベルアップ3_ロンクー: ...Better.
+MID_レベルアップ4_ロンクー: This is only the start\nof what I can do.
+MID_クラスチェンジ_ロンクー: I could get used to this.
+MID_カンスト_ロンクー: Most warriors never\nlearn their limits.
+MID_レベルアップ1_グレゴ: Oh dear. Gregor not\nmake good impression.
+MID_レベルアップ2_グレゴ: Gregor no run-of-the-\nmiller guy, yes?
+MID_レベルアップ3_グレゴ: What is this? Gregor's\nbiceps tingling!
+MID_レベルアップ4_グレゴ: Who say only young\nhave the growth spurts?
+MID_クラスチェンジ_グレゴ: Ha ha! Gregor feel like\nnew and younger man!
+MID_カンスト_グレゴ: Gregor already plenty\nstrong, yes?
+MID_レベルアップ1_ガイア: Ugh. That was bland.
+MID_レベルアップ2_ガイア: Sweet.
+MID_レベルアップ3_ガイア: A little sugar in my\ntank, and watch out!
+MID_レベルアップ4_ガイア: Someone should reward\nme for this!
+MID_クラスチェンジ_ガイア: I'll wear any pockets...\nas long as you line 'em.
+MID_カンスト_ガイア: I've climbed this ladder\nto the topmost rung.
+MID_レベルアップ1_ヴィオール: Wh-what astonishing\nmediocrity...
+MID_レベルアップ2_ヴィオール: This is the least of my\nmost noble efforts.
+MID_レベルアップ3_ヴィオール: Am I not a thing of\nbeauty?
+MID_レベルアップ4_ヴィオール: Please! Avert your\nenvious gazes!
+MID_クラスチェンジ_ヴィオール: Before, I got looks...\nbut now I AM the look.
+MID_カンスト_ヴィオール: What majestic heights\nhave I left to attain?
+MID_レベルアップ1_ヘンリー: Nya ha! I hardly\nlearned a thing!
+MID_レベルアップ2_ヘンリー: Ooh, wow! When did\nI grow that?
+MID_レベルアップ3_ヘンリー: My body's pulsing!\nI wonder if I'll explode!
+MID_レベルアップ4_ヘンリー: I'm a hex of a lot\nstronger now. GET IT?
+MID_クラスチェンジ_ヘンリー: This looks so silly!\nCan I keep it?
+MID_カンスト_ヘンリー: I'm done growing...but\nstill no sixth finger...
+MID_レベルアップ1_ドニ: Aw, shucks, I'm real\nsorry. I'll try harder!
+MID_レベルアップ2_ドニ: I still got a long ways\nleft to go.
+MID_レベルアップ3_ドニ: This little piggie's\nlearnt some new tricks!
+MID_レベルアップ4_ドニ: Heh, no more holdin'\nthe others back now!
+MID_クラスチェンジ_ドニ: Feels funny... Like I'm a\nwhole different fella!
+MID_カンスト_ドニ: I'm happy as a pig in\nslop to've got this far!
+MID_レベルアップ1_スミア: I just can't do anything\nright, can I?
+MID_レベルアップ2_スミア: About time I made\nsome progress.
+MID_レベルアップ3_スミア: Maybe I can finally\nmake a difference!
+MID_レベルアップ4_スミア: If I can come this far,\nI can do anything!
+MID_クラスチェンジ_スミア: I'll give it my best shot.
+MID_カンスト_スミア: Look at all that you can\naccomplish if you try!
+MID_レベルアップ1_リズ: I really have to do\nbetter than this...
+MID_レベルアップ2_リズ: Hey, look at me go!
+MID_レベルアップ3_リズ: I've still got a few\ntricks up my sleeve!
+MID_レベルアップ4_リズ: I think I'm ready for\nthe front lines!
+MID_クラスチェンジ_リズ: Ta-da! Do I look good,\nor do I look GREAT?!
+MID_カンスト_リズ: I've come so far since\nmeeting $Nu.
+MID_レベルアップ1_ソワレ: Damn, why didn't I\ntrain harder?
+MID_レベルアップ2_ソワレ: Not bad, but I've got\na hell of a way to go.
+MID_レベルアップ3_ソワレ: Turns out the business\nend of my sword is ME.
+MID_レベルアップ4_ソワレ: One giant leap across\nthe chasm of greatness.
+MID_クラスチェンジ_ソワレ: Ready to smash heads!\n...Is that still my job?
+MID_カンスト_ソワレ: I guess you can only\ntrain so much. Damn.
+MID_レベルアップ1_マリアベル: This is completely\nunacceptable.
+MID_レベルアップ2_マリアベル: Anything to set myself\napart from the rabble.
+MID_レベルアップ3_マリアベル: I won't be satisfied\nuntil I'm the very best!
+MID_レベルアップ4_マリアベル: One step closer and I'll\nbe forced to maim you.
+MID_クラスチェンジ_マリアベル: Look at me!\nClassier than ever!
+MID_カンスト_マリアベル: I think I've sufficiently\nproven my superiority.
+MID_レベルアップ1_ティアモ: I'll prove myself in time.
+MID_レベルアップ2_ティアモ: There. Now I must do\nit again.
+MID_レベルアップ3_ティアモ: I hardly knew I had\nsuch strength!
+MID_レベルアップ4_ティアモ: I would do all this and\nmore to be with him...
+MID_クラスチェンジ_ティアモ: I am yours to mold as\nyou see fit.
+MID_カンスト_ティアモ: I must find my strength\nwithin from now on.
+MID_レベルアップ1_ベルベット: Not my brightest\nshowing, I will admit.
+MID_レベルアップ2_ベルベット: Fine work for a man,\nand decent for a taguel.
+MID_レベルアップ3_ベルベット: Any taguel would be\npleased.
+MID_レベルアップ4_ベルベット: My strength is that of\nall taguel!
+MID_クラスチェンジ_ベルベット: What strange tools\nyou man-spawn use...
+MID_カンスト_ベルベット: This taguel has pushed\nher body to its limits.
+MID_レベルアップ1_ノノ: Aw, I can do better\nthan this...
+MID_レベルアップ2_ノノ: Yes! Now we're talking!
+MID_レベルアップ3_ノノ: Yeah! Don't even think\nof messing with Nowi!
+MID_レベルアップ4_ノノ: I feel like I could take\non a whole army!
+MID_クラスチェンジ_ノノ: Ooh, nice! I feel two\nhundred years younger!
+MID_カンスト_ノノ: I'm so strong, I don't\nhave to try anymore!
+MID_レベルアップ1_オリヴィエ: Don't look so\ndisappointed...
+MID_レベルアップ2_オリヴィエ: I learned some new\nsteps!
+MID_レベルアップ3_オリヴィエ: You know, I think\nI'm really helping!
+MID_レベルアップ4_オリヴィエ: Everyone's staring!\nHow embarrassing...
+MID_クラスチェンジ_オリヴィエ: Um, could you turn the\nother way?
+MID_カンスト_オリヴィエ: Dancing sure brought\nthe best out of me.
+MID_レベルアップ1_セルジュ: Oh! Shame on me.
+MID_レベルアップ2_セルジュ: All in a day's work.
+MID_レベルアップ3_セルジュ: I'd say I've made quite\na bit of progress.
+MID_レベルアップ4_セルジュ: I feel invigorated! How\nabout you, Minerva?
+MID_クラスチェンジ_セルジュ: I have always been\nfairly adaptable.
+MID_カンスト_セルジュ: Oh my...these muscles!\nNone of my dresses fit.
+MID_レベルアップ1_ミリエル: Someone must preserve\nthe status quo.
+MID_レベルアップ2_ミリエル: Propitious growth,\nif I may say so.
+MID_レベルアップ3_ミリエル: I am a staunch believer\nin amelioration.
+MID_レベルアップ4_ミリエル: Never sate yourself\nwith middling returns!
+MID_クラスチェンジ_ミリエル: What a fascinating way\nto acquire new trades...
+MID_カンスト_ミリエル: Alas, I fear the glass\nceiling is Miriel-proof.
+MID_レベルアップ1_サーリャ: You had better not hold\nthis against me.
+MID_レベルアップ2_サーリャ: Hee hee hee...
+MID_レベルアップ3_サーリャ: And this is before I\neven sharpen my nails.
+MID_レベルアップ4_サーリャ: I can feel the darkness\ngrowing ever stronger...
+MID_クラスチェンジ_サーリャ: These new powers give\nme some wicked ideas...
+MID_カンスト_サーリャ: My vast powers will win\n$Nu's gaze!
+MID_レベルアップ1_ジェローム: ...Hmph. Fate is feeling\nstingy today.
+MID_レベルアップ2_ジェローム: It's a start.
+MID_レベルアップ3_ジェローム: This changes nothing...\nbut it does feel good.
+MID_レベルアップ4_ジェローム: You seem pleased as\nwell, Minerva.
+MID_クラスチェンジ_ジェローム: ...Anything to attain\ngreater power.
+MID_カンスト_ジェローム: I've flown about as high\nas I'm likely to reach.
+MID_レベルアップ1_ウード: Sinister forces conspire\nto hinder my growth!
+MID_レベルアップ2_ウード: I'd expect no less from\nthe hero of an epoch.
+MID_レベルアップ3_ウード: Heh... My true power\nhas been unleashed.
+MID_レベルアップ4_ウード: Hnngh?! P-power...\nsurging uncontrollably!
+MID_クラスチェンジ_ウード: Behold the scope of my\nnewly awakened powers!
+MID_カンスト_ウード: I've surpassed my final\nlimit. ...I am complete.
+MID_レベルアップ1_アズール: Please don't let any\ngirls have seen that...
+MID_レベルアップ2_アズール: Ah, another solid step\nin the right direction.
+MID_レベルアップ3_アズール: All right! Luck is on\nmy side tonight!
+MID_レベルアップ4_アズール: Please let all the girls\nhave seen that...
+MID_クラスチェンジ_アズール: Oh, I look good in this.\nPopularity, here I come!
+MID_カンスト_アズール: I'd say that's strong\nenough. Bulk is...tacky.
+MID_レベルアップ1_ブレディ: Argh. Typical...
+MID_レベルアップ2_ブレディ: Wow, I actually kinda\nimproved.
+MID_レベルアップ3_ブレディ: Am I dreamin' here?
+MID_レベルアップ4_ブレディ: Hah! Bring it on!
+MID_クラスチェンジ_ブレディ: Heh, stand back, world.\nI'm a whole new man!
+MID_カンスト_ブレディ: Wow. Never thought I'd\nsee the day...
+MID_レベルアップ1_シャンブレー: Ack! If I don't pick up\nthe pace, I'm extinct!
+MID_レベルアップ2_シャンブレー: Yes! I'm actually\ngetting better!
+MID_レベルアップ3_シャンブレー: Maybe now I can stop\nbeing quite so anxious.
+MID_レベルアップ4_シャンブレー: The future of the taguel\nis lookin' bright!
+MID_クラスチェンジ_シャンブレー: I hope you're watching\nthis, Mother!
+MID_カンスト_シャンブレー: I'm the toughest taguel\nin the world! By default.
+MID_レベルアップ1_ロラン: My sincerest apologies.\nI'll strive to improve.
+MID_レベルアップ2_ロラン: A fair result.
+MID_レベルアップ3_ロラン: It seems I've reaped\nunexpected gains.
+MID_レベルアップ4_ロラン: A logical consequence\nof tireless diligence.
+MID_クラスチェンジ_ロラン: Truly, these seals hold\nwondrous power...
+MID_カンスト_ロラン: By my analysis, I've hit\nmy theoretic potential.
+MID_レベルアップ1_マーク男: Hrm... Gotta say, that's\nkind of a letdown.
+MID_レベルアップ2_マーク男: Nice! Getting stronger,\none step at a time!
+MID_レベルアップ3_マーク男: That's a big step closer\nto achieving my dream!
+MID_レベルアップ4_マーク男: Whew... I'm catching up\nquick as I can, Mother!
+MID_クラスチェンジ_マーク男: Do I... Do I look like my\nmother in this?
+MID_カンスト_マーク男: All right... Now to focus\non getting wiser, too!
+MID_レベルアップ1_マルス: I cannot settle for this!
+MID_レベルアップ2_マルス: Good. I must stay this\ncourse.
+MID_レベルアップ3_マルス: This strength serves\nmore than me alone.
+MID_レベルアップ4_マルス: I will not watch another\nYlissean life be taken!
+MID_クラスチェンジ_マルス: Perhaps change is my\nbest hope.
+MID_カンスト_マルス: All this strength means\nlittle unless I succeed.
+MID_レベルアップ1_デジェル: I was derelict in my\ntraining...
+MID_レベルアップ2_デジェル: I'll not settle for this...\nBut it's a start.
+MID_レベルアップ3_デジェル: Growing stronger is\nlife's greatest pleasure.
+MID_レベルアップ4_デジェル: I'd like to see the man\nwho can keep my pace!
+MID_クラスチェンジ_デジェル: This marks the start of\na new training regimen!
+MID_カンスト_デジェル: I can't expect more\nstrength. But finesse...
+MID_レベルアップ1_シンシア: Eek... Being a hero is\nharder than I thought.
+MID_レベルアップ2_シンシア: A journey of a thousand\nmiles and all that!
+MID_レベルアップ3_シンシア: Woo-hoo!\nFeeling good!
+MID_レベルアップ4_シンシア: Look upon my might,\nye wicked, and despair!
+MID_クラスチェンジ_シンシア: Ooh, that was certainly\nheroic!
+MID_カンスト_シンシア: I guess a long career of\nheroing has paid off!
+MID_レベルアップ1_セレナ: Excuse me?! I clearly\ndeserve better!
+MID_レベルアップ2_セレナ: Mmm, yes. An excellent\nshowing. Naturally.
+MID_レベルアップ3_セレナ: I-I'm not grinning...\nThis is my war snarl!
+MID_レベルアップ4_セレナ: I suppose this would be\nnothing to you, Mother.
+MID_クラスチェンジ_セレナ: Sorry to disappoint, but\nit's the same me inside.
+MID_カンスト_セレナ: Hmph. No room for\nimprovement, obviously.
+MID_レベルアップ1_ノワール: Aieee! I... I don't feel\nany different at all!
+MID_レベルアップ2_ノワール: I... I feel a bit stronger.\n...Whew.
+MID_レベルアップ3_ノワール: I never knew I was\ncapable of this...
+MID_レベルアップ4_ノワール: This growth is... It's\nunnatural. A CURSE?!
+MID_クラスチェンジ_ノワール: Eep! A-all I did was\ntouch the seal!
+MID_カンスト_ノワール: INSOLENCE! Why won't\nI grow still stronger?!
+MID_レベルアップ1_ンン: I'm sorry. I'll do better\nnext time, I promise.
+MID_レベルアップ2_ンン: Good. I feel stronger.
+MID_レベルアップ3_ンン: Excellent. I'm feeling\ntougher than ever.
+MID_レベルアップ4_ンン: Wow... I feel like I could\nravage an entire army!
+MID_クラスチェンジ_ンン: Fascinating. And I'm\nused to transforming!
+MID_カンスト_ンン: Well, I suppose all that\nfighting finally paid off.
+MID_レベルアップ1_マーク女: Hrm... Gotta say, that's\nkind of a letdown.
+MID_レベルアップ2_マーク女: Nice! Getting stronger,\none step at a time!
+MID_レベルアップ3_マーク女: That's a big step closer\nto achieving my dream!
+MID_レベルアップ4_マーク女: Whew... I'm catching up\nquick as I can, Father!
+MID_クラスチェンジ_マーク女: Do I... Do I look like my\nfather in this?
+MID_カンスト_マーク女: All right... Now to focus\non getting wiser, too!
+MID_レベルアップ1_パリス: Hmm... I'm getting\nsoft.
+MID_レベルアップ2_パリス: Still not enough.\nNowhere near enough.
+MID_レベルアップ3_パリス: Nothing beats the feel\nof accomplishment.
+MID_レベルアップ4_パリス: I intend to grow strong.\nStronger than anyone...
+MID_クラスチェンジ_パリス: A fork in the road to\ntrue strength.
+MID_カンスト_パリス: I've learned all I can\nfrom this class... Next!
+MID_レベルアップ1_バジーリオ: What do you expect?\nI'm already perfect.
+MID_レベルアップ2_バジーリオ: Ha! And I thought I was\npast self-improvement!
+MID_レベルアップ3_バジーリオ: Don't count me out of\nthe action just yet.
+MID_レベルアップ4_バジーリオ: Take a leaf out of THIS\nbook, sprogs!
+MID_クラスチェンジ_バジーリオ: This brings back some\nof the old fire!
+MID_カンスト_バジーリオ: Once you hit my age,\nyou've grown enough.
+MID_レベルアップ1_レンハ: Alas, I have made scant\nprogress...
+MID_レベルアップ2_レンハ: This blade feels all the\nkeener now.
+MID_レベルアップ3_レンハ: Potential hides where\nwe least expect it.
+MID_レベルアップ4_レンハ: I fight on for you,\nSay'ri.
+MID_クラスチェンジ_レンハ: What trickery is this?
+MID_カンスト_レンハ: So even a dead man\ncan surpass the living...
+MID_レベルアップ1_ヴァルハルト: Hmph...\nBarely perceptible.
+MID_レベルアップ2_ヴァルハルト: I balk at no conquest,\ngreat or small.
+MID_レベルアップ3_ヴァルハルト: Yes... I am in fine form.
+MID_レベルアップ4_ヴァルハルト: A Conqueror's role is\nto dominate, after all!
+MID_クラスチェンジ_ヴァルハルト: I refuse no road\nto power!
+MID_カンスト_ヴァルハルト: Have I conquered...\neverything?
+MID_レベルアップ1_ギャンレル: Bah! A turd would turn\nmore heads than this!
+MID_レベルアップ2_ギャンレル: My best? You haven't\nSEEN my best.
+MID_レベルアップ3_ギャンレル: Yes... I feel a bout of\nnastiness coming on!
+MID_レベルアップ4_ギャンレル: Someone pinch me!\nNo―let me pinch them!
+MID_クラスチェンジ_ギャンレル: Is this the new me?\nThe old me is asking.
+MID_カンスト_ギャンレル: You want me to get\nstronger?! Look at me!
+MID_レベルアップ1_サイリ: Fie! I've little to show\nfor my effort.
+MID_レベルアップ2_サイリ: I must do more!
+MID_レベルアップ3_サイリ: I shall use this power\nfor the people!
+MID_レベルアップ4_サイリ: Rarely have I felt such\na surge of strength!
+MID_クラスチェンジ_サイリ: Every sword must be\ntempered in its time.
+MID_カンスト_サイリ: I have come this far in\nthe company of friends.
+MID_レベルアップ1_アンナ: I think someone forgot\nto give me my change.
+MID_レベルアップ2_アンナ: I wonder just how much\nI can branch out.
+MID_レベルアップ3_アンナ: This sure beats gold!\n...Wait, no it doesn't.
+MID_レベルアップ4_アンナ: If only my profits grew\nthis fast!
+MID_クラスチェンジ_アンナ: Everything must go!
+MID_カンスト_アンナ: Minds are like wallets.\nThey only hold so much.
+MID_レベルアップ1_チキ: At 3,000, it gets harder\nto learn new things...
+MID_レベルアップ2_チキ: I feel a little stronger.
+MID_レベルアップ3_チキ: I miss being in the heat\nof battle like this!
+MID_レベルアップ4_チキ: I must protect this\nworld my friends saved.
+MID_クラスチェンジ_チキ: Our journey together\ncontinues, I see.
+MID_カンスト_チキ: There's not much more\nI can learn this century.
+MID_レベルアップ1_インバース: Not the growth you\nwere hoping for?
+MID_レベルアップ2_インバース: I feel more supple\nalready.
+MID_レベルアップ3_インバース: Do I look ravishing, or\ndo you just stare a lot?
+MID_レベルアップ4_インバース: All this crushing power\ngets me a bit steamy...
+MID_クラスチェンジ_インバース: I can tell you like what\nyou see. Heh heh...
+MID_カンスト_インバース: I've turned into a well-\nrounded girl, haven't I?
+MID_レベルアップ1_フラヴィア: Hmph. This isn't like me\nat all.
+MID_レベルアップ2_フラヴィア: Like I say: rap on some\nfoes, reap the rewards.
+MID_レベルアップ3_フラヴィア: I know I've made bigger\nstrides than this!
+MID_レベルアップ4_フラヴィア: Who wants to get\ndestroyed first?
+MID_クラスチェンジ_フラヴィア: Ha ha! I feel younger\nalready!
+MID_カンスト_フラヴィア: I'd say I've pushed\nmyself as far as I can.
+MID_レベルアップ1_エメリナ: Sorry...\nI'll try...harder...
+MID_レベルアップ2_エメリナ: Anything I can...\ndo to...help...
+MID_レベルアップ3_エメリナ: You're safe...with me...
+MID_レベルアップ4_エメリナ: It's my turn...to stand\nup and fight...
+MID_クラスチェンジ_エメリナ: Is this...who I'm meant\nto be...?
+MID_カンスト_エメリナ: I have come...so far...

@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_フラヴィア3
+
+
+Message Name: Message
+
+
+MID_様子_フラヴィア_前: When you're not killing Risen,\nhow do you kill time?
+MID_様子_フラヴィア_前_特殊: Emmeryn, what do you do to kill time?
+MID_様子_フラヴィア_後: I train, of course! Same as I\ndid back in Regna Ferox.
+MID_様子_フラヴィア_後_特殊: I train, of course! Same as I\ndid back in Regna Ferox.
+MID_様子_フラヴィア_後_無言: NOT USED
+MID_様子_フラヴィア_前_親子_子: Morgan, you look dreadful! Need your\nmother to whip you back into shape?
+MID_様子_フラヴィア_後_親子_子: Oof, is it that bad? I must be getting old.\nWell, nothing some exercise won't cure.
+MID_様子_フラヴィア_前_恋人: What a man you've become, $Np!\nYou've come a long way since I met you...
+MID_様子_フラヴィア_後_恋人: I don't work myself up over appearances.\n...But it's still flattering. Thanks.

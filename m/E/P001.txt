@@ -1,0 +1,21 @@
+MESS_ARCHIVE_P001
+
+
+Message Name: Message
+
+
+MID_P001_OP1: $t1$Wmクロム|3$w0|$Wmusername|7$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_29|$E怒,|Ini dia!\nPertarungan terakhir Kita!$k$p$E笑,|Kau adalah salah satu dari kami, $Nu,\ndan "takdir" tidak bisa mengubahnya.$k$p$E怒,|Sekarang ayo bunuh pengecut itu dan\nakhiri semuanya!$k
+MID_P001_MOVIE1: $t1$Wm？？？|3$w0|$Ws？？？|$Wa【MOVIE  Future: Chrom】$k
+MID_P001_MOVIE2: $t1$Wm？？？|3$w0|$Ws？？？|$Wa【MOVIE  Future; Chrom's Murder】$k
+MID_P001_TUT_システムメニュー: Sebuah buku petunjuk telah\nmuncul pada Layar Sentuh.
+MID_P001_TUT_システムメニュー_2: Buku petunjuk memberikan informasi baru.\nGunakan Tombol L/R untuk memutar\nhalaman dibawah. Jika kau sudah\nsiap, tekan Tombol A.
+MID_P001_TUT_システムメニュー_3: Kau dapat melihat petunjuk lagi kapan saja\ndengan memilih Petunjuk dari Menu Sistem.
+MID_P001_TUT_チュートリアルオフ: Petunjuk baru muncul sebagai tanda di\nbawah kanan pada Layar 3D.\nUntuk melihatnya, arahkan kursor ke\ntempat kosong dan tekan Tombol A.\nIni akan membuka Menu Sistem.\nSetelah itu, pilih opsi Petunjuk.
+MID_P001_TUT_移動: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_28|$Nu, kita harus mendekatinya.\nAyo!$k
+MID_P001_TUT_行動の交代: $t0$Wmファウダー|8$w0|$Wsファウダー|$Wa$SvpSE_VOICE_FAUDER_EVT_1|$E笑,|Ha ha ha! Kenapa kau masih melawan?$k
+MID_P001_TUT_戦闘: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_42|$E怒,|Bagus, dia hampir dalam jangkauan.\nAyo dekati dia dan serang!$k
+MID_P001_BT1: $t0$Wmファウダー|0$w0|$Wsファウダー|$WaGya ha ha! Bodoh!\nBerjuanglah semaumu!$k$p$E笑,|Kau tidak bisa menulis ulang\napa yang sudah ditulis!$k
+MID_P001_PICK_クロム: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_39|$E怒,|Baiklah, girilanku.$k
+MID_P001_PICK_プレイヤー: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_53|$E怒,|Maju, $Nu!$k
+MID_P001_DIE_クロム: $t1$Wmクロム|3$w0|$Wsクロム|$Wa$E苦,汗|$Nu, Ma...Maaf.\nLari...selama kau bisa...$k\n$Wsクロム|$Wd$w0|$Wmファウダー|3$w0|$Wsファウダー|$WaGya ha ha! Kau tidak bisa lari!\nItulah apa yang disebut takdir!$k
+MID_P001_DIE_プレイヤー: $t1$Wmクロム|3$w0|$Wsクロム|$Wa$E苦,汗|$Nu! Tidak!\nIni tidak boleh berakhir seperti ini!$k\n$Wsクロム|$Wd$w0|$Wmファウダー|3$w0|$Wsファウダー|$WaHeh heh heh...\nGYA HA HA HA!$k

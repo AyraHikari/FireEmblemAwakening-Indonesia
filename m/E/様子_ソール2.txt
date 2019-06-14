@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_ソール2
+
+
+Message Name: Message
+
+
+MID_様子_ソール_前: Got any big plans for the future?\nWhat do you dream about doing?
+MID_様子_ソール_前_敬さん: Got any big plans for the future?\nWhat do you dream about doing?
+MID_様子_ソール_前_敬様: Got any big plans for the future?\nWhat do you dream about doing?
+MID_様子_ソール_後: Well, once a knight, always a knight. But I'd\nlike to try the world's best food just once.
+MID_様子_ソール_後_敬さん: Well, once a knight, always a knight. But I'd\nlike to try the world's best food just once.
+MID_様子_ソール_後_敬様: Well, once a knight, always a knight. But I'd\nlike to try the world's best food just once.
+MID_様子_ソール_後_無言: NOT USED
+MID_様子_ソール_前_親子_子: We should train together, $Np.\nI want to see what you're made of!
+MID_様子_ソール_後_親子_子: Sounds like fun to me. I'd better grab\na meal now to save up energy.
+MID_様子_ソール_前_恋人: I love you, $Np, and I\nwant to stay with you forever.
+MID_様子_ソール_後_恋人: Oh, well, I love you too.\nBut where did that come from?

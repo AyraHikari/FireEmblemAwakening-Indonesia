@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_ウード2
+
+
+Message Name: Message
+
+
+MID_様子_ウード_前: Today I came one step closer to my place\nin the sagas. What do you dream of?
+MID_様子_ウード_前_無言: NOT USED
+MID_様子_ウード_前_敬さん: Today I came one step closer to my place\nin the sagas. What do you dream of?
+MID_様子_ウード_後: How bold of you to ask! I dream only of\nclaiming my rightful place in the sagas.
+MID_様子_ウード_後_敬さん: How bold of you to ask! I dream only of\nclaiming my rightful place in the sagas.
+MID_様子_ウード_後_無言: NOT USED
+MID_様子_ウード_前_親子_子: When and how did you grow so powerful?\nI must know! Fight with me now!
+MID_様子_ウード_後_親子_子: Gladly. But remember, you brought the\ncalamity of my omnipotence upon yourself.
+MID_様子_ウード_前_親子_母: Mother, fight me! In the future, I was never\nable to best you in combat.
+MID_様子_ウード_後_親子_母: No! You promised to go easy on me in the\nfuture and beat me to a pulp anyway!
+MID_様子_ウード_前_親子_父: Fight me, Father! I must surpass you and\nmark my passage into adulthood!
+MID_様子_ウード_後_親子_父: At last, this day has come. Have at thee,\nFather! Watch your son rise to glory!
+MID_様子_ウード_前_恋人: I love you, $Np. Not even the\nwhims of time can part us.
+MID_様子_ウード_後_恋人: I love you, too. Even when immortalized in\npoetry, I shall be yours to command.

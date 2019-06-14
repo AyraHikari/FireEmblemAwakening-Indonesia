@@ -1,0 +1,32 @@
+MESS_ARCHIVE_様子_プレイヤー男2
+
+
+Message Name: Message
+
+
+MID_様子_プレイヤー男_前_PCM1: What do you dream about?
+MID_様子_プレイヤー男_前_敬さん_PCM1: What do you dream about?
+MID_様子_プレイヤー男_前_敬様_PCM1: What do you dream about?
+MID_様子_プレイヤー男_後_PCM1: I dream of being a great tactician. That's\nwhy I study whatever I can get my hands on!
+MID_様子_プレイヤー男_後_敬さん_PCM1: I dream of being a great tactician. That's\nwhy I study whatever I can get my hands on!
+MID_様子_プレイヤー男_後_敬様_PCM1: I dream of being a great tactician. That's\nwhy I study whatever I can get my hands on!
+MID_様子_プレイヤー男_前_親子_子_PCM1: $Np, let's train together. I want\nto see how you adapt to my strategies.
+MID_様子_プレイヤー男_後_親子_子_PCM1: Anytime you want. But don't think\nyou're going to outwit your father!
+MID_様子_プレイヤー男_前_恋人_PCM1: I love you, $Np.\nI'm lucky to have you by my side.
+MID_様子_プレイヤー男_後_恋人_PCM1: You're embarrassing me!\nBut...I love you, too.
+MID_様子_プレイヤー男_前_PCM2: 
+MID_様子_プレイヤー男_前_敬さん_PCM2: 
+MID_様子_プレイヤー男_前_敬様_PCM2: 
+MID_様子_プレイヤー男_後_PCM2: 
+MID_様子_プレイヤー男_後_敬さん_PCM2: 
+MID_様子_プレイヤー男_後_敬様_PCM2: 
+MID_様子_プレイヤー男_前_親子_子_PCM2: 
+MID_様子_プレイヤー男_後_親子_子_PCM2: 
+MID_様子_プレイヤー男_前_恋人_PCM2: 
+MID_様子_プレイヤー男_後_恋人_PCM2: 
+MID_様子_プレイヤー男_前_PCM3: 
+MID_様子_プレイヤー男_後_PCM3: 
+MID_様子_プレイヤー男_前_親子_子_PCM3: 
+MID_様子_プレイヤー男_後_親子_子_PCM3: 
+MID_様子_プレイヤー男_前_恋人_PCM3: 
+MID_様子_プレイヤー男_後_恋人_PCM3: 

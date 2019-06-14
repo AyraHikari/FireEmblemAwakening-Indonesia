@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_リベラ4
+
+
+Message Name: Message
+
+
+MID_様子_リベラ_前_敬さん: Your presence truly strengthens me.\nMight we join forces in the coming fight?
+MID_様子_リベラ_前: Your presence truly strengthens me.\nMight we join forces in the coming fight?
+MID_様子_リベラ_前_敬様: Your presence truly strengthens me.\nMight we join forces in the coming fight?
+MID_様子_リベラ_後_敬さん: It would be an honor.\nMay the gods be with us both.
+MID_様子_リベラ_後_敬様: It would be an honor.\nMay the gods be with us both.
+MID_様子_リベラ_後_無言: NOT USED
+MID_様子_リベラ_前_親子_子: $Np, might I ask you\nabout the past? What was it like?
+MID_様子_リベラ_後_親子_子: Gods above, I thank you for blessing me\nwith so inquisitive a child, and for all the...$k$pEr, sorry. I drift into prayer sometimes.\nBut I suppose that answers your question!$k$pI will pray for you as well, that you may be\ndelivered from all the coming evils.
+MID_様子_リベラ_前_恋人: Take care out there, $Np. I do\nnot wish for the gods to have you just yet.
+MID_様子_リベラ_後_恋人: Be at peace. I intend to stay with you\nas long as the gods allow.

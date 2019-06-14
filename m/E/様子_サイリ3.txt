@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_サイリ3
+
+
+Message Name: Message
+
+
+MID_様子_サイリ_前_通殿: If I may ask, how do you spend\nyour idle hours in camp?
+MID_様子_サイリ_前: If I may ask, how do you spend\nyour idle hours in camp?
+MID_様子_サイリ_前_特殊: Brother, how do you pass the hours\nwhen the fighting has subsided?
+MID_様子_サイリ_後_通殿: I perform what services I can for the\nYlissean army. 'Tis the least I can do.
+MID_様子_サイリ_後_特殊: I aid Chrom in what ways I can.\n'Tis the very least I can do.
+MID_様子_サイリ_後_無言: NOT USED
+MID_様子_サイリ_前_親子_子: Morgan, are you unwell? You have\nan air of fatigue about you.
+MID_様子_サイリ_後_親子_子: Worry not! I've no troubles I cannot\novercome on my own.
+MID_様子_サイリ_前_恋人: I must confess, $Np, you have\nstolen my heart anew with your bravery.
+MID_様子_サイリ_後_恋人: Fie! Must you toss those words about so\nidly? I am not used to such compliments.

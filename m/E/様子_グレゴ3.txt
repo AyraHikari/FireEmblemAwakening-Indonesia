@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_グレゴ3
+
+
+Message Name: Message
+
+
+MID_様子_グレゴ_前: *Sigh* No one here has the fun.\nWhat do you do to kill time?
+MID_様子_グレゴ_前_敬さん: *Sigh* No one here has the fun.\nWhat do you do to kill time?
+MID_様子_グレゴ_後: Gregor take odd jobs, of course.\nSellsword must earn living like anyone else.
+MID_様子_グレゴ_後_敬さん: Gregor take odd jobs, of course.\nSellsword must earn living like anyone else.
+MID_様子_グレゴ_後_無言: NOT USED
+MID_様子_グレゴ_前_親子_子: Tired, $Np? You look ready\nto make with the zonking out.
+MID_様子_グレゴ_後_親子_子: You notice, then? Very astute. But Gregor\nis much tougher than you think.
+MID_様子_グレゴ_前_恋人: Gregor is lucky man to have most attractive\nand smart woman alive.
+MID_様子_グレゴ_後_恋人: See? Gregor's wife not only smart and\nbeautiful―she have great taste in men!

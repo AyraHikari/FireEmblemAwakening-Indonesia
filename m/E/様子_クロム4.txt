@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_クロム4
+
+
+Message Name: Message
+
+
+MID_様子_クロム_前: You know, you've grown very skilled.\nCare to pair up in the coming battle?
+MID_様子_クロム_前_特殊: Emm, you need to be careful out there.\nStay close to me and be my support.
+MID_様子_クロム_後: All right. Together, we'll be unstoppable.\nWe'll smash right through their ranks!
+MID_様子_クロム_後_特殊: Of course, Emm. I won't let\nanyone hurt you again.
+MID_様子_クロム_後_無言: NOT USED
+MID_様子_クロム_前_親子_子: Tell me about the future, $Np.\nHow did you pass the time?
+MID_様子_クロム_後_親子_子: Well, you missed a lot before we met.\nMore than I could ever describe.$k$pWe should have a meal and share these\nstories―just the two of us.$k$pThat way I can learn more about you, too.
+MID_様子_クロム_前_恋人: How are you holding up, $Np?\nI couldn't bear to lose you.
+MID_様子_クロム_後_恋人: Don't worry. I'm doing just fine. I would\nnever leave you to fend for yourself.

@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_ソワレ2
+
+
+Message Name: Message
+
+
+MID_様子_ソワレ_前: Got any aspirations? I have a crapload of\nrespect for people who follow their dreams.
+MID_様子_ソワレ_前_敬殿: Got any aspirations? I have a crapload of\nrespect for people who follow their dreams.
+MID_様子_ソワレ_前_敬様: Got any aspirations? I have a crapload of\nrespect for people who follow their dreams.
+MID_様子_ソワレ_後: I want to train until I'm the best damned\nknight I can be―better than any man!
+MID_様子_ソワレ_後_敬殿: I want to train until I'm the best damned\nknight I can be―better than any man!
+MID_様子_ソワレ_後_敬様: I want to train until I'm the best damned\nknight I can be―better than any man!
+MID_様子_ソワレ_後_無言: NOT USED
+MID_様子_ソワレ_前_親子_子: You're a tough kid, you know that?\nWe should train together more.
+MID_様子_ソワレ_後_親子_子: Anytime you want. Just don't put your\nmother to shame. Got it, smart aleck?
+MID_様子_ソワレ_前_恋人: I love the crap out of you, $Np.\nHave I told you that?
+MID_様子_ソワレ_後_恋人: Well, I love you more. So how's that?

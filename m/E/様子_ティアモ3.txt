@@ -1,0 +1,19 @@
+MESS_ARCHIVE_様子_ティアモ3
+
+
+Message Name: Message
+
+
+MID_様子_ティアモ_前: I haven't seen you around camp in a while.\nWhat have you been up to?
+MID_様子_ティアモ_前_敬さん: I haven't seen you around camp in a while.\nWhat have you been up to?
+MID_様子_ティアモ_前_敬様: I haven't seen you around camp in a while.\nWhat have you been up to?
+MID_様子_ティアモ_前_特殊: Ah, Chrom! I haven't seen you around\ncamp. How have you been passing the time?
+MID_様子_ティアモ_後: Oh, I'm always running errands to town.\nMy pegasus is suited for that sort of thing.
+MID_様子_ティアモ_後_敬さん: Oh, I'm always running errands to town.\nMy pegasus is suited for that sort of thing.
+MID_様子_ティアモ_後_敬様: Oh, I'm always running errands to town.\nMy pegasus is suited for that sort of thing.
+MID_様子_ティアモ_後_特殊: Oh, I'm always running errands to town.\nCan I pick anything up for you?
+MID_様子_ティアモ_後_無言: NOT USED
+MID_様子_ティアモ_前_親子_子: Are you all right, $Np?\nYou look completely out of it.
+MID_様子_ティアモ_後_親子_子: Ha ha! I'm fine. Don't worry so much!\nYour mother is a tough woman.
+MID_様子_ティアモ_前_恋人: $Np, why is it you only\ncaptivate me more as time goes on?
+MID_様子_ティアモ_後_恋人: Thank you. I strive to be the best woman I\ncan for the man I love.

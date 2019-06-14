@@ -1,0 +1,46 @@
+MESS_ARCHIVE_Card
+
+
+Message Name: Message
+
+
+MID_CARD_紹介_通常_男: Hello.
+MID_CARD_紹介_通常_女: Hello there.
+MID_CARD_紹介_キメ_男: ...Hey.
+MID_CARD_紹介_キメ_女: Hey there.
+MID_CARD_紹介_怒_男: Hey!
+MID_CARD_紹介_怒_女: Hello!
+MID_CARD_紹介_笑_男: Oh! Well, hello.
+MID_CARD_紹介_笑_女: Heh heh. Hello.
+MID_CARD_紹介_苦_男: H-hello...
+MID_CARD_紹介_苦_女: Um...hey.
+MID_CARD_挨拶_通常_男: Nice out, huh?
+MID_CARD_挨拶_通常_女: Good day.
+MID_CARD_挨拶_キメ_男: Bring it on.
+MID_CARD_挨拶_キメ_女: You better run.
+MID_CARD_挨拶_怒_男: Want to fight?
+MID_CARD_挨拶_怒_女: You look mean...
+MID_CARD_挨拶_笑_男: Buy my loyalty?
+MID_CARD_挨拶_笑_女: I'm selling.
+MID_CARD_挨拶_苦_男: What d'you want?
+MID_CARD_挨拶_苦_女: Easy now...
+MID_CARD_戦闘_通常_男: You're on!
+MID_CARD_戦闘_通常_女: You want this?
+MID_CARD_戦闘_キメ_男: Now you'll pay.
+MID_CARD_戦闘_キメ_女: You're nothing.
+MID_CARD_戦闘_怒_男: Oh, yeah?
+MID_CARD_戦闘_怒_女: You little―
+MID_CARD_戦闘_笑_男: I approve.
+MID_CARD_戦闘_笑_女: Go easy on me.
+MID_CARD_戦闘_苦_男: I'm doomed...
+MID_CARD_戦闘_苦_女: This isn't good.
+MID_CARD_仲間_通常_男: I'll do my best.
+MID_CARD_仲間_通常_女: Glad I can help!
+MID_CARD_仲間_キメ_男: Point me at 'em!
+MID_CARD_仲間_キメ_女: Don't kill me.
+MID_CARD_仲間_怒_男: Take care of me!
+MID_CARD_仲間_怒_女: Treat me right!
+MID_CARD_仲間_笑_男: Friends forever!
+MID_CARD_仲間_笑_女: I feel so safe.
+MID_CARD_仲間_苦_男: Well, thank you.
+MID_CARD_仲間_苦_女: I feel woozy...

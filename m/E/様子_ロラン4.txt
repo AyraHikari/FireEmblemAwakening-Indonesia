@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_ロラン4
+
+
+Message Name: Message
+
+
+MID_様子_ロラン_前: Would you like to team up during the next\nbattle? Our odds would greatly improve.
+MID_様子_ロラン_前_無言: NOT USED
+MID_様子_ロラン_前_敬さん: Would you like to team up during the next\nbattle? Our odds would greatly improve.
+MID_様子_ロラン_後: Indeed, that sounds like a fine idea.\nIt would no doubt boost morale all around.
+MID_様子_ロラン_後_敬さん: Indeed, that sounds like a fine idea.\nIt would no doubt boost morale all around.
+MID_様子_ロラン_後_無言: NOT USED
+MID_様子_ロラン_前_親子_子: Could you tell me anything more\nabout your future, Morgan?
+MID_様子_ロラン_後_親子_子: Well, I am more interested in whether or\nnot we even exist on the same time axis.$k$pThe marriage between your mother and I\nchanged the future―created a NEW future.$k$pWhich means... Which means... I should lie\ndown for a bit. My head hurts.
+MID_様子_ロラン_前_親子_母: Mother, how did you spend your days\nbefore we met?
+MID_様子_ロラン_後_親子_母: I spent my time trying to find you.$k$pYou were such a perfectionist, you somehow\nmanaged to die without leaving a corpse.$k$pSo I clung to the silly hope that maybe you\nhad not died at all.$k$pFor all I know, my "time travel" was all some\nruse of yours. ...I wouldn't put it past you.
+MID_様子_ロラン_前_親子_父: Father, tell me about your life\nbefore we met.
+MID_様子_ロラン_後_親子_父: The future? Hmm... Very well. How about\nwe start with a warning?$k$pYou should endeavor to put things back\nwhere you found them!$k$pThe arguments your sloppiness started with\nMother―we almost needed counseling!$k$p...There, that was a nice, healthy talk.\nNow we can be a normal family.
+MID_様子_ロラン_前_恋人: $Np, swear you won't get\nkilled. I die myself at the very thought!
+MID_様子_ロラン_後_恋人: You worry too much, but that's why I love\nyou. I promise to avoid what perils I can.

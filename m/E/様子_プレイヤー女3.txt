@@ -1,0 +1,30 @@
+MESS_ARCHIVE_様子_プレイヤー女3
+
+
+Message Name: Message
+
+
+MID_様子_プレイヤー女_前_PCF1: I was going to ask: How do you\npass time when we're not fighting?
+MID_様子_プレイヤー女_前_敬さん_PCF1: I was going to ask: How do you\npass time when we're not fighting?
+MID_様子_プレイヤー女_前_敬様_PCF1: I was going to ask: How do you\npass time when we're not fighting?
+MID_様子_プレイヤー女_後_PCF1: I retire to my tent and work out new\nstrategies. Or take walks when I'm down.
+MID_様子_プレイヤー女_後_敬さん_PCF1: I retire to my tent and work out new\nstrategies. Or take walks when I'm down.
+MID_様子_プレイヤー女_後_敬様_PCF1: I retire to my tent and work out new\nstrategies. Or take walks when I'm down.
+MID_様子_プレイヤー女_前_親子_子_PCF1: Are you all right, $Np? You've\nbeen working yourself silly these days.
+MID_様子_プレイヤー女_後_親子_子_PCF1: You can see right through your mother,\n$Np. But don't worry, I'll be fine.
+MID_様子_プレイヤー女_前_恋人_PCF1: You seem...different, $Np. You\nlook even more handsome than always!
+MID_様子_プレイヤー女_後_恋人_PCF1: Really? Well, thank you.\nYou look quite dashing yourself!
+MID_様子_プレイヤー女_前_敬さん_PCF2: 
+MID_様子_プレイヤー女_前_敬様_PCF2: 
+MID_様子_プレイヤー女_後_敬さん_PCF2: 
+MID_様子_プレイヤー女_後_敬様_PCF2: 
+MID_様子_プレイヤー女_前_親子_子_PCF2: 
+MID_様子_プレイヤー女_後_親子_子_PCF2: 
+MID_様子_プレイヤー女_前_恋人_PCF2: 
+MID_様子_プレイヤー女_後_恋人_PCF2: 
+MID_様子_プレイヤー女_前_PCF3: 
+MID_様子_プレイヤー女_後_PCF3: 
+MID_様子_プレイヤー女_前_親子_子_PCF3: 
+MID_様子_プレイヤー女_後_親子_子_PCF3: 
+MID_様子_プレイヤー女_前_恋人_PCF3: 
+MID_様子_プレイヤー女_後_恋人_PCF3: 

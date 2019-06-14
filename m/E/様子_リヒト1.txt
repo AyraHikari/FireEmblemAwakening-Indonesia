@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_リヒト1
+
+
+Message Name: Message
+
+
+MID_様子_リヒト_前: What are you so happy about?\nDid you find a puppy? ...Can I see it?
+MID_様子_リヒト_前_無言: NOT USED
+MID_様子_リヒト_前_通さん: What are you so happy about?\nDid you find a puppy? ...Can I see it?
+MID_様子_リヒト_後: No. I just finally worked out how to use\nthis difficult magic. Want to see?
+MID_様子_リヒト_後_通さん: No. I just finally worked out how to use\nthis difficult magic. Want to see?
+MID_様子_リヒト_後_無言: NOT USED
+MID_様子_リヒト_前_親子_子: $Np, is there anything you'd like?\nI'm your papa, so you should let me get it.
+MID_様子_リヒト_後_親子_子: Well, all right. Can you make me taller?\n...No, I mean it. Could you work on that?
+MID_様子_リヒト_前_恋人: $Np, you dropped this. ...What's\nthat look you're giving me? Is it important?
+MID_様子_リヒト_後_恋人: This is medicine to, um, make me taller.\nIt'll help me take care of you!

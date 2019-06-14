@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_ソール4
+
+
+Message Name: Message
+
+
+MID_様子_ソール_前: You're a great ally on the battlefield.\nMind if we pair up next time?
+MID_様子_ソール_前_敬さん: You're a great ally on the battlefield.\nMind if we pair up next time?
+MID_様子_ソール_前_敬様: You're a great ally on the battlefield.\nMind if we pair up next time?
+MID_様子_ソール_後: Sure, if you don't mind. I bet we'll make for\na devastating duo.
+MID_様子_ソール_後_敬さん: Sure, if you don't mind. I bet\nwe'll make a devastating duo.
+MID_様子_ソール_後_敬様: Sure, if you don't mind. I bet\nwe'll make a devastating duo.
+MID_様子_ソール_後_無言: NOT USED
+MID_様子_ソール_前_親子_子: So, um, $Np? How did you\npass your time in the future?
+MID_様子_ソール_後_親子_子: What do I do? I guess I eat, and train,\nand fight. Then I oversleep. It's a life.$k$pWant to get dinner in town one of these\ndays? See if you inherited my appetite?$k$pHeh heh, all right, I'd better save up so I\ncan take you someplace nice.$k$pHmm, but that requires work... I'd better\nget something to eat first.
+MID_様子_ソール_前_恋人: Take it easy out there, $Np.\nI don't want anything to happen to you.
+MID_様子_ソール_後_恋人: Don't worry, I'm not checking out anytime\nsoon. As long as you need me, I'll be there.

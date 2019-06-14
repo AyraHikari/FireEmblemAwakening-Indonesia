@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_ドニ1
+
+
+Message Name: Message
+
+
+MID_様子_ドニ_前: Well now, don't you look pleased as a pig!\nDid ya do well in the last battle?
+MID_様子_ドニ_前_通さん: Well now, don't you look pleased as a pig!\nDid ya do well in the last battle?
+MID_様子_ドニ_前_通様: Well now, don't you look pleased as a pig!\nDid ya do well in the last battle?
+MID_様子_ドニ_後: Naw, I'm just tickled to be among\nsuch a brave group'a folks like y'all!
+MID_様子_ドニ_後_通さん: Naw, I'm just tickled to be among\nsuch a brave group'a folks like y'all!
+MID_様子_ドニ_後_通様: Naw, I'm just tickled to be among\nsuch a brave group'a folks like y'all!
+MID_様子_ドニ_後_無言: NOT USED
+MID_様子_ドニ_前_親子_子: Need anything, $Np? Yer pa\nwants to take good care of ya!
+MID_様子_ドニ_後_親子_子: Well, thank ya kindly! But there ain't\nno call to go spendin' a lot of gold.
+MID_様子_ドニ_前_恋人: Whatcha got there, $Np? I don't\nremember ya havin' that 'fore.
+MID_様子_ドニ_後_恋人: Oh, this? Just a trinket I picked up in\ntown. Reckoned it might look fine on ya...

@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_ヴィオール1
+
+
+Message Name: Message
+
+
+MID_様子_ヴィオール_前_通くん: My, you positively glow today. Has my\ndashing entrance left you enraptured?
+MID_様子_ヴィオール_前_無言: NOT USED
+MID_様子_ヴィオール_前_敬殿: My, you positively glow today. Has my\ndashing entrance left you enraptured?
+MID_様子_ヴィオール_後_通くん: Oh, it's not that at all.\nI am simply having a good hair day.
+MID_様子_ヴィオール_後_敬殿: Oh, it's not that at all.\nI am simply having a good hair day.
+MID_様子_ヴィオール_後_無言: NOT USED
+MID_様子_ヴィオール_前_親子_子: Hello, $Np. Is there anything\nyour father might provide you?
+MID_様子_ヴィオール_後_親子_子: A scarf would be nice. Or matching scarves\nfor the two of... Eh? Why are you glaring?
+MID_様子_ヴィオール_前_恋人: Good day, $Np. What is that\nyou're holding behind your back?
+MID_様子_ヴィオール_後_恋人: Ah! You noticed. 'Tis a deed to lands in\nRosanne―a token of my love for you.

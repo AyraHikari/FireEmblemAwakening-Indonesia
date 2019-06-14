@@ -1,0 +1,22 @@
+MESS_ARCHIVE_様子_セレナ1
+
+
+Message Name: Message
+
+
+MID_様子_セレナ_前: Ugh, what are you sneering about?\nDid you meet someone dreamy?
+MID_様子_セレナ_前_無言: NOT USED
+MID_様子_セレナ_前_通さん: Ugh, what are you sneering about?\nDid you meet someone dreamy?
+MID_様子_セレナ_前_特殊: What are you so happy about, Chrom?\nDid you and your wife have a "moment"?
+MID_様子_セレナ_後: No! It's a romance thing.\nWould you like a few tips?
+MID_様子_セレナ_後_通さん: No! It's a romance thing.\nWould you like a few tips?
+MID_様子_セレナ_後_特殊: No! It's a romance thing. You ought to\nknow―you and your wife get along so well.
+MID_様子_セレナ_後_無言: NOT USED
+MID_様子_セレナ_前_親子_子: Morgan, can I buy you something? Please?\nMy daughter should really dress better.
+MID_様子_セレナ_後_親子_子: Now you're in for it. I love to shop.\nClothes, shoes, accessories... Got a pen?
+MID_様子_セレナ_前_親子_母: Mother, do you need anything? I'm about\nto go shopping for some new accessories.
+MID_様子_セレナ_後_親子_母: How about a handsome man I can wrap\naround my little finger? Know anyone?
+MID_様子_セレナ_前_親子_父: Father, is there anything you need? Daddy's\nlittle girl wants to do something nice!
+MID_様子_セレナ_後_親子_父: That's a rare kindness from you, Father.\nBut no thank you. The thought is enough.
+MID_様子_セレナ_前_恋人: You dropped something, $Np.\nWait...since when did you have this?
+MID_様子_セレナ_後_恋人: I baked this for you. Now open wide and\ndon't dare complain about the taste!

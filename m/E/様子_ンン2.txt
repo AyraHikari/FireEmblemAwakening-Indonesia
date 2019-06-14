@@ -1,0 +1,21 @@
+MESS_ARCHIVE_様子_ンン2
+
+
+Message Name: Message
+
+
+MID_様子_ンン_前: Returning to the past helped me\nfind my dreams. What are yours?
+MID_様子_ンン_前_無言: NOT USED
+MID_様子_ンン_前_敬さん: Returning to the past helped me\nfind my dreams. What are yours?
+MID_様子_ンン_前_特殊: Returning to the past helped me find my\ndreams. What are yours, Chrom?
+MID_様子_ンン_後: I dream that my long years as a dragonkin\ncan be spent with humans like you.
+MID_様子_ンン_後_敬さん: I dream that my long years as a dragonkin\ncan be spent with humans like you.
+MID_様子_ンン_後_無言: NOT USED
+MID_様子_ンン_前_親子_子: I've heard you are quite bright, Morgan.\nShall we have a little contest of wits?
+MID_様子_ンン_後_親子_子: I'll accept your challenge...if you provide\nassurances you can survive dragonbreath.
+MID_様子_ンン_前_親子_母: Mother, my dragonbreath has grown more\npowerful. Shall we have a little contest?
+MID_様子_ンン_後_親子_母: Very well, but do not hold back! For you,\nMother, I will withstand all the pain!
+MID_様子_ンン_前_親子_父: Father, might we have a mock battle?\nI promise to tone down my dragonbreath.
+MID_様子_ンン_後_親子_父: A challenge? Very well―as long as you\npromise to survive my dragonbreath.
+MID_様子_ンン_前_恋人: I love you, $Np. I wish\nI could be with you forever.
+MID_様子_ンン_後_恋人: I love you, too. If I were in dragon form,\nI would want to just...gobble you up!

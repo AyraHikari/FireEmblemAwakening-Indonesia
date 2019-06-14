@@ -1,0 +1,878 @@
+MESS_ARCHIVE_Menu
+
+
+Message Name: Message
+
+
+MID_MENU_確認: OK
+MID_MENU_選ぶ: Pilih
+MID_MENU_戻る: Kembali
+MID_MENU_決定: OK
+MID_MENU_切り替え: Ganti
+MID_MENU_前の画面: Kembali
+MID_MENU_外す: Hapus
+MID_MENU_やめる: Keluar
+MID_MENU_初期化: Reset
+MID_H_無し: None
+MID_H_現在値: Sekarang:
+MID_JOBINTRO_使用可能武器: Senjata:
+MID_MENU_部隊表: Unit
+MID_H_MENU_部隊表: Tampilkan daftar unit Anda dalam aksi.
+MID_MENU_指南: Panduan
+MID_H_MENU_指南: Tinjau tutorial tentang cara permainan ini dimainkan.
+MID_MENU_環境: Pilihan
+MID_H_MENU_環境: Sesuaikan opsi permainan.
+MID_MENU_セーブ: Simpan
+MID_H_MENU_セーブ: Simpan kemajuan Anda.
+MID_MENU_中断: Bookmark
+MID_H_MENU_中断: Simpan kemajuan Anda dan tunda permainan.
+MID_MENU_中断確認: Simpan kemajuan Anda dan tunda permainan?\n(Melanjutkan nanti akan menghapus bookmark ini.)
+MID_MENU_お任せAI_設定: Pengaturan Otomatis
+MID_H_MENU_お任せAI_設定: Konfigurasikan taktik pertempuran otomatis.
+MID_MENU_お任せAI_実行: Otomatis
+MID_H_MENU_お任せAI_実行: Lakukan pertempuran otomatis. (Tombol X: Tetapkan taktik)
+MID_H_MENU_お任せAI_実行_簡単: Lakukan pertempuran otomatis.
+MID_MENU_お任せAI_実行確認: $aLakukan pertempuran otomatis? (Taktik: $a0)
+MID_MENU_お任せAI_実行確認_簡単: Memulai pertempuran otomatis?
+MID_MENU_お任せAI_なし: Matikan
+MID_H_MENU_お任せAI_なし: Jangan gunakan pertempuran otomatis.
+MID_MENU_お任せAI_突撃: Membombardir
+MID_H_MENU_お任せAI_突撃: Dekati dan serang musuh terdekat.
+MID_MENU_お任せAI_護衛: Bertahan
+MID_H_MENU_お任せAI_護衛: Lindungi perimeter Chrom secara aktif.
+MID_MENU_お任せAI_追従: Menetap
+MID_H_MENU_お任せAI_追従: Tetap di dekat Chrom tetapi di luar jangkauan musuh.
+MID_MENU_お任せAI_個別: Kustom
+MID_MENU_お任せAI_個別タイトル: Kustom
+MID_H_MENU_お任せAI_個別: Tetapkan taktik pertempuran otomatis khusus untuk setiap unit.
+MID_MENU_終了: Selesai
+MID_H_MENU_終了: Akhiri giliranmu. Musuh akan bergerak selanjutnya.
+MID_MENU_ターン終了確認: Akhiri giliranmu?
+MID_MENU_未行動: Left
+MID_MAINMENU_メインメニュー: Menu Awal
+MID_MAINMENU_最初から始める: Mulai baru
+MID_MAINMENU_最初から始める_ヘルプ: Mulai game dari awal.
+MID_MAINMENU_続きから始める: Lanjutkan
+MID_MAINMENU_続きから始める_ヘルプ: Lanjutkan dari save file.
+MID_MAINMENU_続きから始める_内部ヘルプ: Pilih file untuk di buka.
+MID_MAINMENU_続きから始める_どこでも内部ヘルプ: Pilih pertempuran simpan untuk dimuat.
+MID_MAINMENU_中断から再開する: Bookmark
+MID_MAINMENU_中断から再開する_ヘルプ: Lanjutkan dari bookmark terakhir Anda.
+MID_MAINMENU_中断から再開する_内部ヘルプ: Anda akan melanjutkan dari bookmark ini.
+MID_MAINMENU_章セーブから始める: Lanjutkan
+MID_MAINMENU_どこでもセーブから始める: Lanjutkan
+MID_MAINMENU_セーブ: Simpan
+MID_MAINMENU_コピー_ヘルプ: Salin file penyimpanan.
+MID_MAINMENU_コピー_内部ヘルプ先: Pilih tempat untuk menyalin file.
+MID_MAINMENU_コピー_内部ヘルプ元: Pilih file yang akan disalin.
+MID_MAINMENU_削除_ヘルプ: Hapus file yang tersimpan.
+MID_MAINMENU_削除_内部ヘルプ: Pilih file yang akan dihapus.
+MID_MAINMENU_エクストラ_ヘルプ: Nikmati konten yang terpisah dari cerita utama.
+MID_MAINMENU_章セーブをコピーする: Salin
+MID_MAINMENU_どこでもセーブをコピーする: Salin
+MID_MAINMENU_章セーブを消す: Hapus
+MID_MAINMENU_どこでもセーブを消す: Hapus
+MID_MAINMENU_ターン: TURN
+MID_最初から_タイトル: Kesulitan
+MID_モード選択_タイトル: Mode permainan
+MID_ゲームレベル_ノーマル:  Untuk seri pemula.
+MID_ゲームレベル_ハード:  Untuk berpengalaman.
+MID_ゲームレベル_ルナティック:  Untuk pemain ahli.
+MID_ゲームレベル_ルナティックプラス:  Untuk master Fire Emblem.
+MID_ゲームレベル_クラシック: Unit hilang selamanya. Tiap keputusan penting.
+MID_ゲームレベル_カジュアル: Unit akan kembali. Menyimpan dimana saja.
+MID_ゲームレベルH_モード選択: Mulai baru
+MID_ゲームレベル_ヘルプ: Pilih tingkat kesulitan.
+MID_モード選択_ヘルプ: Pilih mode permainan.
+MID_エクストラ: Tambahan
+MID_エクストラ_表示名_マーク男: Morgan (M)
+MID_エクストラ_表示名_マーク女: Morgan (F)
+MID_エクストラ_ムービー回想: Teater
+MID_エクストラ_ユニットビューアー: Galeri Unit
+MID_エクストラ_支援会話: Log Dukungan
+MID_エクストラ_支援関係タイトル: Hubungan
+MID_エクストラ_支援会話_内部ヘルプ元: Pilih satu karakter.
+MID_エクストラ_支援会話_内部ヘルプ先: Pilih mitra percakapan.
+MID_エクストラ_データ初期化: Hapus Data
+MID_エクストラ_ムービー回想_ヘルプ: Ulangi adegan film.
+MID_エクストラ_ムービー回想_内部ヘルプ: Pilih film untuk ditonton.
+MID_エクストラ_ユニットビューアー_ヘルプ: Lihat dari dekat unit Anda.
+MID_エクストラ_支援会話_ヘルプ: Lihat percakapan dukungan sebelumnya.
+MID_エクストラ_UV_キャラクター変更: Karakter
+MID_エクストラ_UV_背景変更: Latar belakang
+MID_エクストラ_UV_サウンド変更: Soundtrack
+MID_エクストラ_UV_見渡す: Lihat
+MID_エクストラ_UV_選択項目省略記号: ...
+MID_エクストラ_UV_キャラクタ選択ヘルプ: Pilih karakter untuk dilihat.
+MID_エクストラ_UV_音楽選択ヘルプ: Pilih trek untuk dimainkan.
+MID_エクストラ_UV_背景選択ヘルプ: Pilih latar belakang.
+MID_エクストラ_UV_背景待ちヘルプ: Memuat latar belakang ...
+MID_エクストラ_UV_下バー: Galeri Unit
+MID_エクストラ_UV_下メニュー題名: Sekarang Melihat
+MID_エクストラ_UV_下キャラクタ題名: Karakter
+MID_エクストラ_UV_下サウンド題名: Soundtrack
+MID_エクストラ_UV_下背景題名: Latar belakang
+MID_エクストラ_UV_アクションボタン名称: Tindakan
+MID_エクストラ_UV_変身ボタン名称: Transform
+MID_エクストラ_UV_カメラ操作名称: Kamera
+MID_エクストラ_UV_アイコンボタン区切り: /
+MID_エクストラ_相性占い: Hubba Tester
+MID_エクストラ_相性占い_ヘルプ: Biarkan Old Hubba mengukur kompatibilitas unit Anda.
+MID_エクストラ_相性占い_ロードヘルプ: Pilih file simpan untuk digunakan.
+MID_エクストラ_データ初期化_ヘルプ: Hapus semua data.
+MID_エクストラ_データ初期化_確認: Hapus semua data Anda?
+MID_エクストラ_データ初期化_再確認: Semua data akan hilang. Apakah kamu yakin?
+MID_エクストラ_データ初期化_終了: Semua data telah dihapus.
+MID_ゲームオーバー_続き確認_1行目: 
+MID_ゲームオーバー_続き確認_2行目: Muat file penyimpanan?
+MID_セーブデータ_データ無し: TIDAK ADA DATA
+MID_セーブデータ_名前不明: ――
+MID_次章セーブ_休憩メッセージ: Ingat untuk\nberistirahat!
+MID_MENU_制圧: Rebut
+MID_H_MENU_制圧: Akhiri pertempuran dengan\nmengamankan posisi vital ini.
+MID_MENU_制圧確認: Apakah Anda siap untuk menyelesaikan tahap ini?
+MID_MENU_会話: Bicara
+MID_H_MENU_会話: Bicaralah dengan unit yang berdekatan.
+MID_MENU_攻撃: Serang
+MID_H_MENU_攻撃: Serang musuh.
+MID_MENU_杖: Tongkat
+MID_H_MENU_杖: Gunakan tongkat pilihan Anda.
+MID_MENU_特殊杖確認: $aGunakan $a0?
+MID_MENU_訪問: Kunjungi
+MID_H_MENU_訪問: Kunjungi desa ini.
+MID_MENU_扉: Pintu
+MID_H_MENU_扉: Buka pintu untuk memungkinkan bagian.
+MID_MENU_宝箱: Peti
+MID_H_MENU_宝箱: Buka peti harta karun dan\nambil isinya.
+MID_MENU_踊る: Menari
+MID_H_MENU_踊る: Menginspirasi sekutu yang\nberdekatan untuk bertindak lagi.
+MID_MENU_持ち物: Barang
+MID_H_MENU_持ち物: Gunakan atau buang barang.
+MID_MENU_交換: Bertukar
+MID_H_MENU_交換: Bertukar barang dengan unit yang berdekatan.
+MID_MENU_輸送隊: Konvoi
+MID_H_MENU_輸送隊: Tukarkan barang dengan konvoi.
+MID_MENU_共闘: Berpasangan
+MID_H_MENU_共闘: Masukkan ruang yang sama untuk\nmeningkatkan statistik sekutu itu.
+MID_MENU_交代: Beralih
+MID_H_MENU_交代: Mintalah unit pasangan beralih posisi.
+MID_MENU_人交換: Kirim
+MID_H_MENU_人交換: Kirim pasangan unit belakang ke unit lain.
+MID_MENU_降ろす: Berpisah
+MID_H_MENU_降ろす: Bagi dua unit, dan pindahkan unit\nbelakang ke ruang yang berdekatan.
+MID_MENU_応援: Mengerahkan
+MID_H_MENU_応援: Tingkatkan statistik sekutu terdekat.
+MID_MENU_待機: Tunggu
+MID_H_MENU_待機: Akhiri giliran unit ini.
+MID_MENU_持ち物_装備: Gunakan
+MID_H_MENU_持ち物_装備: Gunakan item ini sebagai senjata serangan unit.
+MID_MENU_持ち物_外す: Lepas
+MID_H_MENU_持ち物_外す: Berhenti menggunakan senjata atau buku sihir yang dipakai.
+MID_MENU_持ち物_並替え: Susun ulang
+MID_H_MENU_持ち物_並替え: Ubah urutan daftar barang.
+MID_MENU_持ち物_使う: Pakai
+MID_H_MENU_持ち物_使う: Gunakan item yang dipilih. Beberapa\nsenjata bisa digunakan sebagai barang.
+MID_H_MENU_持ち物_スキルの書_確認: $aBelajar $a0?\n(Jika Anda tidak memiliki\nslot keterampilan yang tersedia,\nitu akan ditambahkan ke daftar\nketerampilan yang tersedia.)
+MID_MENU_持ち物_交換: Bertukar
+MID_H_MENU_持ち物_交換: Bertukar barang dengan unit\nyang berdekatan.
+MID_MENU_持ち物_交換_持ち物整理: Bertukar
+MID_H_MENU_持ち物_交換_持ち物整理: Bertukar
+MID_MENU_持ち物_捨てる: Buang
+MID_H_MENU_持ち物_捨てる: Buang barang yang dipilih.\nBarang tidak dapat dipulihkan.
+MID_MENU_持ち物_捨てる説明: Your inventory is\nfull. Choose one\nitem to discard.
+MID_MENU_持ち物_送る説明: You cannot carry\nany more. Send one\nitem to the convoy.
+MID_MENU_持ち物_捨てる確認: $aDiscard $a0?
+MID_MENU_持ち物_送る確認: $aSend $a0 to the convoy?
+MID_MENU_スキル_忘却確認: $aUnequip $a0?
+MID_MENU_スキル_忘却: You cannot equip\nany more skills.\nSelect one skill\nto unequip.
+MID_MENU_クラスチェンジ_確認: $aChange to the $a0 class?
+MID_MENU_輸送隊_預ける: Store
+MID_H_MENU_輸送隊_預ける: Store items with the convoy.
+MID_MENU_輸送隊_受け取る: Take
+MID_H_MENU_輸送隊_受け取る: Retrieve items from the convoy.
+MID_MENU_輸送隊_補充: Restock
+MID_H_MENU_輸送隊_補充: Use surplus in the convoy to\nrestore this item up to its\nmaximum number of uses.
+MID_MENU_輸送隊_全補充: Restock All
+MID_H_MENU_輸送隊_全補充: Use surplus in the convoy to\nrestore all items up to their\nmaximum number of uses.
+MID_MENU_輸送隊_全補充確認: Restock all items?
+MID_MENU_輸送隊_無し: (No items)
+MID_MENU_輸送隊_輸送隊: Convoy
+MID_MENU_輸送隊_在庫: Qty
+MID_MENU_輸送隊_所有者: Owner
+MID_CONFIG_オフ: Off
+MID_CONFIG_オン: On
+MID_CONFIG_字幕: Movie Subtitles
+MID_CONFIG_戦闘アニメ: Combat Animations
+MID_CONFIG_戦闘アニメ_オフ: Off
+MID_CONFIG_戦闘アニメ_オン: On
+MID_CONFIG_戦闘アニメ_人間ユニット: Your Units
+MID_CONFIG_戦闘アニメ_人間ターン: Your Turn
+MID_CONFIG_戦闘アニメ_個別: Custom
+MID_H_CONFIG_戦闘アニメ_オフ: Do not show any combat animations.
+MID_H_CONFIG_戦闘アニメ_オン: Show all combat animations.
+MID_H_CONFIG_戦闘アニメ_人間ユニット: Only show animations involving your units.
+MID_H_CONFIG_戦闘アニメ_人間ターン: Only show animations during your turn.
+MID_H_CONFIG_戦闘アニメ_個別: Customize animation options for each unit.
+MID_CONFIG_補助アニメ: Other Animations
+MID_CONFIG_補助アニメ_オフ: Off
+MID_CONFIG_補助アニメ_オン: On
+MID_H_CONFIG_補助アニメ_オン: Show staff and dance animations.
+MID_H_CONFIG_補助アニメ_オフ: Do not show staff and dance animations.
+MID_CONFIG_ゲームスピード: Game Speed
+MID_CONFIG_ゲームスピード_普通: Normal
+MID_CONFIG_ゲームスピード_速い: Fast
+MID_CONFIG_ゲームスピード_手動: Manual
+MID_H_CONFIG_ゲームスピード_普通: Set game flow (movement, etc.) to normal.
+MID_H_CONFIG_ゲームスピード_速い: Set game flow (movement, etc.) to fast.
+MID_H_CONFIG_ゲームスピード_手動: Hold the A Button to speed up game flow.
+MID_CONFIG_メッセージスピード: 
+MID_CONFIG_メッセージスピード_遅い: 
+MID_CONFIG_メッセージスピード_普通: 
+MID_CONFIG_メッセージスピード_速い: 
+MID_CONFIG_メッセージスピード_最速: 
+MID_H_CONFIG_メッセージスピード_遅い: 
+MID_H_CONFIG_メッセージスピード_普通: 
+MID_H_CONFIG_メッセージスピード_速い: 
+MID_H_CONFIG_メッセージスピード_最速: 
+MID_CONFIG_カメラ距離: Camera Positions
+MID_CONFIG_カメラ距離_近中遠: All
+MID_CONFIG_カメラ距離_近中: Near/Mid
+MID_CONFIG_カメラ距離_近遠: Near/Far
+MID_CONFIG_カメラ距離_中遠: Mid/Far
+MID_H_CONFIG_カメラ距離_近中遠: Toggle between a near, middle, and far view.
+MID_H_CONFIG_カメラ距離_近中: Toggle between a near and middle view.
+MID_H_CONFIG_カメラ距離_近遠: Toggle between a near and far view.
+MID_H_CONFIG_カメラ距離_中遠: Toggle between a middle and far view.
+MID_CONFIG_カメラ角度: Camera Angle
+MID_CONFIG_カメラ角度_低い: Low
+MID_CONFIG_カメラ角度_普通: Medium
+MID_CONFIG_カメラ角度_高い: High
+MID_CONFIG_カメラ角度_真上: Overhead
+MID_H_CONFIG_カメラ角度_低い: View the map from an angle low to the ground.
+MID_H_CONFIG_カメラ角度_普通: View the map from a medium angle.
+MID_H_CONFIG_カメラ角度_高い: View the map from a high angle.
+MID_H_CONFIG_カメラ角度_真上: View the map from directly overhead.
+MID_CONFIG_ＡＩ: Skip Actions
+MID_CONFIG_ＡＩ_オフ: Off
+MID_CONFIG_ＡＩ_移動: Movement
+MID_CONFIG_ＡＩ_すべて: All
+MID_H_CONFIG_ＡＩ_オフ: Show all actions for units you don't control.
+MID_H_CONFIG_ＡＩ_移動: Skip walk animations for units you don't control.
+MID_H_CONFIG_ＡＩ_すべて: Skip all actions for units you don't control.
+MID_CONFIG_敵範囲: Danger Area
+MID_CONFIG_敵範囲_すべて: All
+MID_CONFIG_敵範囲_攻撃のみ: Attacks
+MID_CONFIG_敵範囲_杖のみ: Staves
+MID_H_CONFIG_敵範囲_すべて: Display enemy attack and staff ranges.
+MID_H_CONFIG_敵範囲_攻撃のみ: Display only enemy attack ranges.
+MID_H_CONFIG_敵範囲_杖のみ: Display only enemy staff ranges.
+MID_CONFIG_攻撃操作: Attack Flow
+MID_CONFIG_攻撃操作_クラシック: Classic
+MID_CONFIG_攻撃操作_アドバンス: Evolved
+MID_H_CONFIG_攻撃操作_クラシック: Select a weapon first, then an opponent.
+MID_H_CONFIG_攻撃操作_アドバンス: Select an opponent first, then a weapon.
+MID_CONFIG_かんたんＵＩ: Interface
+MID_CONFIG_かんたんＵＩ_オフ: Full
+MID_CONFIG_かんたんＵＩ_オン: Simplified
+MID_H_CONFIG_かんたんＵＩ_オフ: Display as much information as possible.
+MID_H_CONFIG_かんたんＵＩ_オン: Streamline information wherever possible.
+MID_CONFIG_スライドパッド: Circle Pad
+MID_CONFIG_スライドパッド_アナログ: Analog
+MID_CONFIG_スライドパッド_デジタル: Digital
+MID_H_CONFIG_スライドパッド_アナログ: Move the cursor freely and smoothly.
+MID_H_CONFIG_スライドパッド_デジタル: Limit the cursor to rigid, precise movement.
+MID_CONFIG_チュートリアル: Slide Guides
+MID_CONFIG_チュートリアル_オフ: Off
+MID_CONFIG_チュートリアル_オン: On
+MID_H_CONFIG_チュートリアル_オフ: Do not display tutorial messages.
+MID_H_CONFIG_チュートリアル_オン: Display tutorial messages.
+MID_CONFIG_オートカーソル: Cursor Memory
+MID_CONFIG_オートカーソル_オフ: On
+MID_CONFIG_オートカーソル_オン: Off
+MID_H_CONFIG_オートカーソル_オフ: Start each turn with the cursor where you left it.
+MID_H_CONFIG_オートカーソル_オン: Start each turn with the cursor on your leader.
+MID_CONFIG_オートターンエンド: Smart End
+MID_CONFIG_オートターンエンド_オフ: Off
+MID_CONFIG_オートターンエンド_オン: On
+MID_H_CONFIG_オートターンエンド_オフ: Turn does not end until End is selected.
+MID_H_CONFIG_オートターンエンド_オン: Turn ends after all your units have taken action.
+MID_CONFIG_お任せ上級機能: Advanced Auto
+MID_CONFIG_お任せ上級機能_オフ: Off
+MID_CONFIG_お任せ上級機能_オン: On
+MID_H_CONFIG_お任せ上級機能_オフ: Turn off auto-battle tactics and use the default.
+MID_H_CONFIG_お任せ上級機能_オン: Choose your own auto-battle tactics.
+MID_CONFIG_お任せ確認: Confirm Auto
+MID_CONFIG_お任せ確認_オフ: No
+MID_CONFIG_お任せ確認_オン: Yes
+MID_H_CONFIG_お任せ確認_オフ: Begin auto-battle as soon as you select Auto.
+MID_H_CONFIG_お任せ確認_オン: Ask for confirmation when you select Auto.
+MID_CONFIG_ターン終了確認: Confirm End
+MID_CONFIG_ターン終了確認_オフ: No
+MID_CONFIG_ターン終了確認_オン: Yes
+MID_H_CONFIG_ターン終了確認_オフ: End your turn as soon as you select End.
+MID_H_CONFIG_ターン終了確認_オン: Ask for confirmation when you select End.
+MID_CONFIG_ＨＰゲージ: HP Gauges
+MID_CONFIG_ＨＰゲージ_オフ: Off
+MID_CONFIG_ＨＰゲージ_簡易: Basic
+MID_CONFIG_ＨＰゲージ_詳細: Advanced
+MID_H_CONFIG_ＨＰゲージ_オフ: Do not display HP gauges.
+MID_H_CONFIG_ＨＰゲージ_簡易: Display basic HP gauges.
+MID_H_CONFIG_ＨＰゲージ_詳細: Display advanced HP gauges.
+MID_CONFIG_ユニット情報: Unit Simplified
+MID_H_CONFIG_ユニット情報_オフ: Do not streamline unit info on the 3D Screen.
+MID_H_CONFIG_ユニット情報_オン: Streamline unit info on the 3D Screen.
+MID_CONFIG_グリッド: Grid
+MID_H_CONFIG_グリッド: Adjust opacity of the map grid.
+MID_CONFIG_ズーム: Smart Zoom
+MID_H_CONFIG_ズーム_オフ: Do not allow the camera to automatically zoom.
+MID_H_CONFIG_ズーム_オン: Allow the camera to automatically zoom.
+MID_CONFIG_角度変化: Map Tilt
+MID_H_CONFIG_角度変化_オフ: Do not allow the camera angle to tilt.
+MID_H_CONFIG_角度変化_オン: Allow the camera angle to tilt.
+MID_CONFIG_音量BGM: Music Volume
+MID_H_CONFIG_音量BGM: Adjust the volume of music.
+MID_CONFIG_音量SE: SFX Volume
+MID_H_CONFIG_音量SE: Adjust the volume of non-system sound effects.
+MID_CONFIG_音量SysSE: System Volume
+MID_H_CONFIG_音量SysSE: Adjust the volume of system sound effects.
+MID_CONFIG_音量ボイス: Voice Volume
+MID_H_CONFIG_音量ボイス: Adjust the volume of voices.
+MID_CONFIG_ボイス再生: Story Voices
+MID_H_CONFIG_ボイス再生_オン: Play voices during story scenes.
+MID_H_CONFIG_ボイス再生_オフ: Mute voices during story scenes.
+MID_CONFIG_スピーカーモード: Speaker Mode
+MID_H_CONFIG_スピーカーモード_オン: Optimize sound output for system speakers.
+MID_H_CONFIG_スピーカーモード_オフ: Do not optimize sound output for system speakers.
+MID_CONFIG_BGM: Soundtrack
+MID_CONFIG_BGM_デフォルト: Conquest
+MID_CONFIG_BGM_序幕: Prelude
+MID_CONFIG_BGM_危機: S. Clouds
+MID_CONFIG_BGM_使命1: Duty
+MID_CONFIG_BGM_使命2: Destiny
+MID_CONFIG_BGM_運命: D. Decree
+MID_CONFIG_BGM_絶望: Chaos
+MID_CONFIG_BGM_強者: Champion
+MID_H_CONFIG_BGM_デフォルト: Play "Conquest" during challenge battles.
+MID_H_CONFIG_BGM_序幕: Play "Prelude" during challenge battles.
+MID_H_CONFIG_BGM_危機: Play "Storm Clouds" during challenge battles.
+MID_H_CONFIG_BGM_使命1: Play "Duty" during challenge battles.
+MID_H_CONFIG_BGM_使命2: Play "Destiny" during challenge battles.
+MID_H_CONFIG_BGM_運命: Play "Divine Decree" during challenge battles.
+MID_H_CONFIG_BGM_絶望: Play "Chaos" during challenge battles.
+MID_H_CONFIG_BGM_強者: Play "Champion" during challenge battles.
+MID_CONFIG_リセット: Restore Defaults
+MID_H_CONFIG_リセット: Reset all options to their default settings.
+MID_H_CONFIG_字幕_オン: Display subtitles during movie scenes.
+MID_H_CONFIG_字幕_オフ: Do not display subtitles during movie scenes.
+MID_CONFIG_リセット確認: Reset all options to their default settings?
+MID_CONTACT_強さをみる: View Stats
+MID_CONTACT_スカウト: Recruit
+MID_CONTACT_戦う: Fight
+MID_CONTACT_持ち物を買う: Buy Items
+MID_CONTACT_別れを告げる: Dismiss
+MID_CONTACT_戻る: Exit
+MID_CONTACT_名声値: Renown:
+MID_CONTACT_軍: More
+MID_CONTACT_一覧: Less
+MID_CONTACT_強さをみる説明: View the other team's units and their stats.
+MID_CONTACT_スカウト確認: $aRecruit the team leader\nfor $a0G?\n(Items are not included.)
+MID_CONTACT_スカウト確認_上書き: $aRecruit the team leader\nfor $a0G?\nTo recruit an existing unit, the\nold unit must be overwritten.
+MID_CONTACT_スカウト確認_オーバー: $aRecruit the team leader\nfor $a0G?\nYou must dismiss a unit before\nyou can recruit any more.
+MID_CONTACT_自身をスカウト: This unit cannot be recruited.
+MID_CONTACT_課金兵種: To recruit this unit, you must\nfirst obtain a new class at the\nOutrealm Gate.
+MID_CONTACT_T_仲間削除: Dismiss Unit
+MID_CONTACT_仲間削除: No more units\ncan be recruited.\nSelect a unit to\ndismiss.
+MID_CONTACT_仲間削除確認: Dismiss this unit?\n(When the Avatar Logbook exceeds\n99 entries, the unlocked unit with\nthe lowest recruitment fee will be\nautomatically deleted.)
+MID_CONTACT_仲間削除結果: The unit was dismissed.
+MID_CONTACT_T_ユニット再加入: Existing Unit
+MID_CONTACT_ユニット再加入: Select the version\nof the unit to\nrecruit.
+MID_CONTACT_ユニット再加入確認: Recruit this version of the unit?\nThe old unit data will be lost.
+MID_CONTACT_ユニット再加入結果: The unit was replaced.
+MID_CONTACT_ユニット再加入_キャンセル: The unit was left unchanged.
+MID_CONTACT_T_名鑑上書き: Update
+MID_CONTACT_名鑑上書き: Select the unit to\nupdate the logbook\nwith.
+MID_CONTACT_名鑑上書き確認: Use this version of the unit to\nupdate the logbook? The old\nentry will be lost.
+MID_CONTACT_名鑑上書き結果: Logbook updated.
+MID_CONTACT_名鑑上書き_キャンセル: Update canceled.
+MID_CONTACT_名鑑削除: Remove
+MID_CONTACT_名鑑削除_確認: Remove this unit from\nthe logbook?
+MID_CONTACT_名鑑削除_結果: Unit removed.
+MID_CONTACT_T_名鑑新規登録: Add
+MID_CONTACT_名鑑新規登録: Add
+MID_CONTACT_名鑑新規登録_説明: Select a unit to add\nto the logbook.
+MID_CONTACT_名鑑新規登録_満員: The logbook is already full.
+MID_CONTACT_名鑑新規登録_登録済み: There are no units that can\nbe added.
+MID_CONTACT_名鑑新規登録_結果: Unit added.
+MID_CONTACT_名鑑新規登録_キャンセル: Logbook registration canceled.
+MID_CONTACT_金不足: Insufficient funds.
+MID_CONTACT_戦闘確認: Challenge this team to a fight?\nIf you win, you can recruit the\nteam leader.\n(Items are not included.\nThe team will be more powerful\nat higher difficulties.)
+MID_CONTACT_戦闘確認_上書き: You have already recruited this\nteam leader. Win, and you can\nupdate the leader's stats.\nChallenge this team to a fight?\n(The team will be more powerful\nat higher difficulties.)
+MID_CONTACT_戦闘確認_オーバー: You must dismiss a unit before\nyou can recruit any more.\nChallenge this team to a fight?\n(The team will be more powerful\nat higher difficulties.)
+MID_CONTACT_自身と戦闘: The team leader cannot be\nrecruited. Challenge this team\nto a fight?\n(The team will be more powerful\nat higher difficulties.)
+MID_CONTACT_課金兵種戦闘: To recruit this unit, you must\nfirst obtain a new class at the\nOutrealm Gate.\nChallenge this team to a fight?\n(The team will be more powerful\nat higher difficulties.)
+MID_CONTACT_持ち物を買う確認: Buy items from the other team?\nOnce you have finished shopping,\nthe team will leave the World Map.
+MID_CONTACT_買えるアイテムがない: This team does not have any\nitems for sale.
+MID_CONTACT_別れ確認: Dismiss this team from the\nWorld Map?
+MID_CONTACT_別れる: $aYou dismissed $a0.
+MID_CONTACT_仲間入り確認: $aRecruit $a0?\n(The unit will be added to your\nAvatar Logbook regardless.)
+MID_CONTACT_仲間入り結果: $aYou recruited $a0.
+MID_SORTIE_進撃準備: Preparations
+MID_SORTIE_ユニット選択: Select Units
+MID_H_SORTIE_ユニット選択: Select the units who will fight.
+MID_SORTIE_マップ・配置: View Map
+MID_H_SORTIE_マップ・配置: View the map and set unit starting positions.
+MID_SORTIE_持ち物整理: Inventory
+MID_H_SORTIE_持ち物整理: Manage your items.
+MID_SORTIE_スキル着脱: Equip Skills
+MID_H_SORTIE_スキル着脱: Equip and remove skills.
+MID_H_SORTIE_一括整理: Manage all items at once.
+MID_SORTIE_武器屋: Armory
+MID_H_SORTIE_武器屋: Buy or sell items at the armory.
+MID_SORTIE_支援会話: Support
+MID_H_SORTIE_支援会話: Build unit relationships via conversations.
+MID_SORTIE_マイルーム: Barracks
+MID_H_SORTIE_マイルーム: See what your units are up to right now.
+MID_SORTIE_通信: Wireless
+MID_H_SORTIE_通信: Access wireless features and bonuses.
+MID_SORTIE_環境設定: Options
+MID_H_SORTIE_環境設定: Adjust game options.
+MID_SORTIE_記録: Save
+MID_H_SORTIE_記録: Save your progress.
+MID_SORTIE_戻る: Exit
+MID_H_SORTIE_戻る: Return to the World Map.
+MID_SORTIE_戻る確認: Return to the World Map?
+MID_SORTIE_編成終了: Fight
+MID_H_SORTIE_編成終了: End preparations and start the battle.
+MID_SORTIE_編成終了確認: Start the battle?
+MID_SORTIE_持ち物整理_持ち物: Items
+MID_SORTIE_持ち物整理_リスト: All Items
+MID_SORTIE_スキル着脱_外す: Remove
+MID_H_SORTIE_スキル着脱_外す: Remove
+MID_SORTIE_スキル着脱_並替え: Reorder
+MID_H_SORTIE_スキル着脱_並替え: Reorder
+MID_SORTIE_スキル着脱_装備: Equip
+MID_H_SORTIE_スキル着脱_装備: Equip
+MID_SORTIE_スキル着脱_交換: Swap
+MID_H_SORTIE_スキル着脱_交換: Swap
+MID_SORTIE_スキル着脱_習得済みスキル: Available Skills
+MID_SORTIE_スキル着脱_無し: (No skills equipped)
+MID_SORTIE_スキル着脱_無し２: (All skills equipped)
+MID_SORTIE_一括整理: Manage
+MID_SORTIE_一括整理_おまかせ整理: Optimize
+MID_H_SORTIE_一括整理_おまかせ整理: Optimize your fighting units' equipment.
+MID_SORTIE_一括整理_おまかせ整理確認: Optimize your fighting units'\nequipment? (Items held by other\nunits will be returned to the\nconvoy.)
+MID_SORTIE_一括整理_おまかせ整理警告: There were not enough items in\nthe convoy to properly equip all\nfighting units.
+MID_SORTIE_一括整理_全預け: Store All
+MID_H_SORTIE_一括整理_全預け: Store all units' items with the convoy.
+MID_SORTIE_一括整理_全預け確認: Store all items with the convoy?
+MID_SORTIE_一括整理_全補充: Restock All
+MID_H_SORTIE_一括整理_全補充: Use the convoy to restock all items.
+MID_SORTIE_一括整理_全補充確認: Use surplus in the convoy to\nrestock depleted items?
+MID_SORTIE_個人一括_おまかせ整理: Optimize
+MID_H_SORTIE_個人一括_おまかせ整理: Optimize this unit's equipment.
+MID_SORTIE_個人一括_おまかせ整理警告: There were not enough items\nin the convoy to properly equip\nthis unit.
+MID_SORTIE_個人一括_全預け: Store All
+MID_H_SORTIE_個人一括_全預け: Store this unit's items with the convoy.
+MID_SORTIE_個人一括_全補充: Restock All
+MID_H_SORTIE_個人一括_全補充: Use the convoy to restock this unit's items.
+MID_H_SORTIE_出撃人数: $aYou can select $a0 more.
+MID_B_SORTIE_部隊表: More
+MID_B_SORTIE_一覧: Less
+MID_B_SORTIE_おまかせ: Manage
+MID_B_SORTIE_切り替え: Switch
+MID_RELIANCE_会話相手選択: Choose a conversation partner.
+MID_RELIANCE_名前不明: ? ? ?
+MID_MYROOM_占い: Old Hubba
+MID_H_MYROOM_占い: Old Hubba Help
+MID_H_MYROOM_占いトップ: Wonder how your soldiers really feel\nabout each other? Pick two units,\nand Old Hubba will read the vibes to\ngive his take on their true emotions.\n\n$c30,130,0,255|(For amusement purposes only!)
+MID_MYROOM_データ: Data
+MID_H_MYROOM_データ: Help
+MID_MYROOM_いろいろデータ: Various Data
+MID_MYROOM_模様替え: Backdrop
+MID_H_MYROOM_模様替え: 
+MID_MYROOM_模様替え選択: Select a new backdrop.
+MID_MYROOM_様子を見る: Listen In
+MID_H_MYROOM_様子を見る: 
+MID_MYROOM_キャラ名鑑: Roster
+MID_H_MYROOM_キャラ名鑑: Choose a story character above\nto view his or her bio here.
+MID_H_MYROOM_キャラ名鑑_死亡ロスト: Died:
+MID_H_MYROOM_キャラ名鑑_同行ロスト: Retired:
+MID_MYROOM_マイユニ名鑑: Avatar Logbook
+MID_H_MYROOM_マイユニ名鑑: View the avatars and profile\ncards of units you have\nencountered via StreetPass.
+MID_MYROOM_恋愛事情: Avatar Love Life
+MID_H_MYROOM_恋愛事情: View the romantic status of\nplayers you met via StreetPass.
+MID_MYROOM_カード編集: Edit Card
+MID_MYROOM_見渡す: Look
+MID_H_MYROOM_見渡す: Use the Circle Pad to move the camera.
+MID_MYROOM_カメラ操作: Camera
+MID_H_MYROOM_カード編集: Edit your profile card.
+MID_MYROOM_個性: Trait
+MID_H_MYROOM_個性: Select an adjective to describe yourself.
+MID_MYROOM_表情: Expression
+MID_H_MYROOM_表情: Select a facial expression.
+MID_MYROOM_表情_普通: Normal
+MID_MYROOM_表情_キメ: Cocky
+MID_MYROOM_表情_怒: Angry
+MID_MYROOM_表情_笑: Cheerful
+MID_MYROOM_表情_苦: Distressed
+MID_MYROOM_出身地: Home
+MID_H_MYROOM_出身地: Tell others where you are from.
+MID_MYROOM_普段の姿: Identity
+MID_H_MYROOM_普段の姿: Tell others what you really are.
+MID_MYROOM_大事なもの: Values
+MID_H_MYROOM_大事なもの: Tell others what you value most.
+MID_MYROOM_メッセージ: Message
+MID_H_MYROOM_メッセージ: Edit your message.
+MID_MYROOM_難易度公開: Difficulty
+MID_H_MYROOM_難易度公開: Share your difficulty and game mode.
+MID_MYROOM_難易度公開_公開: Share
+MID_MYROOM_難易度公開_非公開: Don't Share
+MID_MYROOM_紹介: Nice to meet you.
+MID_MYROOM_挨拶: Hello.
+MID_MYROOM_戦闘: You're on!
+MID_MYROOM_仲間: I'll do my best.
+MID_MYROOM_スラッシュ: $a$a0/$a1 $a2
+MID_MYROOM_並び替え: Arrange
+MID_MYROOM_番号順: By Number
+MID_MYROOM_５０音順: By Name
+MID_MYROOM_イベント発生: New events have occurred!
+MID_MYROOM_誕生日発生: A birthday event has occurred!
+MID_MYROOM_誕生日終了: Another birthday ended...\nIf only every day were like this!
+MID_SHOP_購入: Buy
+MID_SHOP_購入確認: $aBuy for $a0 gold?
+MID_SHOP_売却: Sell
+MID_SHOP_売却確認: $aSell for $a0 gold?
+MID_SHOP_売却不可: N/A
+MID_SHOP_錬成: Forge
+MID_SHOP_錬成確認: $aForge for $a0 gold?
+MID_SHOP_錬成可: Y
+MID_SHOP_錬成不可: N
+MID_SHOP_輸送隊: Convoy
+MID_SHOP_値段: Price
+MID_SHOP_限界: Max
+MID_H_SHOP_錬成_威力: Mt
+MID_H_SHOP_錬成_命中: Hit
+MID_H_SHOP_錬成_必殺: Crit
+MID_SHOP_終了確認: Exit the shop?
+MID_SHOP_アイテム名: Item
+MID_SHOP_回数: Uses
+MID_SHOP_装備: Equip
+MID_SHOP_在庫数: Stock
+MID_SHOP_売却数: Qty
+MID_SHOP_価格: Price
+MID_SHOP_売却価格: Price
+MID_SHOP_錬成可否: Forge
+MID_SHOP_確認_買う: Buy
+MID_SHOP_確認_売る: Sell
+MID_SHOP_確認_やめる: Cancel
+MID_SHOP_記号_装備中: E
+MID_SHOP_記号_装備可: Y
+MID_SHOP_記号_装備不可: N
+MID_SHOP_名前_武器屋: Armorer
+MID_SHOP_名前_行商人: Merchant
+MID_SHOP_名前_持ち物を買う: Buy Items
+MID_SHOP_錬成強化残り回数: Left
+MID_SHOP_費用: Cost
+MID_SHOP_交渉終了確認: Are you finished buying?
+MID_SHOP_MESS_入店: G'day!\nWhat can I fix you with?
+MID_SHOP_MESS_入店_行商人: Hi! Make yourself at home.\nI've got special items in today.
+MID_SHOP_MESS_錬成数最大です: Ya can't forge any more unique\nweapons. Clear a few out!
+MID_SHOP_MESS_錬成数最大です_行商人: You can't forge any more unique\nweapons. Clear some out!
+MID_SHOP_MESS_誰が買う: And who's the purchase for?
+MID_SHOP_MESS_誰が買う_行商人: Who's the purchase for?
+MID_SHOP_MESS_誰が売る: And who's doin' the sellin'?
+MID_SHOP_MESS_誰が売る_行商人: Who's doing the selling?
+MID_SHOP_MESS_誰のを錬成: Whose weapon needs forgin'?
+MID_SHOP_MESS_誰のを錬成_行商人: Whose weapon needs forging?
+MID_SHOP_MESS_何を買う: Here, take a look at our wares.
+MID_SHOP_MESS_何を買う_行商人: Here's what I've got in.
+MID_SHOP_MESS_何を買う_交渉: Here's what I have to offer.
+MID_SHOP_MESS_何を売る: What have ya got to offer?
+MID_SHOP_MESS_何を売る_行商人: What do you have to offer?
+MID_SHOP_MESS_何を鍛える: What should I take to the forge?
+MID_SHOP_MESS_何を鍛える_行商人: What should I forge for you?
+MID_SHOP_MESS_いくつ売る: How many do you wanna sell?
+MID_SHOP_MESS_いくつ売る_行商人: How many are you selling?
+MID_SHOP_MESS_購入確認: $aThat'll be $a0 gold. Sound good?
+MID_SHOP_MESS_購入確認_行商人: $aThat's $a0 gold. Sound fair?
+MID_SHOP_MESS_購入確認_交渉: $aThat will be $a0 gold.
+MID_SHOP_MESS_売却確認: $aI can give ya $a0 gold. All right?
+MID_SHOP_MESS_売却確認_行商人: $aI'll buy it off you for $a0 gold.
+MID_SHOP_MESS_錬成確認: $aThat'll be $a0 gold.
+MID_SHOP_MESS_錬成確認_行商人: $aThat's $a0 gold.
+MID_SHOP_MESS_資金不足: You seem to be short on funds.
+MID_SHOP_MESS_資金不足_行商人: Sorry! You don't have enough gold.
+MID_SHOP_MESS_資金不足_交渉: You don't have enough gold.
+MID_SHOP_MESS_錬成数最大で買えない_交渉: You've forged too many weapons.
+MID_SHOP_MESS_武器名刻む: I can inscribe a name, if you like.
+MID_SHOP_MESS_武器名刻む_行商人: Should I inscribe a name for you?
+MID_SHOP_MESS_ほかには？: Anything else?
+MID_SHOP_MESS_ほかには？_行商人: Need anything else?
+MID_SHOP_MESS_購入後: Interested in anything else?
+MID_SHOP_MESS_購入後_行商人: In the market for anything else?
+MID_SHOP_MESS_購入後_交渉: Interested in anything else?
+MID_SHOP_MESS_売却後: You got anything else for me?
+MID_SHOP_MESS_売却後_行商人: Anything else you want to sell?
+MID_SHOP_MESS_錬成内容確認: What properties should I work on?
+MID_SHOP_MESS_錬成内容確認_行商人: What properties should I work on?
+MID_SHOP_MESS_輸送隊に送る: I'll send this to your convoy, then.
+MID_SHOP_MESS_輸送隊に送る_行商人: Thanks! I'll send it to the convoy.
+MID_SHOP_MESS_また来い: Come again!
+MID_SHOP_MESS_また来い_行商人: Drop by again soon!
+MID_INPUT_ひらがな: かな
+MID_INPUT_カタカナ: カナ
+MID_INPUT_漢字: 漢字
+MID_INPUT_英数字: ABC
+MID_INPUT_一字削除: Delete
+MID_INPUT_文字未入力: Please enter at least 1 character.
+MID_INPUT_文字警告: This name contains too many\nnumerals, or words that others\nmay find offensive. It may not\nbe viewable by other users.\n\nProceed with this name?
+MID_INPUT_文字警告_錬成: This name contains numerals\nor words that others may\nfind offensive. It may not\nbe viewable by other users.\n\nProceed with this name?
+MID_INPUT_文字禁止: This contains inappropriate\nlanguage and cannot be used.\nYou can enter up to five digits.
+MID_INPUT_名前確認: This name may be sent to\nother players via StreetPass.\n\nProceed with this name?
+MID_H_INFO_ユニットアイコン: Appearance on the map.
+MID_H_INFO_レベル: Shows how seasoned a unit is\nin his or her current class.
+MID_H_INFO_経験値: Experience gained in battle.\nAt 100, the unit gains a level.
+MID_H_INFO_ＨＰ: Current/max health. The unit is\ndefeated when this reaches 0.
+MID_H_INFO_力: Strength. Affects damage the\nunit deals with physical attacks.
+MID_H_INFO_魔力: Magic. Affects damage the unit\ndeals with magical attacks.
+MID_H_INFO_技: Skill. Affects hit rate and the\nfrequency of critical hits.
+MID_H_INFO_速さ: Speed. Affects Avo. Unit strikes\ntwice if 5 higher than opponent.
+MID_H_INFO_幸運: Luck. Has various effects.\nLowers risk of enemy criticals.
+MID_H_INFO_守備: Defense. Reduces damage\nfrom physical attacks.
+MID_H_INFO_魔防: Resistance. Reduces damage\nfrom magical attacks.
+MID_H_INFO_移動: Movement. Determines how\nmany spaces a unit can move.
+MID_H_INFO_射程: Range. The unit's attack range.
+MID_H_INFO_攻撃: Attack. The power of physical\nor magical attacks.
+MID_H_INFO_命中: Hit Rate. Affects the odds\nattacks will connect.
+MID_H_INFO_必殺: Critical Rate. Affects the\nodds of getting a critical hit.
+MID_H_INFO_回避: Avoid Rate. Affects the unit's\nodds of evading attacks.
+MID_H_INFO_剣: Sword. Strong against axes.\nWeak against lances.
+MID_H_INFO_槍: Lance. Strong against swords.\nWeak against axes.
+MID_H_INFO_斧: Axe. Strong against lances.\nWeak against swords.
+MID_H_INFO_弓: Bow. Can be used to attack\ndistant enemies.
+MID_H_INFO_魔道書: Tome. Can be used to attack\nadjacent and distant enemies.
+MID_H_INFO_杖: Staff. Used primarily\nfor healing.
+MID_H_INFO_竜石: Dragonstone. Lets a manakete\nfight in dragon form.
+MID_H_INFO_獣石: Beaststone. Lets a taguel\nfight in beast form.
+MID_H_INFO_魔物: Claws. Used by monsters.
+MID_H_INFO_ボス: Breath. Grima's weapon.
+MID_H_INFO_夫: Marriage partner or\nlife companion.
+MID_H_INFO_妻: Marriage partner or\nlife companion.
+MID_H_INFO_父親: Biological father.
+MID_H_INFO_母親: Biological mother.
+MID_H_INFO_子供: Child from the future.
+MID_H_INFO_弱点: The unit is weak against\nweapons with these icons.
+MID_H_INFO_戦闘力: The sum of the\nunit's key stats.
+MID_MENU_バックアップ_記録中: Saving your progress...\nPlease do not turn the power off.
+MID_MENU_バックアップ_記録確認: Save your progress?
+MID_MENU_バックアップ_記録無し確認: Proceed without saving?
+MID_MENU_バックアップ_中断削除確認: This will permanently delete\nyour bookmark. Are you sure?
+MID_MENU_バックアップ_削除確認: Delete this save file?
+MID_MENU_バックアップ_コピー確認: Copy this save file?
+MID_MENU_バックアップ_消去中: Deleting the save file...\nPlease do not turn the power off.
+MID_MENU_バックアップ_中断消去中: Deleting the bookmark...\nPlease do not turn the power off.
+MID_戦績_MVPなし: None
+MID_戦績_MVPコネクト: &
+MID_NETWORK_通信: Wireless
+MID_NETWORK_マイチーム: StreetPass Team
+MID_H_NETWORK_マイチーム: Set up a team to send via StreetPass.
+MID_NETWORK_受信ボックス: Bonus Box
+MID_H_NETWORK_受信ボックス: Receive bonus data delivered via SpotPass.
+MID_NETWORK_デュアルタッグ: Double Duel
+MID_H_NETWORK_デュアルタッグ: Fight alongside your friends' units.
+MID_NETWORK_マイユニ名鑑: Avatar Logbook
+MID_H_NETWORK_マイユニ名鑑: Hire units won via StreetPass or elsewhere.
+MID_NETWORK_通信設定: SpotPass
+MID_H_NETWORK_通信設定: Turn SpotPass on or off.
+MID_NETWORK_マイチーム_選択不可: Your avatar is not equipped with a weapon\nand cannot be registered to your team.\nPlease check your avatar's equipment.
+MID_NETWORK_デュアルタッグ_選択不可: You cannot access Double Duel because\nnone of your units are equipped with weapons.\nPlease check your units' equipment.
+MID_マイユニ名鑑_仲間にする: Recruit
+MID_H_マイユニ名鑑_仲間にする: Spend gold to hire this unit.
+MID_マイユニ名鑑_カード閲覧: View Card
+MID_H_マイユニ名鑑_カード閲覧: View this unit's profile card.
+MID_マイユニ名鑑_上書き: Update
+MID_H_マイユニ名鑑_上書き: Update this unit's stats in the logbook.
+MID_マイユニ名鑑_ロック: Lock
+MID_H_マイユニ名鑑_ロック: Keep this unit from being erased from the list.
+MID_マイユニ名鑑_ロック解除: Unlock
+MID_H_マイユニ名鑑_ロック解除: Unlock this unit.
+MID_DUAL_ガイド: In Double Duel, your units fight with\nequipped weapons. Use the Inventory\nmenu to prepare units in advance.\nNote: It is recommended that you save\nbefore and after using Double Duel.
+MID_DUAL_部屋選択: Select or create a battle room.
+MID_DUAL_部屋なし: ―――――
+MID_DUAL_新規部屋: Create a Room
+MID_DUAL_部屋更新: Refresh
+MID_DUAL_プレイヤー確定待ち: Waiting for another player...
+MID_DUAL_プレイヤー1: Player 1
+MID_DUAL_プレイヤー2: Player 2
+MID_DUAL_敵選択: Select a challenger to fight.
+MID_DUAL_敵軍名: Name
+MID_DUAL_強さ: Stats
+MID_DUAL_討伐回数: Wins
+MID_DUAL_最短記録: Record
+MID_DUAL_回: 
+MID_DUAL_ターン: Turn
+MID_DUAL_ターン記録なし: ――
+MID_DUAL_敵お宝: Treasures:
+MID_DUAL_など: , etc.
+MID_DUAL_敵決定待ち: Selecting a challenger...
+MID_DUAL_敵決定報告: Challenger selected.
+MID_DUAL_戦闘開始: Fight!
+MID_H_DUAL_出撃人数: $aYou can select $a0 more.
+MID_DUAL_ユニット選択不可: You must choose units carrying usable weapons.
+MID_DUAL_ユニット確認: Use this team?
+MID_DUAL_相手ユニット決定待ち: Your partner is selecting a team...
+MID_DUAL_相手待ち: Waiting for partner...
+MID_DUAL_戦闘ユニット選択: Select a unit to do battle.
+MID_DUAL_サポートユニット選択: Select a unit to provide support.
+MID_DUAL_リタイア: Yield
+MID_DUAL_リタイア確認: Ready to give up?
+MID_DUAL_ユニット交替説明: Complete your turn before the gauge runs out.
+MID_DUAL_戦闘不能: KO
+MID_DUAL_相手戦闘ユニット決定待ち: Your partner is selecting a unit...
+MID_DUAL_相手決定待ち: Waiting for partner confirmation...
+MID_DUAL_続行確認1: Continue and face this enemy?
+MID_DUAL_続行確認2: If you select "No," you will yield\nand the battle will end.
+MID_DUAL_リトライ確認: Continue?
+MID_DUAL_通信初期化中: Preparing...
+MID_DUAL_部屋検索中: Searching for rooms...
+MID_DUAL_部屋作成中: Creating a room...
+MID_DUAL_部屋接続中: Connecting to the\nselected room...
+MID_DUAL_通信終了: Disconnecting...
+MID_DUAL_相手消失: Your partner has left.
+MID_DUAL_通信エラー: The connection was interrupted.
+MID_DUAL_通信モードがOFF: Please push the wireless\nswitch to enable wireless\ncommunication.
+MID_DUAL_★０１: Kellam's Kettles
+MID_DUAL_★０２: Cherche's Fliers
+MID_DUAL_★０３: Maribelle's Mercy
+MID_DUAL_★０４: Frederick's Loyal
+MID_DUAL_★０５: Sumia's Fliers
+MID_DUAL_★０６: Cordelia's Pride
+MID_DUAL_★０７: Sully's Riders
+MID_DUAL_★０８: Panne's Patrol
+MID_DUAL_★０９: Nowi's Wyverns
+MID_DUAL_★１０: Virion's Archest
+MID_DUAL_★１１: Lon'qu's Blades
+MID_DUAL_★１２: Stahl's Horsemen
+MID_DUAL_★１３: Vaike's Victory
+MID_DUAL_★１４: Basilio's Brashest
+MID_DUAL_★１５: Ricken's Chosen
+MID_DUAL_★１６: Henry's Spellslingers
+MID_DUAL_★１７: Gaius's Sneak Attack
+MID_DUAL_★１８: Tharja's Curse
+MID_DUAL_★１９: Gregor's Swell Swords
+MID_DUAL_★２０: Say'ri's Ascension
+MID_DUAL_★２１: Tiki's Wyverns
+MID_DUAL_★２２: Army of Shadow
+MID_NETCONFIG_いつの間に: SpotPass
+MID_NETCONFIG_すれちがい: StreetPass
+MID_NETCONFIG_データ受信: Update Now
+MID_NETCONFIG_オン: On
+MID_NETCONFIG_オフ: Off
+MID_NETCONFIG_受信: Update Now
+MID_H_NETCONFIG_いつの間に_オン: Turn SpotPass on.
+MID_H_NETCONFIG_いつの間に_オフ: Turn SpotPass off.
+MID_H_NETCONFIG_すれちがい_オン: Turn StreetPass on.
+MID_H_NETCONFIG_すれちがい_オフ: Turn StreetPass off.
+MID_H_NETCONFIG_受信: Check for any new downloadable bonuses.
+MID_NETCONFIG_いつの間に_オン_確認: Turn SpotPass on?
+MID_NETCONFIG_いつの間に_オフ_確認: Turn SpotPass off?
+MID_NETCONFIG_すれちがい_オン_確認: Turn StreetPass on?
+MID_NETCONFIG_すれちがい_オフ_確認: Turn StreetPass off?
+MID_NETCONFIG_受信_確認: Check for bonuses now?
+MID_MYTEAM_選択: Select Units
+MID_MYTEAM_編集: Edit Messages
+MID_MYTEAM_出撃: Sortie
+MID_MYTEAM_確認: View Team
+MID_MYTEAM_同期: Your team has been updated\nbecause one of the units you\nselected can no longer fight.
+MID_MYTEAM_抜け: If you leave the menu now,\nchanges to your team will be\nlost. Are you sure?
+MID_H_MYTEAM_選択: Select up to 10 units to send via StreetPass.
+MID_H_MYTEAM_編集: Edit the name and messages other players see.
+MID_H_MYTEAM_出撃: Use StreetPass to send out the team below.
+MID_H_MYTEAM_確認: View the team you are sending via StreetPass.
+MID_MYTEAM_選択_不可: You must choose units carrying usable weapons.
+MID_MYTEAM_選択_確認: Use this team?
+MID_H_MYTEAM_選択_人数: $aYou can select $a0 more.
+MID_MYTEAM_編集_説明: Select an option\nfrom the list to\nmake changes.
+MID_MYTEAM_編集_相手イメージ: How players will see your data.
+MID_MYTEAM_編集_あいさつ: Greeting
+MID_MYTEAM_編集_戦闘: Challenge
+MID_MYTEAM_編集_仲間: Recruitment
+MID_MYTEAM_編集_カード: Edit Card
+MID_MYTEAM_編集_軍の名前: Team Name
+MID_H_MYTEAM_編集_あいさつ: Displays when you first meet other players.
+MID_H_MYTEAM_編集_戦闘: Displays when players challenge you to a fight.
+MID_H_MYTEAM_編集_仲間: Displays when players recruit your leader.
+MID_H_MYTEAM_編集_カード: Edit your profile card.
+MID_H_MYTEAM_編集_軍の名前: Choose a name for your team.
+MID_H_MYTEAM_編集_決定: Confirm your changes.
+MID_RECVBOX_すれちがいチーム: StreetPass Teams
+MID_RECVBOX_配信チーム: Bonus Teams
+MID_RECVBOX_配信アイテム: Bonus Items
+MID_RECVBOX_配信マップ: Bonus Maps
+MID_RECVBOX_配信デュアル: Bonus Challengers
+MID_RECVBOX_名声ボーナス: Renown Awards
+MID_H_RECVBOX_すれちがいチーム: Receive StreetPass teams.
+MID_H_RECVBOX_配信チーム: Summon bonus teams onto the World Map.
+MID_H_RECVBOX_配信アイテム: Claim bonus items you have received.
+MID_H_RECVBOX_配信マップ: Unlock bonus maps you have received.
+MID_H_RECVBOX_配信デュアル: Unlock bonus Double Duel challengers.
+MID_H_RECVBOX_名声ボーナス: Receive awards for your Renown.
+MID_H_RECVBOX_チーム_選択: Summon the phantoms of legendary heroes.
+MID_H_RECVBOX_配信マップ_選択: Add these new paralogues to the World Map.
+MID_H_RECVBOX_配信デュアル_選択: Add these challengers to Double Duel.
+MID_RECVBOX_名声ボーナス_アイテム名: Item
+MID_RECVBOX_名声ボーナス_必要名声値: Renown
+MID_RECVBOX_チーム_確認: Summon this team to your world?
+MID_RECVBOX_アイテム_追加: $aYou got $a0.\n(Sent to the convoy.)
+MID_RECVBOX_アイテム_取得済み: Item already received.
+MID_RECVBOX_マップ_確認: $aAdd "$a0"\nto the World Map?
+MID_RECVBOX_マップ_取得済み: Map already unlocked.
+MID_RECVBOX_マップ_取得: New map acquired.
+MID_RECVBOX_デュアル_追加: $aUnlocked $a0.
+MID_RECVBOX_デュアル_取得済み: Challenger already unlocked.
+MID_RECVBOX_すれちがいチーム_なし: No StreetPass teams available.
+MID_RECVBOX_配信チーム_なし: No bonus teams available.
+MID_RECVBOX_配信アイテム_なし: No bonus items available.
+MID_RECVBOX_配信マップ_なし: No bonus maps available.
+MID_RECVBOX_配信デュアル_なし: No bonus challengers available.
+MID_RECVBOX_チーム_追加_空きなし: No slots available.
+MID_RECVBOX_チーム_追加_同一: That team is already on the map.
+MID_RECVBOX_チーム_追加_オーバー: Team limit reached.
+MID_DLC_コンテンツ選択: Mainkan Peta
+MID_H_DLC_コンテンツ選択: Pilih peta yang ingin dimainkan.
+MID_DLC_コンテンツ選択確認: Mainkan peta ini?
+MID_DLC_コンテンツ購入: Beli Peta
+MID_DLC_終了: keluar
+MID_DLC_店員: Anna
+MID_DLC_あいさつ: Selamat datang di Gerbang Dunia Luar.\nIngin mengunjungi dunia lain?
+MID_DLC_ガイド: Gunakan Gerbang Dunia Luar\nuntuk membeli dan main\ndownloadable maps.
+MID_DLC_異伝: Xen.
+MID_DLC_章: 
+MID_DLC_マップ: Map
+MID_DLC_最短記録: Record
+MID_DLC_ターン: Turns:
+MID_DLC_ターン記録なし: ――
+MID_DLC_ダウンロード: DLC
+MID_所属_無し: None
+MID_所属_暗黒竜: Shadow Dragon
+MID_所属_外伝: Gaiden (JP)
+MID_所属_紋章: Mystery of the Emblem (JP)
+MID_所属_聖戦(親): Genealogy / Holy War: G1 (JP)
+MID_所属_聖戦(子): Genealogy / Holy War: G2 (JP)
+MID_所属_トラキア: Thracia 776 (JP)
+MID_所属_封印: Binding Blade (JP)
+MID_所属_烈火: Fire Emblem
+MID_所属_聖魔: Sacred Stones
+MID_所属_蒼炎: Path of Radiance
+MID_所属_暁: Radiant Dawn
+MID_所属_他: Other
+MID_クリア_回想: The Theater, Unit Gallery, and\nSupport Log have been unlocked\nin the Extras Menu.
+MID_クリア_曲選択: "Champion" has been added to the\nSoundtrack option for Challenges.
+MID_クリア_ルナ＋: Lunatic+ difficulty unlocked.
+MID_クリア_名鑑: Your avatar has been added to\nthe Avatar Logbook. You can now\nuse this avatar in other save files.
+MID_クリア_名声: Your Renown upon clearing the\ngame can be carried over into a\nNew Game. (If you have cleared\nthe game more than once, the\nhighest value will be used.)
+MID_Movie_Skip: Skip
+MID_エクストラ_ボイス: Bahasa Suara
+MID_H_エクストラ_ボイス: Switch between Japanese and English voices.
+MID_VOSEL_J2E: Suara saat ini disetel ke Jepang.\nUbah suara ke Inggris?
+MID_VOSEL_E2J: Suara saat ini disetel ke Inggris.\nUbah suara ke Jepang?

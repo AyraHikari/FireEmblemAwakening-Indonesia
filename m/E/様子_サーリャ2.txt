@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_サーリャ2
+
+
+Message Name: Message
+
+
+MID_様子_サーリャ_前: I've devised a hex to make dreams come\ntrue. Tell me your desires and hold still...
+MID_様子_サーリャ_前_無言: NOT USED
+MID_様子_サーリャ_前_特殊: $Np, you always study so hard.\nDo you have some secret goal? A dream?
+MID_様子_サーリャ_後: Dreaming is dull. Who wants to walk around\nwith sparkles in their eyes? Not me.
+MID_様子_サーリャ_後_特殊: You want to know? You care, don't you?!\nI dream that you'll... Gah! I can't say it!
+MID_様子_サーリャ_後_無言: NOT USED
+MID_様子_サーリャ_前_親子_子: $Np, can I practice on you?\n...I mean, practice WITH you?
+MID_様子_サーリャ_後_親子_子: Bold words. But don't say I didn't warn\nyou if you start barking like a dog.
+MID_様子_サーリャ_前_恋人: I love you, $Np. And if you cheat\non me, the consequences will be dire.
+MID_様子_サーリャ_後_恋人: I feel the same. ...Haven't we been over\nthis?

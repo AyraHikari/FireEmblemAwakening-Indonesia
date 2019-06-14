@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_レンハ1
+
+
+Message Name: Message
+
+
+MID_様子_レンハ_前_通殿: 'Tis good to see you in high spirits, friend.\nHave you been trusted with a secret?
+MID_様子_レンハ_前: 'Tis good to see you in high spirits, friend.\nHave you been trusted with a secret?
+MID_様子_レンハ_前_特殊: That is a lovely smile you wear, Say'ri. Does\nit please you to fight alongside me again?
+MID_様子_レンハ_後_通殿: Nay. But today's meditation has cleared\nmy mind of all negative thoughts.
+MID_様子_レンハ_後_特殊: Joining this army has lifted the burden from\nmy heart. ...As has my reunion with you.
+MID_様子_レンハ_後_無言: NOT USED
+MID_様子_レンハ_前_親子_子: Morgan, allow me to provide for you.\nName any object that you desire.
+MID_様子_レンハ_後_親子_子: Nay, you are no burden to me.\nYou are my precious son.
+MID_様子_レンハ_前_恋人: $Np, something is poking\nout of your satchel. Might I see it?
+MID_様子_レンハ_後_恋人: 'Tis a special vulnerary capable of healing\nany wound. I was saving it for you...

@@ -1,0 +1,32 @@
+MESS_ARCHIVE_様子_プレイヤー男1
+
+
+Message Name: Message
+
+
+MID_様子_プレイヤー男_前_PCM1: You seem to be in a good mood.\nDid someone tell a funny joke?
+MID_様子_プレイヤー男_前_敬さん_PCM1: You seem to be in a good mood.\nDid someone tell a funny joke?
+MID_様子_プレイヤー男_前_敬様_PCM1: You seem to be in a good mood.\nDid someone tell a funny joke?
+MID_様子_プレイヤー男_後_PCM1: Huh? No, I was just thinking about some\ncrafty tactics you and I could use in battle.
+MID_様子_プレイヤー男_後_敬さん_PCM1: Huh? No, I was just thinking about some\ncrafty tactics you and I could use in battle.
+MID_様子_プレイヤー男_後_敬様_PCM1: Huh? No, I was just thinking about some\ncrafty tactics you and I could use in battle.
+MID_様子_プレイヤー男_前_親子_子_PCM1: $Np, is there anything you need?\nWhy not let your father get it for you?
+MID_様子_プレイヤー男_後_親子_子_PCM1: Thank you. That's kind of you. How about\na book detailing battle strategies?
+MID_様子_プレイヤー男_前_恋人_PCM1: $Np, what's that sticking\nout of your pocket?
+MID_様子_プレイヤー男_後_恋人_PCM1: Oh no! You saw it? ...Well, it's a gift.\nI was hoping to surprise you.
+MID_様子_プレイヤー男_前_PCM2: 
+MID_様子_プレイヤー男_前_敬さん_PCM2: 
+MID_様子_プレイヤー男_前_敬様_PCM2: 
+MID_様子_プレイヤー男_後_PCM2: 
+MID_様子_プレイヤー男_後_敬さん_PCM2: 
+MID_様子_プレイヤー男_後_敬様_PCM2: 
+MID_様子_プレイヤー男_前_親子_子_PCM2: 
+MID_様子_プレイヤー男_後_親子_子_PCM2: 
+MID_様子_プレイヤー男_前_恋人_PCM2: 
+MID_様子_プレイヤー男_後_恋人_PCM2: 
+MID_様子_プレイヤー男_前_PCM3: 
+MID_様子_プレイヤー男_後_PCM3: 
+MID_様子_プレイヤー男_前_親子_子_PCM3: 
+MID_様子_プレイヤー男_後_親子_子_PCM3: 
+MID_様子_プレイヤー男_前_恋人_PCM3: 
+MID_様子_プレイヤー男_後_恋人_PCM3: 

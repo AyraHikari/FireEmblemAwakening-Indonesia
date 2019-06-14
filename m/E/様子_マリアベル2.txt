@@ -1,0 +1,18 @@
+MESS_ARCHIVE_様子_マリアベル2
+
+
+Message Name: Message
+
+
+MID_様子_マリアベル_前: If you don't mind sharing, what do you\ndream of doing with your life?
+MID_様子_マリアベル_前_無言: NOT USED
+MID_様子_マリアベル_前_敬さん: If you don't mind sharing, what do you\ndream of doing with your life?
+MID_様子_マリアベル_前_敬様: If you don't mind sharing, what do you\ndream of doing with your life?
+MID_様子_マリアベル_後: I want to be a big, hairy barbarian!\n...Ugh, laugh, would you? It's a joke.
+MID_様子_マリアベル_後_敬さん: I want to be a big, hairy barbarian!\n...Ugh, laugh, would you? It's a joke.
+MID_様子_マリアベル_後_敬様: I want to be a big, hairy barbarian!\n...Ugh, laugh, would you? It's a joke.
+MID_様子_マリアベル_後_無言: NOT USED
+MID_様子_マリアベル_前_親子_子: Shall we train together, $Np?\n...Moms are tough. Haven't you heard?
+MID_様子_マリアベル_後_親子_子: Very well. I accept your challenge.\nBut don't come crying to me if you lose.
+MID_様子_マリアベル_前_恋人: I love you, $Np.\nWe belong together always.
+MID_様子_マリアベル_後_恋人: M-must you say such mortifying things?\nI...love you, too. There! Conversation over!

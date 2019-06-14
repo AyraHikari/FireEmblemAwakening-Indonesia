@@ -1,0 +1,22 @@
+MESS_ARCHIVE_様子_セレナ2
+
+
+Message Name: Message
+
+
+MID_様子_セレナ_前: I hear people with dreams have more luck\nwith their love lives. What are your dreams?
+MID_様子_セレナ_前_無言: NOT USED
+MID_様子_セレナ_前_通さん: I hear people with dreams have more luck\nwith their love lives. What are your dreams?
+MID_様子_セレナ_前_特殊: I hear people with dreams have more luck\nwith their love lives. What are your dreams?
+MID_様子_セレナ_後: I dream of being perfect like my mother.\n...But don't you dare tell anyone!
+MID_様子_セレナ_後_通さん: I dream of being perfect like my mother.\n...But don't you dare tell anyone!
+MID_様子_セレナ_後_特殊: I dream of being perfect like my mother.\n...But don't you dare tell anyone!
+MID_様子_セレナ_後_無言: NOT USED
+MID_様子_セレナ_前_親子_子: Morgan, let's see who can eat the most\npie. ...What? I'm feeling hungry.
+MID_様子_セレナ_後_親子_子: You really get into it, huh? How about we\nskip the training and go shopping instead?
+MID_様子_セレナ_前_親子_母: Mother, since you have so many suitors,\nwant to see which of us gets more men?
+MID_様子_セレナ_後_親子_母: What? Sure, I'll accept your challenge...if\nyou'll tell me how I can finally surpass you!
+MID_様子_セレナ_前_親子_父: Father, let's have a quick match! I'm a\npretty tough opponent when I mean to be.
+MID_様子_セレナ_後_親子_父: You want to beat on your own daughter?\nHmph. Bruise me and I'll never forgive you.
+MID_様子_セレナ_前_恋人: I love you, $Np.\nJust in case I haven't mentioned it.
+MID_様子_セレナ_後_恋人: I love you, too. And if you cheat on me,\nI'll rip your eyebrows off with pliers.

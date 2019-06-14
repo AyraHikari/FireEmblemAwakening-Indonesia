@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_アンナ3
+
+
+Message Name: Message
+
+
+MID_様子_アンナ_前: Hey, what do you do in your spare time?\n...Shop, I hope?
+MID_様子_アンナ_前_通さん: Hey, what do you do in your spare time?\n...Shop, I hope?
+MID_様子_アンナ_後: Me? I do inventory. Want to watch?\nI'm a whiz at counting vulneraries.
+MID_様子_アンナ_後_通さん: Me? I do inventory. Want to watch?\nI'm a whiz at counting vulneraries.
+MID_様子_アンナ_後_無言: NOT USED
+MID_様子_アンナ_前_親子_子: Hey, are you okay? You were up all\nnight reading.
+MID_様子_アンナ_後_親子_子: Really? Don't worry about me. I feel fine!\nNever better, in fact.
+MID_様子_アンナ_前_恋人: Hey, handsome! You're nicer to look at\nwith each passing day, you know that?
+MID_様子_アンナ_後_恋人: Ha ha! Thanks, that's sweet. You're looking\npretty studly yourself today!

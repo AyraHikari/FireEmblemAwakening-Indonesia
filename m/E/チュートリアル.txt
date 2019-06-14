@@ -1,0 +1,164 @@
+MESS_ARCHIVE_チュートリアル
+
+
+Message Name: Message
+
+
+MTUTID_システムメニュー: 1. System Menu
+MTUTID_H_システムメニュー: View slides about the selected topic.
+MTUTID_H_システムメニュー_00: To open the System Menu,\nmove the cursor to an empty\nspace and press the A Button.
+MTUTID_H_システムメニュー_01: Choose "Bookmark" to take\na break from the game or\n"Guide" to view these slides.
+MTUTID_システムメニュー_かんたん: 1. System Menu
+MTUTID_H_システムメニュー_かんたん: View slides about the selected topic.
+MTUTID_H_システムメニュー_かんたん_00: To open the System Menu,\nmove the cursor to an empty\nspace and press the A Button.
+MTUTID_H_システムメニュー_かんたん_01: Choose "Save" to record\nyour progress or "Guide" to\nview these slides.
+MTUTID_移動: 2. Moving Units
+MTUTID_H_移動: View slides about the selected topic.
+MTUTID_H_移動_00: Move the cursor onto a unit\nand press the A Button.
+MTUTID_H_移動_01: Next, select a destination\nfrom among the blue spaces\nand press the A Button again.
+MTUTID_H_移動_02: The unit will move to this\ndestination.
+MTUTID_ユニットコマンド: 3. Commanding Units
+MTUTID_H_ユニットコマンド: View slides about the selected topic.
+MTUTID_H_ユニットコマンド_00: After you move a unit, a menu\nof commands will appear.
+MTUTID_H_ユニットコマンド_01: Choose "Wait" if the unit will\nperform no further actions.
+MTUTID_H_ユニットコマンド_02: You can also press the\nB Button to cancel.
+MTUTID_行動の交代: 4. Switching Phases
+MTUTID_H_行動の交代: View slides about the selected topic.
+MTUTID_H_行動の交代_00: You and the enemy will\ntake turns commanding\nyour forces.
+MTUTID_H_行動の交代_01: Once all of your units have\ntaken action, the enemy phase\nwill begin automatically.
+MTUTID_H_行動の交代_02: You can also manually end\nyour phase by selecting "End"\nfrom the System Menu.
+MTUTID_戦闘: 5. Combat
+MTUTID_H_戦闘: View slides about the selected topic.
+MTUTID_H_戦闘_00: Select one of your units and\npress the A Button.
+MTUTID_H_戦闘_01: Next, choose an enemy within\nrange (the red spaces) and\npress the A Button.
+MTUTID_H_戦闘_02: Press the A Button again to\nlock in your choice and attack\nthe enemy.
+MTUTID_戦闘（間接）: 6. Combat (Bows)
+MTUTID_H_戦闘（間接）: View slides about the selected topic.
+MTUTID_H_戦闘（間接）_00: Bows require you to attack\nfrom two spaces away.
+MTUTID_H_戦闘（間接）_01: With a bow, you will not\nbe able to counter\nadjacent enemy attacks.
+MTUTID_戦闘（魔法）: 7. Combat (Tomes)
+MTUTID_H_戦闘（魔法）: View slides about the selected topic.
+MTUTID_H_戦闘（魔法）_00: Tomes allow you to attack\nenemies with magic from two\nspaces away.
+MTUTID_H_戦闘（魔法）_01: You can use magic against\nadjacent enemies as well.
+MTUTID_回復: 14. Healing
+MTUTID_H_回復: View slides about the selected topic.
+MTUTID_H_回復_00: To have units heal themselves,\nchoose "Items," select an item\nlike a vulnerary, and "Use" it.
+MTUTID_H_回復_01: Units with staves can heal\nallies within range (blue/green\nspaces). Choose "Staff"...
+MTUTID_H_回復_02: select a unit to heal, and then\npress the A Button again to\nlock in your choice.
+MTUTID_サポートユニット: 17. Support Actions
+MTUTID_H_サポートユニット: View slides about the selected topic.
+MTUTID_H_サポートユニット_00: When you place two units in\nadjacent spaces, they will\nsupport each other in battle.
+MTUTID_H_サポートユニット_01: Not only will this boost your\nunits' stats...
+MTUTID_H_サポートユニット_02: but a second unit may also\nblock enemy attacks or strike\nadditional blows for you.
+MTUTID_地形: 12. Terrain
+MTUTID_H_地形: View slides about the selected topic.
+MTUTID_H_地形_00: Some terrain, like forests and\nmountains, will boost a unit's\ndefense and ability to evade.
+MTUTID_H_地形_01: Forts and thrones will even\nheal units at the start of\neach turn.
+MTUTID_H_地形_02: Some classes cannot move\nthrough certain types of\nterrain.
+MTUTID_武器の相性: 10. Weapon Triangle
+MTUTID_H_武器の相性: View slides about the selected topic.
+MTUTID_H_武器の相性_00: Each weapon type has a\nstrength and weakness.\nSwords beat axes...
+MTUTID_H_武器の相性_01: axes beat lances...
+MTUTID_H_武器の相性_02: and lances beat swords.
+MTUTID_持ち物の交換: 15. Trading Items
+MTUTID_H_持ち物の交換: View slides about the selected topic.
+MTUTID_H_持ち物の交換_00: Move next to an ally...
+MTUTID_H_持ち物の交換_01: and select "Trade."
+MTUTID_H_持ち物の交換_02: Then choose the item or\nitems you want to exchange.
+MTUTID_戦闘予測: 8. Combat Forecast
+MTUTID_H_戦闘予測: View slides about the selected topic.
+MTUTID_H_戦闘予測_00: Before you launch an attack,\nan on-screen forecast tells\nyou how it might play out.
+MTUTID_H_戦闘予測_01: Press the X/Y Buttons to\neasily cycle through weapons\nin the unit's possession.
+MTUTID_H_戦闘予測_02: Note how the forecast\nchanges. Who has the upper\nhand? Can you strike twice?
+MTUTID_戦闘予測_かんたん: 8. Combat Forecast
+MTUTID_H_戦闘予測_かんたん: View slides about the selected topic.
+MTUTID_H_戦闘予測_かんたん_00: Before you launch an attack,\nan on-screen forecast tells\nyou how it might play out.
+MTUTID_H_戦闘予測_かんたん_01: Press the X/Y Buttons to\neasily cycle through weapons\nin the unit's possession.
+MTUTID_H_戦闘予測_かんたん_02: Note how the forecast\nchanges. Who has the upper\nhand? Can you strike twice?
+MTUTID_持ち物の落下: 16. Item Drops
+MTUTID_H_持ち物の落下: View slides about the selected topic.
+MTUTID_H_持ち物の落下_00: Items shown in green text in\nan enemy's inventory...
+MTUTID_H_持ち物の落下_01: will become yours if you can\ndefeat that enemy.
+MTUTID_特効: 11. Bonus Damage
+MTUTID_H_特効: View slides about the selected topic.
+MTUTID_H_特効_00: Bows are lethal to pegasus\nknights. This effect is known\nas "bonus damage."
+MTUTID_H_特効_01: Many weapons cause bonus\ndamage against certain units,\nwhich can help or harm you.
+MTUTID_H_特効_02: The icons next to each\nweapon name on the Touch\nScreen will keep you apprised.
+MTUTID_共闘: 18. Pairing Up
+MTUTID_H_共闘: View slides about the selected topic.
+MTUTID_H_共闘_00: Move next to an ally...
+MTUTID_H_共闘_01: and select "Pair Up" to move\ninto that unit's protection.
+MTUTID_H_共闘_02: The lead unit receives a stat\nboost. Choose "Switch" to\nhave the units change roles.
+MTUTID_カギ: 20. Locks
+MTUTID_H_カギ: View slides about the selected topic.
+MTUTID_H_カギ_00: Keys are specialized.\nTo unlock a door, you need\na door key.
+MTUTID_H_カギ_01: To open a locked chest, you\nneed a chest key.
+MTUTID_H_カギ_02: However, some classes, like\nthieves, don't need keys to\nopen doors and chests.
+MTUTID_おまかせボタン: 28. Auto-battle
+MTUTID_H_おまかせボタン: View slides about the selected topic.
+MTUTID_H_おまかせボタン_00: Move to an empty space and\npress the A Button to open\nthe System Menu.
+MTUTID_H_おまかせボタン_01: Highlight "Auto" and press the\nX Button for a list of tactics.\nChoose with the A Button...
+MTUTID_H_おまかせボタン_02: and press the B Button to\nclose the list. To begin auto-\nbattle, press the A Button.
+MTUTID_おまかせボタン_かんたん: 28. Auto-battle
+MTUTID_H_おまかせボタン_かんたん: View slides about the selected topic.
+MTUTID_H_おまかせボタン_かんたん_00: Move to an empty space and\npress the A Button to open\nthe System Menu.
+MTUTID_H_おまかせボタン_かんたん_01: Select "Auto" to begin auto-\nbattle.
+MTUTID_H_おまかせボタン_かんたん_02: You can cancel an auto-battle\nin progress by pressing the\nX Button.
+MTUTID_全体危険範囲: 27. Danger Area
+MTUTID_H_全体危険範囲: View slides about the selected topic.
+MTUTID_H_全体危険範囲_00: Select an enemy and press\nthe A Button to view that\nenemy's range of action.
+MTUTID_H_全体危険範囲_01: You can also press the\nX Button to toggle the danger\narea of all foes at once.
+MTUTID_支援: 22. Support
+MTUTID_H_支援: View slides about the selected topic.
+MTUTID_H_支援_00: "Support" refers to the\npersonal relationships\nbetween your units.
+MTUTID_H_支援_01: As units grow more attached,\nthey will fight better when next\nto each other or paired up.
+MTUTID_H_支援_02: Choose "Support" to have\nunits converse and increase\ntheir support levels.
+MTUTID_進撃: 21. Preparations
+MTUTID_H_進撃: View slides about the selected topic.
+MTUTID_H_進撃_00: Use "Select Units" to decide\nwho will take the field.
+MTUTID_H_進撃_01: Choose "Inventory" to\nmanage weapons and items.
+MTUTID_H_進撃_02: Once your preparations are\ncomplete, choose "Fight"\nto begin the battle.
+MTUTID_増援: 24. Reinforcements
+MTUTID_H_増援: View slides about the selected topic.
+MTUTID_H_増援_00: Sometimes, additional\nenemies will take the field in\nthe middle of a battle.
+MTUTID_H_増援_01: You can block their entry by\nplacing allied units on spaces\nwhere they will appear.
+MTUTID_ユニットのロスト: 13. Losing Units
+MTUTID_H_ユニットのロスト: View slides about the selected topic.
+MTUTID_H_ユニットのロスト_00: If a unit's HP drops to zero,\nthat unit will no longer be\nable to fight.
+MTUTID_H_ユニットのロスト_01: Fallen units are lost forever\nin Classic Mode and for the\nduration of battle in Casual.
+MTUTID_H_ユニットのロスト_02: If either Chrom or\n$Nu falls in battle,\nit's game over. Be careful!
+MTUTID_村: 23. Villages
+MTUTID_H_村: View slides about the selected topic.
+MTUTID_H_村_00: Move to a village entrance...
+MTUTID_H_村_01: and select "Visit."
+MTUTID_H_村_02: The villagers there will give\nyou items and advice, and you\nmay even gain new allies.
+MTUTID_上級クラスチェンジ: 25. Class Change
+MTUTID_H_上級クラスチェンジ: View slides about the selected topic.
+MTUTID_H_上級クラスチェンジ_00: A base class that has\nreached level 10 can use a\nMaster Seal...
+MTUTID_H_上級クラスチェンジ_01: to change to a more\nadvanced class.
+MTUTID_H_上級クラスチェンジ_02: Class changes provide stat\ngrowth and allow your units\nto wield new weapons.
+MTUTID_二次クラスチェンジ: 26. Reclassing
+MTUTID_H_二次クラスチェンジ: View slides about the selected topic.
+MTUTID_H_二次クラスチェンジ_00: A base class at level 10\n(or an advanced class) can\nuse a Second Seal...
+MTUTID_H_二次クラスチェンジ_01: to change to a different class\nentirely.
+MTUTID_H_二次クラスチェンジ_02: This lets you try various other\nclasses while keeping all the\nunit's skills intact.
+MTUTID_踊る: 19. Dancing
+MTUTID_H_踊る: View slides about the selected topic.
+MTUTID_H_踊る_00: Dancers allow a unit to act\ntwice in a single turn.
+MTUTID_H_踊る_01: Move next to a unit who has\nalready completed his or her\naction for this turn...
+MTUTID_H_踊る_02: and then select "Dance."
+MTUTID_タッチヘルプ: 9. Help at a Touch
+MTUTID_H_タッチヘルプ: View slides about the selected topic.
+MTUTID_H_タッチヘルプ_00: You can use the Touch Screen\nto call up all kinds of useful\ninformation.
+MTUTID_H_タッチヘルプ_01: Touch your stats, weapons,\nand skills to find out what\nthey do.
+MTUTID_H_タッチヘルプ_02: The buttons on the right let\nyou toggle between multiple\nviews.
+MTUTID_タッチヘルプ_かんたん: 9. Help at a Touch
+MTUTID_H_タッチヘルプ_かんたん: View slides about the selected topic.
+MTUTID_H_タッチヘルプ_かんたん_00: You can use the Touch Screen\nto call up all kinds of useful\ninformation.
+MTUTID_H_タッチヘルプ_かんたん_01: Touch your stats, weapons,\nand skills to find out what\nthey do.
+MTUTID_H_タッチヘルプ_かんたん_02: The buttons on the right let\nyou toggle between multiple\nviews.
+MID_メニュー紹介_身支度: Preparations Menu unlocked.
+MID_メニュー紹介_支援会話: Support conversations unlocked.
+MID_メニュー紹介_通信: Wireless features unlocked.
+MID_メニュー紹介_マイルーム: Barracks unlocked.
+MID_メニュー紹介_異界の門: The Outrealm Gate has opened\non an island to the south.

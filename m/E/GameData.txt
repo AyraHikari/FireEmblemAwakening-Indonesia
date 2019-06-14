@@ -1,0 +1,1322 @@
+MESS_ARCHIVE_GameData
+
+
+Message Name: Message
+
+
+MPID_名前最大: WWWWWWWW
+MPID_デフォルト名: Robin
+MPID_プレイヤー: Player
+MPID_クロム: Chrom
+MPID_リズ: Lissa
+MPID_フレデリク: Frederick
+MPID_ヴィオール: Virion
+MPID_ソワレ: Sully
+MPID_ヴェイク: Vaike
+MPID_ソール: Stahl
+MPID_ミリエル: Miriel
+MPID_カラム: Kellam
+MPID_スミア: Sumia
+MPID_ロンクー: Lon'qu
+MPID_リヒト: Ricken
+MPID_マリアベル: Maribelle
+MPID_リベラ: Libra
+MPID_ベルベット: Panne
+MPID_ガイア: Gaius
+MPID_ティアモ: Cordelia
+MPID_レオパルド: Leopold
+MPID_ノノ: Nowi
+MPID_サーリャ: Tharja
+MPID_グレゴ: Gregor
+MPID_オリヴィエ: Olivia
+MPID_セルジュ: Cherche
+MPID_ヘンリー: Henry
+MPID_トレイシー: Tracie
+MPID_マルス: Marth
+MPID_サイリ: Say'ri
+MPID_ドニ: Donnel
+MPID_ウード: Owain
+MPID_アズール: Inigo
+MPID_ブレディ: Brady
+MPID_デジェル: Kjelle
+MPID_シンシア: Cynthia
+MPID_セレナ: Severa
+MPID_ジェローム: Gerome
+MPID_マーク: Morgan
+MPID_シャンブレー: Yarne
+MPID_ロラン: Laurent
+MPID_ノワール: Noire
+MPID_ンン: Nah
+MPID_チキ: Tiki
+MPID_アンナ: Anna
+MPID_インバース: Aversa
+MPID_バジーリオ: Basilio
+MPID_フラヴィア: Flavia
+MPID_パリス: Priam
+MPID_アンドレア: Andrea
+MPID_エメリナ: Emmeryn
+MPID_ギャンレル: Gangrel
+MPID_ヴァルハルト: Walhart
+MPID_レンハ: Yen'fay
+MPID_屍兵: Risen
+MPID_ルキナ: Lucina
+MPID_商人: Merchant
+MPID_ボス: Commander
+MPID_フェリア兵: Feroxi
+MPID_ペレジア兵: Plegian
+MPID_ヴァルム兵: Valmese
+MPID_ギムレー教兵: Grimleal
+MPID_謎の一団: Unknown
+MPID_傭兵: Mercenary
+MPID_フィレイン: Phila
+MPID_エクセライ: Excellus
+MPID_セルバンテス: Cervantes
+MPID_青軍兵士: Soldier
+MPID_赤軍兵士: Soldier
+MPID_村人: Villager
+MPID_村人男: Villager
+MPID_村人女: Maiden
+MPID_村長: Elder
+MPID_老人: Old Villager
+MPID_？？？: ? ? ?
+MPID_神官: Hierarch
+MPID_密偵: Spy
+MPID_暗殺者: Assassin
+MPID_兵士: Soldier
+MPID_兵士Ａ: Soldier
+MPID_兵士Ｂ: Wyvern Rider
+MPID_ならず者: Ruffian
+MPID_ならず者Ａ: Ruffian
+MPID_ならず者Ｂ: Ruffian
+MPID_ペガサス: Pegasus
+MPID_ミネルヴァ: Minerva
+MPID_ベッラ: Bella
+MPID_ファウダー: Validar
+MPID_ファウダーの影: Shadow
+MPID_ナーガ: Naga
+MPID_ギムレー: Grima
+MPID_フードの人物: ? ? ?
+MPID_シルエット: ? ? ?
+MPID_P002_ボス: Garrick
+MPID_001_ボス: Risen Chief
+MPID_002_ボス: Risen Chief
+MPID_003_ボス: Raimi
+MPID_004_ボス: Marth
+MPID_005_ボス: Orton
+MPID_006_ボス: Validar
+MPID_007_ボス: Vasto
+MPID_008_ボス: Chalard
+MPID_009_ボス: Campari
+MPID_010_ボス: Mustafa
+MPID_011_ボス: Gangrel
+MPID_012_ボス: Dalton
+MPID_013_ボス: Risen Chief
+MPID_014_ボス: Ignatius
+MPID_015_ボス: Farber
+MPID_016_ボス: Cervantes
+MPID_017_ボス: Pheros
+MPID_018_ボス: Yen'fay
+MPID_019_ボス: Walhart
+MPID_020_ボス: Walhart
+MPID_021_ボス: Algol
+MPID_022_ボス: Aversa
+MPID_023_ボス: Walhart
+MPID_024_ボス: Risen Chief
+MPID_025_ボス: Aversa
+MPID_026_ボス: Grima
+MPID_X001_ボス: Roddick
+MPID_X002_ボス: Victor
+MPID_X003_ボス: Risen Chief
+MPID_X004_ボス: Vincent
+MPID_X005_ボス: Gecko
+MPID_X006_ボス: Jamil
+MPID_X007_ボス: Xalbador
+MPID_X008_ボス: Cassius
+MPID_X009_ボス: Ruger
+MPID_X010_ボス: Nelson
+MPID_X011_ボス: Morristan
+MPID_X012_ボス: Risen Chief
+MPID_X013_ボス: 
+MPID_ボスＡ: Gyral
+MPID_ボスＢ: Dalen
+MPID_X014_ボス: Nombry
+MPID_X015_ボス: Ezra
+MPID_X016_ボス: Risen Chief
+MPID_X017_ボス: Risen Chief
+MPID_X018_ボス: Zanth
+MPID_X019_ボス: Walhart
+MPID_X020_ボス: Ardri
+MPID_X021_ボス: Risen Chief
+MPID_X022_ボス: Commander
+MPID_X023_ボス: Priam
+MPID_クロム嫁村娘: Maiden
+MPID_ホラント: Holland
+MPID_山賊: Brigand
+MPID_山賊Ａ: Brigand
+MPID_山賊Ｂ: Brigand
+MPID_母親: Mother
+MPID_行商人: Merchant
+MPID_騎士: Knight
+MPID_アインス: Mus
+MPID_ツヴァイ: Bovis
+MPID_ドライ: Tigris
+MPID_フィーア: Lepus
+MPID_フュンフ: Draco
+MPID_ゼクス: Anguilla
+MPID_ズィーベン: Equus
+MPID_アハト: Ovis
+MPID_ノイン: Simia
+MPID_ツェーン: Gallus
+MPID_エルフ: Canis
+MPID_ツヴェルフ: Porcus
+MPID_異界の者: Outrealm
+MPID_緑軍賢者: Villager
+MPID_H_名前最大: WWWWWWWW
+MPID_H_デフォルト名: 
+MPID_H_プレイヤー: A traveler with no memory of\nthe past, but a gift for tactics.
+MPID_H_プレイヤー援軍: A mysterious traveler\nfrom the Outrealms.
+MPID_H_クロム: Captain of the Shepherds.\nTreats his men firmly but fairly.
+MPID_H_リズ: A Shepherd, and Chrom's little\nsister. Eager to prove herself.
+MPID_H_フレデリク: The Shepherds' stern and\nsarcastic second in command.
+MPID_H_ヴィオール: A grandiloquent noble with a\nlove of tall tales and romance.
+MPID_H_ソワレ: A Shepherd with a foul mouth\nand no-nonsense attitude.
+MPID_H_ヴェイク: A scatterbrained Shepherd\nwho insists he's in control.
+MPID_H_ソール: A hard-working Shepherd\nwho is always a beat behind.
+MPID_H_ミリエル: A meticulous, methodical\nShepherd with high standards.
+MPID_H_カラム: The Shepherd everyone\nseems to forget is there.
+MPID_H_スミア: A clumsy aspiring Shepherd\nwho tries her best all the same.
+MPID_H_ロンクー: A curt Feroxi warrior who\nwilts in the presence of women.
+MPID_H_リヒト: An aspiring Shepherd who hates\nbeing treated like a child.
+MPID_H_マリアベル: A Shepherd, and also Lissa's\nbest friend. Proud, yet kind.
+MPID_H_リベラ: A patient Ylissean priest who\nis often mistaken for a woman.
+MPID_H_ベルベット: The last of the taguel race.\nSensible and self-reliant.
+MPID_H_ガイア: A formidable Ylissean thief\nwith a soft spot for sugar.
+MPID_H_ティアモ: An Ylissean pegasus knight too\nhumble to see her vast talents.
+MPID_H_ノノ: An innocent "little" manakete\nwith a dramatic side.
+MPID_H_サーリャ: A dour Plegian with a jealous\nstreak and a knack for curses.
+MPID_H_グレゴ: A seasoned mercenary with a\nbig heart and a refreshing grin.
+MPID_H_オリヴィエ: A demure but gifted dancer\nwho has traveled the world.
+MPID_H_セルジュ: A polite, cultured woman from\nRosanne who can cook and sew.
+MPID_H_ヘンリー: A harrowingly optimistic\nPlegian who loves blood.
+MPID_H_マルス: An enigmatic warrior who bears\nthe name of a legendary king.
+MPID_H_サイリ: The eloquent, high-spirited\nprincess of Chon'sin.
+MPID_H_ドニ: An Ylissean commoner with\na "funny way of talkin'."
+MPID_H_ウード: An enigmatic swordsman\nwho tends toward theatrics.
+MPID_H_アズール: An enigmatic sellsword\nwith a flair for philandering.
+MPID_H_ブレディ: An enigmatic priest who looks\nmore intimidating than he is.
+MPID_H_デジェル: An enigmatic knight with\na love for training.
+MPID_H_シンシア: An enigmatic pegasus knight\nwho yearns to be a hero.
+MPID_H_セレナ: An enigmatic sellsword with low\nself-esteem and a bad attitude.
+MPID_H_ジェローム: An enigmatic dracoknight who\ndistances himself with a mask.
+MPID_H_マーク: An enigmatic aspiring tactician\nwith no memory. Cheerful.
+MPID_H_シャンブレー: An enigmatic taguel who fears\nfor his species (i.e., himself).
+MPID_H_ロラン: An enigmatic mage who takes\nhis studies very seriously.
+MPID_H_ノワール: An enigmatic archer with a\ngrim outlook on everything.
+MPID_H_ンン: An enigmatic manakete who is\nunusually together for her age.
+MPID_H_チキ: The calm and collected Voice\nof the divine dragon.
+MPID_H_アンナ: A world-traveling merchant who\nloves money and big spenders.
+MPID_H_インバース: A cruel, high-ranking Plegian\nofficer with a sultry aura.
+MPID_H_バジーリオ: The capable but slapdash\nWest-Khan of Regna Ferox.
+MPID_H_フラヴィア: The affable, battle-hardened\nkhan regnant of Regna Ferox.
+MPID_H_パリス: Scion of a legendary hero.\nHe seeks only greater power.
+MPID_H_アンドレア: Andrea
+MPID_H_エメリナ: Chrom's elder sister. A pacifist\nand idealist with a good heart.
+MPID_H_ギャンレル: The cruel and fatalistic\nformer king of Plegia.
+MPID_H_ヴァルハルト: Forger of the Valmese empire.\nAlso known as the Conqueror.
+MPID_H_レンハ: A former dynast of Chon'sin\nwith a solemn, mossy demeanor.
+MPID_H_屍兵: A hideous creature of\notherworldly origins.
+MPID_H_ルキナ: An enigmatic woman who\nthirsts for a better world.
+MPID_H_商人: A merchant who\ntravels the world.
+MPID_H_ボス: Commander
+MPID_H_フェリア兵: A Feroxi soldier.
+MPID_H_ペレジア兵: A Plegian soldier.
+MPID_H_ヴァルム兵: A Valmese soldier.
+MPID_H_ギムレー教兵: A Grimleal soldier.
+MPID_H_謎の一団: A soldier of unknown origin.
+MPID_H_傭兵: A soldier who answers\nonly to the clink of gold.
+MPID_H_フィレイン: Fiercely loyal captain of the\nYlissean Pegasus Knights.
+MPID_H_エクセライ: The Valmese Empire's cold\nand calculating tactician.
+MPID_H_セルバンテス: A Valmese commander who\ntakes great pride in his "hairs."
+MPID_H_青軍兵士: An allied soldier.
+MPID_H_赤軍兵士: An enemy soldier.
+MPID_H_村人: A commoner who\nlives here.
+MPID_H_村人男: A young man who\nlives here.
+MPID_H_村人女: A young woman\nwho lives here.
+MPID_H_村長: The village elder\nwho lives here.
+MPID_H_？？？: ? ? ?
+MPID_H_神官: Ylisse's highest-ranking\nreligious advisor.
+MPID_H_密偵: An agent who infiltrates other\nlands to gather information.
+MPID_H_暗殺者: A killer who uses stealth to\napproach and dispatch targets.
+MPID_H_兵士: A run-of-the-mill soldier.
+MPID_H_兵士Ａ: A run-of-the-mill soldier.
+MPID_H_兵士Ｂ: A run-of-the-mill soldier.
+MPID_H_ならず者: A violent criminal who\nterrorizes the land.
+MPID_H_ならず者Ａ: A violent criminal who\nterrorizes the land.
+MPID_H_ならず者Ｂ: A violent criminal who\nterrorizes the land.
+MPID_H_ペガサス: Pegasus
+MPID_H_ミネルヴァ: Minerva
+MPID_H_ベッラ: Bella
+MPID_H_ファウダー: A dark mage who wishes to\narchitect the world's end.
+MPID_H_ファウダーの影: Shadow
+MPID_H_ナーガ: Naga
+MPID_H_ギムレー: A baleful dragon who seeks to\nplunge the world into darkness.
+MPID_H_フードの人物: Hooded Figure
+MPID_H_シルエット: Shadows of the self reflected\nin the Wellspring of Truth.
+MPID_H_P002_ボス: The ruffians' savage\nand unsavory leader.
+MPID_H_001_ボス: The Risen's apparent leader,\njudging by strength.
+MPID_H_002_ボス: The Risen's apparent leader,\njudging by strength.
+MPID_H_003_ボス: The Feroxi commander.\nStubborn and impulsive.
+MPID_H_004_ボス: A mysterious swordsman\nwho wields Falchion.
+MPID_H_005_ボス: The Plegian commander.\nMerciless and bloodthirsty.
+MPID_H_006_ボス: The unknown enemy's leader.\nHe seems to have dark designs.
+MPID_H_007_ボス: The Plegian commander.\nCruel and sadistic.
+MPID_H_008_ボス: A priest with fanatical\nreverence for Grima.
+MPID_H_009_ボス: The Plegian commander.\nWillful and ill humored.
+MPID_H_010_ボス: The Plegian commander.\nA pacifist.
+MPID_H_011_ボス: The self-styled\n"Mad King of Plegia."
+MPID_H_012_ボス: The Valmese commander.\nA bigot who loathes foreigners.
+MPID_H_013_ボス: The Risen's apparent leader,\njudging by strength.
+MPID_H_014_ボス: The Valmese commander.\nValiant and unyielding.
+MPID_H_015_ボス: The Valmese commander.\nFetishizes his emperor.
+MPID_H_016_ボス: A Valmese commander who\ntakes great pride in his "hairs."
+MPID_H_017_ボス: The Valmese commander.\nEnamored with the emperor.
+MPID_H_018_ボス: The Valmese commander. One\nof the finest swordsmen alive.
+MPID_H_019_ボス: The ruthless emperor of Valm.\nAlso known as the Conqueror.
+MPID_H_020_ボス: The ruthless emperor of Valm.\nAlso known as the Conqueror.
+MPID_H_021_ボス: A slimy, underhanded\nGrimleal priest.
+MPID_H_022_ボス: A cruel, mysterious vixen\nwith a sultry aura.
+MPID_H_023_ボス: A dark mage who wishes to\narchitect the world's end.
+MPID_H_024_ボス: The Risen's apparent leader,\njudging by strength.
+MPID_H_025_ボス: A cruel, mysterious vixen\nwith a sultry aura.
+MPID_H_026_ボス: The fell dragon who will\nbring about the world's end.
+MPID_H_X001_ボス: The ruffians' savage\nand unsavory leader.
+MPID_H_X002_ボス: A ruffian boss who is eerily fond\nof his twin brother, Vincent.
+MPID_H_X003_ボス: The Risen's apparent leader,\njudging by strength.
+MPID_H_X004_ボス: A ruffian boss who is eerily fond\nof his twin brother, Victor.
+MPID_H_X005_ボス: The ruffians' greedy,\ngold-hungry leader.
+MPID_H_X006_ボス: A Grimleal thug who kidnaps\nand sacrifices villagers.
+MPID_H_X007_ボス: The ruffians' greedy,\ngold-hungry leader.
+MPID_H_X008_ボス: The ruffians' despicably\ncunning leader.
+MPID_H_X009_ボス: The ruffians' lying,\nswindling leader.
+MPID_H_X010_ボス: The ruffians' ambitious\nbut unpopular leader.
+MPID_H_X011_ボス: The ruffians' cruel and\nunfeeling leader.
+MPID_H_X012_ボス: The Risen's apparent leader,\njudging by strength.
+MPID_H_X013_ボス: 
+MPID_H_ボスＡ: A valiant―but violent―\nmercenary leader.
+MPID_H_ボスＢ: A valiant―but violent―\nmercenary leader.
+MPID_H_X014_ボス: The ruffians' greedy,\ngold-hungry leader.
+MPID_H_X015_ボス: The ruffians' unassuming\nbut dangerous leader.
+MPID_H_X016_ボス: The Risen's apparent leader,\njudging by strength.
+MPID_H_X017_ボス: The Risen's apparent leader,\njudging by strength.
+MPID_H_X018_ボス: The latest in a long line of\nso-called Southron Sea-Kings.
+MPID_H_X019_ボス: The former emperor of Valm.\nAlso known as the Conqueror.
+MPID_H_X020_ボス: A Grimleal priest who kidnaps\nand sacrifices villagers.
+MPID_H_X021_ボス: The Risen's apparent leader,\njudging by strength.
+MPID_H_X022_ボス: Commander of the Wellspring\nof Truth's reflections.
+MPID_H_X023_ボス: Scion of a legendary hero.\nHe seeks only greater power.
+MPID_H_クロム嫁村娘: Maiden
+MPID_H_ホラント: A commoner who is\nfighting for his family.
+MPID_H_山賊: A violent criminal who\nterrorizes the land.
+MPID_H_山賊Ａ: A violent criminal who\nterrorizes the land.
+MPID_H_山賊Ｂ: A violent criminal who\nterrorizes the land.
+MPID_H_母親: Donnel's mother.
+MPID_H_行商人: Merchant
+MPID_H_騎士: Knight
+MPID_H_アインス: The first of the Deadlords―\ntwelve powerful Risen.
+MPID_H_ツヴァイ: The second of the Deadlords―\ntwelve powerful Risen.
+MPID_H_ドライ: The third of the Deadlords―\ntwelve powerful Risen.
+MPID_H_フィーア: The fourth of the Deadlords―\ntwelve powerful Risen.
+MPID_H_フュンフ: The fifth of the Deadlords―\ntwelve powerful Risen.
+MPID_H_ゼクス: The sixth of the Deadlords―\ntwelve powerful Risen.
+MPID_H_ズィーベン: The seventh of the Deadlords―\ntwelve powerful Risen.
+MPID_H_アハト: The eighth of the Deadlords―\ntwelve powerful Risen.
+MPID_H_ノイン: The ninth of the Deadlords―\ntwelve powerful Risen.
+MPID_H_ツェーン: The tenth of the Deadlords―\ntwelve powerful Risen.
+MPID_H_エルフ: The eleventh of the Deadlords―\ntwelve powerful Risen.
+MPID_H_ツヴェルフ: The twelfth of the Deadlords―\ntwelve powerful Risen.
+MCID_000_T: Chapter 0
+MCID_000: A New Fight
+MCID_000_S: 
+MCID_P001_T: Pertanda
+MCID_P001: Tali Tak Terlihat
+MCID_P001_S: In a vision that feels neither real\nnor dreamed, $Nu and\nChrom defeat the mage Validar.\nBut in the vision's last moments,\nevents take an unexpected turn.
+MCID_P002_T: Pembukaan
+MCID_P002: Ambang Sejarah
+MCID_P002_S: $Nu is found lying in a\nfield with no memory. After $Ghe,she|\nhelps Chrom fend off a band of\nbrigands, $Ghe,she| is welcomed into\nthe Shepherds as a tactician.
+MCID_001_T: Bab 1
+MCID_001: Perubahan yang Tidak Disambut
+MCID_001_S: A chaotic night in the woods\nbrings tremors and terrors, but a\nswordsman named Marth comes\nto the rescue. Back in Ylisstol,\n$Nu meets Emmeryn.
+MCID_002_T: Bab 2
+MCID_002: Gembala
+MCID_002_S: Lissa introduces the other\nShepherds. They head north to\nRegna Ferox to seek military aid\nagainst the creatures from the\nwoods, now named "Risen."
+MCID_003_T: Bab 3
+MCID_003: Kesatria Kerajaan
+MCID_003_S: At the Longfort dividing Ylisse\nand Ferox, the Shepherds are\ntaken for brigands and attacked\nby the Feroxi Guard. A show of\nforce clears the matter up.
+MCID_004_T: Chapter 4
+MCID_004: Two Falchions
+MCID_004_S: To secure Ferox's aid, Chrom\nmust defeat Marth in combat and\nwin East-Khan Flavia the throne.\nMeanwhile, the kingdom of Plegia\nkidnaps Lissa's friend Maribelle.
+MCID_005_T: Chapter 5
+MCID_005: The Exalt and the King
+MCID_005_S: Emmeryn confronts King Gangrel\nof Plegia, who demands the Fire\nEmblem, an item vital to the\nworld's future. The parley ends\nwith a declaration of war.
+MCID_006_T: Chapter 6
+MCID_006: Foreseer
+MCID_006_S: Marth warns Chrom that Exalt\nEmmeryn will be assassinated.\nThe plot is thwarted, but Marth\nis revealed to be a woman―and\none with knowledge of the future.
+MCID_007_T: Chapter 7
+MCID_007: Incursion
+MCID_007_S: While escorting the exalt to\nsafety, the Ylisseans are\nambushed. Emmeryn gives Chrom\nthe Fire Emblem and returns to\nYlisstol to protect her people.
+MCID_008_T: Chapter 8
+MCID_008: The Grimleal
+MCID_008_S: Chrom and Lissa learn their\nsister is to be put to death, and\nlaunch a rescue mission. On the\nway, they battle the Grimleal:\nthe fell dragon's loyal followers.
+MCID_009_T: Chapter 9
+MCID_009: Emmeryn
+MCID_009_S: The rescue fails, and Chrom is\nforced to choose between the\nFire Emblem and his sister. To\nspare him and the world further\nconflict, Emmeryn ends her life.
+MCID_010_T: Chapter 10
+MCID_010: Renewal
+MCID_010_S: Emmeryn's death devastates\nChrom, but $Nu offers\nwords of support. They depart\nfor Plegia to settle matters with\nKing Gangrel once and for all.
+MCID_011_T: Chapter 11
+MCID_011: Mad King Gangrel
+MCID_011_S: Gangrel is defeated. Two years\nlater, Chrom has married and\nsired a daughter, Lucina. Upon\nlearning the Valmese Empire will\ninvade, Chrom departs for Ferox.
+MCID_012_T: Chapter 12
+MCID_012: The Seacomers
+MCID_012_S: At Port Ferox, Chrom's men and\nthe Feroxi barely repel the fierce\nValmese attack. In need of ships\nto drive Valm off, they turn to\nan unlikely ally for help.
+MCID_013_T: Chapter 13
+MCID_013: Of Sacred Blood
+MCID_013_S: While meeting with Validar―now\nking of Plegia―$Nu\nsees a $Gman,woman| who could be $Ghis,her|\ntwin. That night, $Ghe,she| learns $Ghe,she|\nis Validar's $Gson,daughter|.
+MCID_014_T: Chapter 14
+MCID_014: Flames on the Blue
+MCID_014_S: "Marth" admits she is Chrom's\ndaughter, Lucina, who has come\nback in time to divert the world\nfrom a grim future. They cross\nthe sea to the Valmese continent.
+MCID_015_T: Chapter 15
+MCID_015: Smoldering Resistance
+MCID_015_S: In Valm Harbor, the Ylisseans\nrescue Say'ri, a resistance\nleader. They set out to free\nNaga's "Voice," hoping to inspire\nothers to their cause.
+MCID_016_T: Chapter 16
+MCID_016: Naga's Voice
+MCID_016_S: The Voice is safe, but Emperor\nWalhart himself is now hunting\nSay'ri and company down. They\nmust hurry to Fort Steiger to\nweaken his army.
+MCID_017_T: Chapter 17
+MCID_017: Inexorable Death
+MCID_017_S: The dynasts' betrayal forces the\nYlissean League to retreat and\ndivide. Their main force marches\non Yen'fay, while Basilio takes on\nWalhart despite the dangers.
+MCID_018_T: Chapter 18
+MCID_018: Sibling Blades
+MCID_018_S: The Ylisseans strike Yen'fay down\nand learn of his sacrifice. When\nthey hear Basilio has died as well,\nit is decided the time has come\nto finally face Walhart.
+MCID_019_T: Chapter 19
+MCID_019: The Conqueror
+MCID_019_S: The party challenges Walhart\nnear the capital and forces the\nConqueror to retreat. Soon\nthey are joined by unexpected\nallies: the southern dynasts.
+MCID_020_T: Chapter 20
+MCID_020: The Sword or the Knee
+MCID_020_S: Walhart's defeat ends the war―\nbut Lucina's dark future edges\ncloser. Chrom must perform the\nAwakening and heads to Plegia\nto secure the last Gemstone.
+MCID_021_T: Chapter 21
+MCID_021: Five Gemstones
+MCID_021_S: Instead of handing over the\nGemstone, Validar manipulates\n$Nu to steal the Fire\nEmblem. The Ylisseans barely\nescape the castle alive.
+MCID_022_T: Chapter 22
+MCID_022: An Ill Presage
+MCID_022_S: The Ylisseans go to the Dragon's\nTable to retrieve the Emblem,\nbut the ritual to resurrect Grima\nis already underway. They break\nthrough and head for the altar.
+MCID_023_T: Chapter 23
+MCID_023: Invisible Ties
+MCID_023_S: $Nu and Basilio turn\nthe tables on Validar with a\nbrilliant deception. The "hiero-\nphant" reveals $Ghimself,herself| to be\n$Nu's future self.
+MCID_024_T: Chapter 24
+MCID_024: Awakening
+MCID_024_S: The evil $Nu has used\n$Ghis,her| life force to resurrect Grima.\nTo stop the dragon, Chrom must\nascend Mount Prism, perform the\nAwakening, and win Naga's power.
+MCID_025_T: Chapter 25
+MCID_025: To Slay a God
+MCID_025_S: The final battle looms, as does\na choice: return Grima to his\nslumber with Chrom's sword\nor slay the dragon in exchange\nfor $Nu's life.
+MCID_026_T: Terakhir
+MCID_026: Grima
+MCID_026_S: 
+MCID_X001_T: Paralogue 1
+MCID_X001: Sickle to Sword
+MCID_X002_T: Paralogue 2
+MCID_X002: The Secret Seller
+MCID_X003_T: Paralogue 3
+MCID_X003: A Strangled Peace
+MCID_X004_T: Paralogue 4
+MCID_X004: Anna the Merchant
+MCID_X005_T: Paralogue 5
+MCID_X005: Scion of Legend
+MCID_X006_T: Paralogue 6
+MCID_X006: A Man for Flowers
+MCID_X007_T: Paralogue 7
+MCID_X007: Noble Lineage
+MCID_X008_T: Paralogue 8
+MCID_X008: A Duel Disgraced
+MCID_X009_T: Paralogue 9
+MCID_X009: Wings of Justice
+MCID_X010_T: Paralogue 10
+MCID_X010: Ambivalence
+MCID_X011_T: Paralogue 11
+MCID_X011: Twin Wyverns
+MCID_X012_T: Paralogue 12
+MCID_X012: Disowned by Time
+MCID_X013_T: Paralogue 13
+MCID_X013: Rival Bands
+MCID_X014_T: Paralogue 14
+MCID_X014: Shadow in the Sands
+MCID_X015_T: Paralogue 15
+MCID_X015: A Shot from the Dark
+MCID_X016_T: Paralogue 16
+MCID_X016: Daughter to Dragons
+MCID_X017_T: Paralogue 17
+MCID_X017: The Threat of Silence
+MCID_X018_T: Paralogue 18
+MCID_X018: The Dead King's Lament
+MCID_X019_T: Paralogue 19
+MCID_X019: Irreconcilable Paths
+MCID_X020_T: Paralogue 20
+MCID_X020: A Hard Miracle
+MCID_X021_T: Paralogue 21
+MCID_X021: Ghost of a Blade
+MCID_X022_T: Paralogue 22
+MCID_X022: The Wellspring of Truth
+MCID_X023_T: Paralogue 23
+MCID_X023: The Radiant Hero
+MCID_String: $a$a0: $a1
+MCID_E000_T: Xenologue
+MCID_ENCOUNT_T: Challenge
+MCID_T_000: 
+MCID_T_P001: 
+MCID_T_P002: Southtown
+MCID_T_001: West of Ylisstol
+MCID_T_002: The Northroad
+MCID_T_003: The Longfort
+MCID_T_004: Arena Ferox
+MCID_T_005: Border Pass
+MCID_T_006: Ylisstol
+MCID_T_007: Breakneck Pass
+MCID_T_008: Border Sands
+MCID_T_009: Plegia Castle Courtyard
+MCID_T_010: The Midmire
+MCID_T_011: Border Wastes
+MCID_T_012: Port Ferox
+MCID_T_013: Carrion Isle
+MCID_T_014: The Searoad
+MCID_T_015: Valm Harbor
+MCID_T_016: The Mila Tree
+MCID_T_017: Fort Steiger
+MCID_T_018: The Demon's Ingle
+MCID_T_019: Valm Castle Approach
+MCID_T_020: Valm Castle
+MCID_T_021: Plegia Castle
+MCID_T_022: Table Approach
+MCID_T_023: The Dragon's Table
+MCID_T_024: Mount Prism
+MCID_T_025: Origin Peak
+MCID_T_026: Grima
+MCID_T_X001: The Farfort
+MCID_T_X002: The Twins' Turf
+MCID_T_X003: Peaceful Village
+MCID_T_X004: The Twins' Hideout
+MCID_T_X005: Sage's Hamlet
+MCID_T_X006: Great Gate
+MCID_T_X007: Mila Shrine Ruins
+MCID_T_X008: Dueling Grounds
+MCID_T_X009: Verdant Forest
+MCID_T_X010: Mercenary Fortress
+MCID_T_X011: Wyvern Valley
+MCID_T_X012: The Ruins of Time
+MCID_T_X013: Law's End
+MCID_T_X014: Desert Oasis
+MCID_T_X015: Kidnapper's Keep
+MCID_T_X016: Manor of Lost Souls
+MCID_T_X017: Divine Dragon Grounds
+MCID_T_X018: Sea-King's Throne
+MCID_T_X019: Conqueror's Whetstone
+MCID_T_X020: Mountain Village
+MCID_T_X021: Warriors' Tomb
+MCID_T_X022: Wellspring of Truth
+MCID_T_X023: Garden of Giants
+MCID_T_E000: Outrealm Gate
+MCID_T_N001: Castle Ferox
+MCID_T_N002: Ylisstol Environs
+MCID_T_N003: Camp: Plegia Castle
+MCID_T_N004: North of Fort Steiger
+MCID_T_N005: Camp: Demon's Ingle
+MCID_T_N006: Camp: Northroad
+MCID_T_N007: Plegia Castle
+MCID_T_N008: The Table
+MCID_RULE_敵全滅: Rout the\nenemy
+MCID_RULE_敵将撃破: Defeat\ncommander
+MJID_謎: Outrealm Class
+MJID_ロード: Lord
+MJID_マスターロード: Great Lord
+MJID_戦術師: Tactician
+MJID_神軍師: Grandmaster
+MJID_ソシアルナイト: Cavalier
+MJID_アーマーナイト: Knight
+MJID_パラディン: Paladin
+MJID_グレートナイト: Great Knight
+MJID_ジェネラル: General
+MJID_蛮族: Barbarian
+MJID_戦士: Fighter
+MJID_傭兵: Mercenary
+MJID_アーチャー: Archer
+MJID_バーサーカー: Berserker
+MJID_ウォーリアー: Warrior
+MJID_勇者: Hero
+MJID_ボウナイト: Bow Knight
+MJID_スナイパー: Sniper
+MJID_剣士: Myrmidon
+MJID_盗賊: Thief
+MJID_ソードマスター: Swordmaster
+MJID_アサシン: Assassin
+MJID_トリックスター: Trickster
+MJID_ペガサスナイト: Pegasus Knight
+MJID_ファルコンナイト: Falcon Knight
+MJID_ダークペガサス: Dark Flier
+MJID_ドラゴンナイト: Wyvern Rider
+MJID_ドラゴンマスター: Wyvern Lord
+MJID_グリフォンナイト: Griffon Rider
+MJID_トルバドール: Troubadour
+MJID_僧侶: Priest
+MJID_シスター: Cleric
+MJID_魔道士: Mage
+MJID_ダークマージ: Dark Mage
+MJID_ヴァルキュリア: Valkyrie
+MJID_バトルモンク: War Monk
+MJID_バトルシスター: War Cleric
+MJID_賢者: Sage
+MJID_ダークナイト: Dark Knight
+MJID_ソーサラー: Sorcerer
+MJID_踊り子: Dancer
+MJID_マムクート: Manakete
+MJID_ラグズ: Taguel
+MJID_ソルジャー: Soldier
+MJID_村人: Villager
+MJID_商人: Merchant
+MJID_ゾンビ: Revenant
+MJID_マミー: Entombed
+MJID_オーバーロード: Conqueror
+MJID_ボス: Grima
+MJID_シルエット: Mirage
+MJID_スターロード: Lodestar
+MJID_ダミー: DUMMY
+MJID_H_謎: This class is obtained at the\nOutrealm Gate.
+MJID_H_ロード: A youth of royal blood.\nWields swords.
+MJID_H_マスターロード: A seasoned leader of royal\nblood. Wields swords, lances.
+MJID_H_戦術師: An aspiring tactician of cryptic\norigins. Wields swords, tomes.
+MJID_H_神軍師: A seasoned tactician upon\nwhom victory hinges.
+MJID_H_ソシアルナイト: A mounted knight with balanced\nstats. Wields swords, lances.
+MJID_H_アーマーナイト: A heavily armored knight with\nhigh Def. Weak against magic.
+MJID_H_パラディン: A seasoned, majestic cavalier.\nHas high Mov and Res.
+MJID_H_グレートナイト: A seasoned knight or cavalier.\nWields swords, lances, axes.
+MJID_H_ジェネラル: A seasoned knight with superior\nAtk/Def. Wields lances, axes.
+MJID_H_蛮族: A savage thug with high\nStr/Spd, but low Def.
+MJID_H_戦士: A scrapper with punishingly\nhigh Str. Wields axes.
+MJID_H_傭兵: A combat professional with high\nstats all around. Wields swords.
+MJID_H_アーチャー: A unit that can attack enemies\nfrom a distance. Wields bows.
+MJID_H_バーサーカー: A seasoned barbarian whose\naxe strikes fear in the enemy.
+MJID_H_ウォーリアー: A seasoned fighter with\npeerless Str. Wields axes, bows.
+MJID_H_勇者: A seasoned fighter or merc with\nhigh Skill. Wields swords, axes.
+MJID_H_ボウナイト: A seasoned, mounted archer.\nWields swords, bows.
+MJID_H_スナイパー: A seasoned archer with superior\nSkill who has mastered the bow.
+MJID_H_剣士: A swift specialist in the blade\nwho makes for a tricky target.
+MJID_H_盗賊: A shadowy figure who fares\nbetter picking locks than fights.
+MJID_H_ソードマスター: A seasoned myrmidon with\nhigh Skill/Spd. Wields swords.
+MJID_H_アサシン: A seasoned and deadly thief or\nmyrmidon. Wields swords, bows.
+MJID_H_トリックスター: A seasoned thief and infamous\nrogue. Wields swords, staves.
+MJID_H_ペガサスナイト: A graceful flier. Strong against\nmagic, weak against bows.
+MJID_H_ファルコンナイト: A seasoned pegasus knight on a\nnew mount. Wields lances, staves.
+MJID_H_ダークペガサス: A seasoned pegasus knight\nwho wields lances and tomes.
+MJID_H_ドラゴンナイト: A proud flier with high stats.\nWeak against bows and magic.
+MJID_H_ドラゴンマスター: A seasoned wyvern rider who\nwields axes and lances.
+MJID_H_グリフォンナイト: A seasoned and well-balanced\nwyvern rider on a new mount.
+MJID_H_トルバドール: A mounted healer who uses\nstaves. Cannot attack.
+MJID_H_僧侶: A male healer who uses staves.\nCannot attack.
+MJID_H_シスター: A female healer who uses\nstaves. Cannot attack.
+MJID_H_魔道士: A tome wielder whose magic\nworks well on armored foes.
+MJID_H_ダークマージ: A mage able to use dark tomes.\nHigh in Def and tough to kill.
+MJID_H_ヴァルキュリア: A seasoned, hardy troubadour.\nUses staves, tomes.
+MJID_H_バトルモンク: A seasoned priest who heals\nwith staves and hurts with axes.
+MJID_H_バトルシスター: A seasoned cleric who heals\nwith staves and hurts with axes.
+MJID_H_賢者: A seasoned mage or healer with\nhigh Mag. Wields tomes, staves.
+MJID_H_ダークナイト: A seasoned, mounted mage\nwho wields tomes and swords.
+MJID_H_ソーサラー: A seasoned dark mage with\nfearsome Mag.
+MJID_H_踊り子: A gifted artist whose dances\ninspire allies back to action.
+MJID_H_マムクート: A legendary race with awesome\npower while in dragon form.
+MJID_H_ラグズ: A dying race with great power\nwhile in beast form.
+MJID_H_ソルジャー: An ordinary soldier.\nWields a lance.
+MJID_H_村人: An ordinary villager. Weak,\nbut capable of great things.
+MJID_H_商人: A traveling merchant.\nSave her and it may pay off...
+MJID_H_ゾンビ: A Risen minion with sharp\nclaws and high Str.
+MJID_H_マミー: A noble Risen with high Str\nand hatred for the living.
+MJID_H_オーバーロード: The dauntless emperor of Valm.\nWields swords, lances, axes.
+MJID_H_シルエット: The Wellspring's reflection of\none who stands before it.
+MJID_H_ボス: The fell dragon who seeks to\nusher in a dark future.
+MJID_H_スターロード: The Hero-King from the sagas\nsaid to have saved the world.
+MRSID_謎: Outrealm Skill
+MRSID_無し: (No skills)
+MRSID_最大ＨＰ＋５: HP +5
+MRSID_力＋２: Strength +2
+MRSID_魔力＋２: Magic +2
+MRSID_技＋２: Skill +2
+MRSID_速さ＋２: Speed +2
+MRSID_幸運＋４: Luck +4
+MRSID_守備＋２: Defense +2
+MRSID_魔防＋２: Resistance +2
+MRSID_命中＋１０: Hit Rate +10
+MRSID_命中＋２０: Hit Rate +20
+MRSID_回避＋１０: Avoid +10
+MRSID_移動＋１: Movement +1
+MRSID_鍵開け: Locktouch
+MRSID_戦知識: Veteran
+MRSID_良成長: Aptitude
+MRSID_練磨: Discipline
+MRSID_デュアルサポート＋: Dual Support+
+MRSID_デュアルアタック＋: Dual Strike+
+MRSID_デュアルガード＋: Dual Guard+
+MRSID_王の器: Rightful King
+MRSID_バイオリズム・奇数: Odd Rhythm
+MRSID_バイオリズム・偶数: Even Rhythm
+MRSID_ホットスタート: Quick Burn
+MRSID_スロースタート: Slow Burn
+MRSID_ラッキー７: Lucky Seven
+MRSID_一発屋: Gamble
+MRSID_屋外戦闘: Outdoor Fighter
+MRSID_屋内戦闘: Indoor Fighter
+MRSID_単騎駆け: Tantivy
+MRSID_集中: Focus
+MRSID_熱い心: Zeal
+MRSID_カリスマ: Charm
+MRSID_方陣: Solidarity
+MRSID_深窓の令嬢: Demoiselle
+MRSID_呪い: Hex
+MRSID_赤の呪い: Anathema
+MRSID_祈り: Miracle
+MRSID_強奪: Despoil
+MRSID_武器節約: Armsthrift
+MRSID_いやしの心: Healtouch
+MRSID_リフレッシュ: Relief
+MRSID_回復: Renewal
+MRSID_運び手: Deliverer
+MRSID_守り手: Defender
+MRSID_軽業: Acrobat
+MRSID_すり抜け: Pass
+MRSID_剣の達人: Swordfaire
+MRSID_槍の達人: Lancefaire
+MRSID_斧の達人: Axefaire
+MRSID_弓の達人: Bowfaire
+MRSID_魔の達人: Tomefaire
+MRSID_踊る: Dance
+MRSID_特別な踊り: Special Dance
+MRSID_力の叫び: Rally Strength
+MRSID_魔力の叫び: Rally Magic
+MRSID_技の叫び: Rally Skill
+MRSID_速さの叫び: Rally Speed
+MRSID_幸運の叫び: Rally Luck
+MRSID_守備の叫び: Rally Defense
+MRSID_魔防の叫び: Rally Resistance
+MRSID_移動の叫び: Rally Movement
+MRSID_七色の叫び: Rally Spectrum
+MRSID_待ち伏せ: Vantage
+MRSID_先の先: Prescience
+MRSID_後の先: Patience
+MRSID_下剋上: Underdog
+MRSID_剣殺し: Swordbreaker
+MRSID_槍殺し: Lancebreaker
+MRSID_斧殺し: Axebreaker
+MRSID_弓殺し: Bowbreaker
+MRSID_魔殺し: Tomebreaker
+MRSID_竜特効: Wyrmsbane
+MRSID_獣特効: Beastbane
+MRSID_怒り: Wrath
+MRSID_滅殺: Lethality
+MRSID_天空: Aether
+MRSID_流星: Astra
+MRSID_太陽: Sol
+MRSID_月光: Luna
+MRSID_華炎: Ignis
+MRSID_復讐: Vengeance
+MRSID_大盾: Pavise
+MRSID_聖盾: Aegis
+MRSID_カウンター: Counter
+MRSID_疾風迅雷: Galeforce
+MRSID_生命吸収: Lifetaker
+MRSID_覇王: Conquest
+MRSID_暗闇の加護: Shadowgift
+MRSID_邪竜の鱗: Dragonskin
+MRSID_神の器: Rightful God
+MRSID_絶対命中: Hawkeye
+MRSID_月光＋: Luna+
+MRSID_待ち伏せ＋: Vantage+
+MRSID_大盾＋: Pavise+
+MRSID_聖盾＋: Aegis+
+MRSID_H_謎: This skill is obtained at the\nOutrealm Gate.
+MRSID_H_無し: 
+MRSID_H_最大ＨＰ＋５: Grants Max HP +5.
+MRSID_H_力＋２: Grants Str +2.
+MRSID_H_魔力＋２: Grants Mag +2.
+MRSID_H_技＋２: Grants Skill +2.
+MRSID_H_速さ＋２: Grants Spd +2.
+MRSID_H_幸運＋４: Grants Lck +4.
+MRSID_H_守備＋２: Grants Def +2.
+MRSID_H_魔防＋２: Grants Res +2.
+MRSID_H_命中＋１０: Grants Hit +10.
+MRSID_H_命中＋２０: Grants Hit +20.
+MRSID_H_回避＋１０: Grants Avo +10.
+MRSID_H_移動＋１: Grants Mov +1.
+MRSID_H_鍵開け: Allows the unit to open doors\nand chests without keys.
+MRSID_H_戦知識: Grants the unit 50% more EXP\nwhile paired with another unit.
+MRSID_H_良成長: Adds 20% to each stat's odds\nof increasing at level up.
+MRSID_H_練磨: Doubles the amount of weapon\nexperience the unit receives.
+MRSID_H_デュアルサポート＋: Increases Dual Support\nbonuses.
+MRSID_H_デュアルアタック＋: Increases the trigger rate of\nDual Strikes by 10%.
+MRSID_H_デュアルガード＋: Increases the trigger rate of\nDual Guards by 10%.
+MRSID_H_王の器: Increases the trigger rate of\nthe unit's skills by 10%.
+MRSID_H_バイオリズム・奇数: Grants Hit/Avo +10 during\nodd-numbered turns.
+MRSID_H_バイオリズム・偶数: Grants Hit/Avo +10 during\neven-numbered turns.
+MRSID_H_ホットスタート: Grants Hit/Avo +15 at the start\nof battle. Stats gradually revert.
+MRSID_H_スロースタート: Increases Hit/Avo by 1 each turn.\nEffects end after 15 turns.
+MRSID_H_ラッキー７: Grants Hit/Avo +20 for the first\nseven turns.
+MRSID_H_一発屋: Reduces Hit by 5, but grants\nCrit +10.
+MRSID_H_屋外戦闘: Grants Hit/Avo +10 while\nfighting outdoors.
+MRSID_H_屋内戦闘: Grants Hit/Avo +10 while\nfighting indoors.
+MRSID_H_単騎駆け: Grants Hit/Avo +10 when there\nare no allies within three spaces.
+MRSID_H_集中: Grants Crit +10 when there are\nno allies within three spaces.
+MRSID_H_熱い心: Grants Crit +5.
+MRSID_H_カリスマ: Grants Hit/Avo +5 to all allies\nwithin three spaces.
+MRSID_H_方陣: Grants Crit/Ddg +10 to all\nadjacent allies.
+MRSID_H_深窓の令嬢: Grants Avo/Ddg +10 to all male\nallies within three spaces.
+MRSID_H_呪い: Reduces Avo by 15 for all\nadjacent enemies.
+MRSID_H_赤の呪い: Reduces Avo/Ddg by 10 for all\nenemies within three spaces.
+MRSID_H_祈り: Survive lethal attacks if HP ＞ 1.\nTrigger % = (Lck stat)
+MRSID_H_強奪: Get a Bullion (S) if the unit's\ntarget falls. Trigger % = (Lck stat)
+MRSID_H_武器節約: Attack without expending a weapon\nuse. Trigger % = (Lck stat × 2)
+MRSID_H_いやしの心: Adds 5 HP to the amount recovered\nwhen healing allies with a staff.
+MRSID_H_リフレッシュ: Restores 20% HP each turn if\nno units are within three spaces.
+MRSID_H_回復: Restores 30% HP at the start\nof each turn.
+MRSID_H_運び手: Grants Mov +2 while paired\nwith another unit.
+MRSID_H_守り手: Grants +1 to all stats while\npaired with another unit.
+MRSID_H_軽業: Treats all accessible terrain as if\nit were a plain, movement-wise.
+MRSID_H_すり抜け: Allows the unit to pass through\nspaces occupied by enemies.
+MRSID_H_剣の達人: Grants Str +5 if using a sword.\n(Mag +5 if using a Levin Sword)
+MRSID_H_槍の達人: Grants Str +5 if using a lance.\n(Mag +5 if using a Shockstick)
+MRSID_H_斧の達人: Grants Str +5 if using an axe.\n(Mag +5 if using a Bolt Axe)
+MRSID_H_弓の達人: Grants Str +5 if using a bow.
+MRSID_H_魔の達人: Grants Mag +5 if using a tome.
+MRSID_H_踊る: Use "Dance" to allow an\nadjacent ally to act again.
+MRSID_H_特別な踊り: Allies that act again receive\nStr/Mag/Def/Res +2 that turn.
+MRSID_H_力の叫び: Use "Rally" to grant Str +4 to units\nwithin three spaces for one turn.
+MRSID_H_魔力の叫び: Use "Rally" to grant Mag +4 to units\nwithin three spaces for one turn.
+MRSID_H_技の叫び: Use "Rally" to grant Skill +4 to units\nwithin three spaces for one turn.
+MRSID_H_速さの叫び: Use "Rally" to grant Spd +4 to units\nwithin three spaces for one turn.
+MRSID_H_幸運の叫び: Use "Rally" to grant Lck +8 to units\nwithin three spaces for one turn.
+MRSID_H_守備の叫び: Use "Rally" to grant Def +4 to units\nwithin three spaces for one turn.
+MRSID_H_魔防の叫び: Use "Rally" to grant Res +4 to units\nwithin three spaces for one turn.
+MRSID_H_移動の叫び: Use "Rally" to grant Mov +1 to units\nwithin three spaces for one turn.
+MRSID_H_七色の叫び: Use "Rally" to grant +4 to all stats to\nunits within three spaces for one turn.
+MRSID_H_待ち伏せ: If HP is half or less, always\nstrike first, even when attacked.
+MRSID_H_先の先: Grants Hit/Avo +15 when the\nunit initiates an attack.
+MRSID_H_後の先: Grants Hit/Avo +10 when the\nunit is under attack.
+MRSID_H_下剋上: Hit/Avo +15 if a foe's level is higher.\n(For adv. classes, add +20 to level.)
+MRSID_H_剣殺し: Grants Hit/Avo +50 if the\nenemy is using a sword.
+MRSID_H_槍殺し: Grants Hit/Avo +50 if the\nenemy is using a lance.
+MRSID_H_斧殺し: Grants Hit/Avo +50 if the\nenemy is using an axe.
+MRSID_H_弓殺し: Grants Hit/Avo +50 if the\nenemy is using a bow.
+MRSID_H_魔殺し: Grants Hit/Avo +50 if the\nenemy is using a tome.
+MRSID_H_竜特効: Allows units in manakete form to\ndeal bonus damage to dragons.
+MRSID_H_獣特効: Allows units in taguel form to deal\nbonus damage to beasts/riders.
+MRSID_H_怒り: Grants Crit +20 when HP is\nhalf or less.
+MRSID_H_滅殺: Fell an enemy in one hit.\nTrigger % = (Skill stat ÷ 4)
+MRSID_H_天空: Use Sol and Luna in succession.\nTrigger % = (Skill stat ÷ 2)
+MRSID_H_流星: Strike five times at half damage.\nTrigger % = (Skill stat ÷ 2)
+MRSID_H_太陽: Absorb HP equal to half damage\ndealt. Trigger % = (Skill stat)
+MRSID_H_月光: Halve enemy Def/Res when\nattacking. Trigger % = (Skill stat)
+MRSID_H_華炎: Add half Mag or Str to the other\nvalue. Trigger % = (Skill stat)
+MRSID_H_復讐: Add half accrued damage to attacks.\nTrigger % = (Skill stat × 2)
+MRSID_H_大盾: Halve sword/lance/axe/beaststone/\nblight damage. Trigger % = (Skill stat)
+MRSID_H_聖盾: Halve bow/tome/dragonstone\ndamage. Trigger % = (Skill stat)
+MRSID_H_カウンター: Damage taken from an adjacent\nenemy is dealt back to that foe.
+MRSID_H_疾風迅雷: Allows the unit to act again upon\ndefeating a foe. (Once per turn.)
+MRSID_H_生命吸収: When attacking, restores 50%\nHP if the enemy is defeated.
+MRSID_H_覇王: Protects from bonus damage\nagainst beasts/riders/armor.
+MRSID_H_暗闇の加護: Allows non-dark mages to use\ndark magic.
+MRSID_H_邪竜の鱗: Nullifies Lethality and Counter,\nand more than halves damage.
+MRSID_H_神の器: Increases the trigger rate of\nthe unit's skills by 30%.
+MRSID_H_絶対命中: Ensures every attack hits.
+MRSID_H_月光＋: Halve enemy Def/Res when\nattacking. Effects do not stack.
+MRSID_H_待ち伏せ＋: Always strike first, even\nwhen attacked.
+MRSID_H_大盾＋: Always halve sword/lance/\naxe/beaststone damage.
+MRSID_H_聖盾＋: Always halve bow/tome/\ndragonstone damage.
+MIID_無し: (Unarmed)
+MIID_謎: Outrealm Item
+MIID_青銅の剣: Bronze Sword
+MIID_鉄の剣: Iron Sword
+MIID_鋼の剣: Steel Sword
+MIID_銀の剣: Silver Sword
+MIID_勇者の剣: Brave Sword
+MIID_アーマーキラー: Armorslayer
+MIID_ドラゴンキラー: Wyrmslayer
+MIID_キルソード: Killing Edge
+MIID_サンダーソード: Levin Sword
+MIID_レイピア: Rapier
+MIID_ノーブルレイピア: Noble Rapier
+MIID_ミステルトィン: Missiletainn
+MIID_太陽: Sol
+MIID_アマツ: Amatsu
+MIID_封剣ファルシオン: Falchion
+MIID_神剣ファルシオン: Exalted Falchion
+MIID_裏剣ファルシオン: Parallel Falchion
+MIID_メリクル: Mercurius
+MIID_ティルフィング: Tyrfing
+MIID_ミストルティン: Mystletainn
+MIID_バルムンク: Balmung
+MIID_ソール・カティ: Sol Katti
+MIID_ラグネル: Ragnell
+MIID_木の枝: Tree Branch
+MIID_いやされる剣: Soothing Sword
+MIID_ガラスの剣: Glass Sword
+MIID_剣殺しの剣: Superior Edge
+MIID_エリウッドの鋼剣: Eliwood's Blade
+MIID_ロイの硬剣: Roy's Blade
+MIID_アルムの覇剣: Alm's Blade
+MIID_リーフの宝剣: Leif's Blade
+MIID_エイリークの疾剣: Eirika's Blade
+MIID_セリスの神剣: Seliph's Blade
+MIID_青銅の槍: Bronze Lance
+MIID_鉄の槍: Iron Lance
+MIID_鋼の槍: Steel Lance
+MIID_銀の槍: Silver Lance
+MIID_勇者の槍: Brave Lance
+MIID_手槍: Javelin
+MIID_ショートスピア: Short Spear
+MIID_スレンドスピア: Spear
+MIID_ビーストキラー: Beast Killer
+MIID_聖なる槍: Blessed Lance
+MIID_キラーランス: Killer Lance
+MIID_月光: Luna
+MIID_グラディウス: Gradivus
+MIID_グングニル: Gungnir
+MIID_ゲイボルグ: Gáe Bolg
+MIID_丸太: Log
+MIID_極小の槍: Miniature Lance
+MIID_しびれる槍: Shockstick
+MIID_ガラスの槍: Glass Lance
+MIID_槍殺しの槍: Superior Lance
+MIID_シグルドの鋼槍: Sigurd's Lance
+MIID_エフラムの勇槍: Ephraim's Lnce
+MIID_フィンの守槍: Finn's Lance
+MIID_青銅の斧: Bronze Axe
+MIID_鉄の斧: Iron Axe
+MIID_鋼の斧: Steel Axe
+MIID_銀の斧: Silver Axe
+MIID_勇者の斧: Brave Axe
+MIID_手斧: Hand Axe
+MIID_ショートアクス: Short Axe
+MIID_トマホーク: Tomahawk
+MIID_ハンマー: Hammer
+MIID_ボルトアクス: Bolt Axe
+MIID_キラーアクス: Killer Axe
+MIID_復讐: Vengeance
+MIID_ヴォルフベルグ: Wolf Berg
+MIID_オートクレール: Hauteclere
+MIID_スワンチカ: Helswath
+MIID_アルマーズ: Armads
+MIID_おたま: Ladle
+MIID_極太の斧: Imposing Axe
+MIID_空投げ斧: Volant Axe
+MIID_ガラスの斧: Glass Axe
+MIID_斧殺しの斧: Superior Axe
+MIID_ティアマトの赤斧: Titania's Axe
+MIID_オーシンの投げ斧: Orsin's Hatchet
+MIID_ヘクトルの烈斧: Hector's Axe
+MIID_青銅の弓: Bronze Bow
+MIID_鉄の弓: Iron Bow
+MIID_鋼の弓: Steel Bow
+MIID_銀の弓: Silver Bow
+MIID_勇者の弓: Brave Bow
+MIID_聖なる弓: Blessed Bow
+MIID_キラーボウ: Killer Bow
+MIID_ロングボウ: Longbow
+MIID_流星: Astra
+MIID_パルティア: Parthia
+MIID_イチイバル: Yewfelle
+MIID_ニーズヘッグ: Nidhogg
+MIID_バルフレチェ: Double Bow
+MIID_ゆるんだ弓: Slack Bow
+MIID_極長の弓: Towering Bow
+MIID_下剋上の弓: Underdog Bow
+MIID_ガラスの弓: Glass Bow
+MIID_弓殺しの弓: Superior Bow
+MIID_ウォルトの薬弓: Wolt's Bow
+MIID_ヒーニアスの的弓: Innes' Bow
+MIID_ファイアー: Fire
+MIID_エルファイアー: Elfire
+MIID_ギガファイアー: Arcfire
+MIID_ボルガノン: Bolganone
+MIID_ファラフレイム: Valflame
+MIID_サンダー: Thunder
+MIID_エルサンダー: Elthunder
+MIID_ギガサンダー: Arcthunder
+MIID_トロン: Thoron
+MIID_トールハンマー: Mjölnir
+MIID_ウインド: Wind
+MIID_エルウインド: Elwind
+MIID_ギガウインド: Arcwind
+MIID_レクスカリバー: Rexcalibur
+MIID_フォルセティ: Forseti
+MIID_エクスカリバー: Excalibur
+MIID_聖書ナーガ: Book of Naga
+MIID_ミィル: Flux
+MIID_リザイア: Nosferatu
+MIID_ルイン: Ruin
+MIID_イル: Waste
+MIID_ゲーティア: Goetia
+MIID_魔書ギムレー: Grima's Truth
+MIID_スライム: Mire
+MIID_燃え尽きる炎: Dying Blaze
+MIID_ミカヤの神炎: Micaiah's Pyre
+MIID_魔殺しの雷: Superior Jolt
+MIID_カタリナの雷糸: Katarina's Bolt
+MIID_気まぐれな風: Wilderwind
+MIID_セリカの疾風: Celica's Gale
+MIID_インバースの暗闇: Aversa's Night
+MIID_ライブ: Heal
+MIID_リライブ: Mend
+MIID_リブロー: Physic
+MIID_リカバー: Recover
+MIID_リザーブ: Fortify
+MIID_女神の杖: Goddess Staff
+MIID_レスキュー: Rescue
+MIID_マジックシールド: Ward
+MIID_ハマーン: Hammerne
+MIID_肩たたき: Kneader
+MIID_薬効ある杖: Balmwood Staff
+MIID_リライブロー: Catharsis
+MIID_竜石: Dragonstone
+MIID_真竜石: Dragonstone+
+MIID_獣石: Beaststone
+MIID_超獣石: Beaststone+
+MIID_腐った爪: Blighted Claws
+MIID_腐った長爪: Blighted Talons
+MIID_邪竜のブレス: Expiration
+MIID_傷薬: Vulnerary
+MIID_調合薬: Concoction
+MIID_特効薬: Elixir
+MIID_聖水: Pure Water
+MIID_ＨＰの薬: HP Tonic
+MIID_力の薬: Strength Tonic
+MIID_魔力の薬: Magic Tonic
+MIID_技の薬: Skill Tonic
+MIID_速さの薬: Speed Tonic
+MIID_幸運の薬: Luck Tonic
+MIID_守備の薬: Defense Tonic
+MIID_魔防の薬: Resistance Tonic
+MIID_扉の鍵: Door Key
+MIID_宝の鍵: Chest Key
+MIID_万能鍵: Master Key
+MIID_天使の衣: Seraph Robe
+MIID_力のしずく: Energy Drop
+MIID_精霊の粉: Spirit Dust
+MIID_秘伝の書: Secret Book
+MIID_はやての羽: Speedwing
+MIID_女神の像: Goddess Icon
+MIID_竜の盾: Dracoshield
+MIID_魔よけ: Talisman
+MIID_神竜の涙: Naga's Tear
+MIID_ブーツ: Boots
+MIID_術書: Arms Scroll
+MIID_マスタープルフ: Master Seal
+MIID_セカンドプルフ: Second Seal
+MIID_金塊（小）: Bullion (S)
+MIID_金塊（中）: Bullion (M)
+MIID_金塊（大）: Bullion (L)
+MIID_甘い薬: Sweet Tincture
+MIID_ガイアの高級菓子: Gaius's Confect
+MIID_クリスの手製菓子: Kris's Confect
+MIID_チキの涙: Tiki's Tear
+MIID_絆の種: Seed of Trust
+MIID_禁じられた箱: Reeking Box
+MIID_時空の扉: Rift Door
+MIID_究極の紋章: Supreme Emblem
+MIID_１０００Ｇ: 1,000 Gold
+MIID_３０００Ｇ: 3,000 Gold
+MIID_５０００Ｇ: 5,000 Gold
+MIID_７０００Ｇ: 7,000 Gold
+MIID_名声？: ? ? ?
+MIID_H_無し: 
+MIID_H_謎: Obtained at the Outrealm Gate.
+MIID_H_青銅の剣: Inexpensive, but low in power.
+MIID_H_鉄の剣: Affordable and easy to wield.
+MIID_H_鋼の剣: More powerful than its iron brother.
+MIID_H_銀の剣: Expensive, but extremely powerful.
+MIID_H_勇者の剣: Allows the wielder to strike twice.
+MIID_H_アーマーキラー: Effective against armored units.
+MIID_H_ドラゴンキラー: Effective against dragons.
+MIID_H_キルソード: Increases the likelihood of critical hits.
+MIID_H_サンダーソード: Deals magical damage based on Mag.
+MIID_H_レイピア: Lords only. Slender and regal.
+MIID_H_ノーブルレイピア: Lords only. Sharp and commanding.
+MIID_H_ミステルトィン: Owain only. Skill +1. The apocryphal brand?
+MIID_H_太陽: May absorb HP equal to 1/2 damage dealt.\nTrigger % = (Skill stat)
+MIID_H_アマツ: Myrmidon classes only. Yen'fay's blade.
+MIID_H_封剣ファルシオン: Chrom only. Its power remains sealed.
+MIID_H_神剣ファルシオン: Chrom only. Use this to restore 20 HP.
+MIID_H_裏剣ファルシオン: Marth only. Use this to restore 20 HP.
+MIID_H_メリクル: One of the Three Regalia.\nDevastatingly powerful.
+MIID_H_ティルフィング: Res +5. A timeless weapon.
+MIID_H_ミストルティン: Skill +5. A timeless weapon.
+MIID_H_バルムンク: Spd +5. A timeless weapon.
+MIID_H_ソール・カティ: Myrmidon classes only. Res +5.\nA plainsman's blade.
+MIID_H_ラグネル: Def +5. A timeless weapon.
+MIID_H_木の枝: Weak and ill suited for battle.
+MIID_H_いやされる剣: Restores 10 HP every turn.
+MIID_H_ガラスの剣: Powerful, but quick to break.
+MIID_H_剣殺しの剣: Hit/Avo +50 when the enemy\nhas a sword equipped.
+MIID_H_エリウッドの鋼剣: A heroic weapon.
+MIID_H_ロイの硬剣: A heroic weapon.
+MIID_H_アルムの覇剣: An ancient weapon.
+MIID_H_リーフの宝剣: May yield a Bullion (S) if the wielder's\ntarget falls. Trigger % = (Lck stat)
+MIID_H_エイリークの疾剣: Allows the wielder to strike twice.\nA heroic weapon.
+MIID_H_セリスの神剣: Spd/Res +2. A fabled weapon.
+MIID_H_青銅の槍: Inexpensive, but low in power.
+MIID_H_鉄の槍: Affordable and easy to wield.
+MIID_H_鋼の槍: More powerful than its iron brother.
+MIID_H_銀の槍: Expensive, but extremely powerful.
+MIID_H_勇者の槍: Allows the wielder to strike twice.
+MIID_H_手槍: A weak throwing spear used\nfor indirect attacks.
+MIID_H_ショートスピア: An average throwing spear used\nfor indirect attacks.
+MIID_H_スレンドスピア: A powerful throwing spear used\nfor indirect attacks.
+MIID_H_ビーストキラー: Effective against beasts and riders.
+MIID_H_聖なる槍: Restores 10 HP every turn.
+MIID_H_キラーランス: Increases the likelihood of critical hits.
+MIID_H_月光: May halve enemy Def/Res when attacking.\nTrigger % = (Skill stat)
+MIID_H_グラディウス: One of the Three Regalia.\nUse it to fully restore HP.
+MIID_H_グングニル: Str +5. A timeless weapon.
+MIID_H_ゲイボルグ: Def +5. A timeless weapon.
+MIID_H_丸太: Weak and ill suited for battle.
+MIID_H_極小の槍: An absurdly short lance.
+MIID_H_しびれる槍: Deals magical damage based on Mag.
+MIID_H_ガラスの槍: Powerful, but quick to break.
+MIID_H_槍殺しの槍: Hit/Avo +50 when the enemy\nhas a lance equipped.
+MIID_H_シグルドの鋼槍: A fabled weapon.
+MIID_H_エフラムの勇槍: Str/Spd +2. A heroic weapon.
+MIID_H_フィンの守槍: Lck/Def +2. A fabled weapon.
+MIID_H_青銅の斧: Inexpensive, but low in power.
+MIID_H_鉄の斧: Affordable and easy to wield.
+MIID_H_鋼の斧: More powerful than its iron brother.
+MIID_H_銀の斧: Expensive, but extremely powerful.
+MIID_H_勇者の斧: Allows the wielder to strike twice.
+MIID_H_手斧: A weak throwing axe used\nfor indirect attacks.
+MIID_H_ショートアクス: An average throwing axe used\nfor indirect attacks.
+MIID_H_トマホーク: A powerful throwing axe used\nfor indirect attacks.
+MIID_H_ハンマー: Effective against armored units.
+MIID_H_ボルトアクス: Deals magical damage based on Mag.
+MIID_H_キラーアクス: Increases the likelihood of critical hits.
+MIID_H_復讐: May add half the wielder's accrued damage\nto attacks. Trigger % = (Skill stat × 2)
+MIID_H_ヴォルフベルグ: Walhart only. The Conqueror's greataxe.
+MIID_H_オートクレール: Use this to fully restore HP.\nA timeless weapon.
+MIID_H_スワンチカ: Def +5. A timeless weapon.
+MIID_H_アルマーズ: Def +5. A timeless weapon.
+MIID_H_おたま: Weak and ill suited for battle.
+MIID_H_極太の斧: An absurdly broad axe.
+MIID_H_空投げ斧: Designed to be thrown skyward.
+MIID_H_ガラスの斧: Powerful, but quick to break.
+MIID_H_斧殺しの斧: Hit/Avo +50 when the enemy\nhas an axe equipped.
+MIID_H_ティアマトの赤斧: Hit/Avo +10 when under attack.\nA radiant weapon.
+MIID_H_オーシンの投げ斧: A fabled throwing axe.
+MIID_H_ヘクトルの烈斧: Str/Def +2. A heroic weapon.
+MIID_H_青銅の弓: Inexpensive, but low in power.
+MIID_H_鉄の弓: Affordable and easy to wield.
+MIID_H_鋼の弓: More powerful than its iron brother.
+MIID_H_銀の弓: Expensive, but extremely powerful.
+MIID_H_勇者の弓: Allows the wielder to strike twice.
+MIID_H_聖なる弓: Restores 10 HP every turn.
+MIID_H_キラーボウ: Increases the likelihood of critical hits.
+MIID_H_ロングボウ: Archer classes only.\nAllows for long-range attacks.
+MIID_H_流星: May allow the wielder to strike five times\nat half damage. Trigger % = (Skill stat ÷ 2)
+MIID_H_パルティア: One of the Three Regalia.\nUse it to boost Res.
+MIID_H_イチイバル: Spd +5. A timeless weapon.
+MIID_H_ニーズヘッグ: Lck +10. Also known as the Serpent Bow.
+MIID_H_バルフレチェ: Archer classes only. Str +5.
+MIID_H_ゆるんだ弓: Weak and ill suited for battle.
+MIID_H_極長の弓: Archer classes only. An absurdly tall bow.
+MIID_H_下剋上の弓: Gains power when the\nenemy's level is higher.
+MIID_H_ガラスの弓: Powerful, but quick to break.
+MIID_H_弓殺しの弓: Hit/Avo +50 when the enemy\nhas a bow equipped.
+MIID_H_ウォルトの薬弓: Use this to restore 20 HP.
+MIID_H_ヒーニアスの的弓: A heroic weapon. Rarely misses.
+MIID_H_ファイアー: Standard fire magic.
+MIID_H_エルファイアー: Powerful fire magic.
+MIID_H_ギガファイアー: Extremely powerful fire magic.
+MIID_H_ボルガノン: Devastating fire magic.
+MIID_H_ファラフレイム: Mag +5. Timeless fire magic.
+MIID_H_サンダー: Standard lightning magic.
+MIID_H_エルサンダー: Powerful lightning magic.
+MIID_H_ギガサンダー: Extremely powerful lightning magic.
+MIID_H_トロン: Devastating lightning magic.
+MIID_H_トールハンマー: Skill +5. Timeless lightning magic.
+MIID_H_ウインド: Standard wind magic.
+MIID_H_エルウインド: Powerful wind magic.
+MIID_H_ギガウインド: Extremely powerful wind magic.
+MIID_H_レクスカリバー: Devastating wind magic.
+MIID_H_フォルセティ: Spd +5. Timeless wind magic.
+MIID_H_エクスカリバー: Timeless wind magic.
+MIID_H_聖書ナーガ: Def/Res +5. Timeless magic.
+MIID_H_ミィル: Dark magic.
+MIID_H_リザイア: Dark magic. Absorbs HP equal\nto half the damage dealt.
+MIID_H_ルイン: Dark magic. Increases the\nlikelihood of critical hits.
+MIID_H_イル: Dark magic. Allows the\nwielder to strike twice.
+MIID_H_ゲーティア: Dark magic.
+MIID_H_魔書ギムレー: Dark magic. Channels Grima's power.
+MIID_H_スライム: Dark magic. Allows for long-range attacks.
+MIID_H_燃え尽きる炎: Fire magic. Powerful, but quick to break.
+MIID_H_ミカヤの神炎: Def/Res +2. Radiant fire magic.
+MIID_H_魔殺しの雷: Hit/Avo +50 when the enemy\nhas a tome equipped.
+MIID_H_カタリナの雷糸: Ancient lightning magic.
+MIID_H_気まぐれな風: Wind magic. Increases the\nlikelihood of critical hits.
+MIID_H_セリカの疾風: Ancient wind magic. Allows\nthe wielder to strike twice.
+MIID_H_インバースの暗闇: Dark magic. Absorbs HP equal\nto half the damage dealt.
+MIID_H_ライブ: Restores an adjacent ally's HP.
+MIID_H_リライブ: Greatly restores an adjacent ally's HP.
+MIID_H_リブロー: Restores a distant ally's HP.
+MIID_H_リカバー: Fully restores an adjacent ally's HP.
+MIID_H_リザーブ: Restores the HP of all allies in range.
+MIID_H_女神の杖: Fully restores the HP of all allies in range.
+MIID_H_レスキュー: Moves a distant ally to an adjacent space.
+MIID_H_マジックシールド: Boosts an ally's Res by 5.\nEffect lessens each turn.
+MIID_H_ハマーン: Repairs an adjacent ally's equipment.
+MIID_H_肩たたき: Slightly restores an adjacent ally's HP.
+MIID_H_薬効ある杖: Restores an adjacent ally's HP.\nUse it to heal the wielder.
+MIID_H_リライブロー: Greatly restores a distant ally's HP.
+MIID_H_竜石: Allows a manakete to fight in dragon form.
+MIID_H_真竜石: Allows a manakete to assume\na powerful form.
+MIID_H_獣石: Allows a taguel to fight in beast form.
+MIID_H_超獣石: Allows a taguel to assume\na powerful form.
+MIID_H_腐った爪: A monster's means of attack.
+MIID_H_腐った長爪: A monster's powerful means of attack.
+MIID_H_邪竜のブレス: Grima's shadowy breath.
+MIID_H_傷薬: Restores 10 HP to the user.
+MIID_H_調合薬: Restores 20 HP to the user.
+MIID_H_特効薬: Fully restores the user's HP.
+MIID_H_聖水: Grants Res +5. Effect lessens each turn.
+MIID_H_ＨＰの薬: Grants Max HP +5 for one battle.
+MIID_H_力の薬: Grants Str +2 for one battle.
+MIID_H_魔力の薬: Grants Mag +2 for one battle.
+MIID_H_技の薬: Grants Skill +2 for one battle.
+MIID_H_速さの薬: Grants Spd +2 for one battle.
+MIID_H_幸運の薬: Grants Lck +2 for one battle.
+MIID_H_守備の薬: Grants Def +2 for one battle.
+MIID_H_魔防の薬: Grants Res +2 for one battle.
+MIID_H_扉の鍵: Opens a door.
+MIID_H_宝の鍵: Opens a treasure chest.
+MIID_H_万能鍵: Can open either a door or\na treasure chest.
+MIID_H_天使の衣: Permanently increases Max HP by 5.
+MIID_H_力のしずく: Permanently increases Str by 2.
+MIID_H_精霊の粉: Permanently increases Mag by 2.
+MIID_H_秘伝の書: Permanently increases Skill by 2.
+MIID_H_はやての羽: Permanently increases Spd by 2.
+MIID_H_女神の像: Permanently increases Lck by 2.
+MIID_H_竜の盾: Permanently increases Def by 2.
+MIID_H_魔よけ: Permanently increases Res by 2.
+MIID_H_神竜の涙: Permanently increases Max HP by 5\nand all other stats by 2.
+MIID_H_ブーツ: Permanently increases Mov by 2.
+MIID_H_術書: Raises the weapon level of all\nequippable weapons and staves.
+MIID_H_マスタープルフ: Promotes a base class at LV 10\nto an advanced class.
+MIID_H_セカンドプルフ: Changes a base class at LV 10 (or any\nlevel advanced class) to a new class.
+MIID_H_金塊（小）: Fetches 1,000 gold at market.
+MIID_H_金塊（中）: Fetches 5,000 gold at market.
+MIID_H_金塊（大）: Fetches 10,000 gold at market.
+MIID_H_甘い薬: Restores the user's HP.\nNot very effective.
+MIID_H_ガイアの高級菓子: Grants Str/Skill/Spd +2\nfor one battle.
+MIID_H_クリスの手製菓子: Grants Max HP +5 and Def/Res +2\nfor one battle.
+MIID_H_チキの涙: Grants Max HP +5 and all other\nstats +2 for one battle.
+MIID_H_絆の種: Builds support between two\npaired units (when possible).
+MIID_H_禁じられた箱: Calls Risen to the World Map.\nStrength varies by location.
+MIID_H_時空の扉: Calls a merchant to the World Map.\nWares vary by location.
+MIID_H_究極の紋章: The mark of a hero of the\nhighest renown.
+MIID_H_１０００Ｇ: 1,000 gold.
+MIID_H_３０００Ｇ: 3,000 gold.
+MIID_H_５０００Ｇ: 5,000 gold.
+MIID_H_７０００Ｇ: 7,000 gold.
+MID_個性_無し: None
+MID_個性_しぶとさ: HP
+MID_個性_力強さ: Strength
+MID_個性_賢さ: Magic
+MID_個性_器用さ: Skill
+MID_個性_素早さ: Speed
+MID_個性_運のよさ: Luck
+MID_個性_我慢強さ: Defense
+MID_個性_心の強さ: Resistance
+MID_H_個性_無し: None
+MID_H_個性_しぶとさ: HP
+MID_H_個性_力強さ: Strength
+MID_H_個性_賢さ: Magic
+MID_H_個性_器用さ: Skill
+MID_H_個性_素早さ: Speed
+MID_H_個性_運のよさ: Luck
+MID_H_個性_我慢強さ: Defense
+MID_H_個性_心の強さ: Resistance
+MTID_移動不可: Obstacle
+MTID_平地: Plain
+MTID_荒野: Waste
+MTID_林: Woods
+MTID_砂漠: Desert
+MTID_砂浜: Beach
+MTID_山: Mountain
+MTID_高山: Peak
+MTID_崖: Cliff
+MTID_空: Sky
+MTID_骨: Bones
+MTID_船: Ship
+MTID_帆: Mast
+MTID_橋: Bridge
+MTID_河: Water
+MTID_海: Sea
+MTID_湖: Lake
+MTID_砦: Fort
+MTID_城門: Gate
+MTID_城: Castle
+MTID_村: Village
+MTID_閉じ村: (Village)
+MTID_廃村: (Village)
+MTID_家: House
+MTID_閉じ家: (House)
+MTID_廃家: (House)
+MTID_低建物: Building
+MTID_建物: Edifice
+MTID_祭壇: Altar
+MTID_瓦礫: Rubble
+MTID_柵: Fence
+MTID_床: Floor
+MTID_階段: Stairs
+MTID_柱: Pillar
+MTID_玉座: Throne
+MTID_低壁: Partition
+MTID_荷物: Supplies
+MTID_石棺: Coffin
+MTID_壁: Wall
+MTID_扉: Door
+MTID_宝箱: Chest
+MTID_壊宝箱: Scrap
+MTID_壊れ床: Hazard
+MTID_溶岩: Lava
+MTID_光の壁: Barrier
+MTID_逆鱗: Ire
+MTID_穴: Sigil
+MTID_背中: Back
+MTID_翼: Wing
+MTID_高台: Hill
+MTID_壊れ壁: Breach
+MTID_墓: Grave
+MTID_泉: Spring
+MBID_無し: None
+MBID_その他: Other
+MBID_イーリス聖王国軍: Halidom of Ylisse
+MBID_フェリア共和国軍: Regna Ferox
+MBID_ペレジア軍: Plegia
+MBID_ヴァルム帝国軍: Empire of Valm
+MBID_ギムレー教軍: Grimleal
+MBID_フェリア反乱軍: Rebels
+MBID_謎の一団: Unknown Foe
+MBID_屍兵: Risen
+MBID_ならずもの: Ruffians
+MBID_村人: Villagers
+MBID_H_無し: None
+MBID_H_その他: Unaffiliated forces.
+MBID_H_イーリス聖王国軍: A peaceful and pious realm\nruled by a kindhearted exalt.
+MBID_H_フェリア共和国軍: A union of war-loving kingdoms\nruled by a jovial khan.
+MBID_H_ペレジア軍: A theocracy that reveres\nthe fell dragon, Grima.
+MBID_H_ヴァルム帝国軍: A militant empire under the\nrule of a ruthless conqueror.
+MBID_H_ギムレー教軍: Fanatics who long for the return\nof the fell dragon, Grima.
+MBID_H_フェリア反乱軍: An army of rebels who resist\nFeroxi rulership.
+MBID_H_謎の一団: An enemy of unknown origin.
+MBID_H_屍兵: A horde of eldritch monsters.
+MBID_H_ならずもの: A band of malevolent\nscoundrels.
+MBID_H_村人: Commoners of this land.

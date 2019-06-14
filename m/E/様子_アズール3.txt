@@ -1,0 +1,22 @@
+MESS_ARCHIVE_様子_アズール3
+
+
+Message Name: Message
+
+
+MID_様子_アズール_前: What do you do when we have\nspare time between battles?
+MID_様子_アズール_前_無言: NOT USED
+MID_様子_アズール_前_敬さん: What do you do when we have\nspare time between battles?
+MID_様子_アズール_前_特殊: I've always wondered how ladies like\nyou spend their free time. Care to share?
+MID_様子_アズール_後: My little secret. But it's nothing\nworth mentioning.
+MID_様子_アズール_後_敬さん: My little secret. But it's nothing\nworth mentioning.
+MID_様子_アズール_後_特殊: Join me for tea, and perhaps you'll\nlearn how I fill my private time.
+MID_様子_アズール_後_無言: NOT USED
+MID_様子_アズール_前_親子_子: You seem quiet today.\nAre you feeling ill?
+MID_様子_アズール_後_親子_子: I hope the ladies haven't noticed.\nThat would certainly hurt my chances.
+MID_様子_アズール_前_親子_母: Mother, did I catch you flirting with another\nman? Please don't erase my existence.
+MID_様子_アズール_後_親子_母: Don't worry, Mother. I'm fine. I just tend to\npush myself in front of the fairer sex.
+MID_様子_アズール_前_親子_父: Father, did you recover from that spill by\nthe pond? You're lucky no one else saw.
+MID_様子_アズール_後_親子_父: Don't worry, Father. I'll be all right.
+MID_様子_アズール_前_恋人: You always have the sweetest expression,\nmy love. And a heart to match, of course.
+MID_様子_アズール_後_恋人: You're a lovely sight yourself. I'll have to\nbe careful no one else tries to steal you!

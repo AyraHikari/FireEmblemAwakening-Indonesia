@@ -1,0 +1,13 @@
+MESS_ARCHIVE_様子_チキ1
+
+
+Message Name: Message
+
+
+MID_様子_チキ_前: What are you grinning about? Let me\nguess―you want my hair ornament.
+MID_様子_チキ_後: No, silly! You're just fun to be around. You\nremind me of someone I was once close to.
+MID_様子_チキ_後_無言: NOT USED
+MID_様子_チキ_前_親子_子: Morgan, do you need anything? I'd like\nto get a gift for my daughter.
+MID_様子_チキ_後_親子_子: How about another hair ornament? I've\nbeen wearing this one for ages. ...Literally.
+MID_様子_チキ_前_恋人: What have you got there, $Np?\nI don't remember seeing that before.
+MID_様子_チキ_後_恋人: It's a dragonstone from long ago. Its power\nis gone, so...why don't you keep it for me?

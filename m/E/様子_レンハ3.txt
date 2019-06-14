@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_レンハ3
+
+
+Message Name: Message
+
+
+MID_様子_レンハ_前_通殿: The quiet after battle dulls the wits.\nHow do you keep your mind clear?
+MID_様子_レンハ_前: The quiet after battle dulls the wits.\nHow do you keep your mind clear?
+MID_様子_レンハ_前_特殊: The quiet after battle dulls the wits.\nHow do you keep your mind clear, Say'ri?
+MID_様子_レンハ_後_通殿: I train lest I overthink my troubles...but I\nought help out more with army affairs.
+MID_様子_レンハ_後_特殊: I fear I am too often left alone with my\nthoughts. I ought help out more instead.
+MID_様子_レンハ_後_無言: NOT USED
+MID_様子_レンハ_前_親子_子: How fare ye, Morgan? You must not push\nyourself hard on the battlefield.
+MID_様子_レンハ_後_親子_子: Peace, child. I will be all right.
+MID_様子_レンハ_前_恋人: You are lovely, $Np, and let no\nother man who looks upon you question it.
+MID_様子_レンハ_後_恋人: If you see me that way, then I am fortunate,\nfor you are the lovely one to behold.

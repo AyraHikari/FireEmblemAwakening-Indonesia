@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_ノノ1
+
+
+Message Name: Message
+
+
+MID_様子_ノノ_前: Why so chipper? Did you\nmake a new friend?
+MID_様子_ノノ_前_特殊: Hi, Chrom! You look happy today.\nDid you make a new friend?
+MID_様子_ノノ_後: Nope! I'm just happy to have my freedom\nand be around all these fun people.
+MID_様子_ノノ_後_特殊: Nope! I'm just super happy\nto see you, Chrom.
+MID_様子_ノノ_後_無言: NOT USED
+MID_様子_ノノ_前_親子_子: Hey, kiddo. Is there anything you need?\nYou know your mom has got it covered.
+MID_様子_ノノ_後_親子_子: Thanks! Should I make a list? How's your\nmemory? Can we go shopping together?
+MID_様子_ノノ_前_恋人: What's that, $Np? I saw you\ntrying to hide it. Show me!
+MID_様子_ノノ_後_恋人: Oh, these stones? I found them. Aren't\nthey pretty? I'll give you one if you want.

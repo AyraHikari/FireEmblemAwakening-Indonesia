@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_シャンブレー2
+
+
+Message Name: Message
+
+
+MID_様子_シャンブレー_前: Hey, what do you dream about?
+MID_様子_シャンブレー_前_無言: NOT USED
+MID_様子_シャンブレー_前_敬さん: Hey, what do you dream about?
+MID_様子_シャンブレー_後: Not going extinct!
+MID_様子_シャンブレー_後_敬さん: Not going extinct!
+MID_様子_シャンブレー_後_無言: NOT USED
+MID_様子_シャンブレー_前_親子_子: Morgan, let's train together. If you turn out\nto be stronger, you have to protect me!
+MID_様子_シャンブレー_後_親子_子: Well, all right. If I get hurt, put these bunny\nears on and pray that the seed is strong...
+MID_様子_シャンブレー_前_親子_母: You have such great hearing, Mother!\nWhy don't we have a hearing contest?
+MID_様子_シャンブレー_後_親子_母: What? If we both die, that will be the end of\nour race! Let's just practice hopping, okay?
+MID_様子_シャンブレー_前_親子_父: Train with me, Father. I need to be strong\nto ward off extinction!
+MID_様子_シャンブレー_後_親子_父: F-f-fight? Well, all right.\nBut promise you won't kill me off!
+MID_様子_シャンブレー_前_恋人: $Np, I seriously love you.\n...Almost more than life itself!
+MID_様子_シャンブレー_後_恋人: I love you, too. I'd hop to your\nrescue in a taguel heartbeat!

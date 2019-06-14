@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_ミリエル2
+
+
+Message Name: Message
+
+
+MID_様子_ミリエル_前_敬さん: Studies have shown ambition nourishes even\nthe most logical minds. Do you dream?
+MID_様子_ミリエル_前: Studies have shown ambition nourishes even\nthe most logical minds. Do you dream?
+MID_様子_ミリエル_前_敬様: Studies have shown ambition nourishes even\nthe most logical minds. Do you dream?
+MID_様子_ミリエル_後_敬さん: I simply wish to demystify all the world's\nmysteries. No trifling endeavor, I know.
+MID_様子_ミリエル_後_敬様: I simply wish to demystify all the world's\nmysteries. No trifling endeavor, I know.
+MID_様子_ミリエル_後_無言: NOT USED
+MID_様子_ミリエル_前_親子_子: Shall we practice together, my child? I'd\nlike to burn through some surplus tomes.
+MID_様子_ミリエル_後_親子_子: Very well. Name a precise time and date,\nand I shall assess your ability.
+MID_様子_ミリエル_前_恋人: Why do I never tire of you, $Np?\nYou are so simple, and yet...so complex.
+MID_様子_ミリエル_後_恋人: I have unambiguous feelings for you as well.\nI hope that never experiences variance.

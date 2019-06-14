@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_シンシア3
+
+
+Message Name: Message
+
+
+MID_様子_シンシア_前: How do you spend your free time? We\nshould take whatever breathers we can.
+MID_様子_シンシア_前_無言: NOT USED
+MID_様子_シンシア_前_通さん: How do you spend your free time? We\nshould take whatever breathers we can.
+MID_様子_シンシア_後: I make sure everyone is safe! Seeing\nanother crisis averted makes me happy.
+MID_様子_シンシア_後_通さん: I make sure everyone is safe! Seeing\nanother crisis averted makes me happy.
+MID_様子_シンシア_後_無言: NOT USED
+MID_様子_シンシア_前_親子_子: Morgan, you look tired. Are you all right?\nHeroes have to stay in top form!
+MID_様子_シンシア_後_親子_子: What?! A pale avenger? Oh no!\nI'd better put on makeup. ...Or a mask!
+MID_様子_シンシア_前_親子_母: Aaaugh! Mother, your arm is bleeding!\nAre you gonna make it? Help! Someone!
+MID_様子_シンシア_後_親子_母: I'm fine, Mother. Don't get carried away.\nI can take my share of pegasus spills!
+MID_様子_シンシア_前_親子_父: Father, you look less than heroic today.\nAre you okay? Are you getting old?!
+MID_様子_シンシア_後_親子_父: Huh? I'm totally fine. But thanks for\nworrying about me, Father.
+MID_様子_シンシア_前_恋人: You are such a stud, $Np!\nThe legends just won't do you justice.
+MID_様子_シンシア_後_恋人: Really? That's so sweet of you to say!\nEvery heroine needs a dash of cute, right?

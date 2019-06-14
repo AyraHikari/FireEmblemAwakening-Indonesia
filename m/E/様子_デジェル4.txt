@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_デジェル4
+
+
+Message Name: Message
+
+
+MID_様子_デジェル_前: You fight with style, you know.\nWe should take on the enemy together.
+MID_様子_デジェル_前_無言: NOT USED
+MID_様子_デジェル_前_敬殿: You fight with style, you know.\nWe should take on the enemy together.
+MID_様子_デジェル_後: I'd be honored to fight with any man\nor woman willing to see my worth.
+MID_様子_デジェル_後_敬殿: I'd be honored to fight with any man\nor woman willing to see my worth.
+MID_様子_デジェル_後_無言: NOT USED
+MID_様子_デジェル_前_親子_子: Morgan, do you remember nothing\nat all about your future?
+MID_様子_デジェル_後_親子_子: I have spent most of my days training to be\na strong woman―stronger than any man.$k$pBut that doesn't mean I look down on all\nmen as weak! They have their...uses.$k$pJust because I prefer strong men with\nrippling... Wait, where is this going?
+MID_様子_デジェル_前_親子_母: You fought wonderfully in that last battle,\nMother. Has your life always been like this?
+MID_様子_デジェル_後_親子_母: In the future, you and I used to train\ntogether.$k$pYou were as strong as any man, and I\nsuppose that valor rubbed off on me.$k$pI wanted to be like you―maybe even best\nyou one day. But then you...$k$pYou were gone before I got the chance.
+MID_様子_デジェル_前_親子_父: Father, tell me all about your\ndays before we met.
+MID_様子_デジェル_後_親子_父: Well, when I was really little, you and I\nused to wage mock battles.$k$pYou never really gave it your all, though.\nSaid you didn't want to "leave a dent." Heh.$k$pBut I'm older now. How about a real match?\nCome on, I'm a tough cookie!
+MID_様子_デジェル_前_恋人: Don't wander off on the battlefield,\n$Np. I have to keep you safe.
+MID_様子_デジェル_後_恋人: Wipe that frown off your face. I'm stronger\nthan any woman you could find.

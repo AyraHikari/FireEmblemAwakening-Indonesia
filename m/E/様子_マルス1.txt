@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_マルス1
+
+
+Message Name: Message
+
+
+MID_様子_マルス_前: What are you smiling about? Did you see\nme break the training dummies again?
+MID_様子_マルス_前_無言: NOT USED
+MID_様子_マルス_前_敬さん: What are you smiling about? Did you see\nme break the training dummies again?
+MID_様子_マルス_後: No. I'm just happy for the company and\nthe laughter. It's still a new feeling.
+MID_様子_マルス_後_敬さん: No. I'm just happy for the company and\nthe laughter. It's still a new feeling.
+MID_様子_マルス_後_無言: NOT USED
+MID_様子_マルス_前_親子_子: Morgan, is there anything you desire?\nI wish to spoil my daughter silly.
+MID_様子_マルス_後_親子_子: Thank you, but the thing I want most is\nsomething I must win by my own strength.
+MID_様子_マルス_前_親子_母: Mother, do you need anything? I finally\nhave the chance to be a good daughter.
+MID_様子_マルス_後_親子_母: Oh! Thank you. But just being able to\nspend time with you is a wonderful gift.
+MID_様子_マルス_前_親子_父: Father, can I get you anything? I rarely get\na chance to thank you for all you've done.
+MID_様子_マルス_後_親子_父: I just want a brighter future. I can deal\nwith any hardship now in exchange.
+MID_様子_マルス_前_恋人: What is that, my dear? Can I help\nyou store it with the convoy?
+MID_様子_マルス_後_恋人: Oh, it's just a lunch I made you for the\nroad. I hope it tastes all right...

@@ -1,0 +1,14 @@
+MESS_ARCHIVE_様子_マーク女2
+
+
+Message Name: Message
+
+
+MID_様子_マーク女_前_敬さん: My father always said to dream big while\nyou're still young. What do you dream of?
+MID_様子_マーク女_後_敬さん: I want to be a great tactician like my\nfather! But I'll have to study hard.
+MID_様子_マーク女_前_親子_母: Mother, come practice with me. I want to\nsee how you react in battle.
+MID_様子_マーク女_後_親子_母: All right. But I must admit, I'm a little\nnervous to face you!
+MID_様子_マーク女_前_親子_父: Father, I've studied up. We should train\ntogether and see whose strategy prevails!
+MID_様子_マーク女_後_親子_父: All right! That will give me a chance to\nsee how you fight. But go easy on me...
+MID_様子_マーク女_前_恋人: I love you, $Np. I may not\nremember much, but I will never forget you.
+MID_様子_マーク女_後_恋人: I feel the same about you. I suppose\nI'm lucky I wound up in this time!

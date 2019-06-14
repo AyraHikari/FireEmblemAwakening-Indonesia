@@ -1,0 +1,13 @@
+MESS_ARCHIVE_Backup
+
+
+Message Name: Message
+
+
+MID_BACKUP_NOT_FOUND: Tidak dapat mengakses menyimpan data.\nHarap matikan daya\ndan coba lagi.
+MID_BACKUP_NOT_FORMATTED: Gim harus diinisialisasi\nsebelum Anda bisa mulai.
+MID_BACKUP_VERIFICATION_FAILED: Simpan data yang rusak telah ditemukan.\nData ini harus dihapus sebelum Anda\ndapat memulai permainan.
+MID_BACKUP_NOT_ENOUGH_SPACE: Tidak ada ruang kosong yang cukup\nuntuk membuat menyimpan data.
+MID_BACKUP_FORMAT: Inisialisasi...\nTolong jangan mematikan daya.
+MID_BACKUP_VERIFICATION_FAILED_FILE: Menghapus data penyimpanan yang rusak...\nTolong jangan mematikan daya.
+MID_BACKUP_FORMAT_COMPLETE: Inisialisasi selesai.

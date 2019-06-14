@@ -1,0 +1,21 @@
+MESS_ARCHIVE_X017
+
+
+Message Name: Message
+
+
+MID_X017_OP1: $t1$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_11|$E笑,|Mmm... The air is sweet here.\nIt's so calming.$k\n$Wsクロム|$Wd$w0|$Wmリズ|3$w0|$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_20|$E笑,|Makes you want to just flop down\nand take a huge nap, doesn't it?$k\n$Wsリズ|$Wd$w0|$Wmルキナ|3$w0|$Wsルキナ|$Wa$SvpSE_VOICE_MARTH_EVT_34|$E笑,|Tempting...$k
+MID_X017_OP1_2_PCM1: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_11|Odd. It seems like anywhere else to me...$k
+MID_X017_OP1_2_PCM2: 
+MID_X017_OP1_2_PCM3: 
+MID_X017_OP1_2_PCF1: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_11|Odd. It seems like anywhere else to me...$k
+MID_X017_OP1_2_PCF2: 
+MID_X017_OP1_2_PCF3: 
+MID_X017_OP1_3: $t1$Wmサイリ|3$w0|$Wsサイリ|$Wa$SvpSE_VOICE_SAYRI_EVT_2|This is Naga's Cradle. It is said the divine\ndragon once called this place home.$k$pHere, the Voice will enact a holy rite to\ncommune with Naga and regain her power.$k
+MID_X017_OP2: $t1$Wmチキ|7$w0|$Wsチキ|$Wa$Eキメ,|......$k\n$Wmルキナ|3$w0|$Wsルキナ|$Wa$SvpSE_VOICE_MARTH_EVT_17|Lady Tiki.$k\n$Wsチキ|$Wa......$k\n$Wsルキナ|$Wa$SvpSE_VOICE_MARTH_EVT_21|$E通常,|...Lady Tiki?$k\n$Wsチキ|$Wd$w0|$Wmサイリ|7$w0|$Wsサイリ|$Wa$SvjSE_VOICE_SAYRI_EVT_20|$SveSE_VOICE_SAYRI_EVT_10|Pray be silent, milady. The Voice is\ncurrently performing the rite.$k$pIn doing so, she will draw the divine\ndragon's power from the land unto herself.$k\n$Wsルキナ|$Wa$SvpSE_VOICE_MARTH_EVT_31|$E苦,汗|Forgive me, I didn't realize.\n$E通常,|I thought she was sleeping...$k$p$SvpSE_VOICE_MARTH_EVT_34|$E笑,|She looks so peaceful.\nWhat do you think she sees?$k$pDoes she perchance dream?$k\n$Wsサイリ|$Wd$w0|$Wmクロム|7$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_24|$E笑,|I imagine she―\n$E通常,|...Uh-oh. Is that what I think it is?$k$p$E怒,|Say'ri! Lucina! Enemies approach\nus from the south.$k$pWe'd better get ready, or the Voice\nhere is in for a rude awakening.$k
+MID_X017_OP3: $t1$Wmサイリ|7$Wmusername|3$w0|$Wsサイリ|$Wa$SvpSE_VOICE_SAYRI_EVT_23|The Voice is defenseless in this state.$k$pWe must become her shield until\nthe rite is complete.$k$p$E怒,|We await your strategy, $Nu.\nMake us as a wall of steel!$k
+MID_X017_ED1A: $t1$Wmチキ|3$w0|$Wsチキ|$Wa......$k\n$Wmサイリ|7$w0|$Wsサイリ|$Wa$SvpSE_VOICE_SAYRI_EVT_18|Are you unharmed, Lady Tiki?$k\n$Wsチキ|$Wa$SvpSE_VOICE_TIKI_EVT_20|$E笑,|Yes, thanks to you.$k$pI apologize for the delay,\nbut the rite has borne fruit.$k\n$Wsサイリ|$Wa$SvpSE_VOICE_SAYRI_EVT_9|You've taken in the power\nof the divine dragon?$k\n$Wsチキ|$Wa$SvpSE_VOICE_TIKI_EVT_4|$E通常,|Some of it, yes.$k$p...It's strange. This power had\nalways isolated me.$k$pMany were the days I wept alone,\ncursing the charge placed before me...$k\n$Wsサイリ|$Wd$w0|$Wmルキナ|7$w0|$Wsルキナ|$WaLady Tiki...$k\n$Wsチキ|$Wa$SvpSE_VOICE_TIKI_EVT_16|But now my power has a purpose, and the\nworld needs it to avoid a ruinous future.$k$pAnd so I shall offer it freely.\nAllow me to join you.$k\n$Wsルキナ|$Wa$SvpSE_VOICE_MARTH_EVT_10|...Are you certain?$k\n$Wsチキ|$Wa$SvpSE_VOICE_TIKI_EVT_15|$E笑,|I am. I've had quite enough of living in\nsolitude, thank you.$k$pBesides, I've always longed to better know\nthis world. Now I can help you save it.$k
+MID_X017_ED1B: $t1$Wmサイリ|7$w0|$Wsサイリ|$Wa$SvpSE_VOICE_SAYRI_EVT_16|$E苦,汗|For all the talk of power, she was a\ngentle soul, and far too fragile...$k\n$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_35|$E苦,汗|Indeed. But I fear there's no time to\ngrieve, Say'ri. We must keep moving.$k$pWe'll try to bring her peace by\nsecuring it for the world.$k
+MID_X017_BT1: $t0$WmX017_ボス|0$w0|$WsX017_ボス|$WaNaga's wench...\nKill...Voice...$k
+MID_X017_BOSS_DIE1: $t0$WmX017_ボス|0$w0|$WsX017_ボス|$WaVoi...ce...$k
+MID_X017_DIE_チキ: $t1$Wmチキ|3$w0|$Wsチキ|$Wa$E苦,汗|......$k

@@ -1,0 +1,107 @@
+MESS_ARCHIVE_System
+
+
+Message Name: Message
+
+
+MID_SYS_EN_レベル: LV
+MID_SYS_EN_レベル２: LV
+MID_SYS_EN_経験値: EXP
+MID_SYS_EN_経験値２: EXP
+MID_SYS_ＨＰ: HP
+MID_SYS_EN_ＨＰ: HP
+MID_SYS_EN_ＭＨＰ: Max
+MID_SYS_クラス: Class
+MID_SYS_力: Str
+MID_SYS_魔力: Mag
+MID_SYS_技: Skill
+MID_SYS_速さ: Spd
+MID_SYS_幸運: Lck
+MID_SYS_守備: Def
+MID_SYS_魔防: Res
+MID_SYS_移動: Mov
+MID_SYS_射程: Rng
+MID_SYS_特効: Eff
+MID_SYS_スキル: Skills
+MID_SYS_EN_射程_魔力／２: MAG/2
+MID_SYS_EN_射程_∞: ∞
+MID_SYS_攻撃: Atk
+MID_SYS_命中: Hit
+MID_SYS_必殺: Crit
+MID_SYS_回避: Avo
+MID_SYS_威力: Mt
+MID_SYS_武器: Senjata
+MID_SYS_名前: Nama
+MID_SYS_剣: Pedang
+MID_SYS_槍: Tombak
+MID_SYS_斧: Kapak
+MID_SYS_弓: Panah
+MID_SYS_魔道書: Buku
+MID_SYS_杖: Tongkat
+MID_SYS_竜石: Dragonstone
+MID_SYS_獣石: Beaststone
+MID_SYS_魔物: Cakar
+MID_SYS_ボス: Nafas
+MID_SYS_道具: Item
+MID_SYS_支援: Mendukung
+MID_SYS_レベルＳ: S
+MID_SYS_レベルＡ: A
+MID_SYS_レベルＢ: B
+MID_SYS_レベルＣ: C
+MID_SYS_レベルＤ: D
+MID_SYS_レベルＥ: E
+MID_SYS_レベルＮ: -
+MID_SYS_EN_レベルＳ: S
+MID_SYS_EN_レベルＡ: A
+MID_SYS_EN_レベルＢ: B
+MID_SYS_EN_レベルＣ: C
+MID_SYS_EN_レベルＤ: D
+MID_SYS_EN_レベルＥ: E
+MID_SYS_EN_レベルＮ: -
+MID_SYS_スキップ中: Melewati...
+MID_SYS_お任せ中: Auto-battle HIDUP
+MID_SYS_お任せ実行中: (Batalkan dengan  XX)
+MID_SYS_お任せ解除中: (Membatalkan...)
+MID_SYS_ターン数: Turn #
+MID_SYS_軍資金: Dana
+MID_SYS_EN_軍資金単位: G
+MID_SYS_勝利条件: Menang
+MID_SYS_ミス: TIDAK KENA
+MID_SYS_ノーダメージ: NO DAMAGE
+MID_SYS_ガード: DICEGAH
+MID_SYS_なし: Tidak ada
+MID_MSG_アイテム入手: $aKau mendapatkan $a0.
+MID_MSG_ゴールド入手: $aKau mendapatkan $a0G.
+MID_MSG_アイテム略奪: $aThe enemy swiped $a0.
+MID_MSG_ゴールド略奪: $aThe enemy swiped $a0G.
+MID_MSG_アイテム破損: $a$a0 rusak.
+MID_MSG_アイテム破損２: $a$a1 $a0 rusak.
+MID_MSG_パラメータアップ: $a$a0 bertambah $a1.
+MID_MSG_パラメータダウン: $a$a0 berkurang $a1.
+MID_MSG_パラメータ結果１: Stats bertambah\nsecara dramatis.
+MID_MSG_パラメータ結果２: Stats bertambah.
+MID_MSG_パラメータ結果３: Stats bertambah\nsedikit.
+MID_MSG_パラメータ結果４: Stats hardly\nincreased at all.
+MID_MSG_武器レベルアップ: $a$a0 Weapon level $a2 attained.
+MID_MSG_武器レベルアップ２: $a$a1 attained $a0 weapon level $a2.
+MID_MSG_武器使用可能: $aMemperoleh kemampuan menggunakan $a0.
+MID_MSG_武器使用可能２: $a$a1 memperoleh kemampuan menggunakan $a0.
+MID_MSG_スキル習得: $aTelah belajar skill $a0.
+MID_MSG_スキル習得２: $a$a1 telah belajar skill $a0.
+MID_MSG_支援レベル上昇: $a$a0 and $a1 attained\nsupport level $a2.
+MID_MSG_効果無し: Tidak terjadi apa-apa.
+MID_MSG_能力強化: $aGained a surge of\n$c0,120,255,255|$a0$c70,50,24,255| and $c0,120,255,255|$a1$c70,50,24,255|.
+MID_MSG_経験値入手: $aMemperoleh $c0,120,255,255|$a0$c70,50,24,255| EXP.
+MID_MSG_武器経験値入手: Keahlian senjata meningkat.
+MID_MSG_支援強化: $aHubungan $c0,120,255,255|$a0$c70,50,24,255| dan $c0,120,255,255|$a1$c70,50,24,255|\nmeningkat.
+MID_MSG_戦闘予測_攻撃: Serang
+MID_MSG_戦闘予測_２回: x2
+MID_MSG_戦闘予測_４回: x4
+MID_MSG_戦闘予測_先制: First
+MID_MSG_戦闘予測_特効: Bonus\nKerusakan
+MID_MSG_戦闘予測_反撃死: Sangat mungkin unit Anda akan mati.
+MID_MSG_戦闘予測_空振死: Serangan yang terlewat bisa menyebabkan serangan mematikan.
+MID_MSG_戦闘予測_被必殺: Musuh kemungkinan akan mendapatkan serangan kritis.
+MID_MSG_名声上昇: Kemasyhuran Anda telah meningkat.
+MID_デフォルト軍名: Penjaga Ylissean
+MID_ランダム軍名: Outrealm Order

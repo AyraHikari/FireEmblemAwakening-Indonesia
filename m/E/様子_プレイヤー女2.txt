@@ -1,0 +1,30 @@
+MESS_ARCHIVE_様子_プレイヤー女2
+
+
+Message Name: Message
+
+
+MID_様子_プレイヤー女_前_PCF1: What do you dream about?
+MID_様子_プレイヤー女_前_敬さん_PCF1: What do you dream about?
+MID_様子_プレイヤー女_前_敬様_PCF1: What do you dream about?
+MID_様子_プレイヤー女_後_PCF1: I dream of being a great tactician. That's\nwhy I study whatever I can get my hands on.
+MID_様子_プレイヤー女_後_敬さん_PCF1: I dream of being a great tactician. That's\nwhy I study whatever I can get my hands on.
+MID_様子_プレイヤー女_後_敬様_PCF1: I dream of being a great tactician. That's\nwhy I study whatever I can get my hands on.
+MID_様子_プレイヤー女_前_親子_子_PCF1: $Np, let's train together. I want\nto see how you adapt to my strategies.
+MID_様子_プレイヤー女_後_親子_子_PCF1: Sure, anytime you want. But don't think\nyou're going to outwit your mother!
+MID_様子_プレイヤー女_前_恋人_PCF1: I love you, $Np.\nI'm lucky to have you by my side.
+MID_様子_プレイヤー女_後_恋人_PCF1: Stop it! You're making me blush.\n...But I love you, too.
+MID_様子_プレイヤー女_前_敬さん_PCF2: 
+MID_様子_プレイヤー女_前_敬様_PCF2: 
+MID_様子_プレイヤー女_後_敬さん_PCF2: 
+MID_様子_プレイヤー女_後_敬様_PCF2: 
+MID_様子_プレイヤー女_前_親子_子_PCF2: 
+MID_様子_プレイヤー女_後_親子_子_PCF2: 
+MID_様子_プレイヤー女_前_恋人_PCF2: 
+MID_様子_プレイヤー女_後_恋人_PCF2: 
+MID_様子_プレイヤー女_前_PCF3: 
+MID_様子_プレイヤー女_後_PCF3: 
+MID_様子_プレイヤー女_前_親子_子_PCF3: 
+MID_様子_プレイヤー女_後_親子_子_PCF3: 
+MID_様子_プレイヤー女_前_恋人_PCF3: 
+MID_様子_プレイヤー女_後_恋人_PCF3: 

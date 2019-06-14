@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_ギャンレル1
+
+
+Message Name: Message
+
+
+MID_様子_ギャンレル_前: Ha! You look proud of yourself. Have you\nstruck upon some cruel new scheme?
+MID_様子_ギャンレル_前_特殊: You look wretchedly happy. Have some of\nyour memories returned?
+MID_様子_ギャンレル_後: Of course not! When have I ever been\ncontent with anything, mule-brain?
+MID_様子_ギャンレル_後_特殊: I should have SCARRED your face, so your\nbrother would end me good and proper...
+MID_様子_ギャンレル_後_無言: NOT USED
+MID_様子_ギャンレル_前_親子_子: Is there anything you need? Your father\nshall plunder whatever you desire!
+MID_様子_ギャンレル_後_親子_子: You think I need some trinket bought with\na child's pocket change? Spare me.
+MID_様子_ギャンレル_前_恋人: What have you there, $Np?\nI demand to see it. Give it here.
+MID_様子_ギャンレル_後_恋人: It's a hairpin―a gift you should accept\ngratefully before I change my mind.

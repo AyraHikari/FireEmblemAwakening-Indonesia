@@ -1,0 +1,133 @@
+MESS_ARCHIVE_ユニットビュアー
+
+
+Message Name: Message
+
+
+MID_曲名_STRM_BGM_MAP_BATTLE1: Divine Decree
+MID_曲名_STRM_BGM_MAP_BATTLE1T: Divine Decree\n(Ablaze)
+MID_曲名_STRM_BGM_MAP_BATTLE2: Prelude
+MID_曲名_STRM_BGM_MAP_BATTLE2T: Prelude\n(Ablaze)
+MID_曲名_STRM_BGM_MAP_BATTLE3: Conquest
+MID_曲名_STRM_BGM_MAP_BATTLE3T: Conquest\n(Ablaze)
+MID_曲名_STRM_BGM_MAP_BATTLE4: Chaos
+MID_曲名_STRM_BGM_MAP_BATTLE4T: Chaos\n(Ablaze)
+MID_曲名_STRM_BGM_MAP_BATTLE5: Destiny
+MID_曲名_STRM_BGM_MAP_BATTLE5T: Destiny\n(Ablaze)
+MID_曲名_STRM_BGM_MAP_BATTLE6: Storm Clouds
+MID_曲名_STRM_BGM_MAP_BATTLE6T: Storm Clouds\n(Ablaze)
+MID_曲名_STRM_BGM_MAP_BATTLE7: Duty
+MID_曲名_STRM_BGM_MAP_BATTLE7T: Duty\n(Ablaze)
+MID_曲名_STRM_BGM_MAP_BATTLE8: Champion
+MID_曲名_STRM_BGM_MAP_BATTLE8T: Champion\n(Ablaze)
+MID_曲名_STRM_BGM_MAP_BATTLE_ENEMY1: Aggression
+MID_曲名_STRM_BGM_MAP_BATTLE_ENEMY1T: Aggression\n(Galvanized)
+MID_曲名_STRM_BGM_MAP_BATTLE_ENEMY2: Annihilation
+MID_曲名_STRM_BGM_MAP_BATTLE_ENEMY2T: Annihilation\n(Galvanized)
+MID_曲名_STRM_BGM_MAP_BATTLE_ENEMY3: Assault
+MID_曲名_STRM_BGM_MAP_BATTLE_ENEMY3T: Assault\n(Galvanized)
+MID_曲名_STRM_BGM_MAP_BATTLE_OTHER1: Training
+MID_曲名_STRM_BGM_MAP_BATTLE_OTHER1T: Training\n(Galvanized)
+MID_曲名_STRM_BGM_BOSS1_INTRO: Miscreant\n(Intro)
+MID_曲名_STRM_BGM_BOSS1: Miscreant
+MID_曲名_STRM_BGM_BOSS2_INTRO: Monstrosity\n(Intro)
+MID_曲名_STRM_BGM_BOSS2: Monstrosity
+MID_曲名_STRM_BGM_BOSS3_INTRO: Malefactor\n(Intro)
+MID_曲名_STRM_BGM_BOSS3: Malefactor
+MID_曲名_STRM_BGM_BOSS4_INTRO: Menace\n(Intro)
+MID_曲名_STRM_BGM_BOSS4: Menace
+MID_曲名_STRM_BGM_BOSS5_INTRO: Rival\n(Intro)
+MID_曲名_STRM_BGM_BOSS5: Rival
+MID_曲名_STRM_BGM_BOSS6_INTRO: Mastermind\n(Intro)
+MID_曲名_STRM_BGM_BOSS6: Mastermind
+MID_曲名_STRM_BGM_BOSS7_INTRO: Misericorde
+MID_曲名_STRM_BGM_MAP10_INTRO: Id\n(Return)
+MID_曲名_STRM_BGM_MAP10: Id\n(Purpose)
+MID_曲名_STRM_BGM_MAP11: "Don't speak her name!"
+MID_曲名_STRM_BGM_EVT_BOURYAKU1: "Now that's a declaration of\nwar if I've ever heard one!"
+MID_曲名_STRM_BGM_EVT_BRAVE1: "Negotiation's not my\nstrong suit..."
+MID_曲名_STRM_BGM_EVT_BUKIMI1: "Something is very wrong."
+MID_曲名_STRM_BGM_EVT_CHANCE1: "Don't you put any stock\nin this destiny hogwash!"
+MID_曲名_STRM_BGM_EVT_HEIWA1: "But, Frederick,\nit's nearly dark!"
+MID_曲名_STRM_BGM_EVT_HEION1: "Grima has returned\nto slumber."
+MID_曲名_STRM_BGM_EVT_HOUSHIN1: "......"
+MID_曲名_STRM_BGM_EVT_HUON1: "Someone has to save you\nfrom your good intentions."
+MID_曲名_STRM_BGM_EVT_ITAZURA1: "Agh! Won goph in mah\nmouph! Blech! Ptooey!"
+MID_曲名_STRM_BGM_EVT_KETSUI1: "Dry your tears, love.\nThis is not good-bye."
+MID_曲名_STRM_BGM_EVT_KIKI1: "I mean it. Go!"
+MID_曲名_STRM_BGM_EVT_KYOAKU1: "The life force here\nshall renew me!"
+MID_曲名_STRM_BGM_EVT_KYOUDAN1: "Run all you like―you\ncan't escape fate."
+MID_曲名_STRM_BGM_EVT_LEGEND1: "You have power...\nlike mine."
+MID_曲名_STRM_BGM_EVT_LOVE1: "Ha ha! Yes, it will take\nsome getting used to!"
+MID_曲名_STRM_BGM_EVT_NAKAMA1: "Here we are!\nThe Shepherds' garrison."
+MID_曲名_STRM_BGM_EVT_SAD1: "And what if I can't? What if\nI'm not worthy of her ideals?"
+MID_曲名_STRM_BGM_EVT_SERIOUS1: "It appears the capital\nwas spared the chaos."
+MID_曲名_STRM_BGM_EVT_SERIOUS2: "Such bonds are the true\nstrength of this army."
+MID_曲名_STRM_BGM_EVT_TAIJI1: "You don't know the first thing\nabout peace. No man does!"
+MID_曲名_STRM_BGM_EVT_TAIJI2: "Gods, have the Risen\nspread this far?"
+MID_曲名_STRM_BGM_EVT_TENNEN1: "The Vaike never forgets!\nI just don't always remember."
+MID_曲名_STRM_BGM_EVT_YASASHISA1: "Shhh... Easy now, girl.\nI won't hurt you."
+MID_曲名_STRM_BGM_EVT_MARTH1: "You may call me Marth."
+MID_曲名_STRM_BGM_EVT_MYUNIT1: Id\n(Serenity)
+MID_曲名_STRM_BGM_EVT_MYUNIT2: Id\n(Sorrow)
+MID_曲名_STRM_BGM_EVT_MYUNIT3: Id\n(Dilemma)
+MID_曲名_STRM_BGM_EVT_MYUNIT4: Id\n(Darkness)
+MID_曲名_STRM_BGM_SYS_BASE1: "We'd best prepare for\ncombat, just to be safe."
+MID_曲名_STRM_BGM_SYS_MYROOM1: "We should turn in\nfor the night."
+MID_曲名_STRM_BGM_SYS_GMAP1: "Oh, it's not so bad, Lissa.\nJust a healthy little walk!"
+MID_曲名_STRM_BGM_SYS_DEAD1: "Farewell...my friends..."
+MID_曲名_STRM_BGM_SYS_GAMEOVER1: "I've never seen one\nfall so gracefully."
+MID_曲名_STRM_BGM_SYS_CC2: "Let's see what I'm\ncapable of now."
+MID_曲名_STRM_BGM_SYS_SHOP1T: "I carry only the finest."
+MID_曲名_STRM_BGM_SYS_SHOP2T: "Open for business!"
+MID_曲名_STRM_BGM_SYS_MENU1: Id\n(Beginnings)
+MID_背景名_緑街道1: Plain
+MID_背景名_緑街道2: Woods
+MID_背景名_緑街道6: Fort
+MID_背景名_緑街道3: Hills
+MID_背景名_緑街道5: Water
+MID_背景名_緑街道4: Bridge
+MID_背景名_緑街道7: Sea
+MID_背景名_賢者の部屋1: Indoors 1
+MID_背景名_夜の物置1: Indoors 2
+MID_背景名_スリラーハウス1: Indoors 3
+MID_背景名_遺跡1: Ruins 1
+MID_背景名_遺跡2: Ruins 2
+MID_背景名_神龍の聖地1: Sanctuary
+MID_背景名_ミラの大樹1: Mila Tree
+MID_背景名_氷の遺跡1: Ruins of Time
+MID_背景名_始まり山1: Origin Peak
+MID_背景名_虹山1: Mount Prism
+MID_背景名_飛竜谷1: Wyvern Valley
+MID_背景名_北国1: Snowfield
+MID_背景名_フェリア港1: Port
+MID_背景名_港町キール1: Harbor
+MID_背景名_シュヴァイン要塞1: Fort Steiger (Exterior)
+MID_背景名_シュヴァイン要塞2: Fort Steiger
+MID_背景名_ヴァルキャッスル1: Valm Castle Approach
+MID_背景名_ヴァルキャッスル3: Valm Castle
+MID_背景名_イーリス城1: Ylisstol Courtyard
+MID_背景名_イーリス城2: Ylisstol
+MID_背景名_闇の祭壇1: Table Approach
+MID_背景名_闇の祭壇2: Dragon's Table
+MID_背景名_崖の道1: Cliffs
+MID_背景名_ペレジア3: Plegia Castle
+MID_背景名_ペレジア1: Desert
+MID_背景名_ペレジア2: Oasis
+MID_背景名_ギム骨城1: Plegia Courtyard
+MID_背景名_荒野1: Wasteland 1
+MID_背景名_荒野2: Wasteland 2
+MID_背景名_荒野3: Moonlit Valley
+MID_背景名_闘技場1: Arena Ferox
+MID_背景名_ドーマの臓物1: Demon's Ingle
+MID_背景名_万里1: Longfort
+MID_背景名_船上1: Warship
+MID_背景名_森夜2: Night Forest
+MID_背景名_森夜1: Abandoned Village
+MID_背景名_山火事夜1: Cataclysm
+MID_背景名_山道1: Mountain Pass
+MID_背景名_サンセット1: Sunset Plain
+MID_背景名_サンセット3: Sunset Beach
+MID_背景名_サンセット4: Ruins 3
+MID_背景名_嵐の夜1: Stormy Plain
+MID_背景名_嵐の夜3: Stormy Beach

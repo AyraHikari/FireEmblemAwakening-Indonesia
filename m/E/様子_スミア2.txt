@@ -1,0 +1,18 @@
+MESS_ARCHIVE_様子_スミア2
+
+
+Message Name: Message
+
+
+MID_様子_スミア_前: The flower-petal fortune said your dreams\nwill come true! What do you dream about?
+MID_様子_スミア_前_無言: NOT USED
+MID_様子_スミア_前_敬さん: The flower-petal fortune said your dreams\nwill come true! What do you dream about?
+MID_様子_スミア_前_敬様: The flower-petal fortune said your dreams\nwill come true! What do you dream about?
+MID_様子_スミア_後: Well, I'd like to tell a fortune with griffon\nfeathers for a change. Does that count?
+MID_様子_スミア_後_敬さん: Well...I'd like to tell a fortune with griffon\nfeathers for a change. Does that count?
+MID_様子_スミア_後_敬様: Well...I'd like to tell a fortune with griffon\nfeathers for a change. Does that count?
+MID_様子_スミア_後_無言: NOT USED
+MID_様子_スミア_前_親子_子: You're such a strong child, $Np.\nWant to go train together?
+MID_様子_スミア_後_親子_子: I'd never say no to my beautiful daughter,\neven if I do make a buffoon of myself.
+MID_様子_スミア_前_恋人: I love you, $Np. It warms my\nheart whenever you're close.
+MID_様子_スミア_後_恋人: I love you too! Promise you'll be\nmine and mine alone, forever.

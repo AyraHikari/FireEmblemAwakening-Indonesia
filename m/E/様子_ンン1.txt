@@ -1,0 +1,22 @@
+MESS_ARCHIVE_様子_ンン1
+
+
+Message Name: Message
+
+
+MID_様子_ンン_前: Why are you smiling like that?\nIt's my silly name, isn't it? Ugh.
+MID_様子_ンン_前_無言: NOT USED
+MID_様子_ンン_前_敬さん: Why are you smiling like that?\nIt's my silly name, isn't it? Ugh.
+MID_様子_ンン_前_特殊: Why are you smiling like that, Chrom?\nIt's my silly name, isn't it? Ugh.
+MID_様子_ンン_後: To be honest, I was thinking how nice it'd\nbe to have your name instead of mine.
+MID_様子_ンン_後_敬さん: To be honest, I was thinking how nice it'd\nbe to have your name instead of mine.
+MID_様子_ンン_後_特殊: To be honest, I was thinking how nice it'd\nbe to have your name instead of mine.
+MID_様子_ンン_後_無言: NOT USED
+MID_様子_ンン_前_親子_子: Morgan, is there anything you need?\nYou can be honest with your mother.
+MID_様子_ンン_後_親子_子: Why, thank you! How about a small forest\ncreature for a pet? Happy hunting.
+MID_様子_ンン_前_親子_母: Mother, do you need anything?\nI want to be a good daughter.
+MID_様子_ンン_後_親子_母: Could you give me a new name? ...What?\nIs that a problem?
+MID_様子_ンン_前_親子_父: Is there anything you need, Father?\nI want to buy you a present.
+MID_様子_ンン_後_親子_父: A dragonstone would be lovely, but will you\nsurvive the mountain climb to get one?
+MID_様子_ンン_前_恋人: What do you have there, $Np?\nI've never seen anything like it.
+MID_様子_ンン_後_恋人: It's an accessory I made from one of my\nold fangs. Would you like it? I have tons.

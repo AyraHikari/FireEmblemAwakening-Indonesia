@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_フラヴィア2
+
+
+Message Name: Message
+
+
+MID_様子_フラヴィア_前: One thing's for certain―we all need\na dream. So what's yours?
+MID_様子_フラヴィア_前_特殊: One thing's for certain―we all need\na dream. What's yours, Emmeryn?
+MID_様子_フラヴィア_後: I'd like to keep winning the tournament\nand keep that oaf Basilio off my throne!
+MID_様子_フラヴィア_後_特殊: I'd like to keep winning the tournament\nand keep that oaf Basilio off my throne!
+MID_様子_フラヴィア_後_無言: NOT USED
+MID_様子_フラヴィア_前_親子_子: Got time to train, Morgan? If you win,\nI'll make you the new khan! Ha!
+MID_様子_フラヴィア_後_親子_子: You like a good battle, like your mother!\nAll right, do your worst.
+MID_様子_フラヴィア_前_恋人: $Np, since no one else is\naround to hear... I love you.
+MID_様子_フラヴィア_後_恋人: Hah, I know! I love you too, and\nI will for all the days to come.

@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_ドニ4
+
+
+Message Name: Message
+
+
+MID_様子_ドニ_前: Hey, would ya mind fightin' with me durin'\nthe next battle? I can tell yer a pro.
+MID_様子_ドニ_前_通さん: Hey, would ya mind fightin' with me durin'\nthe next battle? I can tell yer a pro.
+MID_様子_ドニ_前_通様: Hey, would ya mind fightin' with me durin'\nthe next battle? I can tell yer a pro.
+MID_様子_ドニ_後: Me? Are ya sure? Well, sure!\nI'll do the best dang job I can.
+MID_様子_ドニ_後_通さん: Me? Are ya sure? Well, sure!\nI'll do the best dang job I can.
+MID_様子_ドニ_後_通様: Me? Are ya sure? Well, sure!\nI'll do the best dang job I can.
+MID_様子_ドニ_後_無言: NOT USED
+MID_様子_ドニ_前_親子_子: What kinda stuff did ya do\nin the future, $Np?
+MID_様子_ドニ_後_親子_子: Well, up until recently, I was just an\nordinary villager.$k$pAin't got a whole lot to brag about 'cept\nyou. I know some funny stories, though!$k$pSay, why don't I read ya some letters\nfrom my village? They're a hoot!
+MID_様子_ドニ_前_恋人: I won't let anybody hurt ya,\n$Np. Promise to stay close!
+MID_様子_ドニ_後_恋人: Don't worry! I ain't smart and I ain't\nstrong, but I can take a lickin'!

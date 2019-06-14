@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_オリヴィエ2
+
+
+Message Name: Message
+
+
+MID_様子_オリヴィエ_前_敬さん: Dreams are easy to chase, but hard to\ncatch. What do you dream about?
+MID_様子_オリヴィエ_前: Dreams are easy to chase, but hard to\ncatch. What do you dream about?
+MID_様子_オリヴィエ_前_敬様: Dreams are easy to chase, but hard to\ncatch. What do you dream about?
+MID_様子_オリヴィエ_後_敬さん: I just want to be the best dancer around.\n...If I can get over my stage fright first.
+MID_様子_オリヴィエ_後_敬様: I just want to be the best dancer around.\n...If I can get over my stage fright first.
+MID_様子_オリヴィエ_後_無言: NOT USED
+MID_様子_オリヴィエ_前_親子_子: $Np, would you mind training\nwith me? I'm too shy to ask anyone else.
+MID_様子_オリヴィエ_後_親子_子: A-are you sure? Just thinking about raising\na sword at my own child makes me nervous.
+MID_様子_オリヴィエ_前_恋人: $Np, I love you so much.\nYou give me the courage to say that.
+MID_様子_オリヴィエ_後_恋人: I love you, too. And I always will.

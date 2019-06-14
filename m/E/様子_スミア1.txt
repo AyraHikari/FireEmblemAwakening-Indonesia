@@ -1,0 +1,18 @@
+MESS_ARCHIVE_様子_スミア1
+
+
+Message Name: Message
+
+
+MID_様子_スミア_前: What a nice smile! I guess you were happy\nwith what my flower-petal fortune said.
+MID_様子_スミア_前_無言: NOT USED
+MID_様子_スミア_前_敬さん: What a nice smile! I guess you were happy\nwith what my flower-petal fortune said.
+MID_様子_スミア_前_敬様: What a nice smile! I guess you were happy\nwith what my flower-petal fortune said.
+MID_様子_スミア_後: Oh, you know... I used the flower petals to\ntell my fortune, and things are looking up.
+MID_様子_スミア_後_敬さん: Oh, you know... I used the flower petals to\ntell my fortune, and things are looking up.
+MID_様子_スミア_後_敬様: Oh, you know... I used the flower petals to\ntell my fortune, and things are looking up.
+MID_様子_スミア_後_無言: NOT USED
+MID_様子_スミア_前_親子_子: Need anything, $Np? Your trip\nthrough time must have been hard on you.
+MID_様子_スミア_後_親子_子: Thanks, but just the thought is enough.\nYou're the greatest gift I could ask for.
+MID_様子_スミア_前_恋人: What have you got there, my love?\nYou seem eager not to lose it.
+MID_様子_スミア_後_恋人: Oh, this? I made you a lunch.\nSorry if it's squished. I dropped it. ...Twice.

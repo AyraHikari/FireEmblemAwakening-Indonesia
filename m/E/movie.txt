@@ -1,0 +1,109 @@
+MESS_ARCHIVE_movie
+
+
+Message Name: Message
+
+
+01運命の時・前_1_1: Diatas!
+01運命の時・前_2_1: Bodoh!
+01運命の時・前_3_1: Mati!
+02運命の時・後_1_1: Masih belum berakhir...
+02運命の時・後_1_2: Sialan kalian!
+02運命の時・後_2_1: Apa kau baik-baik saja?
+02運命の時・後_2_2: Itu akhir hayatnya.
+02運命の時・後_2_3: Terima kasih kepada Anda telah membantu kami.
+02運命の時・後_2_4: Kita bisa tenang sekarang.
+02運命の時・後_2_5: Akhirnya...
+02運命の時・後_2_6: ...Ada apa?
+02運命の時・後_2_7: Hey, bertahanlah―
+02運命の時・後_3_1: Ini bukan―
+02運命の時・後_3_2: salahmu...
+02運命の時・後_3_3: Berjanjilah padaku
+02運命の時・後_3_4: kamu harus melarikan diri dari tempat ini...
+02運命の時・後_3_5: Tolong, pergi...
+03二度目の出会い_1_1: Chrom, Kita harus melakukan SESUATU.
+03二度目の出会い_1_2: Apa yang Anda usulkan?
+03二度目の出会い_1_3: Saya... Saya tidak tahu...
+03二度目の出会い_1_4: Saya melihat Anda sudah bangun sekarang.
+03二度目の出会い_1_5: Hay disana!
+03二度目の出会い_1_6: Ada tempat yang lebih baik untuk tidur\nsiang daripada di tanah, Anda tahu.
+03二度目の出会い_1_7: Ulurkan tanganmu.
+04天変地異_1_1: Lissa, run.
+04天変地異_1_2: Huh?
+04天変地異_1_3: I mean it. Go!
+04天変地異_2_1: 
+04天変地異_3_1: Hey! This way!
+04天変地異_4_1: Chrom, what IS that?!
+04天変地異_5_1: Lissa. You'd better stand back.
+04天変地異_6_1: 
+04天変地異_7_1: Lissa!
+04天変地異_8_1: 
+04天変地異_9_1: Help!
+04天変地異_9_2: ...Right.
+04天変地異_10_1: 
+04天変地異_11_1: Quite an entrance.
+04天変地異_11_2: What's your name?
+05比翼_1_1: Sumia...
+05比翼_1_2: Better hold on tight, Captain.
+05比翼_1_3: Could get bumpy.
+05比翼_1_4: Uh...right.
+05比翼_1_5: You'll be fine.
+05比翼_2_1: Sumia!
+05比翼_2_2: Right!
+06神剣闘技_1_1: Where did you get that?
+06神剣闘技_1_2: There's no way...
+06神剣闘技_2_1: Tell me―
+06神剣闘技_2_2: Who taught you to fight like that?
+06神剣闘技_3_1: My father!
+07未来を知る者_1_1: I'm about to save your life.
+07未来を知る者_1_2: ...From him.
+07未来を知る者_2_1: I trust this proof will suffice?
+07未来を知る者_2_2: ...Yeah.
+07未来を知る者_3_1: Wait, you're―
+07未来を知る者_3_2: You're a woman?
+07未来を知る者_3_3: And quite the actress, too.
+07未来を知る者_3_4: Honestly, I'm surprised you didn't figure it out until just now.
+08聖王エメリナ_1_1: No reaction...
+08聖王エメリナ_1_2: Was I wrong, then?
+08聖王エメリナ_1_3: Chrom...
+08聖王エメリナ_1_4: This is some torch I'm passing you...
+08聖王エメリナ_1_5: So be it.
+08聖王エメリナ_2_1: Chrom...
+08聖王エメリナ_3_1: Lissa...
+08聖王エメリナ_3_2: And all my people...
+08聖王エメリナ_3_3: ...Know that I loved you.
+08聖王エメリナ_4_1: Emm...
+09マルスの正体_1_1: That's the Brand of the Exalt...
+09マルスの正体_2_1: Lucina...
+09マルスの正体_2_2: You deserved better from me than one sword\nand a world of troubles.
+09マルスの正体_2_3: I'm sorry.
+09マルスの正体_3_1: Oh, Father!
+09マルスの正体_3_2: Father...
+09マルスの正体_4_1: 
+10絶望の未来・前_1_1: 
+10絶望の未来・前_2_1: 
+10絶望の未来・前_3_1: I believe the woman you want...
+10絶望の未来・前_3_2: ...is ME!
+10絶望の未来・前_3_3: We can't let these things win.
+10絶望の未来・前_3_4: Now grab a sword...
+10絶望の未来・前_3_5: ...and FIGHT!
+11絶望の未来・後_1_1: 
+11絶望の未来・後_2_1: 
+11絶望の未来・後_3_1: So ends the human race.
+11絶望の未来・後_3_2: The future is built upon the past...
+11絶望の未来・後_3_3: But your kind shall never see it.
+11絶望の未来・後_4_1: Your mother and father...
+11絶望の未来・後_4_2: ...are dead, tiny one.
+11絶望の未来・後_5_1: And now it is your turn...
+11絶望の未来・後_5_2: ...to DIE!
+12ギムレー復活_1_1: 
+12ギムレー復活_2_1: All right. Now what?
+12ギムレー復活_2_2: Grima. It's all over...
+13エンディングムービー_1_1: Chrom, we have to do SOMETHING.
+13エンディングムービー_1_2: What do you propose we do?
+13エンディングムービー_1_3: I... I dunno...
+13エンディングムービー_1_4: I see you're awake now.
+13エンディングムービー_1_5: Hey there!
+13エンディングムービー_1_6: There're better places to take a nap\nthan on the ground, you know.
+13エンディングムービー_1_7: Give me your hand.
+13エンディングムービー_1_8: Welcome back. It's over now.

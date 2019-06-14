@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_エメリナ4
+
+
+Message Name: Message
+
+
+MID_様子_エメリナ_前: You're so strong... Can we fight together...\nin the next battle?
+MID_様子_エメリナ_前_特殊: You're so strong... Can we fight together...\nin the next battle?
+MID_様子_エメリナ_後: Yes...of course. I won't...\nlet anyone harm you.
+MID_様子_エメリナ_後_特殊: Yes...of course. I won't...\nlet anyone harm you.
+MID_様子_エメリナ_後_無言: NOT USED
+MID_様子_エメリナ_前_親子_子: What happens to me...in the future?
+MID_様子_エメリナ_後_親子_子: You and me...are so alike.\nBlank slates...$k$pI worry that...what happened to you...\nis my fault as well.$k$pYou deserve...a better mother...but I\nam glad...to meet my daughter.
+MID_様子_エメリナ_前_恋人: Promise me...you won't get killed...\nI need you...
+MID_様子_エメリナ_後_恋人: I'll stay safe for you... I could not bear...\nfor you to grieve...

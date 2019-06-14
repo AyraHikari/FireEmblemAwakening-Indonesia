@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_ミリエル3
+
+
+Message Name: Message
+
+
+MID_様子_ミリエル_前_敬さん: You never stay long after returning to camp.\nWhat manner of endeavors do you pursue?
+MID_様子_ミリエル_前: You never stay long after returning to camp.\nWhat manner of endeavors do you pursue?
+MID_様子_ミリエル_前_敬様: You never stay long after returning to camp.\nWhat manner of endeavors do you pursue?
+MID_様子_ミリエル_後_敬さん: I primarily read. ...And I put every book\nback exactly where I found it.
+MID_様子_ミリエル_後_敬様: I primarily read. ...And I put every book\nback exactly where I found it.
+MID_様子_ミリエル_後_無言: NOT USED
+MID_様子_ミリエル_前_親子_子: Are you all right, $Np? I detect\nthe absence of your usual alacrity.
+MID_様子_ミリエル_後_親子_子: I am perfectly fine. Show me the\nlogic in flying into a panic.
+MID_様子_ミリエル_前_恋人: Are you getting...handsomer? Love has\nclouded my keen powers of observation.
+MID_様子_ミリエル_後_恋人: Thank you for the compliment. ...Oh!\nMy heart rate just increased 5.7 percent.

@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_クロム3
+
+
+Message Name: Message
+
+
+MID_様子_クロム_前: I noticed you vanish from camp sometimes.\nWhere is it you go?
+MID_様子_クロム_前_特殊: Emm, you've been wandering off alone a lot\nlately. It's starting to worry me.
+MID_様子_クロム_後: If I'm not napping, I'm swinging a sword.\n...Predictable, I know.
+MID_様子_クロム_後_特殊: You know me―training, breaking things with\nmy sword... I guess you don't remember.
+MID_様子_クロム_後_無言: NOT USED
+MID_様子_クロム_前_親子_子: How are you holding up, $Np?\nI've been worried.
+MID_様子_クロム_後_親子_子: I'm just fine. Sorry if I worried you.
+MID_様子_クロム_前_恋人: $Np, I never get tired\nof looking at you.
+MID_様子_クロム_後_恋人: You're the one who's beautiful.\nI'm a lucky man to have you.

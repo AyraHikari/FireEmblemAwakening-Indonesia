@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_クロム2
+
+
+Message Name: Message
+
+
+MID_様子_クロム_前: I've often wondered what drives you.\nDo you have any dreams or aspirations?
+MID_様子_クロム_前_特殊: Emm, you need to find new dreams.\nYou can't dwell forever on what you've lost.
+MID_様子_クロム_後: I just want to be strong enough to\nkeep my friends and loved ones safe.
+MID_様子_クロム_後_特殊: I dream of being strong enough to protect\nthe realm you loved. And I swear I will.
+MID_様子_クロム_後_無言: NOT USED
+MID_様子_クロム_前_親子_子: $Np, we should train sometime.\nSee how you fare against your father!
+MID_様子_クロム_後_親子_子: Well, I never turn down a challenge. But\ndon't think I'll pull my punches just for you.
+MID_様子_クロム_前_恋人: I love you, $Np. I just want to\nmake sure I say that often.
+MID_様子_クロム_後_恋人: Well...I love you, too. It's a bit silly\nto just say it like that, but there it is.

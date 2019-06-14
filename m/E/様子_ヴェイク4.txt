@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_ヴェイク4
+
+
+Message Name: Message
+
+
+MID_様子_ヴェイク_前: Nice work out there! You and Teach\nshould partner up for the next fight.
+MID_様子_ヴェイク_前_敬さん: Nice work out there! You and Teach\nshould partner up for the next fight.
+MID_様子_ヴェイク_前_敬様: Nice work out there! You and Teach\nshould partner up for the next fight.
+MID_様子_ヴェイク_後: Who is the Vaike to say no? If it's\ncombat genius ya want, I'm your man.
+MID_様子_ヴェイク_後_敬さん: Who is the Vaike to say no? If it's\ncombat genius ya want, I'm your man.
+MID_様子_ヴェイク_後_敬様: Who is the Vaike to say no? If it's\ncombat genius ya want, I'm your man.
+MID_様子_ヴェイク_後_無言: NOT USED
+MID_様子_ヴェイク_前_親子_子: Hey, kiddo. What was the future like?\nI bet Vaike Junior was the talk of the town!
+MID_様子_ヴェイク_後_親子_子: What? Ya don't know? The Vaike is a\nhousehold name!$k$pBorn to Brawl? Selected to Shepherd?\nSurely those names stood the test of time!$k$pOur family teaches Chrom's everything they\nknow! It's tradition! ...Starting right now.
+MID_様子_ヴェイク_前_恋人: $Np, promise you'll stay safe.\n"Vaike the Widower" hardly inspires fear.
+MID_様子_ヴェイク_後_恋人: Pfft, relax. You could toss me off a cliff\nand the ground would be lucky to survive!

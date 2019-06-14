@@ -1,0 +1,19 @@
+MESS_ARCHIVE_様子_ティアモ1
+
+
+Message Name: Message
+
+
+MID_様子_ティアモ_前: Did you just meet the love of your life?\nYou look so happy!
+MID_様子_ティアモ_前_敬さん: Did you just meet the love of your life?\nYou look so happy!
+MID_様子_ティアモ_前_敬様: Did you just meet the love of your life?\nYou look so happy!
+MID_様子_ティアモ_前_特殊: You look so happy, Chrom. Did you\njust sweep another woman off her feet?
+MID_様子_ティアモ_後: Ha ha! Where did you get that idea?\nI just like being in good company, that's all.
+MID_様子_ティアモ_後_敬さん: Ha ha. Where did you get that idea?\nI just like being in good company, that's all.
+MID_様子_ティアモ_後_敬様: Ha ha. Where did you get that idea?\nI just like being in good company, that's all.
+MID_様子_ティアモ_後_特殊: No, Chrom... The thing I like is\njust a little bit further out of reach.
+MID_様子_ティアモ_後_無言: NOT USED
+MID_様子_ティアモ_前_親子_子: Is there anything you need, $Np?\nDon't be afraid to ask your mother.
+MID_様子_ティアモ_後_親子_子: Really? Thank you. Why don't we get\nmatching hair ornaments? I'll pay!
+MID_様子_ティアモ_前_恋人: Oops! $Np, you dropped this.\n...Wait, what is it?
+MID_様子_ティアモ_後_恋人: It's medicine to heal any wound.\nYou're always putting yourself in danger.

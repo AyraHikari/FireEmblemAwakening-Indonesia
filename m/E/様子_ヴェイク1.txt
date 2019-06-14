@@ -1,0 +1,17 @@
+MESS_ARCHIVE_様子_ヴェイク1
+
+
+Message Name: Message
+
+
+MID_様子_ヴェイク_前: Hey, you look like you're in good spirits!\nJust finish some secret trainin'?
+MID_様子_ヴェイク_前_敬さん: Hey, you look like you're in good spirits!\nJust finish some secret trainin'?
+MID_様子_ヴェイク_前_敬様: Hey, you look like you're in good spirits!\nJust finish some secret trainin'?
+MID_様子_ヴェイク_後: Nah. Teach is happy because he... Er, his\nfriend managed to bring a weapon for once.
+MID_様子_ヴェイク_後_敬さん: Nah. Teach is happy because he... Er, his\nfriend managed to bring a weapon for once.
+MID_様子_ヴェイク_後_敬様: Nah. Teach is happy because he... Er, his\nfriend managed to bring a weapon for once.
+MID_様子_ヴェイク_後_無言: NOT USED
+MID_様子_ヴェイク_前_親子_子: You know, kiddo, if you need anything,\nDad's more than happy to snag it for ya.
+MID_様子_ヴェイク_後_親子_子: How 'bout a statue of Ol' Vaike I can put\nright in the middle of Ylisstol's courtyard?
+MID_様子_ヴェイク_前_恋人: Whatcha got there, $Np?\nDon't try to hide it. The Vaike sees all!
+MID_様子_ヴェイク_後_恋人: Aw, ya ruined it! It's the hair ornament\nya wanted. I was gonna surprise ya...

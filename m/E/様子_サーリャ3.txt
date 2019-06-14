@@ -1,0 +1,16 @@
+MESS_ARCHIVE_様子_サーリャ3
+
+
+Message Name: Message
+
+
+MID_様子_サーリャ_前: Have I mentioned you've been acting odd\nlately? Why do you wander off from camp?
+MID_様子_サーリャ_前_無言: NOT USED
+MID_様子_サーリャ_前_特殊: So, $Np. How do you fill your\nspare time? Inquiring minds want to know.
+MID_様子_サーリャ_後: What do you think? I hack together hexes\nand fish for fools to try them on. ...Busy?
+MID_様子_サーリャ_後_特殊: Me? Oh, I uh...try to divine my own future!\n...With you.
+MID_様子_サーリャ_後_無言: NOT USED
+MID_様子_サーリャ_前_親子_子: Are you all right, $Np? You look\npale. That may be my fault...
+MID_様子_サーリャ_後_親子_子: I'm always like that. Now stop looking\nat me like I have the plague.
+MID_様子_サーリャ_前_恋人: You look handsomer than usual today,\n$Np. ...The hex worked.
+MID_様子_サーリャ_後_恋人: I may have used underhanded means to\nachieve that effect. Just so you know.

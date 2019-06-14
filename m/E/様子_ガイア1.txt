@@ -1,0 +1,13 @@
+MESS_ARCHIVE_様子_ガイア1
+
+
+Message Name: Message
+
+
+MID_様子_ガイア_前: Why so happy? Did you score some cakes?\nMaybe a box of cookies?
+MID_様子_ガイア_後: Nope. I always smile when I'm chewing.\nHey, you want some of these bonbons?
+MID_様子_ガイア_後_無言: NOT USED
+MID_様子_ガイア_前_親子_子: Need anything, $Np? Your pop's\ngot a knack for wish fulfillment.
+MID_様子_ガイア_後_親子_子: Well, why not bake me something sweet?\nYou can bake, right? ...RIGHT?
+MID_様子_ガイア_前_恋人: Whatcha got there, $Np?\nIs it dessert? Don't hold out on me.
+MID_様子_ガイア_後_恋人: Ah, damn. So much for keeping it a secret.\nHere. I, uh, baked this for you yesterday.

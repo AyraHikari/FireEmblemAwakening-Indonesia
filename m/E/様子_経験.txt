@@ -1,0 +1,63 @@
+MESS_ARCHIVE_様子_経験
+
+
+Message Name: Message
+
+
+MID_様子_単独_プレイヤー男_PCM1: I reviewed some historical battle texts.\nOne can glean many tactics from the past.
+MID_様子_単独_プレイヤー男_PCM2: 
+MID_様子_単独_プレイヤー男_PCM3: 
+MID_様子_単独_プレイヤー女_PCF1: I studied up on some practical combat\nstrategies. No one will die on my watch!
+MID_様子_単独_プレイヤー女_PCF2: 
+MID_様子_単独_プレイヤー女_PCF3: 
+MID_様子_単独_プレイヤー援軍: ...!
+MID_様子_単独_旧マルス: ...!
+MID_様子_単独_クロム: A leader must never rest, never surrender,\nand most of all never stop learning...
+MID_様子_単独_フレデリク: I took it upon myself to clear away\na bit of gravel here. Safety first!
+MID_様子_単独_ソール: Sometimes it's good to stop a moment, get\noff your horse, and see things a new way.
+MID_様子_単独_カラム: I've been practicing my war cry to get me\nnoticed. I scared away two birds already!
+MID_様子_単独_リヒト: I tried frying some fish with my Fire tome.\nModern men should know how to cook!
+MID_様子_単独_ヴェイク: Teach just did 10 sit-ups and didn't\neven break a sweat. Oh yeah!
+MID_様子_単独_リベラ: I've offered up a few\nprayers for our safety.
+MID_様子_単独_ロンクー: I...I thought a bit more about how\nto talk to women. I can do this...
+MID_様子_単独_グレゴ: Gregor take little time-out.\nDo side job, yes?
+MID_様子_単独_ガイア: I don't care what they say―taking candy\nfrom a baby is not very easy at all.
+MID_様子_単独_ヴィオール: See how well I polished my equipment? The\nbards shall sing of Virion's legendary shine!
+MID_様子_単独_ヘンリー: I've seen a man transform into a raven\nbefore. Maybe with enough study...
+MID_様子_単独_ドニ: I been takin' me some combat lessons!\nI gots a lot to learn, but I'm gettin' better.
+MID_様子_単独_スミア: You can learn a lot about this world from a\npegasus's back. I see new things every day.
+MID_様子_単独_リズ: I'm trying to be more ladylike, but I think\nI might've pulled a pinky muscle...
+MID_様子_単独_ソワレ: All done polishing the weapons. Can't fight\njack squat without a trusty blade or bow!
+MID_様子_単独_マリアベル: I managed a quick bit of violin practice.\nI try to stay abreast of the noble pursuits.
+MID_様子_単独_ティアモ: I just finished my copy of "Make Him Fall\nfor You in a Fortnight." So embarrassing...
+MID_様子_単独_ベルベット: Humans do seem more comfortable around\nme when I pretend to have buck teeth...
+MID_様子_単独_ノノ: I met a new dragon friend! His name was...\nBanta? ...Banter?! Wait, what was it...?
+MID_様子_単独_オリヴィエ: I put together a new, edgier dance routine,\nbut I'm too embarrassed to show anyone!
+MID_様子_単独_セルジュ: I mended everyone's tattered clothes.\nThey should feel as good as new.
+MID_様子_単独_ミリエル: Ah, contentment. I have finally organized\nmy personal library by author and subject.
+MID_様子_単独_サーリャ: Ah, finally, a perfect voodoo doll.\n$Nu will have eyes only for me...
+MID_様子_単独_ジェローム: I've stitched some holes in our clothes.\n...Sewing is a hidden skill of mine.
+MID_様子_単独_ウード: I hereby dub my weapon "Shadowdarkness."\nYes...it will be a fitting brand.
+MID_様子_単独_アズール: I was just practicing a few dance moves.\nI hope no one was watching...
+MID_様子_単独_ブレディ: I worked out a little melody on the violin.\n"Noble pursuits," as Ma would say.
+MID_様子_単独_シャンブレー: Why does everyone look at me funny\nwhen I make buck teeth? Mom lied!
+MID_様子_単独_ロラン: I've been organizing our weapons by name\nand make. Our old system was a farce!
+MID_様子_単独_マーク男: I started on some of Mother's tactical\nguidebooks. I want to help!
+MID_様子_単独_マルス: I tried out some of Father's sword moves\nand smashed a hole in the wall. ...Success?
+MID_様子_単独_デジェル: I polished and oiled my armor. You never\nknow when battle will erupt, after all.
+MID_様子_単独_シンシア: "I am Cynthia. Now, die in the name of a\nBrighter Future!" ...Oh, that's good!
+MID_様子_単独_セレナ: I found this book "Make Him Fall for You\nin a Fortnight." Who reads this stuff?!
+MID_様子_単独_ノワール: I've done it―a new talisman to protect\nme from all likely misfortune! Please work...
+MID_様子_単独_ンン: "Talk my age," my mother says. I may as\nwell practice drooling before a mirror!
+MID_様子_単独_マーク女: I started on some of Father's tactical\nguidebooks. I must learn all I can!
+MID_様子_単独_パリス: I dispatched a few minor enemies\njust now―nothing worth mentioning.
+MID_様子_単独_バジーリオ: I went a couple rounds with the younger\nsprogs. Gotta keep myself in shape, har!
+MID_様子_単独_レンハ: ...These are the times that try a man's\nsoul, sure as any forge's flames.
+MID_様子_単独_ヴァルハルト: I have no need of rest. Every moment can\nbe another step toward my ultimate victory.
+MID_様子_単独_ギャンレル: I did meet a maid the other day that made\nme think perhaps things aren't all so bad...
+MID_様子_単独_サイリ: I have taken up the study of politics.\nI must do all I can to help lead my people.
+MID_様子_単独_アンナ: Who knew you could meet suppliers in a\nplace like this? Dang, I'm good.
+MID_様子_単独_チキ: Ah, it's good to catch up with people.\nSo much of the world has changed!
+MID_様子_単独_インバース: I'm trying out a new scent... It takes work\nto keep men wrapped around your finger.
+MID_様子_単独_フラヴィア: Some thugs picked their last fight with me.\nWhat kind of strumpet did they take me for?
+MID_様子_単独_エメリナ: I learn more...about...this place...

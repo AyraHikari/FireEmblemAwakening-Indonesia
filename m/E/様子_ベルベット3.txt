@@ -1,0 +1,13 @@
+MESS_ARCHIVE_様子_ベルベット3
+
+
+Message Name: Message
+
+
+MID_様子_ベルベット_前: We have so little free time these days...\nHow do you spend it?
+MID_様子_ベルベット_後: I find a remote patch of nature and relax.\nSettled areas do not mix with me.
+MID_様子_ベルベット_後_無言: NOT USED
+MID_様子_ベルベット_前_親子_子: Are you well, $Np? You look\nas though something gave you a jolt.
+MID_様子_ベルベット_後_親子_子: It is nice of you to care, but please do not\nget so excited. Loud noises hurt my ears.
+MID_様子_ベルベット_前_恋人: $Np, have I ever told you\ntaguel females fancy men like you?
+MID_様子_ベルベット_後_恋人: A funny habit, these periodic compliments.\n...Very well. You are also attractive.

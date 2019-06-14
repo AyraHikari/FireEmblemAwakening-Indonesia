@@ -1,0 +1,18 @@
+MESS_ARCHIVE_様子_マリアベル1
+
+
+Message Name: Message
+
+
+MID_様子_マリアベル_前: Why the satisfied expression?\nDid you suddenly come into money?
+MID_様子_マリアベル_前_無言: NOT USED
+MID_様子_マリアベル_前_敬さん: Why the satisfied expression?\nDid you suddenly come into money?
+MID_様子_マリアベル_前_敬様: Why the satisfied expression?\nDid you suddenly come into money?
+MID_様子_マリアベル_後: Certainly not. This morning's tea was\nrefreshing and put me in high spirits.
+MID_様子_マリアベル_後_敬さん: Certainly not. This morning's tea was\nrefreshing and put me in high spirits.
+MID_様子_マリアベル_後_敬様: Certainly not. This morning's tea was\nrefreshing and put me in high spirits.
+MID_様子_マリアベル_後_無言: NOT USED
+MID_様子_マリアベル_前_親子_子: Tell me what you need, $Np.\nI'll not allow my child to go without.
+MID_様子_マリアベル_後_親子_子: I would like a nice, frilly dress. And if it's\nnot haute couture, I'll make YOU wear it!
+MID_様子_マリアベル_前_恋人: You dropped something, $Np.\nWhat is it?
+MID_様子_マリアベル_後_恋人: These are the finest of tea leaves.\n...Hey, who said I got them for you?!

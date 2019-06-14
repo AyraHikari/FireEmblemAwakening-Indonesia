@@ -1,0 +1,20 @@
+MESS_ARCHIVE_様子_リズ4
+
+
+Message Name: Message
+
+
+MID_様子_リズ_前: It's nice having strong people like you\naround. Can we team up next time?
+MID_様子_リズ_前_無言: NOT USED
+MID_様子_リズ_前_通さん: It's nice having strong people like you\naround. Can we team up next time?
+MID_様子_リズ_前_特殊: It's nice having strong people like you\naround. Can we team up next time?
+MID_様子_リズ_前_特殊E: Emm, let's fight together during the next\nbattle. I want to show you how strong I got!
+MID_様子_リズ_後: Okay! I'll do my best. Together we can\ntake whatever the bad guys throw at us.
+MID_様子_リズ_後_通さん: Okay! I'll do my best. Together we can\ntake whatever the bad guys throw at us.
+MID_様子_リズ_後_特殊: Okay! I'll do my best. Together we can\ntake whatever the bad guys throw at us.
+MID_様子_リズ_後_特殊E: Of course, Emm! I'll never let anybody\nhurt you again. I promise!
+MID_様子_リズ_後_無言: NOT USED
+MID_様子_リズ_前_親子_子: What was the future like for you,\n$Np?
+MID_様子_リズ_後_親子_子: Well, believe it or not, I fought with the\nShepherds like the rest.$k$pThe court was too stuffy for me.\nGotta follow your dreams, right?$k$pSame goes for you, $Np. So what\nif people mock you? Believe in yourself!
+MID_様子_リズ_前_恋人: You're not hurt, are you, $Np?\nDon't do anything reckless.
+MID_様子_リズ_後_恋人: I'm fine. Trust me. ...Now stop scowling!\nI'm not gonna die. I promise.

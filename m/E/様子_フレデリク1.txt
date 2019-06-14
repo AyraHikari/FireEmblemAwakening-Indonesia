@@ -1,0 +1,18 @@
+MESS_ARCHIVE_様子_フレデリク1
+
+
+Message Name: Message
+
+
+MID_様子_フレデリク_前_敬さん: You seem to be in a fine mood.\nWas bear meat on the menu today?
+MID_様子_フレデリク_前: You seem to be in a fine mood.\nWas bear meat on the menu today?
+MID_様子_フレデリク_前_敬様: You seem to be in a fine mood.\nWas bear meat on the menu today?
+MID_様子_フレデリク_前_敬殿: You seem to be in a fine mood.\nWas bear meat on the menu today?
+MID_様子_フレデリク_後_敬さん: No, I was just thinking about starting fires.\n...Er, campfires, of course.
+MID_様子_フレデリク_後_敬様: No, I was just thinking about starting fires.\n...Er, campfires, of course.
+MID_様子_フレデリク_後_敬殿: No, I was just thinking about starting fires.\n...Er, campfires, of course.
+MID_様子_フレデリク_後_無言: NOT USED
+MID_様子_フレデリク_前_親子_子: Is there anything I can get for you,\n$Np? My child deserves it.
+MID_様子_フレデリク_後_親子_子: The thought is enough. ...That, or a\nweek's worth of prechopped firewood.
+MID_様子_フレデリク_前_恋人: What are you carting around there,\nmy love? Can I give you a hand?
+MID_様子_フレデリク_後_恋人: Alas, caught in the act! ...I bought this\npendant for you! So much for the surprise.

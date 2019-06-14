@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_フラヴィア1
+
+
+Message Name: Message
+
+
+MID_様子_フラヴィア_前: What's with the happy face? Did you just\ncome back from a good massage?
+MID_様子_フラヴィア_前_特殊: Why so happy, Emmeryn? Did you just\ncome back from a good massage?
+MID_様子_フラヴィア_後: What the hell are you talking about?\nCan't I be happy to see a friend?
+MID_様子_フラヴィア_後_特殊: What are you talking about?\nCan't I be happy to see a friend?
+MID_様子_フラヴィア_後_無言: NOT USED
+MID_様子_フラヴィア_前_親子_子: Morgan, don't be afraid to ask\nif you need anything. All right?
+MID_様子_フラヴィア_後_親子_子: I could use some strong warriors for the\nnext tournament. Are you volunteering?
+MID_様子_フラヴィア_前_恋人: What have you got there, $Np?\nBought yourself a new toy?
+MID_様子_フラヴィア_後_恋人: This? It's a fleece from Regna Ferox.\nIf you like it, it's yours.

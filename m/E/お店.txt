@@ -1,0 +1,195 @@
+MESS_ARCHIVE_お店
+
+
+Message Name: Message
+
+
+MID_買う_PCM1: Hmm, what to buy...
+MID_売る_PCM1: Hmm, what to sell...
+MID_錬成_PCM1: Hmm, which weapon...
+MID_買う_PCM2: 
+MID_売る_PCM2: 
+MID_錬成_PCM2: 
+MID_買う_PCM3: 
+MID_売る_PCM3: 
+MID_錬成_PCM3: 
+MID_買う_PCF1: Hmm, what to buy...
+MID_売る_PCF1: Hmm, what to sell...
+MID_錬成_PCF1: Hmm, which weapon...
+MID_買う_PCF2: 
+MID_売る_PCF2: 
+MID_錬成_PCF2: 
+MID_買う_PCF3: 
+MID_売る_PCF3: 
+MID_錬成_PCF3: 
+MID_買う_援軍_PCM1: You're going to buy me\nsomething?
+MID_売る_援軍_PCM1: What are you selling?
+MID_錬成_援軍_PCM1: Which weapon?
+MID_買う_援軍_PCM2: 
+MID_売る_援軍_PCM2: 
+MID_錬成_援軍_PCM2: 
+MID_買う_援軍_PCM3: 
+MID_売る_援軍_PCM3: 
+MID_錬成_援軍_PCM3: 
+MID_買う_援軍_PCF1: You're going to buy me\nsomething?
+MID_売る_援軍_PCF1: What are you selling?
+MID_錬成_援軍_PCF1: Which weapon?
+MID_買う_援軍_PCF2: 
+MID_売る_援軍_PCF2: 
+MID_錬成_援軍_PCF2: 
+MID_買う_援軍_PCF3: 
+MID_売る_援軍_PCF3: 
+MID_錬成_援軍_PCF3: 
+MID_買う_配信援軍: ......
+MID_売る_配信援軍: ......
+MID_錬成_配信援軍: ......
+MID_買う_クロム: What do you think I need,\n$Nu?
+MID_売る_クロム: $Nu... Are we\nstrapped for funds?
+MID_錬成_クロム: Which of my weapons did\nyou want to forge?
+MID_買う_フレデリク: You are buying me\nsomething? How thoughtful.
+MID_売る_フレデリク: My possessions are Ylisse's\npossessions.
+MID_錬成_フレデリク: A keen weapon can make or\nbreak a knight.
+MID_買う_ソール: I wonder if they sell hair-\nbrushes... No, seriously.
+MID_売る_ソール: Wait... My stuff is actually\nworth something?
+MID_錬成_ソール: What, my weapons?\nSure, forge away!
+MID_買う_カラム: I doubt I need anything of\nsignificance. You know me.
+MID_売る_カラム: Go ahead. Sell my life.\nI'll be over here.
+MID_錬成_カラム: Paint it a bright color...\nI'm trying to turn heads.
+MID_買う_リヒト: Ooh! I want that one!\nGet me that one!
+MID_売る_リヒト: You're selling my stuff?\nOh...oh, all right...
+MID_錬成_リヒト: You'd better not dumb my\nweapons down. Promise!
+MID_買う_ヴェイク: You need Teach to walk you\nthrough shopping basics?
+MID_売る_ヴェイク: Anything the Vaike touched\nshould fetch a good price!
+MID_錬成_ヴェイク: You can forge weapons, but\nyou can't forge the Vaike.
+MID_買う_リベラ: I need only the earth at my\nfeet and the heavens above.
+MID_売る_リベラ: May these belongings bless\nus with what funds we need.
+MID_錬成_リベラ: I am honored you think my\nweapons a wise investment.
+MID_買う_ロンクー: ...For me?
+MID_売る_ロンクー: ...What are you taking from\nme now?
+MID_錬成_ロンクー: ...Make it a strong one.
+MID_買う_グレゴ: Gregor better at cutting\nthroat than cutting deal.
+MID_売る_グレゴ: Oy, I am sellsword, yes?\nNot sword seller!
+MID_錬成_グレゴ: If you are having forging\nmoney, maybe pay Gregor?
+MID_買う_ガイア: Is this the sweet shop?\n...Hey, you lied to me!
+MID_売る_ガイア: I demand 10% of the take\nfor, uh, sugary diversions.
+MID_錬成_ガイア: You can use an anvil, sure.\nBut can you use an oven?
+MID_買う_ヴィオール: Sell me true love, and I\nwould pay any price.
+MID_売る_ヴィオール: What?! Are we truly so\nimpoverished?
+MID_錬成_ヴィオール: ...Improve on perfection?\nPah. I dare you to try.
+MID_買う_ヘンリー: Yay! Excessive spending!
+MID_売る_ヘンリー: Should we mention the hex\nor just sell it as is?
+MID_錬成_ヘンリー: Ooh! Put spikes on it!\nMake it something brutal!
+MID_買う_ドニ: Reckon I could cobble\nsomethin' together instead!
+MID_売る_ドニ: Ya think my stuff is worth\nanythin'? 'Cause I doubt it.
+MID_錬成_ドニ: Ya think they can upgrade\nmy ol' tin hat?
+MID_買う_スミア: Oh no! You're spending our\ngold and it's all my fault...
+MID_売る_スミア: I wish I had more valuable\nthings to offer...
+MID_錬成_スミア: It's a shame they can't\nforge a less clumsy me.
+MID_買う_リズ: I love shopping!\nOh...for me?! Thanks!
+MID_売る_リズ: Hey, $Nu, which\nwill fetch the most gold?
+MID_錬成_リズ: Thanks! I could use a\nstronger weapon.
+MID_買う_ソワレ: For me? Hot damn!
+MID_売る_ソワレ: Hell, take it. I don't need\nany of this crap.
+MID_錬成_ソワレ: You hone the weapon.\nI'll hone the knight.
+MID_買う_マリアベル: I'll take two tins of your\nfinest tea and a silk bonnet.
+MID_売る_マリアベル: Surely there are easier\nways to line our war chest?
+MID_錬成_マリアベル: Give me something that will\nshame my lowborn foes.
+MID_買う_ティアモ: Please don't get anything\ntoo expensive...
+MID_売る_ティアモ: Help yourself. These items\nbelong to all of us.
+MID_錬成_ティアモ: Strength should come from\nthe wielder.
+MID_買う_ベルベット: What silly things you\nhumans will trade gold for!
+MID_売る_ベルベット: I am amazed we can profit\nfrom such meager supplies.
+MID_錬成_ベルベット: Oh, a "forge"? And here I\nwas all dressed to forage.
+MID_買う_ノノ: A present for Nowi?\nHow did you know?!
+MID_売る_ノノ: Nowi's stuff! Hands off!
+MID_錬成_ノノ: Why pay for a forge?\nI've got built-in bellows!
+MID_買う_オリヴィエ: You're shopping for me?\nOh, but I... Thank you!
+MID_売る_オリヴィエ: Sell whatever you need to.\nI don't mind.
+MID_錬成_オリヴィエ: I do feel a little safer with a\nstrong weapon in hand...
+MID_買う_セルジュ: What a charming little\nestablishment they run here.
+MID_売る_セルジュ: Oh, am I holding surplus?\nI had no idea.
+MID_錬成_セルジュ: I'll let Minerva decide if you\ndid a good job.
+MID_買う_ミリエル: Would a modicum of\nfrugality hurt now and then?
+MID_売る_ミリエル: A scholar once said: if you\nthirst for gold, liquidize.
+MID_錬成_ミリエル: May I watch? I find this\nwhole process fascinating.
+MID_買う_サーリャ: A gift? If you try to sell it\nback later, I may hurt you.
+MID_売る_サーリャ: This was your plan all\nalong...wasn't it...
+MID_錬成_サーリャ: No promises that I won't\nkill you with it later...
+MID_買う_ジェローム: Only buy what you need,\nokay?
+MID_売る_ジェローム: Sell whatever you like.\nI don't mind.
+MID_錬成_ジェローム: Craft me a weapon not even\nMinerva could bite in half.
+MID_買う_ウード: Get me something mighty!\nSomething...LEGENDARY!
+MID_売る_ウード: Please, no! All my stuff\nhas sentimental value!
+MID_錬成_ウード: A cool new weapon is going\nto need a cool new name...
+MID_買う_アズール: There's so much I want...\nHow will we decide?!
+MID_売る_アズール: Imagine the shame if they\nrefused to buy my things!
+MID_錬成_アズール: I want something that looks\nas good as it feels!
+MID_買う_ブレディ: Got anything that'll make\nme automatically stronger?
+MID_売る_ブレディ: Hey, be my guest.\nSell whatever you want.
+MID_錬成_ブレディ: Wish they could instantly\nupgrade me, too!
+MID_買う_シャンブレー: Something to keep me safe\nand sound, if you please.
+MID_売る_シャンブレー: With each item sold, my\nsense of unease grows.
+MID_錬成_シャンブレー: Make it as strong as\nhumanly possible!
+MID_買う_ロラン: I'll be satisfied if it meets\nmy basic requirements.
+MID_売る_ロラン: If you don't need it, there's\nno point hanging on to it.
+MID_錬成_ロラン: I'm amazed what they can\ndo with old gear nowadays.
+MID_買う_マーク男: Oh gods, I love shopping!\nWhat shall we buy?
+MID_売る_マーク男: I bet we could get a lot\nmore money for your gear!
+MID_錬成_マーク男: You're going to upgrade\nmy weapons? Thanks!
+MID_買う_マルス: I long for the day shopping\nis all we need worry about.
+MID_売る_マルス: Go ahead. The gold will\nserve a greater cause.
+MID_錬成_マルス: Would you like to name the\nnew weapon for me?
+MID_買う_デジェル: I wonder if they have any\ncool-looking armor?
+MID_売る_デジェル: You can sell anything―\nexcept my armor.
+MID_錬成_デジェル: I have to upgrade myself\njust to keep up!
+MID_買う_シンシア: I could spend all day just\nadmiring the wares.
+MID_売る_シンシア: Can we actually sell things\nbrought from the future?
+MID_錬成_シンシア: I want a weapon fit\nfor a hero like me!
+MID_買う_セレナ: I want this, that,\nand everything!
+MID_売る_セレナ: What cheek! You can't\nsell my things!
+MID_錬成_セレナ: Are you saying I'm\nnot strong enough?
+MID_買う_ノワール: I hope none of their wares\nhave a sinister history...
+MID_売る_ノワール: Don't tell me our\nmoney is running out!
+MID_錬成_ノワール: How do they do it?\nNot with a hex, I pray!
+MID_買う_ンン: Don't worry. I won't beg\nand plead for the best.
+MID_売る_ンン: Sell whatever. I don't care\nabout material goods.
+MID_錬成_ンン: Can we call the new\nweapon anything we like?
+MID_買う_マーク女: Oh gods, I love shopping!\nWhat shall we buy?
+MID_売る_マーク女: I bet we could get a lot\nmore money for your gear!
+MID_錬成_マーク女: You're going to upgrade\nmy weapons? Thanks!
+MID_買う_パリス: You're going to buy me\nsomething? Well, thanks.
+MID_売る_パリス: Sell what you will.\nI don't care.
+MID_錬成_パリス: A good weapon ages well,\nlike friends or wine.
+MID_買う_バジーリオ: I must be getting old if\nyou're doing my shopping!
+MID_売る_バジーリオ: I should have brought some\nFeroxi treasure to sell...
+MID_錬成_バジーリオ: You design the weapon,\n$Nu. I'll swing it!
+MID_買う_レンハ: I need nothing fancy.\nAny old items ought do.
+MID_売る_レンハ: Aye, help yourself. These\nare naught but objects.
+MID_錬成_レンハ: Mercy, $Nu.\nMy weapon could use work.
+MID_買う_ヴァルハルト: Save your gold. I will not\nbe coddled.
+MID_売る_ヴァルハルト: Hmph. Gold for the war is\ngold for Walhart.
+MID_錬成_ヴァルハルト: I have no need of a forge.\nI make my own strength.
+MID_買う_ギャンレル: Shopping for Gangrel?\nHow times have changed.
+MID_売る_ギャンレル: Hoping for a king's riches?\nI'm just a dog now.
+MID_錬成_ギャンレル: I want something so deadly\nit KILLS to look at it!
+MID_買う_サイリ: Forgive me... I know these\nfunds belong to Ylisse.
+MID_売る_サイリ: Mayhap I have a thing or\ntwo we could put to market.
+MID_錬成_サイリ: Aye, a sharp weapon is\nsecond only to a sharp wit.
+MID_買う_アンナ: Hmph. Not much of a\nselection, is there?
+MID_売る_アンナ: Think you can get a good\nprice? At my shop you can.
+MID_錬成_アンナ: Perhaps I should start my\nown upgrading service.
+MID_買う_チキ: Ah, shopping! Finally, a\nconcept older than I am.
+MID_売る_チキ: I wish I kept my old stuff.\nIt'd be worth a fortune now.
+MID_錬成_チキ: A fine weapon develops a\nhistory all its own.
+MID_買う_インバース: For me? How unusually\nthoughtful of you.
+MID_売る_インバース: You want to sell this?\nCareful. I might get pouty.
+MID_錬成_インバース: I deserve a more...rugged\nweapon, don't you agree?
+MID_買う_フラヴィア: Loosening those purse\nstrings for me? Very kind.
+MID_売る_フラヴィア: You dare sell the khan's\nroyal treasure? Ha ha.
+MID_錬成_フラヴィア: A little fire can temper a\nman as well as a sword.
+MID_買う_エメリナ: For...me...?
+MID_売る_エメリナ: What is mine...is yours...
+MID_錬成_エメリナ: Give me...strength...
+MID_買う_旧マルス: ......
+MID_売る_旧マルス: ......
+MID_錬成_旧マルス: ......

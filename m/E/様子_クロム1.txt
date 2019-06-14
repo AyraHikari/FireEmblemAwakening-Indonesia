@@ -1,0 +1,15 @@
+MESS_ARCHIVE_様子_クロム1
+
+
+Message Name: Message
+
+
+MID_様子_クロム_前: Hello. You're in a good mood.\nFind a new weapon you like?
+MID_様子_クロム_前_特殊: You seem happy today, Emm.\nIs your memory clearing up?
+MID_様子_クロム_後: Oh, I'm just having a regular day.\nYou're the one who looks happy!
+MID_様子_クロム_後_特殊: I'm just glad to have you back.\nThat's all.
+MID_様子_クロム_後_無言: NOT USED
+MID_様子_クロム_前_親子_子: You must have sacrificed a lot to come back\nin time, $Np. Anything you need?
+MID_様子_クロム_後_親子_子: That's all right, $Np.\nI appreciate the thought.
+MID_様子_クロム_前_恋人: You dropped something, $Np.\nIs this...
+MID_様子_クロム_後_恋人: Oh! That's a gift for you. I remember how\nyour eyes lit up when you saw it in town.
